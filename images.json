@@ -9197,6 +9197,14 @@
    "name": "Lumbridge guard dog",
    "title": "File:Lumbridge guard dog.png"
   },
+  "lumbridge_guide": {
+   "file": "lumbridge_guide.png",
+   "name": "Lumbridge Guide",
+   "named": true,
+   "processed": true,
+   "raw": "lumbridge_guide.png",
+   "title": "File:Lumbridge Sage.png"
+  },
   "luminite": {
    "file": "luminite.png",
    "name": "Luminite",
@@ -18130,13 +18138,6 @@
     "Lumbridge Guard.png",
     "Lumbridge Guard (Senntisten) chathead.png",
     "Lumbridge Guard chathead.png"
-   ]
-  },
-  "lumbridge_guide": {
-   "name": "Lumbridge Guide",
-   "tried": [
-    "Lumbridge Guide.png",
-    "Lumbridge Guide chathead.png"
    ]
   },
   "mature_grotworm": {
