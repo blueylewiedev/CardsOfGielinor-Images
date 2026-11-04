@@ -149,7 +149,10 @@
   "ace": {
    "file": "ace.png",
    "name": "Ace",
-   "title": "File:Ace.png"
+   "pet": true,
+   "processed": true,
+   "raw": "ace.png",
+   "title": "File:Ace (pet).png"
   },
   "acheron_mammoth": {
    "file": "acheron_mammoth.png",
@@ -759,7 +762,10 @@
   "archie": {
    "file": "archie.png",
    "name": "Archie",
-   "title": "File:Archie.png"
+   "pet": true,
+   "processed": true,
+   "raw": "archie.png",
+   "title": "File:Archie (pet).png"
   },
   "archmage_sedridor": {
    "file": "archmage_sedridor.png",
@@ -1182,7 +1188,10 @@
   "baby_yagas_house": {
    "file": "baby_yagas_house.png",
    "name": "Baby Yaga's House",
-   "title": "File:Baby Yaga's House.png"
+   "pet": true,
+   "processed": true,
+   "raw": "baby_yagas_house.png",
+   "title": "File:Baby Yaga's House (pet).png"
   },
   "balance_elemental": {
    "file": "balance_elemental.png",
@@ -1623,7 +1632,10 @@
   "bernie": {
    "file": "bernie.png",
    "name": "Bernie",
-   "title": "File:Bernie.png"
+   "pet": true,
+   "processed": true,
+   "raw": "bernie.png",
+   "title": "File:Bernie (pet).png"
   },
   "berserk_archaeologist": {
    "file": "berserk_archaeologist.png",
@@ -2305,7 +2317,10 @@
   "brains": {
    "file": "brains.png",
    "name": "Brains",
-   "title": "File:Brains.png"
+   "pet": true,
+   "processed": true,
+   "raw": "brains.png",
+   "title": "File:Brains (pet).png"
   },
   "brana": {
    "file": "brana.png",
@@ -2599,7 +2614,10 @@
   "bubbles": {
    "file": "bubbles.png",
    "name": "Bubbles",
-   "title": "File:Bubbles.png"
+   "pet": true,
+   "processed": true,
+   "raw": "bubbles.png",
+   "title": "File:Bubbles (pet).png"
   },
   "buckthorn_seed": {
    "file": "buckthorn_seed.png",
@@ -3776,7 +3794,10 @@
   "crabbe": {
    "file": "crabbe.png",
    "name": "Crabbe",
-   "title": "File:Crabbe.png"
+   "pet": true,
+   "processed": true,
+   "raw": "crabbe.png",
+   "title": "File:Crabbe (pet).png"
   },
   "crassian_scout": {
    "file": "crassian_scout.png",
@@ -4325,7 +4346,10 @@
   "dojo_mojo": {
    "file": "dojo_mojo.png",
    "name": "Dojo Mojo",
-   "title": "File:Dojo Mojo.png"
+   "pet": true,
+   "processed": true,
+   "raw": "dojo_mojo.png",
+   "title": "File:Dojo Mojo (pet).png"
   },
   "dominion_sword": {
    "file": "dominion_sword.png",
@@ -5685,7 +5709,10 @@
   "flo": {
    "file": "flo.png",
    "name": "Flo",
-   "title": "File:Flo.png"
+   "pet": true,
+   "processed": true,
+   "raw": "flo.png",
+   "title": "File:Flo (pet).png"
   },
   "fluffs": {
    "file": "fluffs.png",
@@ -5959,7 +5986,10 @@
   "gemi": {
    "file": "gemi.png",
    "name": "Gemi",
-   "title": "File:Gemi.png"
+   "pet": true,
+   "processed": true,
+   "raw": "gemi.png",
+   "title": "File:Gemi (pet).png"
   },
   "general_bentnoze": {
    "file": "general_bentnoze.png",
@@ -6009,7 +6039,10 @@
   "ghostly": {
    "file": "ghostly.png",
    "name": "Ghostly",
-   "title": "File:Ghostly.png"
+   "pet": true,
+   "processed": true,
+   "raw": "ghostly.png",
+   "title": "File:Ghostly (pet).png"
   },
   "ghostly_sole": {
    "file": "ghostly_sole.png",
@@ -6290,7 +6323,10 @@
   "gordie": {
    "file": "gordie.png",
    "name": "Gordie",
-   "title": "File:Gordie.png"
+   "pet": true,
+   "processed": true,
+   "raw": "gordie.png",
+   "title": "File:Gordie (pet).png"
   },
   "gorgonite_2h_sword": {
    "file": "gorgonite_2h_sword.png",
@@ -7321,7 +7357,10 @@
   "herbert": {
    "file": "herbert.png",
    "name": "Herbert",
-   "title": "File:Herbert.png"
+   "pet": true,
+   "processed": true,
+   "raw": "herbert.png",
+   "title": "File:Herbert (pet).png"
   },
   "hermit_crab": {
    "file": "hermit_crab.png",
@@ -8018,7 +8057,10 @@
   "kangali": {
    "file": "kangali.png",
    "name": "Kangali",
-   "title": "File:Kangali.png"
+   "pet": true,
+   "processed": true,
+   "raw": "kangali.png",
+   "title": "File:Kangali (pet).png"
   },
   "karam_overlord": {
    "file": "karam_overlord.png",
@@ -9027,7 +9069,10 @@
   "malcolm": {
    "file": "malcolm.png",
    "name": "Malcolm",
-   "title": "File:Malcolm.png"
+   "pet": true,
+   "processed": true,
+   "raw": "malcolm.png",
+   "title": "File:Malcolm (pet).png"
   },
   "malignius_mortifer": {
    "file": "malignius_mortifer.png",
@@ -9885,7 +9930,10 @@
   "morty": {
    "file": "morty.png",
    "name": "Morty",
-   "title": "File:Morty.png"
+   "pet": true,
+   "processed": true,
+   "raw": "morty.png",
+   "title": "File:Morty (pet).png"
   },
   "moss_giant": {
    "file": "moss_giant.png",
@@ -10263,7 +10311,10 @@
   "newton": {
    "file": "newton.png",
    "name": "Newton",
-   "title": "File:Newton.png"
+   "pet": true,
+   "processed": true,
+   "raw": "newton.png",
+   "title": "File:Newton (pet).png"
   },
   "nikkel": {
    "file": "nikkel.png",
@@ -11316,7 +11367,10 @@
   "omen": {
    "file": "omen.png",
    "name": "Omen",
-   "title": "File:Omen.png"
+   "pet": true,
+   "processed": true,
+   "raw": "omen.png",
+   "title": "File:Omen (pet).png"
   },
   "omnitalisman_staff": {
    "file": "omnitalisman_staff.png",
@@ -12196,12 +12250,18 @@
   "ralph": {
    "file": "ralph.png",
    "name": "Ralph",
-   "title": "File:Ralph.png"
+   "pet": true,
+   "processed": true,
+   "raw": "ralph.png",
+   "title": "File:Ralph (pet).png"
   },
   "ramsay": {
    "file": "ramsay.png",
    "name": "Ramsay",
-   "title": "File:Ramsay.png"
+   "pet": true,
+   "processed": true,
+   "raw": "ramsay.png",
+   "title": "File:Ramsay (pet).png"
   },
   "ranarr_seed": {
    "file": "ranarr_seed.png",
@@ -12754,7 +12814,10 @@
   "rocky": {
    "file": "rocky.png",
    "name": "Rocky",
-   "title": "File:Rocky.png"
+   "pet": true,
+   "processed": true,
+   "raw": "rocky.png",
+   "title": "File:Rocky (pet).png"
   },
   "rod_of_ivandis_1": {
    "file": "rod_of_ivandis_1.png",
@@ -12893,7 +12956,10 @@
   "rue": {
    "file": "rue.png",
    "name": "Rue",
-   "title": "File:Rue.png"
+   "pet": true,
+   "processed": true,
+   "raw": "rue.png",
+   "title": "File:Rue (pet).png"
   },
   "ruinous_crossbow": {
    "file": "ruinous_crossbow.png",
@@ -13594,7 +13660,10 @@
   "shamini": {
    "file": "shamini.png",
    "name": "Shamini",
-   "title": "File:Shamini.png"
+   "pet": true,
+   "processed": true,
+   "raw": "shamini.png",
+   "title": "File:Shamini (pet).png"
   },
   "shamus": {
    "file": "shamus.png",
@@ -13702,7 +13771,10 @@
   "sifu": {
    "file": "sifu.png",
    "name": "Sifu",
-   "title": "File:Sifu.png"
+   "pet": true,
+   "processed": true,
+   "raw": "sifu.png",
+   "title": "File:Sifu (pet).png"
   },
   "sigmund": {
    "file": "sigmund.png",
@@ -13876,7 +13948,10 @@
   "smithy": {
    "file": "smithy.png",
    "name": "Smithy",
-   "title": "File:Smithy.png"
+   "pet": true,
+   "processed": true,
+   "raw": "smithy.png",
+   "title": "File:Smithy (pet).png"
   },
   "smoke_devil": {
    "file": "smoke_devil.png",
@@ -14024,7 +14099,10 @@
   "sparky": {
    "file": "sparky.png",
    "name": "Sparky",
-   "title": "File:Sparky.png"
+   "pet": true,
+   "processed": true,
+   "raw": "sparky.png",
+   "title": "File:Sparky (pet).png"
   },
   "special_mahogany_log": {
    "file": "special_mahogany_log.png",
@@ -16046,7 +16124,10 @@
   "wallace": {
    "file": "wallace.png",
    "name": "Wallace",
-   "title": "File:Wallace.png"
+   "pet": true,
+   "processed": true,
+   "raw": "wallace.png",
+   "title": "File:Wallace (pet).png"
   },
   "wand_of_the_cywir_elders": {
    "file": "wand_of_the_cywir_elders.png",
@@ -16375,6 +16456,14 @@
    "raw": "wildercress_orb.png",
    "title": "File:Wildercress orb detail.png"
   },
+  "willow": {
+   "file": "willow.png",
+   "name": "Willow",
+   "pet": true,
+   "processed": true,
+   "raw": "willow.png",
+   "title": "File:Willow (pet).png"
+  },
   "willow_composite_bow": {
    "file": "willow_composite_bow.png",
    "name": "Willow composite bow",
@@ -16608,7 +16697,10 @@
   "woody": {
    "file": "woody.png",
    "name": "Woody",
-   "title": "File:Woody.png"
+   "pet": true,
+   "processed": true,
+   "raw": "woody.png",
+   "title": "File:Woody (pet).png"
   },
   "workman": {
    "file": "workman.png",
@@ -18117,13 +18209,6 @@
     "Wilderness sword detail.png"
    ]
   },
-  "willow": {
-   "name": "Willow",
-   "tried": [
-    "Willow.png",
-    "Willow chathead.png"
-   ]
-  },
   "wily_cat": {
    "name": "Wily cat",
    "tried": [
@@ -18180,5 +18265,54 @@
     "Zombie warrior chathead.png"
    ]
   }
+ },
+ "pets_none": {
+  "abyssal_prowler": "Abyssal Prowler (pet).png",
+  "baby_troll": "Baby Troll (pet).png",
+  "banner_carrier": "Banner carrier (pet).png",
+  "blazehound": "Blazehound (pet).png",
+  "bloodpouncer": "Bloodpouncer (pet).png",
+  "broav": "Broav (pet).png",
+  "bulldog": "Bulldog (pet).png",
+  "cat": "Cat (pet).png",
+  "clockwork_cat": "Clockwork cat (pet).png",
+  "dalmatian": "Dalmatian (pet).png",
+  "dragon_wolf": "Dragon Wolf (pet).png",
+  "eek": "Eek (pet).png",
+  "fire_drake": "Fire Drake (pet).png",
+  "fishbowl": "Fishbowl (pet).png",
+  "freezy": "Freezy (pet).png",
+  "giant_crab": "Giant crab (pet).png",
+  "glowing_ember": "Glowing Ember (pet).png",
+  "golden_gnome": "Golden Gnome (pet).png",
+  "greyhound": "Greyhound (pet).png",
+  "hellcat": "Hellcat (pet).png",
+  "hermit_crab": "Hermit crab (pet).png",
+  "jungle_gorilla": "Jungle gorilla (pet).png",
+  "luma": "Luma (pet).png",
+  "monkey_pet": "Monkey (pet).png",
+  "pet_of_autumn": "Pet of Autumn (pet).png",
+  "pet_of_spring": "Pet of Spring (pet).png",
+  "pet_of_summer": "Pet of Summer (pet).png",
+  "pet_of_winter": "Pet of Winter (pet).png",
+  "platypus": "Platypus (pet).png",
+  "prime_colossus": "Prime Colossus (pet).png",
+  "prototype_colossus": "Prototype colossus (pet).png",
+  "purple_cat": "Purple cat (pet).png",
+  "remy": "Remy (pet).png",
+  "rune_guardian": "Rune guardian (pet).png",
+  "santar_spawnling": "San'tar spawnling (pet).png",
+  "searing_flame": "Searing Flame (pet).png",
+  "shadow_drake": "Shadow Drake (pet).png",
+  "sheepdog": "Sheepdog (pet).png",
+  "squirrel": "Squirrel (pet).png",
+  "terrier": "Terrier (pet).png",
+  "tooth_creature": "Tooth creature (pet).png",
+  "twisted_firestarter": "Twisted Firestarter (pet).png",
+  "vulture": "Vulture (pet).png",
+  "waddles": "Waddles (pet).png",
+  "warborn_behemoth": "Warborn behemoth (pet).png",
+  "warming_flames": "Warming Flames (pet).png",
+  "wily_cat": "Wily cat (pet).png"
  }
 }
