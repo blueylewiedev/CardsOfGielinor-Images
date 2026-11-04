@@ -172,9 +172,10 @@
   "acorn": {
    "file": "acorn.png",
    "name": "Acorn",
+   "named": true,
    "processed": true,
    "raw": "acorn.png",
-   "title": "File:Acorn 1 detail.png"
+   "title": "File:Acorn 5 detail.png"
   },
   "acting_guildmaster_reiniger": {
    "file": "acting_guildmaster_reiniger.png",
@@ -182,7 +183,7 @@
    "named": true,
    "processed": true,
    "raw": "acting_guildmaster_reiniger.png",
-   "title": "File:Associate Reiniger.png"
+   "title": "File:Acting Guildmaster Reiniger.png"
   },
   "adamant_2h_crossbow": {
    "file": "adamant_2h_crossbow.png",
@@ -552,9 +553,10 @@
    "title": "File:Alaea sea salt detail.png"
   },
   "alan": {
+   "chosen": "File:Hell-Rat.png",
    "file": "alan.png",
    "name": "Alan",
-   "title": "File:Alan.png"
+   "title": "File:Hell-Rat.png"
   },
   "albino_rat": {
    "file": "albino_rat.png",
@@ -590,14 +592,16 @@
   "aloe_seed": {
    "file": "aloe_seed.png",
    "name": "Aloe seed",
+   "named": true,
    "processed": true,
    "raw": "aloe_seed.png",
-   "title": "File:Aloe seed 1 detail.png"
+   "title": "File:Aloe seed 5 detail.png"
   },
   "amascut": {
+   "chosen": "File:Amascut (Eclipse of the Heart).png",
    "file": "amascut.png",
    "name": "Amascut",
-   "title": "File:Amascut.png"
+   "title": "File:Amascut (Eclipse of the Heart).png"
   },
   "ambassador_alvijar": {
    "file": "ambassador_alvijar.png",
@@ -707,6 +711,12 @@
    "name": "Angurvadal",
    "title": "File:Angurvadal.png"
   },
+  "animated_spade": {
+   "chosen": "File:Animated Spade.png",
+   "file": "animated_spade.png",
+   "name": "Animated spade",
+   "title": "File:Animated Spade.png"
+  },
   "ankh": {
    "file": "ankh.png",
    "name": "Ankh",
@@ -725,9 +735,10 @@
    "title": "File:Anna Jones.png"
   },
   "annette_kadaan": {
+   "chosen": "File:Masked woman.png",
    "file": "annette_kadaan.png",
    "name": "Annette Kadaan",
-   "title": "File:Annette Kadaan.png"
+   "title": "File:Masked woman.png"
   },
   "annihilation": {
    "file": "annihilation.png",
@@ -749,9 +760,10 @@
   "apple_tree_seed": {
    "file": "apple_tree_seed.png",
    "name": "Apple tree seed",
+   "named": true,
    "processed": true,
    "raw": "apple_tree_seed.png",
-   "title": "File:Apple tree seed 1 detail.png"
+   "title": "File:Apple tree seed 5 detail.png"
   },
   "apprentice_wand": {
    "file": "apprentice_wand.png",
@@ -778,9 +790,10 @@
   "arbuck_seed": {
    "file": "arbuck_seed.png",
    "name": "Arbuck seed",
+   "named": true,
    "processed": true,
    "raw": "arbuck_seed.png",
-   "title": "File:Arbuck seed 1 detail.png"
+   "title": "File:Arbuck seed 5 detail.png"
   },
   "archaeologist": {
    "file": "archaeologist.png",
@@ -795,6 +808,12 @@
    "name": "Archaeologist (Anachronia)",
    "title": "File:Archaeologist (Anachronia).png"
   },
+  "archaeologist_excavation": {
+   "chosen": "File:Archaeologist (excavating, female).png",
+   "file": "archaeologist_excavation.png",
+   "name": "Archaeologist (excavation)",
+   "title": "File:Archaeologist (excavating, female).png"
+  },
   "archaeology_professor": {
    "file": "archaeology_professor.png",
    "name": "Archaeology professor",
@@ -806,7 +825,7 @@
    "named": true,
    "processed": true,
    "raw": "archer.png",
-   "title": "File:Archer (Ardougne).png"
+   "title": "File:Archer (Lost City).png"
   },
   "archglacor": {
    "file": "archglacor.png",
@@ -933,14 +952,16 @@
   "argway_seed": {
    "file": "argway_seed.png",
    "name": "Argway seed",
+   "named": true,
    "processed": true,
    "raw": "argway_seed.png",
-   "title": "File:Argway seed 1 detail.png"
+   "title": "File:Argway seed 5 detail.png"
   },
   "ariane": {
+   "chosen": "File:Ariane (Glacyte Minions).png",
    "file": "ariane.png",
    "name": "Ariane",
-   "title": "File:Ariane.png"
+   "title": "File:Ariane (Glacyte Minions).png"
   },
   "aris": {
    "file": "aris.png",
@@ -981,14 +1002,16 @@
    "title": "File:Armadyl rune detail.png"
   },
   "armadylean_shaman": {
+   "chosen": "File:Armadylean shaman (Treasure Trails).png",
    "file": "armadylean_shaman.png",
    "name": "Armadylean shaman",
-   "title": "File:Armadylean shaman.png"
+   "title": "File:Armadylean shaman (Treasure Trails).png"
   },
   "armoured_phantom": {
+   "chosen": "File:Armoured phantom (Hermod).png",
    "file": "armoured_phantom.png",
    "name": "Armoured phantom",
-   "title": "File:Armoured phantom.png"
+   "title": "File:Armoured phantom (Hermod).png"
   },
   "arrav": {
    "file": "arrav.png",
@@ -1010,9 +1033,10 @@
   "asgarnian_seed": {
    "file": "asgarnian_seed.png",
    "name": "Asgarnian seed",
+   "named": true,
    "processed": true,
    "raw": "asgarnian_seed.png",
-   "title": "File:Asgarnian seed 1 detail.png"
+   "title": "File:Asgarnian seed 5 detail.png"
   },
   "assassin": {
    "file": "assassin.png",
@@ -1020,9 +1044,10 @@
    "title": "File:Assassin.png"
   },
   "assassin_fort": {
+   "chosen": "File:Assassin (Murder on the Border).png",
    "file": "assassin_fort.png",
    "name": "Assassin (Fort)",
-   "title": "File:Assassin.png"
+   "title": "File:Assassin (Murder on the Border).png"
   },
   "assistant_professor": {
    "file": "assistant_professor.png",
@@ -1045,9 +1070,10 @@
    "title": "File:Associate Professor.png"
   },
   "aster": {
+   "chosen": "File:Aster (with book).png",
    "file": "aster.png",
    "name": "Aster",
-   "title": "File:Aster.png"
+   "title": "File:Aster (with book).png"
   },
   "astral_esshound": {
    "file": "astral_esshound.png",
@@ -1067,6 +1093,12 @@
    "processed": true,
    "raw": "astral_rune_dungeoneering.png",
    "title": "File:Astral rune (Dungeoneering) detail.png"
+  },
+  "attendee": {
+   "chosen": "File:Attendee (5).png",
+   "file": "attendee.png",
+   "name": "Attendee",
+   "title": "File:Attendee (5).png"
   },
   "attuned_crystal_bow": {
    "file": "attuned_crystal_bow.png",
@@ -1155,9 +1187,10 @@
   "avantoe_seed": {
    "file": "avantoe_seed.png",
    "name": "Avantoe seed",
+   "named": true,
    "processed": true,
    "raw": "avantoe_seed.png",
-   "title": "File:Avantoe seed 1 detail.png"
+   "title": "File:Avantoe seed 5 detail.png"
   },
   "avatar_of_amascut": {
    "file": "avatar_of_amascut.png",
@@ -1189,16 +1222,18 @@
    "title": "File:Avernic wand detail.png"
   },
   "aviansie": {
+   "chosen": "File:Aviansie2.png",
    "file": "aviansie.png",
    "name": "Aviansie",
-   "title": "File:Aviansie.png"
+   "title": "File:Aviansie2.png"
   },
   "avocado_seed": {
    "file": "avocado_seed.png",
    "name": "Avocado seed",
+   "named": true,
    "processed": true,
    "raw": "avocado_seed.png",
-   "title": "File:Avocado seed 1 detail.png"
+   "title": "File:Avocado seed 5 detail.png"
   },
   "awowogei": {
    "file": "awowogei.png",
@@ -1221,7 +1256,7 @@
    "named": true,
    "processed": true,
    "raw": "azzanadra.png",
-   "title": "File:Azzanadra (deity).png"
+   "title": "File:Azzanadra (Hardmode).png"
   },
   "babe": {
    "file": "babe.png",
@@ -1237,6 +1272,18 @@
    "file": "baby_impling.png",
    "name": "Baby impling",
    "title": "File:Baby impling.png"
+  },
+  "baby_raccoon": {
+   "chosen": "File:Baby raccoon (grey) pet.png",
+   "file": "baby_raccoon.png",
+   "name": "Baby raccoon",
+   "title": "File:Baby raccoon (grey) pet.png"
+  },
+  "baby_squirrel": {
+   "chosen": "File:Baby squirrel (light grey) pet.png",
+   "file": "baby_squirrel.png",
+   "name": "Baby squirrel",
+   "title": "File:Baby squirrel (light grey) pet.png"
   },
   "baby_tanglefoot": {
    "file": "baby_tanglefoot.png",
@@ -1281,9 +1328,10 @@
   "banana_tree_seed": {
    "file": "banana_tree_seed.png",
    "name": "Banana tree seed",
+   "named": true,
    "processed": true,
    "raw": "banana_tree_seed.png",
-   "title": "File:Banana tree seed 1 detail.png"
+   "title": "File:Banana tree seed 5 detail.png"
   },
   "bancroft": {
    "file": "bancroft.png",
@@ -1303,14 +1351,16 @@
    "title": "File:Bandos godsword detail.png"
   },
   "bandosian_golem": {
+   "chosen": "File:Bandosian golem (Nomad's Elegy).png",
    "file": "bandosian_golem.png",
    "name": "Bandosian golem",
-   "title": "File:Bandosian golem.png"
+   "title": "File:Bandosian golem (Nomad's Elegy).png"
   },
   "bandosian_wild_mage": {
+   "chosen": "File:Bandosian wild mage (Treasure Trails).png",
    "file": "bandosian_wild_mage.png",
    "name": "Bandosian wild mage",
-   "title": "File:Bandosian wild mage.png"
+   "title": "File:Bandosian wild mage (Treasure Trails).png"
   },
   "bane_2h_crossbow": {
    "file": "bane_2h_crossbow.png",
@@ -1358,6 +1408,12 @@
    "file": "bank_guard.png",
    "name": "Bank guard",
    "title": "File:Bank guard.png"
+  },
+  "banker_fairy": {
+   "chosen": "File:Banker (Zanaris, blonde hair).png",
+   "file": "banker_fairy.png",
+   "name": "Banker (fairy)",
+   "title": "File:Banker (Zanaris, blonde hair).png"
   },
   "banner_carrier": {
    "file": "banner_carrier.png",
@@ -1437,12 +1493,19 @@
    "name": "Baraek",
    "title": "File:Baraek.png"
   },
+  "barbarian": {
+   "chosen": "File:Barbarian (Alberich).png",
+   "file": "barbarian.png",
+   "name": "Barbarian",
+   "title": "File:Barbarian (Alberich).png"
+  },
   "barberry_seed": {
    "file": "barberry_seed.png",
    "name": "Barberry seed",
+   "named": true,
    "processed": true,
    "raw": "barberry_seed.png",
-   "title": "File:Barberry seed 1 detail.png"
+   "title": "File:Barberry seed 5 detail.png"
   },
   "barfy_bill": {
    "file": "barfy_bill.png",
@@ -1469,9 +1532,10 @@
   "barley_seed": {
    "file": "barley_seed.png",
    "name": "Barley seed",
+   "named": true,
    "processed": true,
    "raw": "barley_seed.png",
-   "title": "File:Barley seed 1 detail.png"
+   "title": "File:Barley seed 5 detail.png"
   },
   "barnabus_hurma": {
    "file": "barnabus_hurma.png",
@@ -1508,9 +1572,10 @@
    "title": "File:Bartender (Blue Moon Inn).png"
   },
   "bartender_dancing_donkey": {
+   "chosen": "File:Bartender (Dancing Donkey Inn).png",
    "file": "bartender_dancing_donkey.png",
    "name": "Bartender (Dancing Donkey)",
-   "title": "File:Bartender.png"
+   "title": "File:Bartender (Dancing Donkey Inn).png"
   },
   "bartender_jolly_boar_inn": {
    "file": "bartender_jolly_boar_inn.png",
@@ -1699,9 +1764,10 @@
    "title": "File:Benny (City of Um).png"
   },
   "benny_snow_imp": {
+   "chosen": "File:Snow Imp.png",
    "file": "benny_snow_imp.png",
    "name": "Benny (Snow imp)",
-   "title": "File:Benny.png"
+   "title": "File:Snow Imp.png"
   },
   "bernie": {
    "file": "bernie.png",
@@ -1728,6 +1794,12 @@
    "raw": "big_bass.png",
    "title": "File:Big bass detail.png"
   },
+  "big_frog": {
+   "chosen": "File:Giantfrog.png",
+   "file": "big_frog.png",
+   "name": "Big frog",
+   "title": "File:Giantfrog.png"
+  },
   "big_shark": {
    "file": "big_shark.png",
    "name": "Big shark",
@@ -1742,22 +1814,30 @@
    "raw": "big_swordfish.png",
    "title": "File:Big swordfish detail.png"
   },
+  "big_wolf": {
+   "chosen": "File:Big Wolf (white).png",
+   "file": "big_wolf.png",
+   "name": "Big Wolf",
+   "title": "File:Big Wolf (white).png"
+  },
   "bill": {
    "file": "bill.png",
    "name": "Bill",
    "title": "File:Bill.png"
   },
   "bird": {
+   "chosen": "File:Bird (1475).png",
    "file": "bird.png",
    "name": "Bird",
-   "title": "File:Bird.png"
+   "title": "File:Bird (1475).png"
   },
   "bittercap_mushroom_spore": {
    "file": "bittercap_mushroom_spore.png",
    "name": "Bittercap mushroom spore",
+   "named": true,
    "processed": true,
    "raw": "bittercap_mushroom_spore.png",
-   "title": "File:Bittercap mushroom spore 1 detail.png"
+   "title": "File:Bittercap mushroom spore 5 detail.png"
   },
   "black_2h_crossbow": {
    "file": "black_2h_crossbow.png",
@@ -1867,6 +1947,12 @@
    "file": "black_knight_titan.png",
    "name": "Black Knight Titan",
    "title": "File:Black Knight Titan chathead.png"
+  },
+  "black_lamb": {
+   "chosen": "File:Lamb.png",
+   "file": "black_lamb.png",
+   "name": "Black Lamb",
+   "title": "File:Lamb.png"
   },
   "black_longsword": {
    "file": "black_longsword.png",
@@ -1996,16 +2082,18 @@
   "blindweed_seed": {
    "file": "blindweed_seed.png",
    "name": "Blindweed seed",
+   "named": true,
    "processed": true,
    "raw": "blindweed_seed.png",
-   "title": "File:Blindweed seed 1 detail.png"
+   "title": "File:Blindweed seed 5 detail.png"
   },
   "blisterberry_seed": {
    "file": "blisterberry_seed.png",
    "name": "Blisterberry seed",
+   "named": true,
    "processed": true,
    "raw": "blisterberry_seed.png",
-   "title": "File:Blisterberry seed.png"
+   "title": "File:Blisterberry seed 5 detail.png"
   },
   "blisterwood_crossbow": {
    "file": "blisterwood_crossbow.png",
@@ -2165,9 +2253,10 @@
   "bloodweed_seed": {
    "file": "bloodweed_seed.png",
    "name": "Bloodweed seed",
+   "named": true,
    "processed": true,
    "raw": "bloodweed_seed.png",
-   "title": "File:Bloodweed seed 1 detail.png"
+   "title": "File:Bloodweed seed 5 detail.png"
   },
   "bloodwood_logs": {
    "file": "bloodwood_logs.png",
@@ -2184,9 +2273,10 @@
   "blue_blossom_seed": {
    "file": "blue_blossom_seed.png",
    "name": "Blue blossom seed",
+   "named": true,
    "processed": true,
    "raw": "blue_blossom_seed.png",
-   "title": "File:Blue blossom seed 1 detail.png"
+   "title": "File:Blue blossom seed 5 detail.png"
   },
   "blue_blubber_jellyfish": {
    "file": "blue_blubber_jellyfish.png",
@@ -2215,9 +2305,10 @@
    "title": "File:Blue logs detail.png"
   },
   "blue_soporith_moth": {
+   "chosen": "File:Blue soporith moth detail.png",
    "file": "blue_soporith_moth.png",
    "name": "Blue soporith moth",
-   "title": "File:Blue soporith moth.png"
+   "title": "File:Blue soporith moth detail.png"
   },
   "blurite_2h_crossbow": {
    "file": "blurite_2h_crossbow.png",
@@ -2253,9 +2344,16 @@
    "title": "File:Blythe.png"
   },
   "bob": {
+   "chosen": "File:Bob (smith).png",
    "file": "bob.png",
    "name": "Bob",
-   "title": "File:Bob.png"
+   "title": "File:Bob (smith).png"
+  },
+  "bob_barter": {
+   "chosen": "File:Bob Barter (herbs).png",
+   "file": "bob_barter.png",
+   "name": "Bob Barter",
+   "title": "File:Bob Barter (herbs).png"
   },
   "body_esshound": {
    "file": "body_esshound.png",
@@ -2446,14 +2544,16 @@
    "title": "File:Briefcase detail.png"
   },
   "bright_wisp": {
+   "chosen": "File:Bright spring.png",
    "file": "bright_wisp.png",
    "name": "Bright wisp",
-   "title": "File:Bright wisp.png"
+   "title": "File:Bright spring.png"
   },
   "brilliant_wisp": {
+   "chosen": "File:Brilliant spring.png",
    "file": "brilliant_wisp.png",
    "name": "Brilliant wisp",
-   "title": "File:Brilliant wisp.png"
+   "title": "File:Brilliant spring.png"
   },
   "brine_sabre": {
    "file": "brine_sabre.png",
@@ -2726,9 +2826,10 @@
   "buckthorn_seed": {
    "file": "buckthorn_seed.png",
    "name": "Buckthorn seed",
+   "named": true,
    "processed": true,
    "raw": "buckthorn_seed.png",
-   "title": "File:Buckthorn seed 1 detail.png"
+   "title": "File:Buckthorn seed 5 detail.png"
   },
   "bull_ant": {
    "file": "bull_ant.png",
@@ -2738,22 +2839,29 @@
   "bulldog": {
    "file": "bulldog.png",
    "name": "Bulldog",
-   "pet": true,
+   "named": true,
    "processed": true,
    "raw": "bulldog.png",
-   "title": "File:Bulldog puppy (white) pet.png"
+   "title": "File:Bulldog (white) pet.png"
   },
   "bunyip": {
    "file": "bunyip.png",
    "name": "Bunyip",
    "title": "File:Bunyip.png"
   },
+  "butterfly": {
+   "chosen": "File:Butterfly (grey).png",
+   "file": "butterfly.png",
+   "name": "Butterfly",
+   "title": "File:Butterfly (grey).png"
+  },
   "butterfly_flower_seed": {
    "file": "butterfly_flower_seed.png",
    "name": "Butterfly flower seed",
+   "named": true,
    "processed": true,
    "raw": "butterfly_flower_seed.png",
-   "title": "File:Butterfly flower seed 1 detail.png"
+   "title": "File:Butterfly flower seed 5 detail.png"
   },
   "butterfly_net": {
    "file": "butterfly_net.png",
@@ -2763,9 +2871,10 @@
    "title": "File:Butterfly net detail.png"
   },
   "cabbage": {
+   "chosen": "File:Cabbage (NPC).png",
    "file": "cabbage.png",
    "name": "Cabbage",
-   "title": "File:Cabbage.png"
+   "title": "File:Cabbage (NPC).png"
   },
   "cabbage_dummy": {
    "file": "cabbage_dummy.png",
@@ -2775,9 +2884,10 @@
   "cabbage_seed": {
    "file": "cabbage_seed.png",
    "name": "Cabbage seed",
+   "named": true,
    "processed": true,
    "raw": "cabbage_seed.png",
-   "title": "File:Cabbage seed 1 detail.png"
+   "title": "File:Cabbage seed 5 detail.png"
   },
   "cabbagemancer": {
    "file": "cabbagemancer.png",
@@ -2787,23 +2897,26 @@
   "cactus_seed": {
    "file": "cactus_seed.png",
    "name": "Cactus seed",
+   "named": true,
    "processed": true,
    "raw": "cactus_seed.png",
-   "title": "File:Cactus seed 1 detail.png"
+   "title": "File:Cactus seed 5 detail.png"
   },
   "cadantine_seed": {
    "file": "cadantine_seed.png",
    "name": "Cadantine seed",
+   "named": true,
    "processed": true,
    "raw": "cadantine_seed.png",
-   "title": "File:Cadantine seed 1 detail.png"
+   "title": "File:Cadantine seed 5 detail.png"
   },
   "cadavaberry_seed": {
    "file": "cadavaberry_seed.png",
    "name": "Cadavaberry seed",
+   "named": true,
    "processed": true,
    "raw": "cadavaberry_seed.png",
-   "title": "File:Cadavaberry seed 1 detail.png"
+   "title": "File:Cadavaberry seed 5 detail.png"
   },
   "caden_azro": {
    "file": "caden_azro.png",
@@ -2811,9 +2924,10 @@
    "title": "File:Caden Azro.png"
   },
   "caelyn_kadaan": {
+   "chosen": "File:Caelyn Kadaan (masquerade).png",
    "file": "caelyn_kadaan.png",
    "name": "Caelyn Kadaan",
-   "title": "File:Caelyn Kadaan.png"
+   "title": "File:Caelyn Kadaan (masquerade).png"
   },
   "caitlin": {
    "file": "caitlin.png",
@@ -2845,16 +2959,18 @@
    "title": "File:Caleb.png"
   },
   "calf": {
+   "chosen": "File:Cow calf.png",
    "file": "calf.png",
    "name": "Calf",
-   "title": "File:Calf.png"
+   "title": "File:Cow calf.png"
   },
   "calquat_tree_seed": {
    "file": "calquat_tree_seed.png",
    "name": "Calquat tree seed",
+   "named": true,
    "processed": true,
    "raw": "calquat_tree_seed.png",
-   "title": "File:Calquat tree seed 1 detail.png"
+   "title": "File:Calquat tree seed 5 detail.png"
   },
   "camel_staff": {
    "file": "camel_staff.png",
@@ -2903,9 +3019,10 @@
   "carambola_seed": {
    "file": "carambola_seed.png",
    "name": "Carambola seed",
+   "named": true,
    "processed": true,
    "raw": "carambola_seed.png",
-   "title": "File:Carambola seed 1 detail.png"
+   "title": "File:Carambola seed 5 detail.png"
   },
   "cardamaim": {
    "file": "cardamaim.png",
@@ -2940,10 +3057,10 @@
   "cat": {
    "file": "cat.png",
    "name": "Cat",
-   "pet": true,
+   "named": true,
    "processed": true,
    "raw": "cat.png",
-   "title": "File:Pet kitten (white and black) pet.png"
+   "title": "File:Pet cat (white and black) pet.png"
   },
   "cat_staff": {
    "file": "cat_staff.png",
@@ -2992,6 +3109,12 @@
    "raw": "catfish.png",
    "title": "File:Catfish detail.png"
   },
+  "cave_bug": {
+   "chosen": "File:Cave bug (level 12).png",
+   "file": "cave_bug.png",
+   "name": "Cave bug",
+   "title": "File:Cave bug (level 12).png"
+  },
   "cave_bug_larva": {
    "file": "cave_bug_larva.png",
    "name": "Cave bug larva",
@@ -3015,14 +3138,16 @@
    "title": "File:Cave goblin (Dorgesh-Kaan).png"
   },
   "cave_goblin_dorgeshkaan": {
+   "chosen": "File:Cave goblin (Dorgesh-Kaan, 14).png",
    "file": "cave_goblin_dorgeshkaan.png",
    "name": "Cave goblin (Dorgesh-Kaan)",
-   "title": "File:Cave goblin (Dorgesh-Kaan).png"
+   "title": "File:Cave goblin (Dorgesh-Kaan, 14).png"
   },
   "cave_goblin_guard": {
+   "chosen": "File:Cave goblin guard (club).png",
    "file": "cave_goblin_guard.png",
    "name": "Cave goblin guard",
-   "title": "File:Cave goblin guard chathead.png"
+   "title": "File:Cave goblin guard (club).png"
   },
   "cave_goblin_miner": {
    "file": "cave_goblin_miner.png",
@@ -3032,16 +3157,18 @@
   "cave_nightshade_seed": {
    "file": "cave_nightshade_seed.png",
    "name": "Cave nightshade seed",
+   "named": true,
    "processed": true,
    "raw": "cave_nightshade_seed.png",
-   "title": "File:Cave nightshade seed 1 detail.png"
+   "title": "File:Cave nightshade seed 5 detail.png"
   },
   "cave_potato_seed": {
    "file": "cave_potato_seed.png",
    "name": "Cave potato seed",
+   "named": true,
    "processed": true,
    "raw": "cave_potato_seed.png",
-   "title": "File:Cave potato seed 1 detail.png"
+   "title": "File:Cave potato seed 5 detail.png"
   },
   "cave_slime": {
    "file": "cave_slime.png",
@@ -3081,6 +3208,12 @@
    "name": "Celia Diggory",
    "title": "File:Celia Diggory.png"
   },
+  "centaur": {
+   "chosen": "File:Centaur (male).png",
+   "file": "centaur.png",
+   "name": "Centaur",
+   "title": "File:Centaur (male).png"
+  },
   "cerberus_juvenile": {
    "file": "cerberus_juvenile.png",
    "name": "Cerberus Juvenile",
@@ -3105,6 +3238,12 @@
    "file": "chaos_demon_savage.png",
    "name": "Chaos Demon Savage",
    "title": "File:Chaos Demon Savage.png"
+  },
+  "chaos_druid": {
+   "chosen": "File:Chaos druid (bald).png",
+   "file": "chaos_druid.png",
+   "name": "Chaos druid",
+   "title": "File:Chaos druid (bald).png"
   },
   "chaos_esshound": {
    "file": "chaos_esshound.png",
@@ -3275,9 +3414,10 @@
   "ciku_seed": {
    "file": "ciku_seed.png",
    "name": "Ciku seed",
+   "named": true,
    "processed": true,
    "raw": "ciku_seed.png",
-   "title": "File:Ciku seed 1 detail.png"
+   "title": "File:Ciku seed 5 detail.png"
   },
   "claiborne": {
    "file": "claiborne.png",
@@ -3599,9 +3739,10 @@
   "cocoaberry_seed": {
    "file": "cocoaberry_seed.png",
    "name": "Cocoaberry seed",
+   "named": true,
    "processed": true,
    "raw": "cocoaberry_seed.png",
-   "title": "File:Cocoaberry seed.png"
+   "title": "File:Cocoaberry seed 5 detail.png"
   },
   "cod": {
    "file": "cod.png",
@@ -3618,14 +3759,27 @@
   "coins": {
    "file": "coins.png",
    "name": "coins",
+   "named": true,
    "processed": true,
    "raw": "coins.png",
-   "title": "File:Coins 1 detail.png"
+   "title": "File:Coins 10000 detail.png"
   },
   "colin": {
    "file": "colin.png",
    "name": "Colin",
    "title": "File:Colin.png"
+  },
+  "colonised_lumbridge_guard": {
+   "chosen": "File:Colonised Lumbridge guard (enriched, 1).png",
+   "file": "colonised_lumbridge_guard.png",
+   "name": "Colonised Lumbridge guard",
+   "title": "File:Colonised Lumbridge guard (enriched, 1).png"
+  },
+  "colonised_varrock_guard": {
+   "chosen": "File:Colonised Varrock guard (regular, 1).png",
+   "file": "colonised_varrock_guard.png",
+   "name": "Colonised Varrock guard",
+   "title": "File:Colonised Varrock guard (regular, 1).png"
   },
   "common_jadinko": {
    "file": "common_jadinko.png",
@@ -3667,9 +3821,10 @@
    "title": "File:Cook (Lumbridge).png"
   },
   "cook_blue_moon_inn": {
+   "chosen": "File:Cook (Varrock).png",
    "file": "cook_blue_moon_inn.png",
    "name": "Cook (Blue Moon Inn)",
-   "title": "File:Cook (Blue Moon Inn) chathead.png"
+   "title": "File:Cook (Varrock).png"
   },
   "cook_jolly_boar_inn": {
    "file": "cook_jolly_boar_inn.png",
@@ -3955,24 +4110,33 @@
    "title": "File:Crabbe (pet).png"
   },
   "crassian_scout": {
+   "chosen": "File:Crassian scout (Curse of the Black Stone).png",
    "file": "crassian_scout.png",
    "name": "Crassian scout",
-   "title": "File:Crassian scout.png"
+   "title": "File:Crassian scout (Curse of the Black Stone).png"
   },
   "crassian_warrior": {
+   "chosen": "File:Crassian warrior (Curse of the Black Stone).png",
    "file": "crassian_warrior.png",
    "name": "Crassian warrior",
-   "title": "File:Crassian warrior.png"
+   "title": "File:Crassian warrior (Curse of the Black Stone).png"
   },
   "crate_goblin": {
+   "chosen": "File:Crate Goblin.png",
    "file": "crate_goblin.png",
    "name": "Crate goblin",
-   "title": "File:Crate goblin chathead.png"
+   "title": "File:Crate Goblin.png"
   },
   "crawling_corpse_torso": {
    "file": "crawling_corpse_torso.png",
    "name": "Crawling corpse torso",
    "title": "File:Crawling corpse torso.png"
+  },
+  "crawling_hand": {
+   "chosen": "File:Crawling Hand.png",
+   "file": "crawling_hand.png",
+   "name": "Crawling hand",
+   "title": "File:Crawling Hand.png"
   },
   "crayfish": {
    "file": "crayfish.png",
@@ -3999,19 +4163,22 @@
    "title": "File:Crossbow detail.png"
   },
   "crow": {
+   "chosen": "File:Crow (flying).png",
    "file": "crow.png",
    "name": "Crow",
-   "title": "File:Crow.png"
+   "title": "File:Crow (flying).png"
   },
   "crunchy": {
+   "chosen": "File:Crunchy (Yak to Basics).png",
    "file": "crunchy.png",
    "name": "Crunchy",
-   "title": "File:Crunchy.png"
+   "title": "File:Crunchy (Yak to Basics).png"
   },
   "cruor": {
+   "chosen": "File:Cruor (Angel of Death).png",
    "file": "cruor.png",
    "name": "Cruor",
-   "title": "File:Cruor.png"
+   "title": "File:Cruor (Angel of Death).png"
   },
   "crushed_gem": {
    "file": "crushed_gem.png",
@@ -4019,6 +4186,12 @@
    "processed": true,
    "raw": "crushed_gem.png",
    "title": "File:Crushed gem detail.png"
+  },
+  "crux_eqal_knight_senntisten": {
+   "chosen": "File:Crux Eqal knight (Senntisten, 12).png",
+   "file": "crux_eqal_knight_senntisten.png",
+   "name": "Crux Eqal knight (Senntisten)",
+   "title": "File:Crux Eqal knight (Senntisten, 12).png"
   },
   "crypt_spider": {
    "file": "crypt_spider.png",
@@ -4028,9 +4201,10 @@
   "crystal_acorn": {
    "file": "crystal_acorn.png",
    "name": "Crystal acorn",
+   "named": true,
    "processed": true,
    "raw": "crystal_acorn.png",
-   "title": "File:Crystal acorn 1 detail.png"
+   "title": "File:Crystal acorn 5 detail.png"
   },
   "crystal_bow": {
    "file": "crystal_bow.png",
@@ -4119,9 +4293,10 @@
   "curry_tree_seed": {
    "file": "curry_tree_seed.png",
    "name": "Curry tree seed",
+   "named": true,
    "processed": true,
    "raw": "curry_tree_seed.png",
-   "title": "File:Curry tree seed 1 detail.png"
+   "title": "File:Curry tree seed 5 detail.png"
   },
   "cursed_magic_logs": {
    "file": "cursed_magic_logs.png",
@@ -4143,7 +4318,7 @@
    "named": true,
    "processed": true,
    "raw": "customs_officer.png",
-   "title": "File:Customs officer.png"
+   "title": "File:Customs Officer (Rocking Out).png"
   },
   "cutthroat_flag": {
    "file": "cutthroat_flag.png",
@@ -4163,6 +4338,12 @@
    "processed": true,
    "raw": "daeyalt_ore.png",
    "title": "File:Daeyalt ore detail.png"
+  },
+  "dagannoth": {
+   "chosen": "File:Dagannoth melee.png",
+   "file": "dagannoth.png",
+   "name": "Dagannoth",
+   "title": "File:Dagannoth melee.png"
   },
   "dagannoth_guardian": {
    "file": "dagannoth_guardian.png",
@@ -4192,10 +4373,10 @@
   "dalmatian": {
    "file": "dalmatian.png",
    "name": "Dalmatian",
-   "pet": true,
+   "named": true,
    "processed": true,
    "raw": "dalmatian.png",
-   "title": "File:Dalmatian puppy (black) pet.png"
+   "title": "File:Dalmatian (black) pet.png"
   },
   "dark_animica": {
    "file": "dark_animica.png",
@@ -4250,9 +4431,10 @@
    "title": "File:Dark Squall.png"
   },
   "dark_wizard": {
+   "chosen": "File:Dark wizard (6).png",
    "file": "dark_wizard.png",
    "name": "Dark wizard",
-   "title": "File:Dark wizard chathead.png"
+   "title": "File:Dark wizard (6).png"
   },
   "dark_wizard_elder": {
    "file": "dark_wizard_elder.png",
@@ -4265,9 +4447,10 @@
    "title": "File:Dark wizard master.png"
   },
   "dark_wizard_undercity": {
+   "chosen": "File:Dark wizard (The Zamorakian Undercity).png",
    "file": "dark_wizard_undercity.png",
    "name": "Dark wizard (Undercity)",
-   "title": "File:Dark wizard chathead.png"
+   "title": "File:Dark wizard (The Zamorakian Undercity).png"
   },
   "darklight": {
    "file": "darklight.png",
@@ -4282,9 +4465,10 @@
    "title": "File:Darrel.png"
   },
   "darren": {
+   "chosen": "File:Hell-Rat.png",
    "file": "darren.png",
    "name": "Darren",
-   "title": "File:Darren.png"
+   "title": "File:Hell-Rat.png"
   },
   "darren_lightfinger": {
    "file": "darren_lightfinger.png",
@@ -4303,6 +4487,18 @@
    "file": "darve.png",
    "name": "Darve",
    "title": "File:Darve.png"
+  },
+  "dead_archaeologist": {
+   "chosen": "File:Dead archaeologist (3).png",
+   "file": "dead_archaeologist.png",
+   "name": "Dead archaeologist",
+   "title": "File:Dead archaeologist (3).png"
+  },
+  "dead_knight": {
+   "chosen": "File:Dead knight (1).png",
+   "file": "dead_knight.png",
+   "name": "Dead knight",
+   "title": "File:Dead knight (1).png"
   },
   "dead_monk": {
    "file": "dead_monk.png",
@@ -4325,9 +4521,10 @@
    "title": "File:Deano.png"
   },
   "death": {
+   "chosen": "File:Death (Soul Reaper).png",
    "file": "death.png",
    "name": "Death",
-   "title": "File:Death.png"
+   "title": "File:Death (Soul Reaper).png"
   },
   "death_esswraith": {
    "file": "death_esswraith.png",
@@ -4347,7 +4544,7 @@
    "named": true,
    "processed": true,
    "raw": "death_lotus_rogue.png",
-   "title": "File:Death Lotus rogue (female).png"
+   "title": "File:Death Lotus rogue (Elite Dungeons).png"
   },
   "death_rune": {
    "file": "death_rune.png",
@@ -4411,9 +4608,10 @@
   "delphinium_seed": {
    "file": "delphinium_seed.png",
    "name": "Delphinium seed",
+   "named": true,
    "processed": true,
    "raw": "delphinium_seed.png",
-   "title": "File:Delphinium seed 1 detail.png"
+   "title": "File:Delphinium seed 5 detail.png"
   },
   "delrith": {
    "file": "delrith.png",
@@ -4517,6 +4715,18 @@
    "name": "Didymus the Lorehound",
    "title": "File:Didymus the Lorehound.png"
   },
+  "dig_site_winch_operator": {
+   "chosen": "File:Dig Site winch operator (west).png",
+   "file": "dig_site_winch_operator.png",
+   "name": "Dig Site winch operator",
+   "title": "File:Dig Site winch operator (west).png"
+  },
+  "dig_site_worker": {
+   "chosen": "File:Manual Auto-cycle (worker).png",
+   "file": "dig_site_worker.png",
+   "name": "Dig Site worker",
+   "title": "File:Manual Auto-cycle (worker).png"
+  },
   "dig_site_workman": {
    "file": "dig_site_workman.png",
    "name": "Dig Site workman",
@@ -4526,6 +4736,12 @@
    "file": "dimintheis.png",
    "name": "Dimintheis",
    "title": "File:Dimintheis.png"
+  },
+  "dire_wolf": {
+   "chosen": "File:Dire wolf.png",
+   "file": "dire_wolf.png",
+   "name": "Dire Wolf",
+   "title": "File:Dire wolf.png"
   },
   "divine_impling": {
    "file": "divine_impling.png",
@@ -4820,9 +5036,10 @@
   "dragonfruit_seed": {
    "file": "dragonfruit_seed.png",
    "name": "Dragonfruit seed",
+   "named": true,
    "processed": true,
    "raw": "dragonfruit_seed.png",
-   "title": "File:Dragonfruit seed 1 detail.png"
+   "title": "File:Dragonfruit seed 5 detail.png"
   },
   "dragonstone": {
    "file": "dragonstone.png",
@@ -4898,9 +5115,10 @@
    "title": "File:Drunken Dwarf.png"
   },
   "drunken_man": {
+   "chosen": "File:Drunkman.png",
    "file": "drunken_man.png",
    "name": "Drunken man",
-   "title": "File:Drunken man chathead.png"
+   "title": "File:Drunkman.png"
   },
   "drygore_longsword": {
    "file": "drygore_longsword.png",
@@ -4939,9 +5157,10 @@
    "title": "File:Duck on a Cart.png"
   },
   "duckling": {
+   "chosen": "File:Duckling (non-interactive).png",
    "file": "duckling.png",
    "name": "Duckling",
-   "title": "File:Duckling.png"
+   "title": "File:Duckling (non-interactive).png"
   },
   "ducklings_dad": {
    "file": "ducklings_dad.png",
@@ -5005,9 +5224,16 @@
   "dwarf_weed_seed": {
    "file": "dwarf_weed_seed.png",
    "name": "Dwarf weed seed",
+   "named": true,
    "processed": true,
    "raw": "dwarf_weed_seed.png",
-   "title": "File:Dwarf weed seed 1 detail.png"
+   "title": "File:Dwarf weed seed 5 detail.png"
+  },
+  "dwarve_miner_empty_throne": {
+   "chosen": "File:Dwarven miner (The Empty Throne Room, south).png",
+   "file": "dwarve_miner_empty_throne.png",
+   "name": "Dwarve miner (Empty Throne)",
+   "title": "File:Dwarven miner (The Empty Throne Room, south).png"
   },
   "dwarven_army_axe": {
    "file": "dwarven_army_axe.png",
@@ -5019,9 +5245,10 @@
   "dwellberry_seed": {
    "file": "dwellberry_seed.png",
    "name": "Dwellberry seed",
+   "named": true,
    "processed": true,
    "raw": "dwellberry_seed.png",
-   "title": "File:Dwellberry seed 1 detail.png"
+   "title": "File:Dwellberry seed 5 detail.png"
   },
   "earth_battlestaff": {
    "file": "earth_battlestaff.png",
@@ -5103,9 +5330,10 @@
   "edicap_mushroom_spore": {
    "file": "edicap_mushroom_spore.png",
    "name": "Edicap mushroom spore",
+   "named": true,
    "processed": true,
    "raw": "edicap_mushroom_spore.png",
-   "title": "File:Edicap mushroom spore 1 detail.png"
+   "title": "File:Edicap mushroom spore 5 detail.png"
   },
   "eduardo_student": {
    "file": "eduardo_student.png",
@@ -5198,9 +5426,10 @@
   "elder_seed": {
    "file": "elder_seed.png",
    "name": "Elder seed",
+   "named": true,
    "processed": true,
    "raw": "elder_seed.png",
-   "title": "File:Elder seed 1 detail.png"
+   "title": "File:Elder seed 5 detail.png"
   },
   "elder_shortbow": {
    "file": "elder_shortbow.png",
@@ -5312,6 +5541,12 @@
    "name": "Elvarg",
    "title": "File:Elvarg.png"
   },
+  "elven_knight": {
+   "chosen": "File:Elven Knight (standing, 1).png",
+   "file": "elven_knight.png",
+   "name": "Elven knight",
+   "title": "File:Elven Knight (standing, 1).png"
+  },
   "elzik": {
    "file": "elzik.png",
    "name": "Elzik",
@@ -5389,9 +5624,10 @@
    "title": "File:Empowered water staff detail.png"
   },
   "enakhra": {
+   "chosen": "File:Enakhra (Children of Mah).png",
    "file": "enakhra.png",
    "name": "Enakhra",
-   "title": "File:Enakhra chathead.png"
+   "title": "File:Enakhra (Children of Mah).png"
   },
   "enchanted_emerald": {
    "file": "enchanted_emerald.png",
@@ -5525,9 +5761,10 @@
   "erzille_seed": {
    "file": "erzille_seed.png",
    "name": "Erzille seed",
+   "named": true,
    "processed": true,
    "raw": "erzille_seed.png",
-   "title": "File:Erzille seed 1 detail.png"
+   "title": "File:Erzille seed 5 detail.png"
   },
   "essence_impling": {
    "file": "essence_impling.png",
@@ -5590,21 +5827,24 @@
    "title": "File:Evil Chicken.png"
   },
   "evil_dave": {
+   "chosen": "File:Evil Dave (Shadow of the Storm).png",
    "file": "evil_dave.png",
    "name": "Evil Dave",
-   "title": "File:Evil Dave.png"
+   "title": "File:Evil Dave (Shadow of the Storm).png"
   },
   "evil_turnip": {
+   "chosen": "File:Evil turnip (familiar).png",
    "file": "evil_turnip.png",
    "name": "Evil turnip",
-   "title": "File:Evil turnip.png"
+   "title": "File:Evil turnip (familiar).png"
   },
   "evil_turnip_seed": {
    "file": "evil_turnip_seed.png",
    "name": "Evil turnip seed",
+   "named": true,
    "processed": true,
    "raw": "evil_turnip_seed.png",
-   "title": "File:Evil turnip seed 1 detail.png"
+   "title": "File:Evil turnip seed 5 detail.png"
   },
   "examiner": {
    "file": "examiner.png",
@@ -5661,14 +5901,21 @@
   "exuberry_seed": {
    "file": "exuberry_seed.png",
    "name": "Exuberry seed",
+   "named": true,
    "processed": true,
    "raw": "exuberry_seed.png",
-   "title": "File:Exuberry seed.png"
+   "title": "File:Exuberry seed 5 detail.png"
   },
   "ezreal": {
    "file": "ezreal.png",
    "name": "Ezreal",
    "title": "File:Ezreal.png"
+  },
+  "fairy": {
+   "chosen": "File:Fairy (green).png",
+   "file": "fairy.png",
+   "name": "Fairy",
+   "title": "File:Fairy (green).png"
   },
   "fairy_aeryka": {
    "file": "fairy_aeryka.png",
@@ -5681,9 +5928,10 @@
    "title": "File:Fairy chef.png"
   },
   "fairy_doctor": {
+   "chosen": "File:Fairy Nuff.png",
    "file": "fairy_doctor.png",
    "name": "Fairy doctor",
-   "title": "File:Fairy doctor chathead.png"
+   "title": "File:Fairy Nuff.png"
   },
   "fairy_fixit": {
    "file": "fairy_fixit.png",
@@ -5760,10 +6008,17 @@
    "name": "Fandon",
    "title": "File:Fandon.png"
   },
+  "farid_morrisane": {
+   "chosen": "File:Farid Morrisane (ores).png",
+   "file": "farid_morrisane.png",
+   "name": "Farid Morrisane",
+   "title": "File:Farid Morrisane (ores).png"
+  },
   "farmer": {
+   "chosen": "File:Farmer (3).png",
    "file": "farmer.png",
    "name": "Farmer",
-   "title": "File:Farmer.png"
+   "title": "File:Farmer (3).png"
   },
   "farmer_blinkin": {
    "file": "farmer_blinkin.png",
@@ -5781,9 +6036,10 @@
    "title": "File:Farmer (Varrock).png"
   },
   "farmer_vinesweeper": {
+   "chosen": "File:Farmer (Vinesweeper, 1).png",
    "file": "farmer_vinesweeper.png",
    "name": "Farmer (Vinesweeper)",
-   "title": "File:Farmer.png"
+   "title": "File:Farmer (Vinesweeper, 1).png"
   },
   "fat_rocco": {
    "file": "fat_rocco.png",
@@ -5826,16 +6082,24 @@
   "featherfoil_seed": {
    "file": "featherfoil_seed.png",
    "name": "Featherfoil seed",
+   "named": true,
    "processed": true,
    "raw": "featherfoil_seed.png",
-   "title": "File:Featherfoil seed 1 detail.png"
+   "title": "File:Featherfoil seed 5 detail.png"
+  },
+  "felicity": {
+   "chosen": "File:Hell-Rat.png",
+   "file": "felicity.png",
+   "name": "Felicity",
+   "title": "File:Hell-Rat.png"
   },
   "fellstalk_seed": {
    "file": "fellstalk_seed.png",
    "name": "Fellstalk seed",
+   "named": true,
    "processed": true,
    "raw": "fellstalk_seed.png",
-   "title": "File:Fellstalk seed 1 detail.png"
+   "title": "File:Fellstalk seed 5 detail.png"
   },
   "fenton": {
    "file": "fenton.png",
@@ -5848,9 +6112,10 @@
    "title": "File:Fermit.png"
   },
   "ferryman": {
+   "chosen": "File:Ferryman (City of Um).png",
    "file": "ferryman.png",
    "name": "Ferryman",
-   "title": "File:Ferryman.png"
+   "title": "File:Ferryman (City of Um).png"
   },
   "fire_battlestaff": {
    "file": "fire_battlestaff.png",
@@ -5866,6 +6131,12 @@
    "processed": true,
    "raw": "fire_drake.png",
    "title": "File:Fire Drake adult.png"
+  },
+  "fire_elemental": {
+   "chosen": "File:Fire Elemental.png",
+   "file": "fire_elemental.png",
+   "name": "Fire elemental",
+   "title": "File:Fire Elemental.png"
   },
   "fire_essling": {
    "file": "fire_essling.png",
@@ -5911,9 +6182,10 @@
   "fireberry_seed": {
    "file": "fireberry_seed.png",
    "name": "Fireberry seed",
+   "named": true,
    "processed": true,
    "raw": "fireberry_seed.png",
-   "title": "File:Fireberry seed.png"
+   "title": "File:Fireberry seed 5 detail.png"
   },
   "firefly_the_lost_grove": {
    "file": "firefly_the_lost_grove.png",
@@ -5970,19 +6242,27 @@
   "fly_trap_seed": {
    "file": "fly_trap_seed.png",
    "name": "Fly trap seed",
+   "named": true,
    "processed": true,
    "raw": "fly_trap_seed.png",
-   "title": "File:Fly trap seed 1 detail.png"
+   "title": "File:Fly trap seed 5 detail.png"
   },
   "flynn": {
    "file": "flynn.png",
    "name": "Flynn",
    "title": "File:Flynn.png"
   },
+  "foal": {
+   "chosen": "File:Foal (black).png",
+   "file": "foal.png",
+   "name": "Foal",
+   "title": "File:Foal (black).png"
+  },
   "forge_regent": {
+   "chosen": "File:Forge regent familiar.png",
    "file": "forge_regent.png",
    "name": "Forge regent",
-   "title": "File:Forge regent chathead.png"
+   "title": "File:Forge regent familiar.png"
   },
   "former_master_crafter": {
    "file": "former_master_crafter.png",
@@ -6136,9 +6416,10 @@
    "title": "File:Fresh monkfish (raw) detail.png"
   },
   "frog_herald": {
+   "chosen": "File:Frog Herald Body.png",
    "file": "frog_herald.png",
    "name": "Frog Herald",
-   "title": "File:Frog Herald chathead.png"
+   "title": "File:Frog Herald Body.png"
   },
   "frog_zanaris": {
    "file": "frog_zanaris.png",
@@ -6172,9 +6453,10 @@
    "title": "File:Full Easter basket detail.png"
   },
   "fumus": {
+   "chosen": "File:Fumus (Angel of Death).png",
    "file": "fumus.png",
    "name": "Fumus",
-   "title": "File:Fumus.png"
+   "title": "File:Fumus (Angel of Death).png"
   },
   "fungal_mage": {
    "file": "fungal_mage.png",
@@ -6219,14 +6501,16 @@
    "title": "File:Gandermic runt.png"
   },
   "garden_supplier": {
+   "chosen": "File:Garden Supplier.png",
    "file": "garden_supplier.png",
    "name": "Garden supplier",
-   "title": "File:Garden supplier chathead.png"
+   "title": "File:Garden Supplier.png"
   },
   "gardener": {
+   "chosen": "File:Gardener (Falador Park).png",
    "file": "gardener.png",
    "name": "Gardener",
-   "title": "File:Gardener.png"
+   "title": "File:Gardener (Falador Park).png"
   },
   "gargoyle": {
    "file": "gargoyle.png",
@@ -6264,9 +6548,10 @@
    "title": "File:General Bentnoze.png"
   },
   "general_khazard": {
+   "chosen": "File:General Khazard (Children of Mah).png",
    "file": "general_khazard.png",
    "name": "General Khazard",
-   "title": "File:General Khazard chathead.png"
+   "title": "File:General Khazard (Children of Mah).png"
   },
   "general_wartface": {
    "file": "general_wartface.png",
@@ -6288,15 +6573,33 @@
    "name": "Gertrude",
    "title": "File:Gertrude.png"
   },
+  "ghost": {
+   "chosen": "File:Ghost (1).png",
+   "file": "ghost.png",
+   "name": "Ghost",
+   "title": "File:Ghost (1).png"
+  },
   "ghost_cat": {
    "file": "ghost_cat.png",
    "name": "Ghost cat",
    "title": "File:Ghost cat.png"
   },
+  "ghost_city_of_um": {
+   "chosen": "File:Ghost (City of Um, elf).png",
+   "file": "ghost_city_of_um.png",
+   "name": "Ghost (City of Um)",
+   "title": "File:Ghost (City of Um, elf).png"
+  },
   "ghost_impling": {
    "file": "ghost_impling.png",
    "name": "Ghost impling",
    "title": "File:Ghost impling.png"
+  },
+  "ghost_sos": {
+   "chosen": "File:Ghost-19.png",
+   "file": "ghost_sos.png",
+   "name": "Ghost (SoS)",
+   "title": "File:Ghost-19.png"
   },
   "ghost_troll_lout": {
    "file": "ghost_troll_lout.png",
@@ -6327,6 +6630,12 @@
    "file": "ghostly_troll_thrower.png",
    "name": "Ghostly troll thrower",
    "title": "File:Ghostly troll thrower.png"
+  },
+  "ghostly_waif": {
+   "chosen": "File:Rowena.png",
+   "file": "ghostly_waif.png",
+   "name": "Ghostly waif",
+   "title": "File:Rowena.png"
   },
   "ghoul_champion": {
    "file": "ghoul_champion.png",
@@ -6368,10 +6677,10 @@
   "giant_crab": {
    "file": "giant_crab.png",
    "name": "Giant crab",
-   "pet": true,
+   "named": true,
    "processed": true,
    "raw": "giant_crab.png",
-   "title": "File:Giant crab (brown and green) pet.png"
+   "title": "File:Baby giant crab (brown and green) pet.png"
   },
   "giant_crayfish": {
    "file": "giant_crayfish.png",
@@ -6414,14 +6723,21 @@
    "title": "File:Giant mole.png"
   },
   "giant_rat": {
+   "chosen": "File:Giant rat (brown).png",
    "file": "giant_rat.png",
    "name": "Giant rat",
-   "title": "File:Giant rat.png"
+   "title": "File:Giant rat (brown).png"
   },
   "giant_rock_crab": {
    "file": "giant_rock_crab.png",
    "name": "Giant Rock Crab",
    "title": "File:Giant Rock Crab.png"
+  },
+  "giant_spider": {
+   "chosen": "File:Giant spider (level 4).png",
+   "file": "giant_spider.png",
+   "name": "Giant spider",
+   "title": "File:Giant spider (level 4).png"
   },
   "giant_spider_closures_study": {
    "file": "giant_spider_closures_study.png",
@@ -6453,9 +6769,10 @@
   "gissel_mushroom_spore": {
    "file": "gissel_mushroom_spore.png",
    "name": "Gissel mushroom spore",
+   "named": true,
    "processed": true,
    "raw": "gissel_mushroom_spore.png",
-   "title": "File:Gissel mushroom spore 1 detail.png"
+   "title": "File:Gissel mushroom spore 5 detail.png"
   },
   "gjalp": {
    "file": "gjalp.png",
@@ -6463,14 +6780,21 @@
    "title": "File:Gjalp.png"
   },
   "glacies": {
+   "chosen": "File:Glacies (Angel of Death).png",
    "file": "glacies.png",
    "name": "Glacies",
-   "title": "File:Glacies.png"
+   "title": "File:Glacies (Angel of Death).png"
   },
   "glacor": {
    "file": "glacor.png",
    "name": "Glacor",
    "title": "File:Glacor.png"
+  },
+  "glacyte": {
+   "chosen": "File:Glacyte (melee).png",
+   "file": "glacyte.png",
+   "name": "Glacyte",
+   "title": "File:Glacyte (melee).png"
   },
   "glacyte_melee": {
    "file": "glacyte_melee.png",
@@ -6485,9 +6809,10 @@
   "gloomberry_seed": {
    "file": "gloomberry_seed.png",
    "name": "Gloomberry seed",
+   "named": true,
    "processed": true,
    "raw": "gloomberry_seed.png",
-   "title": "File:Gloomberry seed.png"
+   "title": "File:Gloomberry seed 5 detail.png"
   },
   "gloomfire_bow": {
    "file": "gloomfire_bow.png",
@@ -6510,9 +6835,10 @@
    "title": "File:Glowing Ember pet.png"
   },
   "goblin": {
+   "chosen": "File:Goblin (Varrock, 1).png",
    "file": "goblin.png",
    "name": "Goblin",
-   "title": "File:Goblin chathead.png"
+   "title": "File:Goblin (Varrock, 1).png"
   },
   "goblin_champion": {
    "file": "goblin_champion.png",
@@ -6525,9 +6851,10 @@
    "title": "File:Goblin fish.png"
   },
   "goblin_lumbridge": {
+   "chosen": "File:Goblin (Lumbridge, 1).png",
    "file": "goblin_lumbridge.png",
    "name": "Goblin (Lumbridge)",
-   "title": "File:Goblin (Lumbridge) chathead.png"
+   "title": "File:Goblin (Lumbridge, 1).png"
   },
   "goblin_raider": {
    "file": "goblin_raider.png",
@@ -6540,16 +6867,18 @@
    "title": "File:Goblin scribe.png"
   },
   "goblin_stronghold_of_sec": {
+   "chosen": "File:Goblin (Stronghold of Security, 1).png",
    "file": "goblin_stronghold_of_sec.png",
    "name": "Goblin (SoS)",
-   "title": "File:Goblin chathead.png"
+   "title": "File:Goblin (Stronghold of Security, 1).png"
   },
   "godly_grapevine_seed": {
    "file": "godly_grapevine_seed.png",
    "name": "Godly grapevine seed",
+   "named": true,
    "processed": true,
    "raw": "godly_grapevine_seed.png",
-   "title": "File:Godly grapevine seed 1 detail.png"
+   "title": "File:Godly grapevine seed 5 detail.png"
   },
   "gold_ore": {
    "file": "gold_ore.png",
@@ -6568,9 +6897,10 @@
   "golden_dragonfruit_seed": {
    "file": "golden_dragonfruit_seed.png",
    "name": "Golden dragonfruit seed",
+   "named": true,
    "processed": true,
    "raw": "golden_dragonfruit_seed.png",
-   "title": "File:Golden dragonfruit seed 1 detail.png"
+   "title": "File:Golden dragonfruit seed 5 detail.png"
   },
   "golden_gnome": {
    "file": "golden_gnome.png",
@@ -6692,6 +7022,12 @@
    "name": "Gorvek",
    "title": "File:Gorvek.png"
   },
+  "gourmet": {
+   "chosen": "File:Gourmet 2.png",
+   "file": "gourmet.png",
+   "name": "Gourmet",
+   "title": "File:Gourmet 2.png"
+  },
   "gourmet_impling": {
    "file": "gourmet_impling.png",
    "name": "Gourmet impling",
@@ -6765,9 +7101,10 @@
   "grapevine_seed": {
    "file": "grapevine_seed.png",
    "name": "Grapevine seed",
+   "named": true,
    "processed": true,
    "raw": "grapevine_seed.png",
-   "title": "File:Grapevine seed 1 detail.png"
+   "title": "File:Grapevine seed 2 detail.png"
   },
   "grave_creeper_branches": {
    "file": "grave_creeper_branches.png",
@@ -6912,9 +7249,10 @@
   "green_blossom_seed": {
    "file": "green_blossom_seed.png",
    "name": "Green blossom seed",
+   "named": true,
    "processed": true,
    "raw": "green_blossom_seed.png",
-   "title": "File:Green blossom seed 1 detail.png"
+   "title": "File:Green blossom seed 5 detail.png"
   },
   "green_blubber_jellyfish": {
    "file": "green_blubber_jellyfish.png",
@@ -6945,9 +7283,10 @@
    "title": "File:Green salamander detail.png"
   },
   "green_soporith_moth": {
+   "chosen": "File:Green soporith moth detail.png",
    "file": "green_soporith_moth.png",
    "name": "Green soporith moth",
-   "title": "File:Green soporith moth.png"
+   "title": "File:Green soporith moth detail.png"
   },
   "grenwall": {
    "file": "grenwall.png",
@@ -6955,17 +7294,18 @@
    "title": "File:Grenwall.png"
   },
   "grey_soporith_moth": {
+   "chosen": "File:Grey soporith moth detail.png",
    "file": "grey_soporith_moth.png",
    "name": "Grey soporith moth",
-   "title": "File:Grey soporith moth.png"
+   "title": "File:Grey soporith moth detail.png"
   },
   "greyhound": {
    "file": "greyhound.png",
    "name": "Greyhound",
-   "pet": true,
+   "named": true,
    "processed": true,
    "raw": "greyhound.png",
-   "title": "File:Greyhound puppy (light brown) pet.png"
+   "title": "File:Greyhound (light brown) pet.png"
   },
   "grifolapine": {
    "file": "grifolapine.png",
@@ -7284,16 +7624,18 @@
   "guam_seed": {
    "file": "guam_seed.png",
    "name": "Guam seed",
+   "named": true,
    "processed": true,
    "raw": "guam_seed.png",
-   "title": "File:Guam seed 1 detail.png"
+   "title": "File:Guam seed 5 detail.png"
   },
   "guarana_seed": {
    "file": "guarana_seed.png",
    "name": "Guarana seed",
+   "named": true,
    "processed": true,
    "raw": "guarana_seed.png",
-   "title": "File:Guarana seed 1 detail.png"
+   "title": "File:Guarana seed 5 detail.png"
   },
   "guard": {
    "file": "guard.png",
@@ -7301,14 +7643,16 @@
    "title": "File:Guard (Catherby).png"
   },
   "guard_captain_sofa": {
+   "chosen": "File:Guard captain Sofia (Zemouregal & Vorkath).png",
    "file": "guard_captain_sofa.png",
    "name": "Guard captain Sofía",
-   "title": "File:Guard captain Sofía.png"
+   "title": "File:Guard captain Sofia (Zemouregal & Vorkath).png"
   },
   "guard_cave_goblin": {
+   "chosen": "File:Guard (cave goblin, club).png",
    "file": "guard_cave_goblin.png",
    "name": "Guard (cave goblin)",
-   "title": "File:Guard.png"
+   "title": "File:Guard (cave goblin, club).png"
   },
   "guard_dog": {
    "file": "guard_dog.png",
@@ -7321,14 +7665,16 @@
    "title": "File:Guard (East Varrock).png"
   },
   "guard_edgeville": {
+   "chosen": "File:Guard (Edgeville, 1).png",
    "file": "guard_edgeville.png",
    "name": "Guard (Edgeville)",
-   "title": "File:Guard.png"
+   "title": "File:Guard (Edgeville, 1).png"
   },
   "guard_falador": {
+   "chosen": "File:Guard (Falador, sword).png",
    "file": "guard_falador.png",
    "name": "Guard (Falador)",
-   "title": "File:Guard.png"
+   "title": "File:Guard (Falador, sword).png"
   },
   "guard_ham": {
    "file": "guard_ham.png",
@@ -7336,14 +7682,21 @@
    "title": "File:Guard (H.A.M.).png"
   },
   "guard_sops": {
+   "chosen": "File:Guard (Stronghold of Player Safety).png",
    "file": "guard_sops.png",
    "name": "Guard (SoPS)",
-   "title": "File:Guard.png"
+   "title": "File:Guard (Stronghold of Player Safety).png"
   },
   "guard_varrock": {
    "file": "guard_varrock.png",
    "name": "Guard (Varrock)",
    "title": "File:Guard (Varrock).png"
+  },
+  "guardian_of_armadyl": {
+   "chosen": "File:Guardian of Armadyl WGS male.png",
+   "file": "guardian_of_armadyl.png",
+   "name": "Guardian of Armadyl",
+   "title": "File:Guardian of Armadyl WGS male.png"
   },
   "guardsman_brawn": {
    "file": "guardsman_brawn.png",
@@ -7370,6 +7723,18 @@
    "name": "Guardsman Peale",
    "title": "File:Guardsman Peale.png"
   },
+  "gublinch_jailmate": {
+   "chosen": "File:Gublinch jailmate (tackling door).png",
+   "file": "gublinch_jailmate.png",
+   "name": "Gublinch jailmate",
+   "title": "File:Gublinch jailmate (tackling door).png"
+  },
+  "gublinchette_jailmate": {
+   "chosen": "File:Gublinchette jailmate (rattling cup).png",
+   "file": "gublinchette_jailmate.png",
+   "name": "Gublinchette jailmate",
+   "title": "File:Gublinchette jailmate (rattling cup).png"
+  },
   "gud_raider_axe": {
    "file": "gud_raider_axe.png",
    "name": "Gud raider axe",
@@ -7378,9 +7743,10 @@
    "title": "File:Gud raider axe detail.png"
   },
   "gudrun": {
+   "chosen": "File:Gudrun2.png",
    "file": "gudrun.png",
    "name": "Gudrun",
-   "title": "File:Gudrun.png"
+   "title": "File:Gudrun2.png"
   },
   "guidor": {
    "file": "guidor.png",
@@ -7438,9 +7804,10 @@
    "title": "File:Guthix staff detail.png"
   },
   "haakon_the_champion": {
+   "chosen": "File:Haakon the champion.png",
    "file": "haakon_the_champion.png",
    "name": "Haakon the Champion",
-   "title": "File:Haakon the Champion chathead.png"
+   "title": "File:Haakon the champion.png"
   },
   "hailstorm_dagger": {
    "file": "hailstorm_dagger.png",
@@ -7465,16 +7832,24 @@
    "title": "File:H.A.M. Deacon.png"
   },
   "ham_guard": {
+   "chosen": "File:H.A.M. Guard (3).png",
    "file": "ham_guard.png",
    "name": "H.A.M. Guard",
-   "title": "File:H.A.M. Guard.png"
+   "title": "File:H.A.M. Guard (3).png"
+  },
+  "ham_member": {
+   "chosen": "File:H.A.M. Member (female).png",
+   "file": "ham_member.png",
+   "name": "H.A.M. Member",
+   "title": "File:H.A.M. Member (female).png"
   },
   "hammerstone_seed": {
    "file": "hammerstone_seed.png",
    "name": "Hammerstone seed",
+   "named": true,
    "processed": true,
    "raw": "hammerstone_seed.png",
-   "title": "File:Hammerstone seed 1 detail.png"
+   "title": "File:Hammerstone seed 5 detail.png"
   },
   "hand_cannon": {
    "file": "hand_cannon.png",
@@ -7501,16 +7876,18 @@
   "harmony_moss_seed": {
    "file": "harmony_moss_seed.png",
    "name": "Harmony moss seed",
+   "named": true,
    "processed": true,
    "raw": "harmony_moss_seed.png",
-   "title": "File:Harmony moss seed 1 detail.png"
+   "title": "File:Harmony moss seed 5 detail.png"
   },
   "harralander_seed": {
    "file": "harralander_seed.png",
    "name": "Harralander seed",
+   "named": true,
    "processed": true,
    "raw": "harralander_seed.png",
-   "title": "File:Harralander seed 1 detail.png"
+   "title": "File:Harralander seed 5 detail.png"
   },
   "harrys_cutlass": {
    "file": "harrys_cutlass.png",
@@ -7558,9 +7935,10 @@
    "title": "File:Havensilver ore detail.png"
   },
   "hazeel": {
+   "chosen": "File:Hazeel (Children of Mah).png",
    "file": "hazeel.png",
    "name": "Hazeel",
-   "title": "File:Hazeel chathead.png"
+   "title": "File:Hazeel (Children of Mah).png"
   },
   "hazelmere": {
    "file": "hazelmere.png",
@@ -7573,7 +7951,7 @@
    "named": true,
    "processed": true,
    "raw": "head_chef.png",
-   "title": "File:Head chef (2015).png"
+   "title": "File:Head chef.png"
   },
   "head_of_research": {
    "file": "head_of_research.png",
@@ -7586,7 +7964,7 @@
    "named": true,
    "processed": true,
    "raw": "hebe.png",
-   "title": "File:Statue of Hebe.png"
+   "title": "File:Adrasteia (Twilight of the Gods).png"
   },
   "heka": {
    "file": "heka.png",
@@ -7608,10 +7986,10 @@
   "hellcat": {
    "file": "hellcat.png",
    "name": "Hellcat",
-   "pet": true,
+   "named": true,
    "processed": true,
    "raw": "hellcat.png",
-   "title": "File:Hell-kitten pet.png"
+   "title": "File:Hellcat pet.png"
   },
   "hellfire_bow": {
    "file": "hellfire_bow.png",
@@ -7621,9 +7999,10 @@
    "title": "File:Hellfire bow detail.png"
   },
   "hellhound": {
+   "chosen": "File:Hellhound (familiar).png",
    "file": "hellhound.png",
    "name": "Hellhound",
-   "title": "File:Hellhound.png"
+   "title": "File:Hellhound (familiar).png"
   },
   "hellhound_alpha": {
    "file": "hellhound_alpha.png",
@@ -7641,9 +8020,10 @@
    "title": "File:Hellhound (summoned).png"
   },
   "hellhound_undercity": {
+   "chosen": "File:Hellhound (The Zamorakian Undercity).png",
    "file": "hellhound_undercity.png",
    "name": "Hellhound (Undercity)",
-   "title": "File:Hellhound.png"
+   "title": "File:Hellhound (The Zamorakian Undercity).png"
   },
   "hemlock": {
    "file": "hemlock.png",
@@ -7715,20 +8095,34 @@
    "name": "Highwayman",
    "title": "File:Highwayman.png"
   },
+  "hill_giant": {
+   "chosen": "File:Hill Giant (1).png",
+   "file": "hill_giant.png",
+   "name": "Hill giant",
+   "title": "File:Hill Giant (1).png"
+  },
   "historian_minas": {
+   "chosen": "File:Seth Minas (site manager).png",
    "file": "historian_minas.png",
    "name": "Historian Minas",
-   "title": "File:Historian Minas.png"
+   "title": "File:Seth Minas (site manager).png"
   },
   "hobgoblin": {
+   "chosen": "File:Hobgoblin (level 28).png",
    "file": "hobgoblin.png",
    "name": "Hobgoblin",
-   "title": "File:Hobgoblin.png"
+   "title": "File:Hobgoblin (level 28).png"
   },
   "hobgoblin_champion": {
    "file": "hobgoblin_champion.png",
    "name": "Hobgoblin Champion",
    "title": "File:Hobgoblin Champion.png"
+  },
+  "hofuthand": {
+   "chosen": "File:Hofuthand (armour and weapons).png",
+   "file": "hofuthand.png",
+   "name": "Hofuthand",
+   "title": "File:Hofuthand (armour and weapons).png"
   },
   "hogfish": {
    "file": "hogfish.png",
@@ -7888,9 +8282,10 @@
    "title": "File:Igneous TzekHaar-Xil.png"
   },
   "ikis_krum": {
+   "chosen": "File:Ikus Krum.png",
    "file": "ikis_krum.png",
    "name": "Ikis Krum",
-   "title": "File:Ikis Krum chathead.png"
+   "title": "File:Ikus Krum.png"
   },
   "immenizz": {
    "file": "immenizz.png",
@@ -7994,9 +8389,10 @@
   "irit_seed": {
    "file": "irit_seed.png",
    "name": "Irit seed",
+   "named": true,
    "processed": true,
    "raw": "irit_seed.png",
-   "title": "File:Irit seed 1 detail.png"
+   "title": "File:Irit seed 5 detail.png"
   },
   "irksol": {
    "file": "irksol.png",
@@ -8224,6 +8620,12 @@
    "raw": "iron_warhammer.png",
    "title": "File:Iron warhammer detail.png"
   },
+  "isidor": {
+   "chosen": "File:Wizard Isidor.png",
+   "file": "isidor.png",
+   "name": "Isidor",
+   "title": "File:Wizard Isidor.png"
+  },
   "ivandis_flail": {
    "file": "ivandis_flail.png",
    "name": "Ivandis flail",
@@ -8256,6 +8658,18 @@
    "processed": true,
    "raw": "jade_vine_seed.png",
    "title": "File:Jade vine seed detail.png"
+  },
+  "jail_guard": {
+   "chosen": "File:Jail guard (short hair).png",
+   "file": "jail_guard.png",
+   "name": "Jail guard",
+   "title": "File:Jail guard (short hair).png"
+  },
+  "jambon": {
+   "chosen": "File:Piglet.png",
+   "file": "jambon.png",
+   "name": "Jambon",
+   "title": "File:Piglet.png"
   },
   "jangerberry_seed": {
    "file": "jangerberry_seed.png",
@@ -8345,6 +8759,12 @@
    "name": "Jukat",
    "title": "File:Jukat.png"
   },
+  "julienne": {
+   "chosen": "File:Julienne, Emissary of Saradomin.png",
+   "file": "julienne.png",
+   "name": "Julienne",
+   "title": "File:Julienne, Emissary of Saradomin.png"
+  },
   "jungle_gorilla": {
    "file": "jungle_gorilla.png",
    "name": "Jungle gorilla",
@@ -8409,9 +8829,10 @@
    "title": "File:Kangali (pet).png"
   },
   "karam_overlord": {
+   "chosen": "File:Karamthulhu overlord.png",
    "file": "karam_overlord.png",
    "name": "Karam. overlord",
-   "title": "File:Karam. overlord chathead.png"
+   "title": "File:Karamthulhu overlord.png"
   },
   "karambwanji": {
    "file": "karambwanji.png",
@@ -8445,6 +8866,12 @@
    "processed": true,
    "raw": "karils_pistol_crossbow.png",
    "title": "File:Karil's pistol crossbow detail.png"
+  },
+  "karma_the_chameleon": {
+   "chosen": "File:Karma the chameleon (green).png",
+   "file": "karma_the_chameleon.png",
+   "name": "Karma the chameleon",
+   "title": "File:Karma the chameleon (green).png"
   },
   "katagon_2h_sword": {
    "file": "katagon_2h_sword.png",
@@ -8799,15 +9226,22 @@
    "raw": "kwuarm_seed.png",
    "title": "File:Kwuarm seed detail.png"
   },
+  "labrador_puppy": {
+   "chosen": "File:Labrador puppy (white) pet.png",
+   "file": "labrador_puppy.png",
+   "name": "Labrador puppy",
+   "title": "File:Labrador puppy (white) pet.png"
+  },
   "lachtopher": {
    "file": "lachtopher.png",
    "name": "Lachtopher",
    "title": "File:Lachtopher.png"
   },
   "lady_grey": {
+   "chosen": "File:Lady Grey (guitar).png",
    "file": "lady_grey.png",
    "name": "Lady Grey",
-   "title": "File:Lady Grey.png"
+   "title": "File:Lady Grey (guitar).png"
   },
   "lady_keli": {
    "file": "lady_keli.png",
@@ -8853,9 +9287,10 @@
    "title": "File:Larxus.png"
   },
   "launa": {
+   "chosen": "File:Launa (Old).png",
    "file": "launa.png",
    "name": "Launa",
-   "title": "File:Launa chathead.png"
+   "title": "File:Launa (Old).png"
   },
   "lava_battlestaff": {
    "file": "lava_battlestaff.png",
@@ -9197,6 +9632,12 @@
    "name": "Lumbridge guard dog",
    "title": "File:Lumbridge guard dog.png"
   },
+  "lumbridge_guard_senntisten": {
+   "chosen": "File:Lumbridge Guard (Senntisten, 6).png",
+   "file": "lumbridge_guard_senntisten.png",
+   "name": "Lumbridge Guard (Senntisten)",
+   "title": "File:Lumbridge Guard (Senntisten, 6).png"
+  },
   "lumbridge_guide": {
    "file": "lumbridge_guide.png",
    "name": "Lumbridge Guide",
@@ -9285,9 +9726,10 @@
    "title": "File:Maelstrom, Raging Waterfiend.png"
   },
   "maemi": {
+   "chosen": "File:Pet cat (black) pet.png",
    "file": "maemi.png",
    "name": "Maemi",
-   "title": "File:Maemi chathead.png"
+   "title": "File:Pet cat (black) pet.png"
   },
   "mage_of_zamorak": {
    "file": "mage_of_zamorak.png",
@@ -9440,9 +9882,10 @@
    "title": "File:Malcolm (pet).png"
   },
   "malignius_mortifer": {
+   "chosen": "File:Malignius Mortifer (Necromancy).png",
    "file": "malignius_mortifer.png",
    "name": "Malignius Mortifer",
-   "title": "File:Malignius Mortifer.png"
+   "title": "File:Malignius Mortifer (Necromancy).png"
   },
   "mami_rimba": {
    "file": "mami_rimba.png",
@@ -9455,14 +9898,16 @@
    "title": "File:Man.png"
   },
   "man_draynor_village": {
+   "chosen": "File:Man (Draynor Village, 2).png",
    "file": "man_draynor_village.png",
    "name": "Man (Draynor Village)",
-   "title": "File:Man.png"
+   "title": "File:Man (Draynor Village, 2).png"
   },
   "man_lumbridge_market": {
+   "chosen": "File:Man (Lumbridge Market, Talking).png",
    "file": "man_lumbridge_market.png",
    "name": "Man (Lumbridge Market)",
-   "title": "File:Man.png"
+   "title": "File:Man (Lumbridge Market, Talking).png"
   },
   "mango_seed": {
    "file": "mango_seed.png",
@@ -9543,9 +9988,10 @@
    "title": "File:Maris.png"
   },
   "marius": {
+   "chosen": "File:Snow Imp.png",
    "file": "marius.png",
    "name": "Marius",
-   "title": "File:Marius.png"
+   "title": "File:Snow Imp.png"
   },
   "marius_giste": {
    "file": "marius_giste.png",
@@ -9657,7 +10103,7 @@
    "named": true,
    "processed": true,
    "raw": "martin_the_master_gardener.png",
-   "title": "File:Martin the Master Gardener (2015).png"
+   "title": "File:Martin the Master Gardener.png"
   },
   "martina_scorsby": {
    "file": "martina_scorsby.png",
@@ -9665,14 +10111,16 @@
    "title": "File:Martina Scorsby.png"
   },
   "marvin": {
+   "chosen": "File:Snow Imp.png",
    "file": "marvin.png",
    "name": "Marvin",
-   "title": "File:Marvin chathead.png"
+   "title": "File:Snow Imp.png"
   },
   "master_farmer": {
+   "chosen": "File:Master Farmer (3).png",
    "file": "master_farmer.png",
    "name": "Master Farmer",
-   "title": "File:Master Farmer.png"
+   "title": "File:Master Farmer (3).png"
   },
   "master_wand": {
    "file": "master_wand.png",
@@ -9720,6 +10168,12 @@
    "file": "matty_ock.png",
    "name": "Matty Ock",
    "title": "File:Matty Ock.png"
+  },
+  "mature_grotworm": {
+   "chosen": "File:Mature Grotworm.png",
+   "file": "mature_grotworm.png",
+   "name": "Mature grotworm",
+   "title": "File:Mature Grotworm.png"
   },
   "max": {
    "file": "max.png",
@@ -9776,9 +10230,10 @@
    "title": "File:Mega Duck.png"
   },
   "megan": {
+   "chosen": "File:Megan (Party Room).png",
    "file": "megan.png",
    "name": "Megan",
-   "title": "File:Megan.png"
+   "title": "File:Megan (Party Room).png"
   },
   "megaphonus": {
    "file": "megaphonus.png",
@@ -9820,9 +10275,10 @@
    "title": "File:Mercenary Joe.png"
   },
   "merchant": {
+   "chosen": "File:Merchant (Lumbridge Market) (Vegetable Stalls).png",
    "file": "merchant.png",
    "name": "Merchant (Lumbridge Market)",
-   "title": "File:Merchant.png"
+   "title": "File:Merchant (Lumbridge Market) (Vegetable Stalls).png"
   },
   "merchant_polypore_dungeon": {
    "file": "merchant_polypore_dungeon.png",
@@ -9838,6 +10294,12 @@
    "file": "merchant_vernon.png",
    "name": "Merchant Vernon",
    "title": "File:Merchant Vernon.png"
+  },
+  "merchant_walton": {
+   "chosen": "File:Merchant walton ham.png",
+   "file": "merchant_walton.png",
+   "name": "Merchant Walton",
+   "title": "File:Merchant walton ham.png"
   },
   "merchant_xenia": {
    "file": "merchant_xenia.png",
@@ -10195,9 +10657,10 @@
    "title": "File:Mogle the Financial Advisor.png"
   },
   "moira": {
+   "chosen": "File:Molly.png",
    "file": "moira.png",
    "name": "Moira",
-   "title": "File:Moira.png"
+   "title": "File:Molly.png"
   },
   "molanisk": {
    "file": "molanisk.png",
@@ -10222,9 +10685,10 @@
    "title": "File:Money tree seed detail.png"
   },
   "monk": {
+   "chosen": "File:Monk (Lost City).png",
    "file": "monk.png",
    "name": "Monk",
-   "title": "File:Monk chathead.png"
+   "title": "File:Monk (Lost City).png"
   },
   "monk_edgeville_monastery": {
    "file": "monk_edgeville_monastery.png",
@@ -10240,24 +10704,28 @@
    "title": "File:Monk of chaos (female).png"
   },
   "monk_of_zamorak": {
+   "chosen": "File:Monk of Zamorak (Level 43).png",
    "file": "monk_of_zamorak.png",
    "name": "Monk of Zamorak",
-   "title": "File:Monk of Zamorak chathead.png"
+   "title": "File:Monk of Zamorak (Level 43).png"
   },
   "monk_of_zamorak_paterdomus": {
+   "chosen": "File:Monk of Zamorak (level 23).png",
    "file": "monk_of_zamorak_paterdomus.png",
    "name": "Monk of Zamorak (Paterdomus)",
-   "title": "File:Monk of Zamorak chathead.png"
+   "title": "File:Monk of Zamorak (level 23).png"
   },
   "monkey": {
+   "chosen": "File:Karamja monkey.png",
    "file": "monkey.png",
    "name": "Monkey",
-   "title": "File:Monkey.png"
+   "title": "File:Karamja monkey.png"
   },
   "monkey_pet": {
+   "chosen": "File:Baby monkey (blue and white) pet.png",
    "file": "monkey_pet.png",
    "name": "Monkey (pet)",
-   "title": "File:Monkey.png"
+   "title": "File:Baby monkey (blue and white) pet.png"
   },
   "monkfish": {
    "file": "monkfish.png",
@@ -10320,9 +10788,10 @@
    "title": "File:Morty (pet).png"
   },
   "moss_giant": {
+   "chosen": "File:Moss giant (2).png",
    "file": "moss_giant.png",
    "name": "Moss giant",
-   "title": "File:Moss giant.png"
+   "title": "File:Moss giant (2).png"
   },
   "moss_titan": {
    "file": "moss_titan.png",
@@ -10335,9 +10804,10 @@
    "title": "File:Moths (Dorgesh-Kaan).png"
   },
   "mountain_troll": {
+   "chosen": "File:Mountain troll (3).png",
    "file": "mountain_troll.png",
    "name": "Mountain troll",
-   "title": "File:Mountain troll.png"
+   "title": "File:Mountain troll (3).png"
   },
   "mournberry_seed": {
    "file": "mournberry_seed.png",
@@ -10371,9 +10841,10 @@
    "title": "File:Mr Ex.png"
   },
   "mr_pinsworth": {
+   "chosen": "File:Pinsworth.png",
    "file": "mr_pinsworth.png",
    "name": "Mr Pinsworth",
-   "title": "File:Mr Pinsworth chathead.png"
+   "title": "File:Pinsworth.png"
   },
   "mud_battlestaff": {
    "file": "mud_battlestaff.png",
@@ -10404,31 +10875,47 @@
    "title": "File:Mudborne staff detail.png"
   },
   "mugger": {
+   "chosen": "File:Mugger (1).png",
    "file": "mugger.png",
    "name": "Mugger",
-   "title": "File:Mugger.png"
+   "title": "File:Mugger (1).png"
+  },
+  "mummy": {
+   "chosen": "File:Mummy 1.png",
+   "file": "mummy.png",
+   "name": "Mummy (Jaldraocht Pyramid)",
+   "title": "File:Mummy 1.png"
   },
   "muncher": {
    "file": "muncher.png",
    "name": "Muncher",
    "title": "File:Muncher.png"
   },
+  "murky_matt": {
+   "chosen": "File:Murky Matt (runes).png",
+   "file": "murky_matt.png",
+   "name": "Murky Matt",
+   "title": "File:Murky Matt (runes).png"
+  },
   "musaberry_seed": {
    "file": "musaberry_seed.png",
    "name": "Musaberry seed",
+   "named": true,
    "processed": true,
    "raw": "musaberry_seed.png",
-   "title": "File:Musaberry seed.png"
+   "title": "File:Musaberry seed 5 detail.png"
   },
   "museum_guard": {
+   "chosen": "File:Museum guard (brown shoes).png",
    "file": "museum_guard.png",
    "name": "Museum guard",
-   "title": "File:Museum guard.png"
+   "title": "File:Museum guard (brown shoes).png"
   },
   "musician_cooks_guild": {
+   "chosen": "File:Cooking guild musician.png",
    "file": "musician_cooks_guild.png",
    "name": "Musician (Cooks' Guild)",
-   "title": "File:Musician (Cooks' Guild) chathead.png"
+   "title": "File:Cooking guild musician.png"
   },
   "musician_draynor_village": {
    "file": "musician_draynor_village.png",
@@ -10436,9 +10923,10 @@
    "title": "File:Musician (Draynor Village).png"
   },
   "musician_gower_farm": {
+   "chosen": "File:Varrock Mine Musician.png",
    "file": "musician_gower_farm.png",
    "name": "Musician (Gower Farm)",
-   "title": "File:Musician (Gower Farm) chathead.png"
+   "title": "File:Varrock Mine Musician.png"
   },
   "musician_grand_exchange": {
    "file": "musician_grand_exchange.png",
@@ -10449,6 +10937,12 @@
    "file": "musician_lumbridge.png",
    "name": "Musician (Lumbridge)",
    "title": "File:Musician (Lumbridge).png"
+  },
+  "musician_saradomin_statue": {
+   "chosen": "File:Lumber Yard Musician.png",
+   "file": "musician_saradomin_statue.png",
+   "name": "Musician (Saradomin statue)",
+   "title": "File:Lumber Yard Musician.png"
   },
   "mutated_jadinko_baby": {
    "file": "mutated_jadinko_baby.png",
@@ -10579,6 +11073,12 @@
    "file": "nature_esshound.png",
    "name": "Nature esshound",
    "title": "File:Nature esshound.png"
+  },
+  "nature_impling": {
+   "chosen": "File:Nature impling.png",
+   "file": "nature_impling.png",
+   "name": "Nature Impling",
+   "title": "File:Nature impling.png"
   },
   "nature_rune": {
    "file": "nature_rune.png",
@@ -10724,14 +11224,16 @@
    "title": "File:Ninja impling.png"
   },
   "nipper": {
+   "chosen": "File:Nipper (1).png",
    "file": "nipper.png",
    "name": "Nipper",
-   "title": "File:Nipper chathead.png"
+   "title": "File:Nipper (1).png"
   },
   "no_gums_murray": {
+   "chosen": "File:'No Gums' Murray (trumpet).png",
    "file": "no_gums_murray.png",
    "name": "'No Gums' Murray",
-   "title": "File:'No Gums' Murray.png"
+   "title": "File:'No Gums' Murray (trumpet).png"
   },
   "nodon_artificer": {
    "file": "nodon_artificer.png",
@@ -10946,9 +11448,10 @@
    "title": "File:Obsidian golem.png"
   },
   "odd_old_man": {
+   "chosen": "File:Odd Old Man (sack).png",
    "file": "odd_old_man.png",
    "name": "Odd Old Man",
-   "title": "File:Odd Old Man.png"
+   "title": "File:Odd Old Man (sack).png"
   },
   "ode_to_deceit": {
    "file": "ode_to_deceit.png",
@@ -11851,9 +12354,10 @@
    "title": "File:Orange salamander detail.png"
   },
   "orange_soporith_moth": {
+   "chosen": "File:Orange soporith moth detail.png",
    "file": "orange_soporith_moth.png",
    "name": "Orange soporith moth",
-   "title": "File:Orange soporith moth.png"
+   "title": "File:Orange soporith moth detail.png"
   },
   "orange_tree_seed": {
    "file": "orange_tree_seed.png",
@@ -11978,9 +12482,10 @@
    "title": "File:Paddlington Badger.png"
   },
   "pale_wisp": {
+   "chosen": "File:Pale spring.png",
    "file": "pale_wisp.png",
    "name": "Pale wisp",
-   "title": "File:Pale wisp.png"
+   "title": "File:Pale spring.png"
   },
   "palm_tree_seed": {
    "file": "palm_tree_seed.png",
@@ -11988,6 +12493,12 @@
    "processed": true,
    "raw": "palm_tree_seed.png",
    "title": "File:Palm tree seed detail.png"
+  },
+  "panning_archaeologist": {
+   "chosen": "File:Panning archaeologist (female).png",
+   "file": "panning_archaeologist.png",
+   "name": "Panning archaeologist",
+   "title": "File:Panning archaeologist (female).png"
   },
   "panning_guide": {
    "file": "panning_guide.png",
@@ -12074,9 +12585,10 @@
    "title": "File:'Perfect' gold ore detail.png"
   },
   "perien_the_blue": {
+   "chosen": "File:Perian the Blue.png",
    "file": "perien_the_blue.png",
    "name": "Perien the Blue",
-   "title": "File:Perien the Blue chathead.png"
+   "title": "File:Perian the Blue.png"
   },
   "pet_of_autumn": {
    "file": "pet_of_autumn.png",
@@ -12192,6 +12704,12 @@
    "name": "Pickpocketing trainer",
    "title": "File:Pickpocketing trainer.png"
   },
+  "pickpocketing_volunteer": {
+   "chosen": "File:Pickpocketing volunteer (hooded).png",
+   "file": "pickpocketing_volunteer.png",
+   "name": "Pickpocketing volunteer",
+   "title": "File:Pickpocketing volunteer (hooded).png"
+  },
   "pig": {
    "file": "pig.png",
    "name": "Pig",
@@ -12215,9 +12733,10 @@
    "title": "File:Pike detail.png"
   },
   "pillory_guard": {
+   "chosen": "File:Pillory guard (Draynor Bank Robbery).png",
    "file": "pillory_guard.png",
    "name": "Pillory guard",
-   "title": "File:Pillory guard.png"
+   "title": "File:Pillory guard (Draynor Bank Robbery).png"
   },
   "pineapple_seed": {
    "file": "pineapple_seed.png",
@@ -12304,9 +12823,10 @@
    "title": "File:Poison spider.png"
   },
   "polar_kebbit": {
+   "chosen": "File:Polar kebbit (box trap).png",
    "file": "polar_kebbit.png",
    "name": "Polar kebbit",
-   "title": "File:Polar kebbit.png"
+   "title": "File:Polar kebbit (box trap).png"
   },
   "polypore_staff": {
    "file": "polypore_staff.png",
@@ -12465,9 +12985,16 @@
    "title": "File:Primed keris detail.png"
   },
   "princess_fort_forinthry": {
+   "chosen": "File:Princess (Murder on the Border).png",
    "file": "princess_fort_forinthry.png",
    "name": "Princess (Fort Forinthry)",
-   "title": "File:Princess (Fort Forinthry) chathead.png"
+   "title": "File:Princess (Murder on the Border).png"
+  },
+  "professor_archaeology_campus": {
+   "chosen": "File:Professor (Archaeology).png",
+   "file": "professor_archaeology_campus.png",
+   "name": "Professor (Archaeology Campus)",
+   "title": "File:Professor (Archaeology).png"
   },
   "professor_henry": {
    "file": "professor_henry.png",
@@ -12580,6 +13107,12 @@
    "name": "Protector",
    "title": "File:Protector.png"
   },
+  "prototype_colossus": {
+   "chosen": "File:Prototype colossus mk III.png",
+   "file": "prototype_colossus.png",
+   "name": "Prototype colossus",
+   "title": "File:Prototype colossus mk III.png"
+  },
   "puddles": {
    "file": "puddles.png",
    "name": "Puddles",
@@ -12607,10 +13140,10 @@
   "purple_cat": {
    "file": "purple_cat.png",
    "name": "Purple cat",
-   "pet": true,
+   "named": true,
    "processed": true,
    "raw": "purple_cat.png",
-   "title": "File:Pet kitten (purple) pet.png"
+   "title": "File:Pet cat (purple) pet.png"
   },
   "purple_logs": {
    "file": "purple_logs.png",
@@ -12620,9 +13153,10 @@
    "title": "File:Purple logs detail.png"
   },
   "purple_soporith_moth": {
+   "chosen": "File:Purple soporith moth detail.png",
    "file": "purple_soporith_moth.png",
    "name": "Purple soporith moth",
-   "title": "File:Purple soporith moth.png"
+   "title": "File:Purple soporith moth detail.png"
   },
   "pyre_logs": {
    "file": "pyre_logs.png",
@@ -12642,9 +13176,10 @@
    "title": "File:Pyrefiend (Soul Wars).png"
   },
   "pyrefiend_undercity": {
+   "chosen": "File:Pyrefiend (The Zamorakian Undercity).png",
    "file": "pyrefiend_undercity.png",
    "name": "Pyrefiend (Undercity)",
-   "title": "File:Pyrefiend.png"
+   "title": "File:Pyrefiend (The Zamorakian Undercity).png"
   },
   "pyrelord": {
    "file": "pyrelord.png",
@@ -12712,6 +13247,12 @@
    "processed": true,
    "raw": "ralph.png",
    "title": "File:Ralph (pet).png"
+  },
+  "ramokee_skinweaver_polypore": {
+   "chosen": "File:Ramokee Skinweaver (Polypore Dungeon).png",
+   "file": "ramokee_skinweaver_polypore.png",
+   "name": "Ramokee Skinweaver (Polypore)",
+   "title": "File:Ramokee Skinweaver (Polypore Dungeon).png"
   },
   "ramsay": {
    "file": "ramsay.png",
@@ -13080,6 +13621,12 @@
    "raw": "red_chinchompa.png",
    "title": "File:Red chinchompa detail.png"
   },
+  "red_dragon": {
+   "chosen": "File:Red dragon (1).png",
+   "file": "red_dragon.png",
+   "name": "Red dragon",
+   "title": "File:Red dragon (1).png"
+  },
   "red_jewel": {
    "file": "red_jewel.png",
    "name": "Red jewel",
@@ -13123,9 +13670,10 @@
    "title": "File:Red sandstone detail.png"
   },
   "red_soporith_moth": {
+   "chosen": "File:Red soporith moth detail.png",
    "file": "red_soporith_moth.png",
    "name": "Red soporith moth",
-   "title": "File:Red soporith moth.png"
+   "title": "File:Red soporith moth detail.png"
   },
   "red_topaz": {
    "file": "red_topaz.png",
@@ -13184,6 +13732,12 @@
    "name": "Reldo",
    "title": "File:Reldo.png"
   },
+  "relobo_blinyo": {
+   "chosen": "File:Relobo Blinyo (logs).png",
+   "file": "relobo_blinyo.png",
+   "name": "Relobo Blinyo",
+   "title": "File:Relobo Blinyo (logs).png"
+  },
   "relomia_emissary_of_sliske": {
    "file": "relomia_emissary_of_sliske.png",
    "name": "Relomia, Emissary of Sliske",
@@ -13220,9 +13774,10 @@
    "title": "File:Retired tool leprechaun.png"
   },
   "richard": {
+   "chosen": "File:Richard (cape merchant).png",
    "file": "richard.png",
    "name": "Richard",
-   "title": "File:Richard chathead.png"
+   "title": "File:Richard (cape merchant).png"
   },
   "richie": {
    "file": "richie.png",
@@ -13230,7 +13785,7 @@
    "named": true,
    "processed": true,
    "raw": "richie.png",
-   "title": "File:Richie (Red) pet.png"
+   "title": "File:Richie (NPC).png"
   },
   "ripper_claw": {
    "file": "ripper_claw.png",
@@ -13238,6 +13793,12 @@
    "processed": true,
    "raw": "ripper_claw.png",
    "title": "File:Ripper claw detail.png"
+  },
+  "ripper_demon": {
+   "chosen": "File:Ripper demon.png",
+   "file": "ripper_demon.png",
+   "name": "Ripper Demon",
+   "title": "File:Ripper demon.png"
   },
   "river_troll": {
    "file": "river_troll.png",
@@ -13793,9 +14354,10 @@
    "title": "File:Sanguine imp.png"
   },
   "sani": {
+   "chosen": "File:Sani (Smithing Tutor).png",
    "file": "sani.png",
    "name": "Sani",
-   "title": "File:Sani chathead.png"
+   "title": "File:Sani (Smithing Tutor).png"
   },
   "santar_spawnling": {
    "file": "santar_spawnling.png",
@@ -13818,7 +14380,7 @@
    "named": true,
    "processed": true,
    "raw": "sapping_glacyte.png",
-   "title": "File:Sapping glacyte (Extinction).png"
+   "title": "File:Sapping glacyte.png"
   },
   "sara_onnear": {
    "file": "sara_onnear.png",
@@ -13893,6 +14455,12 @@
    "file": "schoolboy.png",
    "name": "Schoolboy",
    "title": "File:Schoolboy.png"
+  },
+  "schoolgirl": {
+   "chosen": "File:Schoolgirl (5).png",
+   "file": "schoolgirl.png",
+   "name": "Schoolgirl",
+   "title": "File:Schoolgirl (5).png"
   },
   "scorpion": {
    "file": "scorpion.png",
@@ -14110,6 +14678,12 @@
    "raw": "shadow_glaive.png",
    "title": "File:Shadow glaive detail.png"
   },
+  "shadow_hound": {
+   "chosen": "File:Shadow hound.png",
+   "file": "shadow_hound.png",
+   "name": "Shadow Hound",
+   "title": "File:Shadow hound.png"
+  },
   "shadow_spider": {
    "file": "shadow_spider.png",
    "name": "Shadow spider",
@@ -14185,9 +14759,10 @@
    "title": "File:Sheep.png"
   },
   "sheepdog": {
+   "chosen": "File:Sheepdog puppy (yellow) pet.png",
    "file": "sheepdog.png",
    "name": "Sheepdog",
-   "title": "File:Sheepdog.png"
+   "title": "File:Sheepdog puppy (yellow) pet.png"
   },
   "shengo_seed": {
    "file": "shengo_seed.png",
@@ -14335,9 +14910,10 @@
    "title": "File:Sir Tiffy Cashien.png"
   },
   "sir_vant": {
+   "chosen": "File:Sir Vant (Unstable Foundations, defence).png",
    "file": "sir_vant.png",
    "name": "Sir Vant",
-   "title": "File:Sir Vant.png"
+   "title": "File:Sir Vant (Unstable Foundations, defence).png"
   },
   "sir_vyvin": {
    "file": "sir_vyvin.png",
@@ -14358,14 +14934,16 @@
    "title": "File:Skeletal shielder.png"
   },
   "skeleton": {
+   "chosen": "File:Skeleton (level 15).png",
    "file": "skeleton.png",
    "name": "Skeleton",
-   "title": "File:Skeleton.png"
+   "title": "File:Skeleton (level 15).png"
   },
   "skeleton_archer": {
+   "chosen": "File:Skeleton archer (Ancient Awakening, 1).png",
    "file": "skeleton_archer.png",
    "name": "Skeleton archer",
-   "title": "File:Skeleton archer.png"
+   "title": "File:Skeleton archer (Ancient Awakening, 1).png"
   },
   "skeleton_champion": {
    "file": "skeleton_champion.png",
@@ -14373,9 +14951,10 @@
    "title": "File:Skeleton Champion.png"
   },
   "skeleton_city_of_um": {
+   "chosen": "File:Skeleton (City of Um, fishing).png",
    "file": "skeleton_city_of_um.png",
    "name": "Skeleton (City of Um)",
-   "title": "File:Skeleton (City of Um).png"
+   "title": "File:Skeleton (City of Um, fishing).png"
   },
   "skeleton_draynor_manor": {
    "file": "skeleton_draynor_manor.png",
@@ -14415,9 +14994,10 @@
    "title": "File:Skull sceptre detail.png"
   },
   "skulls_mercenary": {
+   "chosen": "File:Skulls mercenary2.png",
    "file": "skulls_mercenary.png",
    "name": "Skulls mercenary",
-   "title": "File:Skulls mercenary.png"
+   "title": "File:Skulls mercenary2.png"
   },
   "slaughtercress": {
    "file": "slaughtercress.png",
@@ -14532,9 +15112,10 @@
    "title": "File:Soggy tin ore detail.png"
   },
   "soran_emissary_of_zaros": {
+   "chosen": "File:Soran.png",
    "file": "soran_emissary_of_zaros.png",
    "name": "Soran, Emissary of Zaros",
-   "title": "File:Soran, Emissary of Zaros chathead.png"
+   "title": "File:Soran.png"
   },
   "sostratus": {
    "file": "sostratus.png",
@@ -14547,9 +15128,10 @@
    "title": "File:Soul esswraith.png"
   },
   "soul_fragment": {
+   "chosen": "File:Soul fragment (Sanctum of Rebirth).png",
    "file": "soul_fragment.png",
    "name": "Soul fragment",
-   "title": "File:Soul fragment.png"
+   "title": "File:Soul fragment (Sanctum of Rebirth).png"
   },
   "soul_obelisk": {
    "file": "soul_obelisk.png",
@@ -14557,7 +15139,7 @@
    "named": true,
    "processed": true,
    "raw": "soul_obelisk.png",
-   "title": "File:Soul Obelisk.png"
+   "title": "File:Soul obelisk (Rasial).png"
   },
   "soul_rune": {
    "file": "soul_rune.png",
@@ -14761,9 +15343,10 @@
    "title": "File:Spirit larupia.png"
   },
   "spirit_marauder": {
+   "chosen": "File:Spirit Marauder (ranged).png",
    "file": "spirit_marauder.png",
    "name": "Spirit Marauder",
-   "title": "File:Spirit Marauder chathead.png"
+   "title": "File:Spirit Marauder (ranged).png"
   },
   "spirit_mosquito": {
    "file": "spirit_mosquito.png",
@@ -14866,9 +15449,10 @@
    "title": "File:Spiritbloom orb detail.png"
   },
   "spit_goblin": {
-   "file": "spit_goblin.png",
+   "chosen": "File:SpitGoblin.gif",
+   "file": "spit_goblin.gif",
    "name": "Spit goblin",
-   "title": "File:Spit goblin chathead.png"
+   "title": "File:SpitGoblin.gif"
   },
   "split_log": {
    "file": "split_log.png",
@@ -14921,9 +15505,10 @@
    "title": "File:Squire Fyre.png"
   },
   "squirrel": {
+   "chosen": "File:Baby squirrel (light grey) pet.png",
    "file": "squirrel.png",
    "name": "Squirrel",
-   "title": "File:Squirrel.png"
+   "title": "File:Baby squirrel (light grey) pet.png"
   },
   "staff": {
    "file": "staff.png",
@@ -15031,9 +15616,10 @@
    "title": "File:Staff of water detail.png"
   },
   "stag": {
+   "chosen": "File:Stag (NPC).png",
    "file": "stag.png",
    "name": "Stag",
-   "title": "File:Stag.png"
+   "title": "File:Stag (NPC).png"
   },
   "stag_enchanted_valley": {
    "file": "stag_enchanted_valley.png",
@@ -15053,9 +15639,10 @@
   "starbloom_flower_seed": {
    "file": "starbloom_flower_seed.png",
    "name": "Starbloom flower seed",
+   "named": true,
    "processed": true,
    "raw": "starbloom_flower_seed.png",
-   "title": "File:Starbloom flower seed 1.png"
+   "title": "File:Starbloom flower seed 5 detail.png"
   },
   "stardust": {
    "file": "stardust.png",
@@ -15354,9 +15941,10 @@
    "title": "File:Strawberry seed detail.png"
   },
   "stray_dog_fort_forinthry": {
+   "chosen": "File:Stray dog.png",
    "file": "stray_dog_fort_forinthry.png",
    "name": "Stray dog (Fort Forinthry)",
-   "title": "File:Stray dog (Fort Forinthry).png"
+   "title": "File:Stray dog.png"
   },
   "strykebow": {
    "file": "strykebow.png",
@@ -15364,6 +15952,12 @@
    "processed": true,
    "raw": "strykebow.png",
    "title": "File:Strykebow detail.png"
+  },
+  "student": {
+   "chosen": "File:Student (1).png",
+   "file": "student.png",
+   "name": "Student",
+   "title": "File:Student (1).png"
   },
   "suak": {
    "file": "suak.png",
@@ -15390,6 +15984,12 @@
    "processed": true,
    "raw": "sunspear.png",
    "title": "File:Sunspear detail.png"
+  },
+  "super_cow": {
+   "chosen": "File:Cow (2).png",
+   "file": "super_cow.png",
+   "name": "Super Cow",
+   "title": "File:Cow (2).png"
   },
   "superior_ancient_mace": {
    "file": "superior_ancient_mace.png",
@@ -15628,9 +16228,10 @@
    "title": "File:Tanglefoot.png"
   },
   "tanner": {
+   "chosen": "File:Varrock Tanner.png",
    "file": "tanner.png",
    "name": "Tanner",
-   "title": "File:Tanner chathead.png"
+   "title": "File:Varrock Tanner.png"
   },
   "tarquin": {
    "file": "tarquin.png",
@@ -15660,9 +16261,16 @@
    "title": "File:Tavia.png"
   },
   "tea_seller": {
+   "chosen": "File:Tea Seller.png",
    "file": "tea_seller.png",
    "name": "Tea seller",
-   "title": "File:Tea seller chathead.png"
+   "title": "File:Tea Seller.png"
+  },
+  "teacher_and_pupil": {
+   "chosen": "File:Teacher and pupil (female).png",
+   "file": "teacher_and_pupil.png",
+   "name": "Teacher and pupil",
+   "title": "File:Teacher and pupil (female).png"
   },
   "teacher_wand": {
    "file": "teacher_wand.png",
@@ -15703,9 +16311,10 @@
    "title": "File:Tellervo's net detail.png"
   },
   "temple_knight_monolith": {
+   "chosen": "File:Temple Knight (Battle of the Monolith, male).png",
    "file": "temple_knight_monolith.png",
    "name": "Temple Knight (Monolith)",
-   "title": "File:Temple Knight.png"
+   "title": "File:Temple Knight (Battle of the Monolith, male).png"
   },
   "terrasaur_maul": {
    "file": "terrasaur_maul.png",
@@ -15747,9 +16356,10 @@
    "title": "File:Tetsu wakizashi detail.png"
   },
   "thaerisk_cemphier": {
+   "chosen": "File:Thaerisk Cemphier (Battle of the Monolith).png",
    "file": "thaerisk_cemphier.png",
    "name": "Thaerisk Cemphier",
-   "title": "File:Thaerisk Cemphier.png"
+   "title": "File:Thaerisk Cemphier (Battle of the Monolith).png"
   },
   "thalmund": {
    "file": "thalmund.png",
@@ -15772,14 +16382,22 @@
    "title": "File:The Gate of Elidinis.png"
   },
   "the_navigator": {
+   "chosen": "File:Duncan.png",
    "file": "the_navigator.png",
    "name": "The Navigator",
-   "title": "File:The Navigator chathead.png"
+   "title": "File:Duncan.png"
+  },
+  "the_partner": {
+   "chosen": "File:John Strum.png",
+   "file": "the_partner.png",
+   "name": "The Partner",
+   "title": "File:John Strum.png"
   },
   "the_raptor": {
+   "chosen": "File:The Raptor (combat stance).png",
    "file": "the_raptor.png",
    "name": "The Raptor",
-   "title": "File:The Raptor.png"
+   "title": "File:The Raptor (combat stance).png"
   },
   "the_spirit_of_accomplishment": {
    "file": "the_spirit_of_accomplishment.png",
@@ -15798,6 +16416,12 @@
    "name": "The Spirit of Mastery",
    "title": "File:The Spirit of Mastery.png"
   },
+  "the_spirit_of_rhythm": {
+   "chosen": "File:The Spirit of Rhythm (drums).png",
+   "file": "the_spirit_of_rhythm.png",
+   "name": "The Spirit of Rhythm",
+   "title": "File:The Spirit of Rhythm (drums).png"
+  },
   "thessalia": {
    "file": "thessalia.png",
    "name": "Thessalia",
@@ -15809,9 +16433,10 @@
    "title": "File:Thias Leacke.png"
   },
   "thief": {
+   "chosen": "File:Thief (Varrock, 1).png",
    "file": "thief.png",
    "name": "Thief",
-   "title": "File:Thief.png"
+   "title": "File:Thief (Varrock, 1).png"
   },
   "thigat_branches": {
    "file": "thigat_branches.png",
@@ -16074,6 +16699,12 @@
    "name": "Torzek",
    "title": "File:Torzek.png"
   },
+  "town_crier": {
+   "chosen": "File:Town crier (light blue).png",
+   "file": "town_crier.png",
+   "name": "Town crier",
+   "title": "File:Town crier (light blue).png"
+  },
   "toy_kite": {
    "file": "toy_kite.png",
    "name": "Toy kite",
@@ -16081,10 +16712,22 @@
    "raw": "toy_kite.png",
    "title": "File:Toy kite detail.png"
   },
+  "trader_crewmember": {
+   "chosen": "File:Trader Crewmember (male, black).png",
+   "file": "trader_crewmember.png",
+   "name": "Trader Crewmember",
+   "title": "File:Trader Crewmember (male, black).png"
+  },
   "trainee": {
    "file": "trainee.png",
    "name": "Trainee",
    "title": "File:Trainee.png"
+  },
+  "trainee_archaeologist": {
+   "chosen": "File:Trainee archaeologist (male).png",
+   "file": "trainee_archaeologist.png",
+   "name": "Trainee archaeologist",
+   "title": "File:Trainee archaeologist (male).png"
   },
   "trainee_guard": {
    "file": "trainee_guard.png",
@@ -16108,15 +16751,22 @@
    "raw": "treasure_flag.png",
    "title": "File:Treasure flag detail.png"
   },
+  "tree_spirit_enchanted_valley": {
+   "chosen": "File:Tree spirit (random event).png",
+   "file": "tree_spirit_enchanted_valley.png",
+   "name": "Tree spirit (Enchanted Valley)",
+   "title": "File:Tree spirit (random event).png"
+  },
   "treznor": {
    "file": "treznor.png",
    "name": "Treznor",
    "title": "File:Treznor.png"
   },
   "trial_announcer_new_varrock": {
+   "chosen": "File:Trial Announcer (zombie).png",
    "file": "trial_announcer_new_varrock.png",
    "name": "Trial announcer (New Varrock)",
-   "title": "File:Trial announcer (New Varrock) chathead.png"
+   "title": "File:Trial Announcer (zombie).png"
   },
   "troll_brute_senntisten": {
    "file": "troll_brute_senntisten.png",
@@ -16127,6 +16777,12 @@
    "file": "troll_lout_senntisten.png",
    "name": "Troll lout (Senntisten)",
    "title": "File:Troll lout (Senntisten).png"
+  },
+  "troll_pillager": {
+   "chosen": "File:Troll Pillager (melee).png",
+   "file": "troll_pillager.png",
+   "name": "Troll Pillager",
+   "title": "File:Troll Pillager (melee).png"
   },
   "trout": {
    "file": "trout.png",
@@ -16160,9 +16816,10 @@
    "title": "File:Turgok.png"
   },
   "turoth": {
+   "chosen": "File:Turoth (young).png",
    "file": "turoth.png",
    "name": "Turoth",
-   "title": "File:Turoth.png"
+   "title": "File:Turoth (young).png"
   },
   "twisted_firestarter": {
    "file": "twisted_firestarter.png",
@@ -16173,9 +16830,10 @@
    "title": "File:Twisted Firestarter pet.png"
   },
   "tyke": {
+   "chosen": "File:Tyke (goblin).png",
    "file": "tyke.png",
    "name": "Tyke",
-   "title": "File:Tyke.png"
+   "title": "File:Tyke (goblin).png"
   },
   "tzekhaaraken": {
    "file": "tzekhaaraken.png",
@@ -16213,7 +16871,7 @@
    "named": true,
    "processed": true,
    "raw": "tzekhaarmej_disciple.png",
-   "title": "File:TzekHaar-Mej disciple (Extinction).png"
+   "title": "File:TzekHaar-Mej Disciple.png"
   },
   "tzekhaartokxil": {
    "file": "tzekhaartokxil.png",
@@ -16277,9 +16935,10 @@
    "title": "File:Ugune seed detail.png"
   },
   "umbra": {
+   "chosen": "File:Umbra (Angel of Death).png",
    "file": "umbra.png",
    "name": "Umbra",
-   "title": "File:Umbra.png"
+   "title": "File:Umbra (Angel of Death).png"
   },
   "unbreakable_tzekhaarket": {
    "file": "unbreakable_tzekhaarket.png",
@@ -16371,14 +17030,33 @@
    "title": "File:Uncut sapphire detail.png"
   },
   "undead_cow": {
+   "chosen": "File:Undead cow (Flashback).png",
    "file": "undead_cow.png",
    "name": "Undead cow",
-   "title": "File:Undead cow.png"
+   "title": "File:Undead cow (Flashback).png"
+  },
+  "undead_crux_eqal_knight": {
+   "chosen": "File:Undead Crux Eqal knight (1).png",
+   "file": "undead_crux_eqal_knight.png",
+   "name": "Undead Crux Eqal knight",
+   "title": "File:Undead Crux Eqal knight (1).png"
+  },
+  "undead_elven_knight": {
+   "chosen": "File:Undead Elven Knight (1).png",
+   "file": "undead_elven_knight.png",
+   "name": "Undead Elven Knight",
+   "title": "File:Undead Elven Knight (1).png"
   },
   "undead_giant": {
    "file": "undead_giant.png",
    "name": "Undead giant",
    "title": "File:Undead giant.png"
+  },
+  "undead_temple_knight": {
+   "chosen": "File:Undead Temple Knight (1).png",
+   "file": "undead_temple_knight.png",
+   "name": "Undead Temple Knight",
+   "title": "File:Undead Temple Knight (1).png"
   },
   "unfinished_astral_rune": {
    "file": "unfinished_astral_rune.png",
@@ -16523,6 +17201,24 @@
    "name": "Varrock Captain",
    "title": "File:Varrock Captain.png"
   },
+  "varrock_guard_senntisten": {
+   "chosen": "File:Varrock Guard (Senntisten, 6).png",
+   "file": "varrock_guard_senntisten.png",
+   "name": "Varrock Guard (Senntisten)",
+   "title": "File:Varrock Guard (Senntisten, 6).png"
+  },
+  "varrock_sword_shop_asst": {
+   "chosen": "File:Shop assistant (Varrock Sword Shop).png",
+   "file": "varrock_sword_shop_asst.png",
+   "name": "Varrock Sword Shop Asst.",
+   "title": "File:Shop assistant (Varrock Sword Shop).png"
+  },
+  "varrock_sword_shop_keeper": {
+   "chosen": "File:Shopkeeper (Varrock Sword Shop).png",
+   "file": "varrock_sword_shop_keeper.png",
+   "name": "Varrock Sword Shop Keeper",
+   "title": "File:Shopkeeper (Varrock Sword Shop).png"
+  },
   "vasquen": {
    "file": "vasquen.png",
    "name": "Vasquen",
@@ -16623,9 +17319,10 @@
    "title": "File:Vorkath.png"
   },
   "vulture": {
+   "chosen": "File:Vulture (pink) pet.png",
    "file": "vulture.png",
    "name": "Vulture",
-   "title": "File:Vulture.png"
+   "title": "File:Vulture (pink) pet.png"
   },
   "vyrelady": {
    "file": "vyrelady.png",
@@ -16651,6 +17348,12 @@
    "processed": true,
    "raw": "walking_stick.png",
    "title": "File:Walking stick detail.png"
+  },
+  "wall": {
+   "chosen": "File:Wall (ghostly troll).png",
+   "file": "wall.png",
+   "name": "Wall",
+   "title": "File:Wall (ghostly troll).png"
   },
   "wall_beast": {
    "file": "wall_beast.png",
@@ -16753,9 +17456,10 @@
    "title": "File:Warped rat.png"
   },
   "warrior": {
+   "chosen": "File:Warrior (Lost City).png",
    "file": "warrior.png",
    "name": "Warrior",
-   "title": "File:Warrior chathead.png"
+   "title": "File:Warrior (Lost City).png"
   },
   "was": {
    "file": "was.png",
@@ -16803,9 +17507,10 @@
    "title": "File:Waterfiend.png"
   },
   "waterfiend_undercity": {
+   "chosen": "File:Waterfiend (The Zamorakian Undercity).png",
    "file": "waterfiend_undercity.png",
    "name": "Waterfiend (Undercity)",
-   "title": "File:Waterfiend.png"
+   "title": "File:Waterfiend (The Zamorakian Undercity).png"
   },
   "watermelon_seed": {
    "file": "watermelon_seed.png",
@@ -16832,9 +17537,10 @@
   "wendlewick_seed": {
    "file": "wendlewick_seed.png",
    "name": "Wendlewick seed",
+   "named": true,
    "processed": true,
    "raw": "wendlewick_seed.png",
-   "title": "File:Wendlewick seed 1 detail.png"
+   "title": "File:Wendlewick seed 5 detail.png"
   },
   "wendy": {
    "file": "wendy.png",
@@ -16891,9 +17597,10 @@
    "title": "File:White jewel detail.png"
   },
   "white_knight": {
+   "chosen": "File:White Knight (Initiate).png",
    "file": "white_knight.png",
    "name": "White Knight",
-   "title": "File:White Knight chathead.png"
+   "title": "File:White Knight (Initiate).png"
   },
   "white_lily_seed": {
    "file": "white_lily_seed.png",
@@ -16964,6 +17671,12 @@
    "processed": true,
    "raw": "white_warhammer.png",
    "title": "File:White warhammer detail.png"
+  },
+  "white_wolf": {
+   "chosen": "File:Wolf25.png",
+   "file": "white_wolf.png",
+   "name": "White wolf",
+   "title": "File:Wolf25.png"
   },
   "whiteberry_seed": {
    "file": "whiteberry_seed.png",
@@ -17099,9 +17812,10 @@
    "title": "File:Winter's grip seed detail.png"
   },
   "wise_old_man": {
+   "chosen": "File:Wise Old Man (Saradomin staff).png",
    "file": "wise_old_man.png",
    "name": "Wise Old Man",
-   "title": "File:Wise Old Man.png"
+   "title": "File:Wise Old Man (Saradomin staff).png"
   },
   "wizard": {
    "file": "wizard.png",
@@ -17181,9 +17895,10 @@
    "title": "File:Wizard (Runecrafting Guild).png"
   },
   "wizard_runespan": {
+   "chosen": "File:Wizard (Runespan, yellow).png",
    "file": "wizard_runespan.png",
    "name": "Wizard (Runespan)",
-   "title": "File:Wizard.png"
+   "title": "File:Wizard (Runespan, yellow).png"
   },
   "wizard_traiborn": {
    "file": "wizard_traiborn.png",
@@ -17208,9 +17923,16 @@
    "title": "File:Wizard wand detail.png"
   },
   "wizard_wizards_tower": {
+   "chosen": "File:Wizard (Wizard's Tower).png",
    "file": "wizard_wizards_tower.png",
    "name": "Wizard (Wizards' Tower)",
-   "title": "File:Wizard.png"
+   "title": "File:Wizard (Wizard's Tower).png"
+  },
+  "wizards_tower_mage": {
+   "chosen": "File:Wizards' Tower mage (female, 1).png",
+   "file": "wizards_tower_mage.png",
+   "name": "Wizards' Tower mage",
+   "title": "File:Wizards' Tower mage (female, 1).png"
   },
   "wizards_tower_master_mage": {
    "file": "wizards_tower_master_mage.png",
@@ -17226,6 +17948,12 @@
    "processed": true,
    "raw": "woad_seed.png",
    "title": "File:Woad seed detail.png"
+  },
+  "wolf": {
+   "chosen": "File:Wolf (Stronghold of Security, 1).png",
+   "file": "wolf.png",
+   "name": "Wolf",
+   "title": "File:Wolf (Stronghold of Security, 1).png"
   },
   "wolf_staff": {
    "file": "wolf_staff.png",
@@ -17332,9 +18060,10 @@
    "title": "File:Yanillian seed detail.png"
   },
   "yellow_soporith_moth": {
+   "chosen": "File:Yellow soporith moth detail.png",
    "file": "yellow_soporith_moth.png",
    "name": "Yellow soporith moth",
-   "title": "File:Yellow soporith moth.png"
+   "title": "File:Yellow soporith moth detail.png"
   },
   "yeti": {
    "file": "yeti.png",
@@ -17440,9 +18169,10 @@
    "title": "File:Zamorak mjolnir detail.png"
   },
   "zamorak_ranger": {
+   "chosen": "File:Zamorak ranger (2).png",
    "file": "zamorak_ranger.png",
    "name": "Zamorak ranger",
-   "title": "File:Zamorak ranger.png"
+   "title": "File:Zamorak ranger (2).png"
   },
   "zamorak_staff": {
    "file": "zamorak_staff.png",
@@ -17505,9 +18235,10 @@
    "title": "File:Zanaris choir.png"
   },
   "zanik": {
+   "chosen": "File:Zanik (Nomad's Elegy, crossbow).png",
    "file": "zanik.png",
    "name": "Zanik",
-   "title": "File:Zanik chathead.png"
+   "title": "File:Zanik (Nomad's Elegy, crossbow).png"
   },
   "zaniks_crossbow": {
    "file": "zaniks_crossbow.png",
@@ -17532,9 +18263,10 @@
    "title": "File:Zaromark Sliver.png"
   },
   "zaros": {
+   "chosen": "File:Zaros (Sliske's Endgame).png",
    "file": "zaros.png",
    "name": "Zaros",
-   "title": "File:Zaros.png"
+   "title": "File:Zaros (Sliske's Endgame).png"
   },
   "zaros_godsword": {
    "file": "zaros_godsword.png",
@@ -17556,9 +18288,10 @@
    "title": "File:Zebub.png"
   },
   "zemouregal": {
+   "chosen": "File:Zemouregal (skeletal).png",
    "file": "zemouregal.png",
    "name": "Zemouregal",
-   "title": "File:Zemouregal chathead.png"
+   "title": "File:Zemouregal (skeletal).png"
   },
   "zemouregal_apparition": {
    "file": "zemouregal_apparition.png",
@@ -17653,9 +18386,10 @@
    "title": "File:Zephyrium warhammer detail.png"
   },
   "zimberfizz": {
+   "chosen": "File:Zimberfizz (freed).png",
    "file": "zimberfizz.png",
    "name": "Zimberfizz",
-   "title": "File:Zimberfizz.png"
+   "title": "File:Zimberfizz (freed).png"
   },
   "zoe": {
    "file": "zoe.png",
@@ -17667,15 +18401,22 @@
    "name": "Zombie",
    "title": "File:Zombie.png"
   },
+  "zombie_banker": {
+   "chosen": "File:Zombie banker (2).png",
+   "file": "zombie_banker.png",
+   "name": "Zombie banker",
+   "title": "File:Zombie banker (2).png"
+  },
   "zombie_champion": {
    "file": "zombie_champion.png",
    "name": "Zombie Champion",
    "title": "File:Zombie Champion.png"
   },
   "zombie_city_of_um": {
+   "chosen": "File:Zombie (City of Um, female).png",
    "file": "zombie_city_of_um.png",
    "name": "Zombie (City of Um)",
-   "title": "File:Zombie.png"
+   "title": "File:Zombie (City of Um, female).png"
   },
   "zombie_impling": {
    "file": "zombie_impling.png",
@@ -17683,9 +18424,10 @@
    "title": "File:Zombie impling.png"
   },
   "zombie_knight_forinthry": {
+   "chosen": "File:Zombie knight (Battle of Forinthry).png",
    "file": "zombie_knight_forinthry.png",
    "name": "Zombie knight (Forinthry)",
-   "title": "File:Zombie knight.png"
+   "title": "File:Zombie knight (Battle of Forinthry).png"
   },
   "zombie_pirate_head": {
    "file": "zombie_pirate_head.png",
@@ -17693,9 +18435,16 @@
    "title": "File:Zombie pirate head.png"
   },
   "zombie_sos": {
+   "chosen": "File:Zombie (Stronghold of Security).png",
    "file": "zombie_sos.png",
    "name": "Zombie (SoS)",
-   "title": "File:Zombie.png"
+   "title": "File:Zombie (Stronghold of Security).png"
+  },
+  "zombie_warrior": {
+   "chosen": "File:Zombie warrior (Battle of Forinthry).png",
+   "file": "zombie_warrior.png",
+   "name": "Zombie warrior",
+   "title": "File:Zombie warrior (Battle of Forinthry).png"
   },
   "zommy_brains_walker": {
    "file": "zommy_brains_walker.png",
@@ -17714,228 +18463,571 @@
   "banner_carrier": [
    "Banner carrier (pet).png"
   ],
+  "bogwart_spore": [
+   "Bogwart spore 5 detail.png",
+   "Bogwart spore 4 detail.png",
+   "Bogwart spore 3 detail.png",
+   "Bogwart spore 2 detail.png"
+  ],
+  "devils_snare_seed": [
+   "Devil's snare seed 5 detail.png",
+   "Devil's snare seed 4 detail.png",
+   "Devil's snare seed 3 detail.png",
+   "Devil's snare seed 2 detail.png"
+  ],
   "dragon_wolf": [
    "Dragon Wolf (pet).png"
+  ],
+  "enriched_snapdragon_seed": [
+   "Enriched snapdragon seed 5 detail.png",
+   "Enriched snapdragon seed 4 detail.png",
+   "Enriched snapdragon seed 3 detail.png",
+   "Enriched snapdragon seed 2 detail.png"
+  ],
+  "gout_tuber": [
+   "Gout tuber 5 detail.png",
+   "Gout tuber 4 detail.png",
+   "Gout tuber 3 detail.png",
+   "Gout tuber 2 detail.png"
+  ],
+  "jade_vine_seed": [
+   "Jade vine seed 5 detail.png",
+   "Jade vine seed 4 detail.png",
+   "Jade vine seed 3 detail.png",
+   "Jade vine seed 2 detail.png"
+  ],
+  "jangerberry_seed": [
+   "Jangerberry seed 5 detail.png",
+   "Jangerberry seed 4 detail.png",
+   "Jangerberry seed 3 detail.png",
+   "Jangerberry seed 2 detail.png"
+  ],
+  "jitterberry_seed": [
+   "Jitterberry seed 5 detail.png",
+   "Jitterberry seed 4 detail.png",
+   "Jitterberry seed 3 detail.png",
+   "Jitterberry seed 2 detail.png"
+  ],
+  "jute_seed": [
+   "Jute seed 5 detail.png",
+   "Jute seed 4 detail.png",
+   "Jute seed 3 detail.png",
+   "Jute seed 2 detail.png"
+  ],
+  "kalferberry_seed": [
+   "Kalferberry seed 5 detail.png",
+   "Kalferberry seed 4 detail.png",
+   "Kalferberry seed 3 detail.png",
+   "Kalferberry seed 2 detail.png"
+  ],
+  "kelda_seed": [
+   "Kelda seed 5 detail.png",
+   "Kelda seed 4 detail.png",
+   "Kelda seed 3 detail.png",
+   "Kelda seed 2 detail.png"
+  ],
+  "krandorian_seed": [
+   "Krandorian seed 5 detail.png",
+   "Krandorian seed 4 detail.png",
+   "Krandorian seed 3 detail.png",
+   "Krandorian seed 2 detail.png"
+  ],
+  "kwuarm_seed": [
+   "Kwuarm seed 5 detail.png",
+   "Kwuarm seed 4 detail.png",
+   "Kwuarm seed 3 detail.png",
+   "Kwuarm seed 2 detail.png"
+  ],
+  "lampenflora_seed": [
+   "Lampenflora seed 5 detail.png",
+   "Lampenflora seed 4 detail.png",
+   "Lampenflora seed 3 detail.png",
+   "Lampenflora seed 2 detail.png"
+  ],
+  "lantadyme_seed": [
+   "Lantadyme seed 5 detail.png",
+   "Lantadyme seed 4 detail.png",
+   "Lantadyme seed 3 detail.png",
+   "Lantadyme seed 2 detail.png"
+  ],
+  "lergberry_seed": [
+   "Lergberry seed 5 detail.png",
+   "Lergberry seed 4 detail.png",
+   "Lergberry seed 3 detail.png",
+   "Lergberry seed 2 detail.png"
+  ],
+  "limpwurt_seed": [
+   "Limpwurt seed 5 detail.png",
+   "Limpwurt seed 4 detail.png",
+   "Limpwurt seed 3 detail.png",
+   "Limpwurt seed 2 detail.png"
+  ],
+  "liverwort_seed": [
+   "Liverwort seed 5 detail.png",
+   "Liverwort seed 4 detail.png",
+   "Liverwort seed 3 detail.png",
+   "Liverwort seed 2 detail.png"
+  ],
+  "luminous_snaggler_seed": [
+   "Luminous snaggler seed 5 detail.png",
+   "Luminous snaggler seed 4 detail.png",
+   "Luminous snaggler seed 3 detail.png",
+   "Luminous snaggler seed 2 detail.png"
+  ],
+  "lychee_seed": [
+   "Lychee seed 5 detail.png",
+   "Lychee seed 4 detail.png",
+   "Lychee seed 3 detail.png",
+   "Lychee seed 2 detail.png"
+  ],
+  "lycopus_seed": [
+   "Lycopus seed 5 detail.png",
+   "Lycopus seed 4 detail.png",
+   "Lycopus seed 3 detail.png",
+   "Lycopus seed 2 detail.png"
+  ],
+  "magebane_seed": [
+   "Magebane seed 5 detail.png",
+   "Magebane seed 4 detail.png",
+   "Magebane seed 3 detail.png",
+   "Magebane seed 2 detail.png"
+  ],
+  "magic_seed": [
+   "Magic seed 5 detail.png",
+   "Magic seed 4 detail.png",
+   "Magic seed 3 detail.png",
+   "Magic seed 2 detail.png"
+  ],
+  "mango_seed": [
+   "Mango seed 5 detail.png",
+   "Mango seed 4 detail.png",
+   "Mango seed 3 detail.png",
+   "Mango seed 2 detail.png"
+  ],
+  "maple_seed": [
+   "Maple seed 5 detail.png",
+   "Maple seed 4 detail.png",
+   "Maple seed 3 detail.png",
+   "Maple seed 2 detail.png"
+  ],
+  "marigold_seed": [
+   "Marigold seed 5 detail.png",
+   "Marigold seed 4 detail.png",
+   "Marigold seed 3 detail.png",
+   "Marigold seed 2 detail.png"
+  ],
+  "marrentill_seed": [
+   "Marrentill seed 5 detail.png",
+   "Marrentill seed 4 detail.png",
+   "Marrentill seed 3 detail.png",
+   "Marrentill seed 2 detail.png"
+  ],
+  "meloberry_seed": [
+   "Meloberry seed 5 detail.png",
+   "Meloberry seed 4 detail.png",
+   "Meloberry seed 3 detail.png",
+   "Meloberry seed 2 detail.png"
+  ],
+  "money_tree_seed": [
+   "Money tree seed 5 detail.png",
+   "Money tree seed 4 detail.png",
+   "Money tree seed 3 detail.png",
+   "Money tree seed 2 detail.png"
   ],
   "monkey_pet": [
    "Monkey (pet).png"
   ],
+  "morchella_mushroom_spore": [
+   "Morchella mushroom spore 5 detail.png",
+   "Morchella mushroom spore 4 detail.png",
+   "Morchella mushroom spore 3 detail.png",
+   "Morchella mushroom spore 2 detail.png"
+  ],
+  "mournberry_seed": [
+   "Mournberry seed 5 detail.png",
+   "Mournberry seed 4 detail.png",
+   "Mournberry seed 3 detail.png",
+   "Mournberry seed 2 detail.png"
+  ],
+  "mourning_lily_seed": [
+   "Mourning lily seed 5 detail.png",
+   "Mourning lily seed 4 detail.png",
+   "Mourning lily seed 3 detail.png",
+   "Mourning lily seed 2 detail.png"
+  ],
+  "nasturtium_seed": [
+   "Nasturtium seed 5 detail.png",
+   "Nasturtium seed 4 detail.png",
+   "Nasturtium seed 3 detail.png",
+   "Nasturtium seed 2 detail.png"
+  ],
+  "onion_seed": [
+   "Onion seed 5 detail.png",
+   "Onion seed 4 detail.png",
+   "Onion seed 3 detail.png",
+   "Onion seed 2 detail.png"
+  ],
+  "orange_tree_seed": [
+   "Orange tree seed 5 detail.png",
+   "Orange tree seed 4 detail.png",
+   "Orange tree seed 3 detail.png",
+   "Orange tree seed 2 detail.png"
+  ],
+  "orchid_seed_pink": [
+   "Orchid seed (pink) 5 detail.png",
+   "Orchid seed (pink) 4 detail.png",
+   "Orchid seed (pink) 3 detail.png",
+   "Orchid seed (pink) 2 detail.png"
+  ],
+  "orchid_seed_yellow": [
+   "Orchid seed (yellow) 5 detail.png",
+   "Orchid seed (yellow) 4 detail.png",
+   "Orchid seed (yellow) 3 detail.png",
+   "Orchid seed (yellow) 2 detail.png"
+  ],
+  "palm_tree_seed": [
+   "Palm tree seed 5 detail.png",
+   "Palm tree seed 4 detail.png",
+   "Palm tree seed 3 detail.png",
+   "Palm tree seed 2 detail.png"
+  ],
+  "papaya_tree_seed": [
+   "Papaya tree seed 5 detail.png",
+   "Papaya tree seed 4 detail.png",
+   "Papaya tree seed 3 detail.png",
+   "Papaya tree seed 2 detail.png"
+  ],
+  "pineapple_seed": [
+   "Pineapple seed 5 detail.png",
+   "Pineapple seed 4 detail.png",
+   "Pineapple seed 3 detail.png",
+   "Pineapple seed 2 detail.png"
+  ],
+  "pink_rose_seed": [
+   "Pink rose seed 5 detail.png",
+   "Pink rose seed 4 detail.png",
+   "Pink rose seed 3 detail.png",
+   "Pink rose seed 2 detail.png"
+  ],
+  "poison_ivy_seed": [
+   "Poison ivy seed 5 detail.png",
+   "Poison ivy seed 4 detail.png",
+   "Poison ivy seed 3 detail.png",
+   "Poison ivy seed 2 detail.png"
+  ],
+  "potato_cactus_seed": [
+   "Potato cactus seed 5 detail.png",
+   "Potato cactus seed 4 detail.png",
+   "Potato cactus seed 3 detail.png",
+   "Potato cactus seed 2 detail.png"
+  ],
+  "potato_seed": [
+   "Potato seed 5 detail.png",
+   "Potato seed 4 detail.png",
+   "Potato seed 3 detail.png",
+   "Potato seed 2 detail.png"
+  ],
+  "prickly_pear_seed": [
+   "Prickly pear seed 5 detail.png",
+   "Prickly pear seed 4 detail.png",
+   "Prickly pear seed 3 detail.png",
+   "Prickly pear seed 2 detail.png"
+  ],
   "prototype_colossus": [
    "Prototype colossus (pet).png"
+  ],
+  "ranarr_seed": [
+   "Ranarr seed 5 detail.png",
+   "Ranarr seed 4 detail.png",
+   "Ranarr seed 3 detail.png",
+   "Ranarr seed 2 detail.png"
+  ],
+  "red_blossom_seed": [
+   "Red blossom seed 5 detail.png",
+   "Red blossom seed 4 detail.png",
+   "Red blossom seed 3 detail.png",
+   "Red blossom seed 2 detail.png"
+  ],
+  "red_rose_seed": [
+   "Red rose seed 5 detail.png",
+   "Red rose seed 4 detail.png",
+   "Red rose seed 3 detail.png",
+   "Red rose seed 2 detail.png"
+  ],
+  "redberry_seed": [
+   "Redberry seed 5 detail.png",
+   "Redberry seed 4 detail.png",
+   "Redberry seed 3 detail.png",
+   "Redberry seed 2 detail.png"
+  ],
+  "reed_seed": [
+   "Reed seed 5 detail.png",
+   "Reed seed 4 detail.png",
+   "Reed seed 3 detail.png",
+   "Reed seed 2 detail.png"
+  ],
+  "rosaberry_seed": [
+   "Rosaberry seed 5 detail.png",
+   "Rosaberry seed 4 detail.png",
+   "Rosaberry seed 3 detail.png",
+   "Rosaberry seed 2 detail.png"
+  ],
+  "rosemary_seed": [
+   "Rosemary seed 5 detail.png",
+   "Rosemary seed 4 detail.png",
+   "Rosemary seed 3 detail.png",
+   "Rosemary seed 2 detail.png"
+  ],
+  "rumberry_seed": [
+   "Rumberry seed 5 detail.png",
+   "Rumberry seed 4 detail.png",
+   "Rumberry seed 3 detail.png",
+   "Rumberry seed 2 detail.png"
+  ],
+  "sagewort_seed": [
+   "Sagewort seed 5 detail.png",
+   "Sagewort seed 4 detail.png",
+   "Sagewort seed 3 detail.png",
+   "Sagewort seed 2 detail.png"
+  ],
+  "samaden_seed": [
+   "Samaden seed 5 detail.png",
+   "Samaden seed 4 detail.png",
+   "Samaden seed 3 detail.png",
+   "Samaden seed 2 detail.png"
   ],
   "sheepdog": [
    "Sheepdog (pet).png"
   ],
+  "shengo_seed": [
+   "Shengo seed 5 detail.png",
+   "Shengo seed 4 detail.png",
+   "Shengo seed 3 detail.png",
+   "Shengo seed 2 detail.png"
+  ],
+  "smoulderberry_seed": [
+   "Smoulderberry seed 5 detail.png",
+   "Smoulderberry seed 4 detail.png",
+   "Smoulderberry seed 3 detail.png",
+   "Smoulderberry seed 2 detail.png"
+  ],
+  "snapdragon_seed": [
+   "Snapdragon seed 5 detail.png",
+   "Snapdragon seed 4 detail.png",
+   "Snapdragon seed 3 detail.png",
+   "Snapdragon seed 2 detail.png"
+  ],
+  "snape_grass_seed": [
+   "Snape grass seed 5 detail.png",
+   "Snape grass seed 4 detail.png",
+   "Snape grass seed 3 detail.png",
+   "Snape grass seed 2 detail.png"
+  ],
+  "snowdrop_seed": [
+   "Snowdrop seed 5 detail.png",
+   "Snowdrop seed 4 detail.png",
+   "Snowdrop seed 3 detail.png",
+   "Snowdrop seed 2 detail.png"
+  ],
+  "sourberry_seed": [
+   "Sourberry seed 5 detail.png",
+   "Sourberry seed 4 detail.png",
+   "Sourberry seed 3 detail.png",
+   "Sourberry seed 2 detail.png"
+  ],
+  "spirit_seed": [
+   "Spirit seed 5 detail.png",
+   "Spirit seed 4 detail.png",
+   "Spirit seed 3 detail.png",
+   "Spirit seed 2 detail.png"
+  ],
+  "spirit_weed_seed": [
+   "Spirit weed seed 5 detail.png",
+   "Spirit weed seed 4 detail.png",
+   "Spirit weed seed 3 detail.png",
+   "Spirit weed seed 2 detail.png"
+  ],
+  "squiffberry_seed": [
+   "Squiffberry seed 5 detail.png",
+   "Squiffberry seed 4 detail.png",
+   "Squiffberry seed 3 detail.png",
+   "Squiffberry seed 2 detail.png"
+  ],
   "squirrel": [
    "Squirrel (pet).png"
   ],
+  "stinkshroom_spore": [
+   "Stinkshroom spore 5 detail.png",
+   "Stinkshroom spore 4 detail.png",
+   "Stinkshroom spore 3 detail.png",
+   "Stinkshroom spore 2 detail.png"
+  ],
+  "stoneberry_seed": [
+   "Stoneberry seed 5 detail.png",
+   "Stoneberry seed 4 detail.png",
+   "Stoneberry seed 3 detail.png",
+   "Stoneberry seed 2 detail.png"
+  ],
+  "stormberry_seed": [
+   "Stormberry seed 5 detail.png",
+   "Stormberry seed 4 detail.png",
+   "Stormberry seed 3 detail.png",
+   "Stormberry seed 2 detail.png"
+  ],
+  "strawberry_seed": [
+   "Strawberry seed 5 detail.png",
+   "Strawberry seed 4 detail.png",
+   "Strawberry seed 3 detail.png",
+   "Strawberry seed 2 detail.png"
+  ],
+  "sunchoke_seed": [
+   "Sunchoke seed 5 detail.png",
+   "Sunchoke seed 4 detail.png",
+   "Sunchoke seed 3 detail.png",
+   "Sunchoke seed 2 detail.png"
+  ],
+  "sweetcorn_seed": [
+   "Sweetcorn seed 5 detail.png",
+   "Sweetcorn seed 4 detail.png",
+   "Sweetcorn seed 3 detail.png",
+   "Sweetcorn seed 2 detail.png"
+  ],
+  "tarromin_seed": [
+   "Tarromin seed 5 detail.png",
+   "Tarromin seed 4 detail.png",
+   "Tarromin seed 3 detail.png",
+   "Tarromin seed 2 detail.png"
+  ],
+  "toadflax_seed": [
+   "Toadflax seed 5 detail.png",
+   "Toadflax seed 4 detail.png",
+   "Toadflax seed 3 detail.png",
+   "Toadflax seed 2 detail.png"
+  ],
+  "tomato_seed": [
+   "Tomato seed 5 detail.png",
+   "Tomato seed 4 detail.png",
+   "Tomato seed 3 detail.png",
+   "Tomato seed 2 detail.png"
+  ],
+  "tombshroom_spore": [
+   "Tombshroom spore 5 detail.png",
+   "Tombshroom spore 4 detail.png",
+   "Tombshroom spore 3 detail.png",
+   "Tombshroom spore 2 detail.png"
+  ],
+  "torstol_seed": [
+   "Torstol seed 5 detail.png",
+   "Torstol seed 4 detail.png",
+   "Torstol seed 3 detail.png",
+   "Torstol seed 2 detail.png"
+  ],
+  "ugune_seed": [
+   "Ugune seed 5 detail.png",
+   "Ugune seed 4 detail.png",
+   "Ugune seed 3 detail.png",
+   "Ugune seed 2 detail.png"
+  ],
+  "valerian_seed": [
+   "Valerian seed 5 detail.png",
+   "Valerian seed 4 detail.png",
+   "Valerian seed 3 detail.png",
+   "Valerian seed 2 detail.png"
+  ],
+  "vine_seed": [
+   "Vine seed 5 detail.png",
+   "Vine seed 4 detail.png",
+   "Vine seed 3 detail.png",
+   "Vine seed 2 detail.png"
+  ],
   "vulture": [
    "Vulture (pet).png"
+  ],
+  "watermelon_seed": [
+   "Watermelon seed 5 detail.png",
+   "Watermelon seed 4 detail.png",
+   "Watermelon seed 3 detail.png",
+   "Watermelon seed 2 detail.png"
+  ],
+  "wergali_seed": [
+   "Wergali seed 5 detail.png",
+   "Wergali seed 4 detail.png",
+   "Wergali seed 3 detail.png",
+   "Wergali seed 2 detail.png"
+  ],
+  "white_lily_seed": [
+   "White lily seed 5 detail.png",
+   "White lily seed 4 detail.png",
+   "White lily seed 3 detail.png",
+   "White lily seed 2 detail.png"
+  ],
+  "white_rose_seed": [
+   "White rose seed 5 detail.png",
+   "White rose seed 4 detail.png",
+   "White rose seed 3 detail.png",
+   "White rose seed 2 detail.png"
+  ],
+  "white_tree_shoot": [
+   "White tree shoot 5 detail.png",
+   "White tree shoot 4 detail.png",
+   "White tree shoot 3 detail.png",
+   "White tree shoot 2 detail.png"
+  ],
+  "whiteberry_seed": [
+   "Whiteberry seed 5 detail.png",
+   "Whiteberry seed 4 detail.png",
+   "Whiteberry seed 3 detail.png",
+   "Whiteberry seed 2 detail.png"
+  ],
+  "wildblood_seed": [
+   "Wildblood seed 5 detail.png",
+   "Wildblood seed 4 detail.png",
+   "Wildblood seed 3 detail.png",
+   "Wildblood seed 2 detail.png"
+  ],
+  "willow_seed": [
+   "Willow seed 5 detail.png",
+   "Willow seed 4 detail.png",
+   "Willow seed 3 detail.png",
+   "Willow seed 2 detail.png"
+  ],
+  "winters_grip_seed": [
+   "Winter's grip seed 5 detail.png",
+   "Winter's grip seed 4 detail.png",
+   "Winter's grip seed 3 detail.png",
+   "Winter's grip seed 2 detail.png"
+  ],
+  "woad_seed": [
+   "Woad seed 5 detail.png",
+   "Woad seed 4 detail.png",
+   "Woad seed 3 detail.png",
+   "Woad seed 2 detail.png"
+  ],
+  "wormwood_seed": [
+   "Wormwood seed 5 detail.png",
+   "Wormwood seed 4 detail.png",
+   "Wormwood seed 3 detail.png",
+   "Wormwood seed 2 detail.png"
+  ],
+  "yanillian_seed": [
+   "Yanillian seed 5 detail.png",
+   "Yanillian seed 4 detail.png",
+   "Yanillian seed 3 detail.png",
+   "Yanillian seed 2 detail.png"
+  ],
+  "yew_seed": [
+   "Yew seed 5 detail.png",
+   "Yew seed 4 detail.png",
+   "Yew seed 3 detail.png",
+   "Yew seed 2 detail.png"
   ]
  },
  "missing": {
-  "animated_spade": {
-   "name": "Animated spade",
-   "tried": [
-    "Animated spade.png",
-    "Animated spade chathead.png"
-   ]
-  },
-  "archaeologist_excavation": {
-   "name": "Archaeologist (excavation)",
-   "tried": [
-    "Archaeologist (excavation).png",
-    "Archaeologist.png",
-    "Archaeologist (excavation) chathead.png",
-    "Archaeologist chathead.png"
-   ]
-  },
-  "attendee": {
-   "name": "Attendee",
-   "tried": [
-    "Attendee.png",
-    "Attendee chathead.png"
-   ]
-  },
-  "baby_raccoon": {
-   "name": "Baby raccoon",
-   "tried": [
-    "Baby raccoon.png",
-    "Baby raccoon chathead.png"
-   ]
-  },
-  "baby_squirrel": {
-   "name": "Baby squirrel",
-   "tried": [
-    "Baby squirrel.png",
-    "Baby squirrel chathead.png"
-   ]
-  },
-  "banker_fairy": {
-   "name": "Banker (fairy)",
-   "tried": [
-    "Banker (fairy).png",
-    "Banker.png",
-    "Banker (fairy) chathead.png",
-    "Banker chathead.png"
-   ]
-  },
-  "barbarian": {
-   "name": "Barbarian",
-   "tried": [
-    "Barbarian.png",
-    "Barbarian chathead.png"
-   ]
-  },
-  "big_frog": {
-   "name": "Big frog",
-   "tried": [
-    "Big frog.png",
-    "Big frog chathead.png"
-   ]
-  },
-  "big_wolf": {
-   "name": "Big Wolf",
-   "tried": [
-    "Big Wolf.png",
-    "Big Wolf chathead.png"
-   ]
-  },
-  "black_lamb": {
-   "name": "Black Lamb",
-   "tried": [
-    "Black Lamb.png",
-    "Black Lamb chathead.png"
-   ]
-  },
-  "bob_barter": {
-   "name": "Bob Barter",
-   "tried": [
-    "Bob Barter.png",
-    "Bob Barter chathead.png"
-   ]
-  },
-  "butterfly": {
-   "name": "Butterfly",
-   "tried": [
-    "Butterfly.png",
-    "Butterfly chathead.png"
-   ]
-  },
-  "cave_bug": {
-   "name": "Cave bug",
-   "tried": [
-    "Cave bug.png",
-    "Cave bug chathead.png"
-   ]
-  },
   "cave_goblin": {
    "name": "Cave goblin",
    "tried": [
     "Cave goblin.png",
     "Cave goblin chathead.png"
-   ]
-  },
-  "centaur": {
-   "name": "Centaur",
-   "tried": [
-    "Centaur.png",
-    "Centaur chathead.png"
-   ]
-  },
-  "chaos_druid": {
-   "name": "Chaos druid",
-   "tried": [
-    "Chaos druid.png",
-    "Chaos druid chathead.png"
-   ]
-  },
-  "colonised_lumbridge_guard": {
-   "name": "Colonised Lumbridge guard",
-   "tried": [
-    "Colonised Lumbridge guard.png",
-    "Colonised Lumbridge guard chathead.png"
-   ]
-  },
-  "colonised_varrock_guard": {
-   "name": "Colonised Varrock guard",
-   "tried": [
-    "Colonised Varrock guard.png",
-    "Colonised Varrock guard chathead.png"
-   ]
-  },
-  "crawling_hand": {
-   "name": "Crawling hand",
-   "tried": [
-    "Crawling hand.png",
-    "Crawling hand chathead.png"
-   ]
-  },
-  "crux_eqal_knight_senntisten": {
-   "name": "Crux Eqal knight (Senntisten)",
-   "tried": [
-    "Crux Eqal knight (Senntisten).png",
-    "Crux Eqal knight.png",
-    "Crux Eqal knight (Senntisten) chathead.png",
-    "Crux Eqal knight chathead.png"
-   ]
-  },
-  "dagannoth": {
-   "name": "Dagannoth",
-   "tried": [
-    "Dagannoth.png",
-    "Dagannoth chathead.png"
-   ]
-  },
-  "dead_archaeologist": {
-   "name": "Dead archaeologist",
-   "tried": [
-    "Dead archaeologist.png",
-    "Dead archaeologist chathead.png"
-   ]
-  },
-  "dead_knight": {
-   "name": "Dead knight",
-   "tried": [
-    "Dead knight.png",
-    "Dead knight chathead.png"
-   ]
-  },
-  "dig_site_winch_operator": {
-   "name": "Dig Site winch operator",
-   "tried": [
-    "Dig Site winch operator.png",
-    "Dig Site winch operator chathead.png"
-   ]
-  },
-  "dig_site_worker": {
-   "name": "Dig Site worker",
-   "tried": [
-    "Dig Site worker.png",
-    "Dig Site worker chathead.png"
-   ]
-  },
-  "dire_wolf": {
-   "name": "Dire Wolf",
-   "tried": [
-    "Dire Wolf.png",
-    "Dire Wolf chathead.png"
-   ]
-  },
-  "dwarve_miner_empty_throne": {
-   "name": "Dwarve miner (Empty Throne)",
-   "tried": [
-    "Dwarve miner (Empty Throne).png",
-    "Dwarve miner.png",
-    "Dwarve miner (Empty Throne) chathead.png",
-    "Dwarve miner chathead.png"
-   ]
-  },
-  "elven_knight": {
-   "name": "Elven knight",
-   "tried": [
-    "Elven knight.png",
-    "Elven knight chathead.png"
    ]
   },
   "empowering_zombie": {
@@ -17945,71 +19037,11 @@
     "Empowering zombie chathead.png"
    ]
   },
-  "fairy": {
-   "name": "Fairy",
-   "tried": [
-    "Fairy.png",
-    "Fairy chathead.png"
-   ]
-  },
-  "farid_morrisane": {
-   "name": "Farid Morrisane",
-   "tried": [
-    "Farid Morrisane.png",
-    "Farid Morrisane chathead.png"
-   ]
-  },
-  "felicity": {
-   "name": "Felicity",
-   "tried": [
-    "Felicity.png",
-    "Felicity chathead.png"
-   ]
-  },
-  "fire_elemental": {
-   "name": "Fire elemental",
-   "tried": [
-    "Fire elemental.png",
-    "Fire elemental chathead.png"
-   ]
-  },
-  "foal": {
-   "name": "Foal",
-   "tried": [
-    "Foal.png",
-    "Foal chathead.png"
-   ]
-  },
-  "ghost": {
-   "name": "Ghost",
-   "tried": [
-    "Ghost.png",
-    "Ghost chathead.png"
-   ]
-  },
-  "ghost_city_of_um": {
-   "name": "Ghost (City of Um)",
-   "tried": [
-    "Ghost (City of Um).png",
-    "Ghost.png",
-    "Ghost (City of Um) chathead.png",
-    "Ghost chathead.png"
-   ]
-  },
   "ghost_healer": {
    "name": "Ghost healer",
    "tried": [
     "Ghost healer.png",
     "Ghost healer chathead.png"
-   ]
-  },
-  "ghost_sos": {
-   "name": "Ghost (SoS)",
-   "tried": [
-    "Ghost (SoS).png",
-    "Ghost.png",
-    "Ghost (SoS) chathead.png",
-    "Ghost chathead.png"
    ]
   },
   "ghost_troll_brute": {
@@ -18019,238 +19051,13 @@
     "Ghost troll brute chathead.png"
    ]
   },
-  "ghostly_waif": {
-   "name": "Ghostly waif",
-   "tried": [
-    "Ghostly waif.png",
-    "Ghostly waif chathead.png"
-   ]
-  },
-  "giant_spider": {
-   "name": "Giant spider",
-   "tried": [
-    "Giant spider.png",
-    "Giant spider chathead.png"
-   ]
-  },
-  "glacyte": {
-   "name": "Glacyte",
-   "tried": [
-    "Glacyte.png",
-    "Glacyte chathead.png"
-   ]
-  },
-  "gourmet": {
-   "name": "Gourmet",
-   "tried": [
-    "Gourmet.png",
-    "Gourmet chathead.png"
-   ]
-  },
-  "guardian_of_armadyl": {
-   "name": "Guardian of Armadyl",
-   "tried": [
-    "Guardian of Armadyl.png",
-    "Guardian of Armadyl chathead.png"
-   ]
-  },
-  "gublinch_jailmate": {
-   "name": "Gublinch jailmate",
-   "tried": [
-    "Gublinch jailmate.png",
-    "Gublinch jailmate chathead.png"
-   ]
-  },
-  "gublinchette_jailmate": {
-   "name": "Gublinchette jailmate",
-   "tried": [
-    "Gublinchette jailmate.png",
-    "Gublinchette jailmate chathead.png"
-   ]
-  },
-  "ham_member": {
-   "name": "H.A.M. Member",
-   "tried": [
-    "H.A.M. Member.png",
-    "H.A.M. Member chathead.png"
-   ]
-  },
-  "hill_giant": {
-   "name": "Hill giant",
-   "tried": [
-    "Hill giant.png",
-    "Hill giant chathead.png"
-   ]
-  },
-  "hofuthand": {
-   "name": "Hofuthand",
-   "tried": [
-    "Hofuthand.png",
-    "Hofuthand chathead.png"
-   ]
-  },
-  "isidor": {
-   "name": "Isidor",
-   "tried": [
-    "Isidor.png",
-    "Isidor chathead.png"
-   ]
-  },
-  "jail_guard": {
-   "name": "Jail guard",
-   "tried": [
-    "Jail guard.png",
-    "Jail guard chathead.png"
-   ]
-  },
-  "jambon": {
-   "name": "Jambon",
-   "tried": [
-    "Jambon.png",
-    "Jambon chathead.png"
-   ]
-  },
-  "julienne": {
-   "name": "Julienne",
-   "tried": [
-    "Julienne.png",
-    "Julienne chathead.png"
-   ]
-  },
-  "karma_the_chameleon": {
-   "name": "Karma the chameleon",
-   "tried": [
-    "Karma the chameleon.png",
-    "Karma the chameleon chathead.png"
-   ]
-  },
-  "labrador_puppy": {
-   "name": "Labrador puppy",
-   "tried": [
-    "Labrador puppy.png",
-    "Labrador puppy chathead.png"
-   ]
-  },
-  "lumbridge_guard_senntisten": {
-   "name": "Lumbridge Guard (Senntisten)",
-   "tried": [
-    "Lumbridge Guard (Senntisten).png",
-    "Lumbridge Guard.png",
-    "Lumbridge Guard (Senntisten) chathead.png",
-    "Lumbridge Guard chathead.png"
-   ]
-  },
-  "mature_grotworm": {
-   "name": "Mature grotworm",
-   "tried": [
-    "Mature grotworm.png",
-    "Mature grotworm chathead.png"
-   ]
-  },
-  "merchant_walton": {
-   "name": "Merchant Walton",
-   "tried": [
-    "Merchant Walton.png",
-    "Merchant Walton chathead.png"
-   ]
-  },
-  "mummy": {
-   "name": "Mummy (Jaldraocht Pyramid)",
-   "tried": [
-    "Mummy (Jaldraocht Pyramid).png",
-    "Mummy.png",
-    "Mummy (Jaldraocht Pyramid) chathead.png",
-    "Mummy chathead.png"
-   ]
-  },
-  "murky_matt": {
-   "name": "Murky Matt",
-   "tried": [
-    "Murky Matt.png",
-    "Murky Matt chathead.png"
-   ]
-  },
-  "musician_saradomin_statue": {
-   "name": "Musician (Saradomin statue)",
-   "tried": [
-    "Musician (Saradomin statue).png",
-    "Musician.png",
-    "Musician (Saradomin statue) chathead.png",
-    "Musician chathead.png"
-   ]
-  },
-  "nature_impling": {
-   "name": "Nature Impling",
-   "tried": [
-    "Nature Impling.png",
-    "Nature Impling chathead.png"
-   ]
-  },
-  "panning_archaeologist": {
-   "name": "Panning archaeologist",
-   "tried": [
-    "Panning archaeologist.png",
-    "Panning archaeologist chathead.png"
-   ]
-  },
-  "pickpocketing_volunteer": {
-   "name": "Pickpocketing volunteer",
-   "tried": [
-    "Pickpocketing volunteer.png",
-    "Pickpocketing volunteer chathead.png"
-   ]
-  },
-  "professor_archaeology_campus": {
-   "name": "Professor (Archaeology Campus)",
-   "tried": [
-    "Professor (Archaeology Campus).png",
-    "Professor.png",
-    "Professor (Archaeology Campus) chathead.png",
-    "Professor chathead.png"
-   ]
-  },
-  "prototype_colossus": {
-   "name": "Prototype colossus",
-   "tried": [
-    "Prototype colossus.png",
-    "Prototype colossus chathead.png"
-   ]
-  },
   "putrid_zombie": {
    "name": "Putrid zombie",
    "tried": [
     "Putrid zombie.png",
-    "Putrid zombie chathead.png"
-   ]
-  },
-  "ramokee_skinweaver_polypore": {
-   "name": "Ramokee Skinweaver (Polypore)",
-   "tried": [
-    "Ramokee Skinweaver (Polypore).png",
-    "Ramokee Skinweaver.png",
-    "Ramokee Skinweaver (Polypore) chathead.png",
-    "Ramokee Skinweaver chathead.png"
-   ]
-  },
-  "red_dragon": {
-   "name": "Red dragon",
-   "tried": [
-    "Red dragon.png",
-    "Red dragon chathead.png"
-   ]
-  },
-  "relobo_blinyo": {
-   "name": "Relobo Blinyo",
-   "tried": [
-    "Relobo Blinyo.png",
-    "Relobo Blinyo chathead.png"
-   ]
-  },
-  "ripper_demon": {
-   "name": "Ripper Demon",
-   "tried": [
-    "Ripper Demon.png",
-    "Ripper Demon chathead.png"
+    "Putrid zombie (Rasial).png",
+    "Putrid zombie chathead.png",
+    "Putrid zombie (Rasial) chathead.png"
    ]
   },
   "robbo": {
@@ -18273,183 +19080,13 @@
     "Sandstone detail.png"
    ]
   },
-  "schoolgirl": {
-   "name": "Schoolgirl",
-   "tried": [
-    "Schoolgirl.png",
-    "Schoolgirl chathead.png"
-   ]
-  },
-  "shadow_hound": {
-   "name": "Shadow Hound",
-   "tried": [
-    "Shadow Hound.png",
-    "Shadow Hound chathead.png"
-   ]
-  },
   "skeleton_warrior": {
    "name": "Skeleton warrior",
    "tried": [
     "Skeleton warrior.png",
-    "Skeleton warrior chathead.png"
-   ]
-  },
-  "student": {
-   "name": "Student",
-   "tried": [
-    "Student.png",
-    "Student chathead.png"
-   ]
-  },
-  "super_cow": {
-   "name": "Super Cow",
-   "tried": [
-    "Super Cow.png",
-    "Super Cow chathead.png"
-   ]
-  },
-  "teacher_and_pupil": {
-   "name": "Teacher and pupil",
-   "tried": [
-    "Teacher and pupil.png",
-    "Teacher and pupil chathead.png"
-   ]
-  },
-  "the_partner": {
-   "name": "The Partner",
-   "tried": [
-    "The Partner.png",
-    "The Partner chathead.png"
-   ]
-  },
-  "the_spirit_of_rhythm": {
-   "name": "The Spirit of Rhythm",
-   "tried": [
-    "The Spirit of Rhythm.png",
-    "The Spirit of Rhythm chathead.png"
-   ]
-  },
-  "town_crier": {
-   "name": "Town crier",
-   "tried": [
-    "Town crier.png",
-    "Town crier chathead.png"
-   ]
-  },
-  "trader_crewmember": {
-   "name": "Trader Crewmember",
-   "tried": [
-    "Trader Crewmember.png",
-    "Trader Crewmember chathead.png"
-   ]
-  },
-  "trainee_archaeologist": {
-   "name": "Trainee archaeologist",
-   "tried": [
-    "Trainee archaeologist.png",
-    "Trainee archaeologist chathead.png"
-   ]
-  },
-  "tree_spirit_enchanted_valley": {
-   "name": "Tree spirit (Enchanted Valley)",
-   "tried": [
-    "Tree spirit (Enchanted Valley).png",
-    "Tree spirit.png",
-    "Tree spirit (Enchanted Valley) chathead.png",
-    "Tree spirit chathead.png"
-   ]
-  },
-  "troll_pillager": {
-   "name": "Troll Pillager",
-   "tried": [
-    "Troll Pillager.png",
-    "Troll Pillager chathead.png"
-   ]
-  },
-  "undead_crux_eqal_knight": {
-   "name": "Undead Crux Eqal knight",
-   "tried": [
-    "Undead Crux Eqal knight.png",
-    "Undead Crux Eqal knight chathead.png"
-   ]
-  },
-  "undead_elven_knight": {
-   "name": "Undead Elven Knight",
-   "tried": [
-    "Undead Elven Knight.png",
-    "Undead Elven Knight chathead.png"
-   ]
-  },
-  "undead_temple_knight": {
-   "name": "Undead Temple Knight",
-   "tried": [
-    "Undead Temple Knight.png",
-    "Undead Temple Knight chathead.png"
-   ]
-  },
-  "varrock_guard_senntisten": {
-   "name": "Varrock Guard (Senntisten)",
-   "tried": [
-    "Varrock Guard (Senntisten).png",
-    "Varrock Guard.png",
-    "Varrock Guard (Senntisten) chathead.png",
-    "Varrock Guard chathead.png"
-   ]
-  },
-  "varrock_sword_shop_asst": {
-   "name": "Varrock Sword Shop Asst.",
-   "tried": [
-    "Varrock Sword Shop Asst..png",
-    "Varrock Sword Shop Asst. chathead.png"
-   ]
-  },
-  "varrock_sword_shop_keeper": {
-   "name": "Varrock Sword Shop Keeper",
-   "tried": [
-    "Varrock Sword Shop Keeper.png",
-    "Varrock Sword Shop Keeper chathead.png"
-   ]
-  },
-  "wall": {
-   "name": "Wall",
-   "tried": [
-    "Wall.png",
-    "Wall chathead.png"
-   ]
-  },
-  "white_wolf": {
-   "name": "White wolf",
-   "tried": [
-    "White wolf.png",
-    "White wolf chathead.png"
-   ]
-  },
-  "wizards_tower_mage": {
-   "name": "Wizards' Tower mage",
-   "tried": [
-    "Wizards' Tower mage.png",
-    "Wizards' Tower mage chathead.png"
-   ]
-  },
-  "wolf": {
-   "name": "Wolf",
-   "tried": [
-    "Wolf.png",
-    "Wolf chathead.png"
-   ]
-  },
-  "zombie_banker": {
-   "name": "Zombie banker",
-   "tried": [
-    "Zombie banker.png",
-    "Zombie banker chathead.png"
-   ]
-  },
-  "zombie_warrior": {
-   "name": "Zombie warrior",
-   "tried": [
-    "Zombie warrior.png",
-    "Zombie warrior chathead.png"
+    "Skeleton warrior (Battle of Forinthry).png",
+    "Skeleton warrior chathead.png",
+    "Skeleton warrior (Battle of Forinthry) chathead.png"
    ]
   }
  }
