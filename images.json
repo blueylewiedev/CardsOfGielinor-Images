@@ -434,6 +434,38 @@
    "raw": "admiral_pie.png",
    "title": "File:Admiral pie detail.png"
   },
+  "adrenaline_flask": {
+   "file": "adrenaline_flask.png",
+   "name": "Adrenaline flask",
+   "named": true,
+   "processed": true,
+   "raw": "adrenaline_flask.png",
+   "title": "File:Adrenaline flask (6) detail.png"
+  },
+  "adrenaline_potion": {
+   "file": "adrenaline_potion.png",
+   "name": "Adrenaline potion",
+   "named": true,
+   "processed": true,
+   "raw": "adrenaline_potion.png",
+   "title": "File:Adrenaline potion (4) detail.png"
+  },
+  "adrenaline_renewal_flask": {
+   "file": "adrenaline_renewal_flask.png",
+   "name": "Adrenaline renewal flask",
+   "named": true,
+   "processed": true,
+   "raw": "adrenaline_renewal_flask.png",
+   "title": "File:Adrenaline renewal flask (6) detail.png"
+  },
+  "adrenaline_renewal_potion": {
+   "file": "adrenaline_renewal_potion.png",
+   "name": "Adrenaline renewal potion",
+   "named": true,
+   "processed": true,
+   "raw": "adrenaline_renewal_potion.png",
+   "title": "File:Adrenaline renewal potion (4) detail.png"
+  },
   "adv_pickpocketing_trainer": {
    "file": "adv_pickpocketing_trainer.png",
    "name": "Adv. pickpocketing trainer",
@@ -491,6 +523,46 @@
    "file": "aggie.png",
    "name": "Aggie",
    "title": "File:Aggie.png"
+  },
+  "aggression_flask": {
+   "file": "aggression_flask.png",
+   "name": "Aggression flask",
+   "named": true,
+   "processed": true,
+   "raw": "aggression_flask.png",
+   "title": "File:Aggression flask (6) detail.png"
+  },
+  "aggression_potion": {
+   "file": "aggression_potion.png",
+   "name": "Aggression potion",
+   "named": true,
+   "processed": true,
+   "raw": "aggression_potion.png",
+   "title": "File:Aggression potion (4) detail.png"
+  },
+  "aggroverload": {
+   "file": "aggroverload.png",
+   "name": "Aggroverload",
+   "named": true,
+   "processed": true,
+   "raw": "aggroverload.png",
+   "title": "File:Aggroverload (4) detail.png"
+  },
+  "agility_flask": {
+   "file": "agility_flask.png",
+   "name": "Agility flask",
+   "named": true,
+   "processed": true,
+   "raw": "agility_flask.png",
+   "title": "File:Agility flask (6) detail.png"
+  },
+  "agility_potion": {
+   "file": "agility_potion.png",
+   "name": "Agility potion",
+   "named": true,
+   "processed": true,
+   "raw": "agility_potion.png",
+   "title": "File:Agility potion (4) detail.png"
   },
   "agrith_naar": {
    "file": "agrith_naar.png",
@@ -810,6 +882,61 @@
    "raw": "annihilation.png",
    "title": "File:Annihilation detail.png"
   },
+  "antifire": {
+   "file": "antifire.png",
+   "name": "Antifire",
+   "named": true,
+   "processed": true,
+   "raw": "antifire.png",
+   "title": "File:Antifire (4) detail.png"
+  },
+  "antifire_flask": {
+   "file": "antifire_flask.png",
+   "name": "Antifire flask",
+   "named": true,
+   "processed": true,
+   "raw": "antifire_flask.png",
+   "title": "File:Antifire flask (6) detail.png"
+  },
+  "antipoison": {
+   "file": "antipoison.png",
+   "name": "Antipoison",
+   "named": true,
+   "processed": true,
+   "raw": "antipoison.png",
+   "title": "File:Antipoison (4) detail.png"
+  },
+  "antipoison_flask": {
+   "file": "antipoison_flask.png",
+   "name": "Antipoison++ flask",
+   "named": true,
+   "processed": true,
+   "raw": "antipoison_flask.png",
+   "title": "File:Antipoison++ flask (6) detail.png"
+  },
+  "antipoison_plusplus": {
+   "file": "antipoison_plusplus.png",
+   "name": "Antipoison++",
+   "named": true,
+   "processed": true,
+   "raw": "antipoison_plusplus.png",
+   "title": "File:Antipoison++ (4) detail.png"
+  },
+  "antisanguine": {
+   "file": "antisanguine.png",
+   "name": "Antisanguine",
+   "processed": true,
+   "raw": "antisanguine.png",
+   "title": "File:Antisanguine (Hearts of Sanguine) detail.png"
+  },
+  "antisanguine_flask": {
+   "file": "antisanguine_flask.png",
+   "name": "Antisanguine flask",
+   "named": true,
+   "processed": true,
+   "raw": "antisanguine_flask.png",
+   "title": "File:Antisanguine flask (6) detail.png"
+  },
   "apex_hide": {
    "file": "apex_hide.png",
    "name": "Apex hide",
@@ -925,6 +1052,22 @@
    "file": "archaeologist_excavation.png",
    "name": "Archaeologist (excavation)",
    "title": "File:Archaeologist (excavating, female).png"
+  },
+  "archaeology_flask": {
+   "file": "archaeology_flask.png",
+   "name": "Archaeology flask",
+   "named": true,
+   "processed": true,
+   "raw": "archaeology_flask.png",
+   "title": "File:Archaeology flask (6) detail.png"
+  },
+  "archaeology_potion": {
+   "file": "archaeology_potion.png",
+   "name": "Archaeology potion",
+   "named": true,
+   "processed": true,
+   "raw": "archaeology_potion.png",
+   "title": "File:Archaeology potion (4) detail.png"
   },
   "archaeology_professor": {
    "file": "archaeology_professor.png",
@@ -1240,6 +1383,22 @@
    "processed": true,
    "raw": "astral_rune_dungeoneering.png",
    "title": "File:Astral rune (Dungeoneering) detail.png"
+  },
+  "attack_flask": {
+   "file": "attack_flask.png",
+   "name": "Attack flask",
+   "named": true,
+   "processed": true,
+   "raw": "attack_flask.png",
+   "title": "File:Attack flask (6) detail.png"
+  },
+  "attack_potion": {
+   "file": "attack_potion.png",
+   "name": "Attack potion",
+   "named": true,
+   "processed": true,
+   "raw": "attack_potion.png",
+   "title": "File:Attack potion (4) detail.png"
   },
   "attendee": {
    "chosen": "File:Attendee (5).png",
@@ -2471,6 +2630,13 @@
    "raw": "blazehound.png",
    "title": "File:Blazehound adult.png"
   },
+  "blessed_flask": {
+   "file": "blessed_flask.png",
+   "name": "Blessed flask",
+   "processed": true,
+   "raw": "blessed_flask.png",
+   "title": "File:Blessed flask detail.png"
+  },
   "blightbound_crossbow": {
    "file": "blightbound_crossbow.png",
    "name": "Blightbound crossbow",
@@ -3098,6 +3264,13 @@
    "name": "Brassica Prime",
    "title": "File:Brassica Prime.png"
   },
+  "bravery_potion": {
+   "file": "bravery_potion.png",
+   "name": "Bravery potion",
+   "processed": true,
+   "raw": "bravery_potion.png",
+   "title": "File:Bravery potion detail.png"
+  },
   "bread": {
    "file": "bread.png",
    "name": "Bread",
@@ -3136,6 +3309,14 @@
    "file": "bright_wisp.png",
    "name": "Bright wisp",
    "title": "File:Bright spring.png"
+  },
+  "brightfire_potion": {
+   "file": "brightfire_potion.png",
+   "name": "Brightfire potion",
+   "named": true,
+   "processed": true,
+   "raw": "brightfire_potion.png",
+   "title": "File:Brightfire potion (4) detail.png"
   },
   "brilliant_wisp": {
    "chosen": "File:Brilliant spring.png",
@@ -3540,6 +3721,20 @@
    "raw": "cadantine_seed.png",
    "title": "File:Cadantine seed 5 detail.png"
   },
+  "cadava_potion": {
+   "file": "cadava_potion.png",
+   "name": "Cadava potion",
+   "processed": true,
+   "raw": "cadava_potion.png",
+   "title": "File:Cadava potion detail.png"
+  },
+  "cadava_potion_new_varrock": {
+   "file": "cadava_potion_new_varrock.png",
+   "name": "Cadava potion (New Varrock)",
+   "processed": true,
+   "raw": "cadava_potion_new_varrock.png",
+   "title": "File:Cadava potion (New Varrock) detail.png"
+  },
   "cadavaberry_seed": {
    "file": "cadavaberry_seed.png",
    "name": "Cadavaberry seed",
@@ -3622,6 +3817,22 @@
    "processed": true,
    "raw": "camel_staff.png",
    "title": "File:Camel staff detail.png"
+  },
+  "camouflage_flask": {
+   "file": "camouflage_flask.png",
+   "name": "Camouflage flask",
+   "named": true,
+   "processed": true,
+   "raw": "camouflage_flask.png",
+   "title": "File:Camouflage flask (6) detail.png"
+  },
+  "camouflage_potion": {
+   "file": "camouflage_potion.png",
+   "name": "Camouflage potion",
+   "named": true,
+   "processed": true,
+   "raw": "camouflage_potion.png",
+   "title": "File:Camouflage potion (4) detail.png"
   },
   "candy_floss_maul": {
    "file": "candy_floss_maul.png",
@@ -3719,6 +3930,13 @@
    "processed": true,
    "raw": "cat.png",
    "title": "File:Pet cat (white and black) pet.png"
+  },
+  "cat_antipoison": {
+   "file": "cat_antipoison.png",
+   "name": "Cat antipoison",
+   "processed": true,
+   "raw": "cat_antipoison.png",
+   "title": "File:Cat antipoison detail.png"
   },
   "cat_staff": {
    "file": "cat_staff.png",
@@ -4061,6 +4279,22 @@
    "file": "charlie_the_tramp.png",
    "name": "Charlie the Tramp",
    "title": "File:Charlie the Tramp.png"
+  },
+  "charming_potion": {
+   "file": "charming_potion.png",
+   "name": "Charming potion",
+   "named": true,
+   "processed": true,
+   "raw": "charming_potion.png",
+   "title": "File:Charming potion (4) detail.png"
+  },
+  "charming_potion_flask": {
+   "file": "charming_potion_flask.png",
+   "name": "Charming potion flask",
+   "named": true,
+   "processed": true,
+   "raw": "charming_potion_flask.png",
+   "title": "File:Charming potion flask (6) detail.png"
   },
   "cheese": {
    "file": "cheese.png",
@@ -4691,6 +4925,22 @@
    "name": "Colonised Varrock guard",
    "title": "File:Colonised Varrock guard (regular, 1).png"
   },
+  "combat_flask": {
+   "file": "combat_flask.png",
+   "name": "Combat flask",
+   "named": true,
+   "processed": true,
+   "raw": "combat_flask.png",
+   "title": "File:Combat flask (6) detail.png"
+  },
+  "combat_potion": {
+   "file": "combat_potion.png",
+   "name": "Combat potion",
+   "named": true,
+   "processed": true,
+   "raw": "combat_potion.png",
+   "title": "File:Combat potion (4) detail.png"
+  },
   "common_jadinko": {
    "file": "common_jadinko.png",
    "name": "Common jadinko",
@@ -4700,6 +4950,14 @@
    "file": "compost_mound.png",
    "name": "Compost mound",
    "title": "File:Compost mound.png"
+  },
+  "compost_potion": {
+   "file": "compost_potion.png",
+   "name": "Compost potion",
+   "named": true,
+   "processed": true,
+   "raw": "compost_potion.png",
+   "title": "File:Compost potion (4) detail.png"
   },
   "concentrated_alloy_bar": {
    "file": "concentrated_alloy_bar.png",
@@ -4852,6 +5110,22 @@
    "processed": true,
    "raw": "cooking_apple.png",
    "title": "File:Cooking apple detail.png"
+  },
+  "cooking_flask": {
+   "file": "cooking_flask.png",
+   "name": "Cooking flask",
+   "named": true,
+   "processed": true,
+   "raw": "cooking_flask.png",
+   "title": "File:Cooking flask (6) detail.png"
+  },
+  "cooking_potion": {
+   "file": "cooking_potion.png",
+   "name": "Cooking potion",
+   "named": true,
+   "processed": true,
+   "raw": "cooking_potion.png",
+   "title": "File:Cooking potion (4) detail.png"
   },
   "cool_mom227": {
    "file": "cool_mom227.png",
@@ -5151,6 +5425,22 @@
    "processed": true,
    "raw": "cracked_cooking_urn_empty.png",
    "title": "File:Cracked cooking urn (empty) detail.png"
+  },
+  "crafting_flask": {
+   "file": "crafting_flask.png",
+   "name": "Crafting flask",
+   "named": true,
+   "processed": true,
+   "raw": "crafting_flask.png",
+   "title": "File:Crafting flask (6) detail.png"
+  },
+  "crafting_potion": {
+   "file": "crafting_potion.png",
+   "name": "Crafting potion",
+   "named": true,
+   "processed": true,
+   "raw": "crafting_potion.png",
+   "title": "File:Crafting potion (4) detail.png"
   },
   "crassian_scout": {
    "chosen": "File:Crassian scout (Curse of the Black Stone).png",
@@ -5734,6 +6024,22 @@
    "raw": "decorated_cooking_urn_empty.png",
    "title": "File:Decorated cooking urn (empty) detail.png"
   },
+  "defence_flask": {
+   "file": "defence_flask.png",
+   "name": "Defence flask",
+   "named": true,
+   "processed": true,
+   "raw": "defence_flask.png",
+   "title": "File:Defence flask (6) detail.png"
+  },
+  "defence_potion": {
+   "file": "defence_potion.png",
+   "name": "Defence potion",
+   "named": true,
+   "processed": true,
+   "raw": "defence_potion.png",
+   "title": "File:Defence potion (4) detail.png"
+  },
   "delgon": {
    "file": "delgon.png",
    "name": "Delgon",
@@ -5904,6 +6210,22 @@
    "processed": true,
    "raw": "dirty_blast.png",
    "title": "File:Dirty blast detail.png"
+  },
+  "divination_flask": {
+   "file": "divination_flask.png",
+   "name": "Divination flask",
+   "named": true,
+   "processed": true,
+   "raw": "divination_flask.png",
+   "title": "File:Divination flask (6) detail.png"
+  },
+  "divination_potion": {
+   "file": "divination_potion.png",
+   "name": "Divination potion",
+   "named": true,
+   "processed": true,
+   "raw": "divination_potion.png",
+   "title": "File:Divination potion (4) detail.png"
   },
   "divine_impling": {
    "file": "divine_impling.png",
@@ -6411,6 +6733,13 @@
    "name": "Duckling's mum",
    "title": "File:Duckling's mum.png"
   },
+  "duckspeak_potion": {
+   "file": "duckspeak_potion.png",
+   "name": "Duckspeak potion",
+   "processed": true,
+   "raw": "duckspeak_potion.png",
+   "title": "File:Duckspeak potion detail.png"
+  },
   "duke_hoarse": {
    "file": "duke_hoarse.png",
    "name": "Duke Hoarse",
@@ -6739,6 +7068,22 @@
    "raw": "elder_longbow.png",
    "title": "File:Elder longbow detail.png"
   },
+  "elder_overload_potion": {
+   "file": "elder_overload_potion.png",
+   "name": "Elder overload potion",
+   "named": true,
+   "processed": true,
+   "raw": "elder_overload_potion.png",
+   "title": "File:Elder overload potion (4) detail.png"
+  },
+  "elder_overload_salve": {
+   "file": "elder_overload_salve.png",
+   "name": "Elder overload salve",
+   "named": true,
+   "processed": true,
+   "raw": "elder_overload_salve.png",
+   "title": "File:Elder overload salve (4) detail.png"
+  },
   "elder_plank": {
    "file": "elder_plank.png",
    "name": "Elder plank",
@@ -6886,6 +7231,13 @@
    "raw": "elite_tetsu_wakizashi.png",
    "title": "File:Elite tetsu wakizashi detail.png"
   },
+  "elixir_of_revealment": {
+   "file": "elixir_of_revealment.png",
+   "name": "Elixir of Revealment",
+   "processed": true,
+   "raw": "elixir_of_revealment.png",
+   "title": "File:Elixir of Revealment detail.png"
+  },
   "elnock_inquisitor": {
    "file": "elnock_inquisitor.png",
    "name": "Elnock Inquisitor",
@@ -7020,10 +7372,26 @@
    "name": "Enduring glacyte",
    "title": "File:Enduring glacyte.png"
   },
+  "energy_flask": {
+   "file": "energy_flask.png",
+   "name": "Energy flask",
+   "named": true,
+   "processed": true,
+   "raw": "energy_flask.png",
+   "title": "File:Energy flask (6) detail.png"
+  },
   "energy_fungus": {
    "file": "energy_fungus.png",
    "name": "Energy Fungus",
    "title": "File:Energy Fungus.png"
+  },
+  "energy_potion": {
+   "file": "energy_potion.png",
+   "name": "Energy potion",
+   "named": true,
+   "processed": true,
+   "raw": "energy_potion.png",
+   "title": "File:Energy potion (4) detail.png"
   },
   "enhanced_ancient_staff": {
    "file": "enhanced_ancient_staff.png",
@@ -7038,6 +7406,21 @@
    "processed": true,
    "raw": "enhanced_excalibur.png",
    "title": "File:Enhanced Excalibur detail.png"
+  },
+  "enhanced_luck_potion": {
+   "file": "enhanced_luck_potion.png",
+   "name": "Enhanced luck potion",
+   "processed": true,
+   "raw": "enhanced_luck_potion.png",
+   "title": "File:Enhanced luck potion detail.png"
+  },
+  "enhanced_replenishment_potion": {
+   "file": "enhanced_replenishment_potion.png",
+   "name": "Enhanced replenishment potion",
+   "named": true,
+   "processed": true,
+   "raw": "enhanced_replenishment_potion.png",
+   "title": "File:Enhanced replenishment potion (4) detail.png"
   },
   "enhanced_yaktwee_stick": {
    "file": "enhanced_yaktwee_stick.png",
@@ -7305,12 +7688,267 @@
    "raw": "exquisite_cooking_urn_empty.png",
    "title": "File:Exquisite cooking urn (empty) detail.png"
   },
+  "extended_super_antifire": {
+   "file": "extended_super_antifire.png",
+   "name": "Extended super antifire",
+   "named": true,
+   "processed": true,
+   "raw": "extended_super_antifire.png",
+   "title": "File:Extended super antifire (4) detail.png"
+  },
+  "extended_super_antifire_flask": {
+   "file": "extended_super_antifire_flask.png",
+   "name": "Extended super antifire flask",
+   "named": true,
+   "processed": true,
+   "raw": "extended_super_antifire_flask.png",
+   "title": "File:Extended super antifire flask (6) detail.png"
+  },
   "extra_spicy_crunchies": {
    "file": "extra_spicy_crunchies.png",
    "name": "Extra spicy crunchies",
    "processed": true,
    "raw": "extra_spicy_crunchies.png",
    "title": "File:Extra spicy crunchies detail.png"
+  },
+  "extreme_antisanguine": {
+   "file": "extreme_antisanguine.png",
+   "name": "Extreme antisanguine",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_antisanguine.png",
+   "title": "File:Extreme antisanguine (4) detail.png"
+  },
+  "extreme_attack": {
+   "file": "extreme_attack.png",
+   "name": "Extreme attack",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_attack.png",
+   "title": "File:Extreme attack (4) detail.png"
+  },
+  "extreme_attack_flask": {
+   "file": "extreme_attack_flask.png",
+   "name": "Extreme attack flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_attack_flask.png",
+   "title": "File:Extreme attack flask (6) detail.png"
+  },
+  "extreme_battlemages_potion": {
+   "file": "extreme_battlemages_potion.png",
+   "name": "Extreme battlemage's potion",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_battlemages_potion.png",
+   "title": "File:Extreme battlemage's potion (4) detail.png"
+  },
+  "extreme_brawlers_potion": {
+   "file": "extreme_brawlers_potion.png",
+   "name": "Extreme brawler's potion",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_brawlers_potion.png",
+   "title": "File:Extreme brawler's potion (4) detail.png"
+  },
+  "extreme_cooking_flask": {
+   "file": "extreme_cooking_flask.png",
+   "name": "Extreme cooking flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_cooking_flask.png",
+   "title": "File:Extreme cooking flask (6) detail.png"
+  },
+  "extreme_cooking_potion": {
+   "file": "extreme_cooking_potion.png",
+   "name": "Extreme cooking potion",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_cooking_potion.png",
+   "title": "File:Extreme cooking potion (4) detail.png"
+  },
+  "extreme_defence": {
+   "file": "extreme_defence.png",
+   "name": "Extreme defence",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_defence.png",
+   "title": "File:Extreme defence (4) detail.png"
+  },
+  "extreme_defence_flask": {
+   "file": "extreme_defence_flask.png",
+   "name": "Extreme defence flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_defence_flask.png",
+   "title": "File:Extreme defence flask (6) detail.png"
+  },
+  "extreme_divination": {
+   "file": "extreme_divination.png",
+   "name": "Extreme divination",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_divination.png",
+   "title": "File:Extreme divination (4) detail.png"
+  },
+  "extreme_divination_flask": {
+   "file": "extreme_divination_flask.png",
+   "name": "Extreme divination flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_divination_flask.png",
+   "title": "File:Extreme divination flask (6) detail.png"
+  },
+  "extreme_guthix_balance": {
+   "file": "extreme_guthix_balance.png",
+   "name": "Extreme Guthix balance",
+   "processed": true,
+   "raw": "extreme_guthix_balance.png",
+   "title": "File:Extreme Guthix balance detail.png"
+  },
+  "extreme_hunter": {
+   "file": "extreme_hunter.png",
+   "name": "Extreme hunter",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_hunter.png",
+   "title": "File:Extreme hunter (4) detail.png"
+  },
+  "extreme_hunter_flask": {
+   "file": "extreme_hunter_flask.png",
+   "name": "Extreme hunter flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_hunter_flask.png",
+   "title": "File:Extreme hunter flask (6) detail.png"
+  },
+  "extreme_invention": {
+   "file": "extreme_invention.png",
+   "name": "Extreme invention",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_invention.png",
+   "title": "File:Extreme invention (4) detail.png"
+  },
+  "extreme_invention_flask": {
+   "file": "extreme_invention_flask.png",
+   "name": "Extreme invention flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_invention_flask.png",
+   "title": "File:Extreme invention flask (6) detail.png"
+  },
+  "extreme_magic": {
+   "file": "extreme_magic.png",
+   "name": "Extreme magic",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_magic.png",
+   "title": "File:Extreme magic (4) detail.png"
+  },
+  "extreme_magic_flask": {
+   "file": "extreme_magic_flask.png",
+   "name": "Extreme magic flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_magic_flask.png",
+   "title": "File:Extreme magic flask (6) detail.png"
+  },
+  "extreme_necromancy": {
+   "file": "extreme_necromancy.png",
+   "name": "Extreme necromancy",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_necromancy.png",
+   "title": "File:Extreme necromancy (4) detail.png"
+  },
+  "extreme_necromancy_flask": {
+   "file": "extreme_necromancy_flask.png",
+   "name": "Extreme necromancy flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_necromancy_flask.png",
+   "title": "File:Extreme necromancy flask (6) detail.png"
+  },
+  "extreme_prayer": {
+   "file": "extreme_prayer.png",
+   "name": "Extreme prayer",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_prayer.png",
+   "title": "File:Extreme prayer (4) detail.png"
+  },
+  "extreme_prayer_flask": {
+   "file": "extreme_prayer_flask.png",
+   "name": "Extreme prayer flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_prayer_flask.png",
+   "title": "File:Extreme prayer flask (6) detail.png"
+  },
+  "extreme_ranging": {
+   "file": "extreme_ranging.png",
+   "name": "Extreme ranging",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_ranging.png",
+   "title": "File:Extreme ranging (4) detail.png"
+  },
+  "extreme_ranging_flask": {
+   "file": "extreme_ranging_flask.png",
+   "name": "Extreme ranging flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_ranging_flask.png",
+   "title": "File:Extreme ranging flask (6) detail.png"
+  },
+  "extreme_runecrafting": {
+   "file": "extreme_runecrafting.png",
+   "name": "Extreme runecrafting",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_runecrafting.png",
+   "title": "File:Extreme runecrafting (4) detail.png"
+  },
+  "extreme_runecrafting_flask": {
+   "file": "extreme_runecrafting_flask.png",
+   "name": "Extreme runecrafting flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_runecrafting_flask.png",
+   "title": "File:Extreme runecrafting flask (6) detail.png"
+  },
+  "extreme_sharpshooters_potion": {
+   "file": "extreme_sharpshooters_potion.png",
+   "name": "Extreme sharpshooter's potion",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_sharpshooters_potion.png",
+   "title": "File:Extreme sharpshooter's potion (4) detail.png"
+  },
+  "extreme_strength": {
+   "file": "extreme_strength.png",
+   "name": "Extreme strength",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_strength.png",
+   "title": "File:Extreme strength (4) detail.png"
+  },
+  "extreme_strength_flask": {
+   "file": "extreme_strength_flask.png",
+   "name": "Extreme strength flask",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_strength_flask.png",
+   "title": "File:Extreme strength flask (6) detail.png"
+  },
+  "extreme_warmasters_potion": {
+   "file": "extreme_warmasters_potion.png",
+   "name": "Extreme warmaster's potion",
+   "named": true,
+   "processed": true,
+   "raw": "extreme_warmasters_potion.png",
+   "title": "File:Extreme warmaster's potion (4) detail.png"
   },
   "exuberry_seed": {
    "file": "exuberry_seed.png",
@@ -7691,6 +8329,22 @@
    "raw": "fishbowl.png",
    "title": "File:Fishbowl (orange fish) pet.png"
   },
+  "fishing_flask": {
+   "file": "fishing_flask.png",
+   "name": "Fishing flask",
+   "named": true,
+   "processed": true,
+   "raw": "fishing_flask.png",
+   "title": "File:Fishing flask (6) detail.png"
+  },
+  "fishing_potion": {
+   "file": "fishing_potion.png",
+   "name": "Fishing potion",
+   "named": true,
+   "processed": true,
+   "raw": "fishing_potion.png",
+   "title": "File:Fishing potion (4) detail.png"
+  },
   "flameburst_defender": {
    "file": "flameburst_defender.png",
    "name": "Flameburst defender",
@@ -7737,6 +8391,22 @@
    "processed": true,
    "raw": "flesh_rune_dungeoneering.png",
    "title": "File:Flesh rune (Dungeoneering) detail.png"
+  },
+  "fletching_flask": {
+   "file": "fletching_flask.png",
+   "name": "Fletching flask",
+   "named": true,
+   "processed": true,
+   "raw": "fletching_flask.png",
+   "title": "File:Fletching flask (6) detail.png"
+  },
+  "fletching_potion": {
+   "file": "fletching_potion.png",
+   "name": "Fletching potion",
+   "named": true,
+   "processed": true,
+   "raw": "fletching_potion.png",
+   "title": "File:Fletching potion (4) detail.png"
   },
   "flo": {
    "file": "flo.png",
@@ -8522,6 +9192,14 @@
    "name": "Goblin (Lumbridge)",
    "title": "File:Goblin (Lumbridge, 1).png"
   },
+  "goblin_potion": {
+   "file": "goblin_potion.png",
+   "name": "Goblin potion",
+   "named": true,
+   "processed": true,
+   "raw": "goblin_potion.png",
+   "title": "File:Goblin potion (4) detail.png"
+  },
   "goblin_raider": {
    "file": "goblin_raider.png",
    "name": "Goblin Raider",
@@ -8748,10 +9426,50 @@
    "raw": "goutweed.png",
    "title": "File:Goutweed detail.png"
   },
+  "grand_attack_potion": {
+   "file": "grand_attack_potion.png",
+   "name": "Grand attack potion",
+   "named": true,
+   "processed": true,
+   "raw": "grand_attack_potion.png",
+   "title": "File:Grand attack potion (4) detail.png"
+  },
+  "grand_defence_potion": {
+   "file": "grand_defence_potion.png",
+   "name": "Grand defence potion",
+   "named": true,
+   "processed": true,
+   "raw": "grand_defence_potion.png",
+   "title": "File:Grand defence potion (4) detail.png"
+  },
   "grand_exchange_tutor": {
    "file": "grand_exchange_tutor.png",
    "name": "Grand Exchange Tutor",
    "title": "File:Grand Exchange Tutor.png"
+  },
+  "grand_magic_potion": {
+   "file": "grand_magic_potion.png",
+   "name": "Grand magic potion",
+   "named": true,
+   "processed": true,
+   "raw": "grand_magic_potion.png",
+   "title": "File:Grand magic potion (4) detail.png"
+  },
+  "grand_ranging_potion": {
+   "file": "grand_ranging_potion.png",
+   "name": "Grand ranging potion",
+   "named": true,
+   "processed": true,
+   "raw": "grand_ranging_potion.png",
+   "title": "File:Grand ranging potion (4) detail.png"
+  },
+  "grand_strength_potion": {
+   "file": "grand_strength_potion.png",
+   "name": "Grand strength potion",
+   "named": true,
+   "processed": true,
+   "raw": "grand_strength_potion.png",
+   "title": "File:Grand strength potion (4) detail.png"
   },
   "granite_5kg": {
    "file": "granite_5kg.png",
@@ -9567,6 +10285,22 @@
    "raw": "guthans_warspear.png",
    "title": "File:Guthan's warspear detail.png"
   },
+  "guthix_balance": {
+   "file": "guthix_balance.png",
+   "name": "Guthix balance",
+   "named": true,
+   "processed": true,
+   "raw": "guthix_balance.png",
+   "title": "File:Guthix balance (4) detail.png"
+  },
+  "guthix_balance_flask": {
+   "file": "guthix_balance_flask.png",
+   "name": "Guthix balance flask",
+   "named": true,
+   "processed": true,
+   "raw": "guthix_balance_flask.png",
+   "title": "File:Guthix balance flask (6) detail.png"
+  },
   "guthix_bow": {
    "file": "guthix_bow.png",
    "name": "Guthix bow",
@@ -9581,12 +10315,36 @@
    "raw": "guthix_mjolnir.png",
    "title": "File:Guthix mjolnir detail.png"
   },
+  "guthix_rest": {
+   "file": "guthix_rest.png",
+   "name": "Guthix rest",
+   "named": true,
+   "processed": true,
+   "raw": "guthix_rest.png",
+   "title": "File:Guthix rest (4) detail.png"
+  },
+  "guthix_rest_flask": {
+   "file": "guthix_rest_flask.png",
+   "name": "Guthix rest flask",
+   "named": true,
+   "processed": true,
+   "raw": "guthix_rest_flask.png",
+   "title": "File:Guthix rest flask (6) detail.png"
+  },
   "guthix_staff": {
    "file": "guthix_staff.png",
    "name": "Guthix staff",
    "processed": true,
    "raw": "guthix_staff.png",
    "title": "File:Guthix staff detail.png"
+  },
+  "guthixs_gift_flask": {
+   "file": "guthixs_gift_flask.png",
+   "name": "Guthix's gift flask",
+   "named": true,
+   "processed": true,
+   "raw": "guthixs_gift_flask.png",
+   "title": "File:Guthix's gift flask (6) detail.png"
   },
   "haakon_the_champion": {
    "chosen": "File:Haakon the champion.png",
@@ -9706,6 +10464,22 @@
    "file": "hartwin.png",
    "name": "Hartwin",
    "title": "File:Hartwin.png"
+  },
+  "harvest_flask": {
+   "file": "harvest_flask.png",
+   "name": "Harvest flask",
+   "named": true,
+   "processed": true,
+   "raw": "harvest_flask.png",
+   "title": "File:Harvest flask (6) detail.png"
+  },
+  "harvest_potion": {
+   "file": "harvest_potion.png",
+   "name": "Harvest potion",
+   "named": true,
+   "processed": true,
+   "raw": "harvest_potion.png",
+   "title": "File:Harvest potion (4) detail.png"
   },
   "haunting_ghost": {
    "file": "haunting_ghost.png",
@@ -9992,12 +10766,28 @@
    "name": "Hollowtoof",
    "title": "File:Hollowtoof.png"
   },
+  "holy_aggroverload": {
+   "file": "holy_aggroverload.png",
+   "name": "Holy aggroverload",
+   "named": true,
+   "processed": true,
+   "raw": "holy_aggroverload.png",
+   "title": "File:Holy aggroverload (4) detail.png"
+  },
   "holy_biscuits": {
    "file": "holy_biscuits.png",
    "name": "Holy biscuits",
    "processed": true,
    "raw": "holy_biscuits.png",
    "title": "File:Holy biscuits 1 detail.png"
+  },
+  "holy_overload_potion": {
+   "file": "holy_overload_potion.png",
+   "name": "Holy overload potion",
+   "named": true,
+   "processed": true,
+   "raw": "holy_overload_potion.png",
+   "title": "File:Holy overload potion (4) detail.png"
   },
   "holy_water": {
    "file": "holy_water.png",
@@ -10047,6 +10837,22 @@
    "file": "hunding.png",
    "name": "Hunding",
    "title": "File:Hunding.png"
+  },
+  "hunter_flask": {
+   "file": "hunter_flask.png",
+   "name": "Hunter flask",
+   "named": true,
+   "processed": true,
+   "raw": "hunter_flask.png",
+   "title": "File:Hunter flask (6) detail.png"
+  },
+  "hunter_potion": {
+   "file": "hunter_potion.png",
+   "name": "Hunter potion",
+   "named": true,
+   "processed": true,
+   "raw": "hunter_potion.png",
+   "title": "File:Hunter potion (4) detail.png"
   },
   "hunters_crossbow": {
    "file": "hunters_crossbow.png",
@@ -10268,6 +11074,22 @@
    "processed": true,
    "raw": "intricate_decorative_sword.png",
    "title": "File:Intricate decorative sword detail.png"
+  },
+  "invention_flask": {
+   "file": "invention_flask.png",
+   "name": "Invention flask",
+   "named": true,
+   "processed": true,
+   "raw": "invention_flask.png",
+   "title": "File:Invention flask (6) detail.png"
+  },
+  "invention_potion": {
+   "file": "invention_potion.png",
+   "name": "Invention potion",
+   "named": true,
+   "processed": true,
+   "raw": "invention_potion.png",
+   "title": "File:Invention potion (4) detail.png"
   },
   "irit_seed": {
    "file": "irit_seed.png",
@@ -10679,12 +11501,60 @@
    "raw": "jug_of_wine.png",
    "title": "File:Jug of wine detail.png"
   },
+  "juju_cooking_flask": {
+   "file": "juju_cooking_flask.png",
+   "name": "Juju cooking flask",
+   "named": true,
+   "processed": true,
+   "raw": "juju_cooking_flask.png",
+   "title": "File:Juju cooking flask (6) detail.png"
+  },
+  "juju_farming_flask": {
+   "file": "juju_farming_flask.png",
+   "name": "Juju farming flask",
+   "named": true,
+   "processed": true,
+   "raw": "juju_farming_flask.png",
+   "title": "File:Juju farming flask (6) detail.png"
+  },
+  "juju_fishing_flask": {
+   "file": "juju_fishing_flask.png",
+   "name": "Juju fishing flask",
+   "named": true,
+   "processed": true,
+   "raw": "juju_fishing_flask.png",
+   "title": "File:Juju fishing flask (6) detail.png"
+  },
   "juju_gumbo": {
    "file": "juju_gumbo.png",
    "name": "Juju gumbo",
    "processed": true,
    "raw": "juju_gumbo.png",
    "title": "File:Juju gumbo detail.png"
+  },
+  "juju_hunter_flask": {
+   "file": "juju_hunter_flask.png",
+   "name": "Juju hunter flask",
+   "named": true,
+   "processed": true,
+   "raw": "juju_hunter_flask.png",
+   "title": "File:Juju hunter flask (6) detail.png"
+  },
+  "juju_mining_flask": {
+   "file": "juju_mining_flask.png",
+   "name": "Juju mining flask",
+   "named": true,
+   "processed": true,
+   "raw": "juju_mining_flask.png",
+   "title": "File:Juju mining flask (6) detail.png"
+  },
+  "juju_woodcutting_flask": {
+   "file": "juju_woodcutting_flask.png",
+   "name": "Juju woodcutting flask",
+   "named": true,
+   "processed": true,
+   "raw": "juju_woodcutting_flask.png",
+   "title": "File:Juju woodcutting flask (6) detail.png"
   },
   "jukat": {
    "file": "jukat.png",
@@ -11643,6 +12513,13 @@
    "raw": "lucien.png",
    "title": "File:Lucien (rejuvenated).png"
   },
+  "luck_potion": {
+   "file": "luck_potion.png",
+   "name": "Luck potion",
+   "processed": true,
+   "raw": "luck_potion.png",
+   "title": "File:Luck potion detail.png"
+  },
   "lucy": {
    "file": "lucy.png",
    "name": "Lucy",
@@ -11830,6 +12707,30 @@
    "raw": "magic_composite_bow.png",
    "title": "File:Magic composite bow detail.png"
   },
+  "magic_essence": {
+   "file": "magic_essence.png",
+   "name": "Magic essence",
+   "named": true,
+   "processed": true,
+   "raw": "magic_essence.png",
+   "title": "File:Magic essence (4) detail.png"
+  },
+  "magic_essence_flask": {
+   "file": "magic_essence_flask.png",
+   "name": "Magic essence flask",
+   "named": true,
+   "processed": true,
+   "raw": "magic_essence_flask.png",
+   "title": "File:Magic essence flask (6) detail.png"
+  },
+  "magic_flask": {
+   "file": "magic_flask.png",
+   "name": "Magic flask",
+   "named": true,
+   "processed": true,
+   "raw": "magic_flask.png",
+   "title": "File:Magic flask (6) detail.png"
+  },
   "magic_logs": {
    "file": "magic_logs.png",
    "name": "Magic logs",
@@ -11844,12 +12745,27 @@
    "raw": "magic_longbow.png",
    "title": "File:Magic longbow detail.png"
   },
+  "magic_ogre_potion": {
+   "file": "magic_ogre_potion.png",
+   "name": "Magic ogre potion",
+   "processed": true,
+   "raw": "magic_ogre_potion.png",
+   "title": "File:Magic ogre potion detail.png"
+  },
   "magic_plank": {
    "file": "magic_plank.png",
    "name": "Magic plank",
    "processed": true,
    "raw": "magic_plank.png",
    "title": "File:Magic plank detail.png"
+  },
+  "magic_potion": {
+   "file": "magic_potion.png",
+   "name": "Magic potion",
+   "named": true,
+   "processed": true,
+   "raw": "magic_potion.png",
+   "title": "File:Magic potion (4) detail.png"
   },
   "magic_pyre_logs": {
    "file": "magic_pyre_logs.png",
@@ -12417,6 +13333,13 @@
    "name": "Mei the Grey",
    "title": "File:Mei the Grey.png"
   },
+  "meilyr_potion": {
+   "file": "meilyr_potion.png",
+   "name": "Meilyr potion",
+   "processed": true,
+   "raw": "meilyr_potion.png",
+   "title": "File:Meilyr potion detail.png"
+  },
   "mekhat": {
    "file": "mekhat.png",
    "name": "Mekhat",
@@ -12586,6 +13509,22 @@
    "file": "minerva.png",
    "name": "Minerva",
    "title": "File:Minerva.png"
+  },
+  "mining_flask": {
+   "file": "mining_flask.png",
+   "name": "Mining flask",
+   "named": true,
+   "processed": true,
+   "raw": "mining_flask.png",
+   "title": "File:Mining flask (6) detail.png"
+  },
+  "mining_potion": {
+   "file": "mining_potion.png",
+   "name": "Mining potion",
+   "named": true,
+   "processed": true,
+   "raw": "mining_potion.png",
+   "title": "File:Mining potion (4) detail.png"
   },
   "minnow": {
    "file": "minnow.png",
@@ -13422,6 +14361,22 @@
    "processed": true,
    "raw": "necrite_ore.png",
    "title": "File:Necrite ore detail.png"
+  },
+  "necromancy_flask": {
+   "file": "necromancy_flask.png",
+   "name": "Necromancy flask",
+   "named": true,
+   "processed": true,
+   "raw": "necromancy_flask.png",
+   "title": "File:Necromancy flask (6) detail.png"
+  },
+  "necromancy_potion": {
+   "file": "necromancy_potion.png",
+   "name": "Necromancy potion",
+   "named": true,
+   "processed": true,
+   "raw": "necromancy_potion.png",
+   "title": "File:Necromancy potion (4) detail.png"
   },
   "necronium_2h_crossbow": {
    "file": "necronium_2h_crossbow.png",
@@ -14874,6 +15829,29 @@
    "name": "Outlaw",
    "title": "File:Outlaw.png"
   },
+  "overload": {
+   "file": "overload.png",
+   "name": "Overload",
+   "named": true,
+   "processed": true,
+   "raw": "overload.png",
+   "title": "File:Overload (4) detail.png"
+  },
+  "overload_flask": {
+   "file": "overload_flask.png",
+   "name": "Overload flask",
+   "named": true,
+   "processed": true,
+   "raw": "overload_flask.png",
+   "title": "File:Overload flask (6) detail.png"
+  },
+  "overload_salve": {
+   "file": "overload_salve.png",
+   "name": "Overload salve",
+   "processed": true,
+   "raw": "overload_salve.png",
+   "title": "File:Overload salve detail.png"
+  },
   "overseer_siv": {
    "file": "overseer_siv.png",
    "name": "Overseer Siv",
@@ -15054,6 +16032,86 @@
    "processed": true,
    "raw": "perfect_gold_ore.png",
    "title": "File:'Perfect' gold ore detail.png"
+  },
+  "perfect_juju_agility_flask": {
+   "file": "perfect_juju_agility_flask.png",
+   "name": "Perfect juju agility flask",
+   "named": true,
+   "processed": true,
+   "raw": "perfect_juju_agility_flask.png",
+   "title": "File:Perfect juju agility flask (6) detail.png"
+  },
+  "perfect_juju_dungeoneering_flask": {
+   "file": "perfect_juju_dungeoneering_flask.png",
+   "name": "Perfect juju dungeoneering flask",
+   "named": true,
+   "processed": true,
+   "raw": "perfect_juju_dungeoneering_flask.png",
+   "title": "File:Perfect juju dungeoneering flask (6) detail.png"
+  },
+  "perfect_juju_farming_flask": {
+   "file": "perfect_juju_farming_flask.png",
+   "name": "Perfect juju farming flask",
+   "named": true,
+   "processed": true,
+   "raw": "perfect_juju_farming_flask.png",
+   "title": "File:Perfect juju farming flask (6) detail.png"
+  },
+  "perfect_juju_fishing_flask": {
+   "file": "perfect_juju_fishing_flask.png",
+   "name": "Perfect juju fishing flask",
+   "named": true,
+   "processed": true,
+   "raw": "perfect_juju_fishing_flask.png",
+   "title": "File:Perfect juju fishing flask (6) detail.png"
+  },
+  "perfect_juju_herblore_flask": {
+   "file": "perfect_juju_herblore_flask.png",
+   "name": "Perfect juju herblore flask",
+   "named": true,
+   "processed": true,
+   "raw": "perfect_juju_herblore_flask.png",
+   "title": "File:Perfect juju herblore flask (6) detail.png"
+  },
+  "perfect_juju_mining_flask": {
+   "file": "perfect_juju_mining_flask.png",
+   "name": "Perfect juju mining flask",
+   "named": true,
+   "processed": true,
+   "raw": "perfect_juju_mining_flask.png",
+   "title": "File:Perfect juju mining flask (6) detail.png"
+  },
+  "perfect_juju_prayer_flask": {
+   "file": "perfect_juju_prayer_flask.png",
+   "name": "Perfect juju prayer flask",
+   "named": true,
+   "processed": true,
+   "raw": "perfect_juju_prayer_flask.png",
+   "title": "File:Perfect juju prayer flask (6) detail.png"
+  },
+  "perfect_juju_smithing_flask": {
+   "file": "perfect_juju_smithing_flask.png",
+   "name": "Perfect juju smithing flask",
+   "named": true,
+   "processed": true,
+   "raw": "perfect_juju_smithing_flask.png",
+   "title": "File:Perfect juju smithing flask (6) detail.png"
+  },
+  "perfect_juju_woodcutting_flask": {
+   "file": "perfect_juju_woodcutting_flask.png",
+   "name": "Perfect juju woodcutting flask",
+   "named": true,
+   "processed": true,
+   "raw": "perfect_juju_woodcutting_flask.png",
+   "title": "File:Perfect juju woodcutting flask (6) detail.png"
+  },
+  "perfect_plus_potion": {
+   "file": "perfect_plus_potion.png",
+   "name": "Perfect plus potion",
+   "named": true,
+   "processed": true,
+   "raw": "perfect_plus_potion.png",
+   "title": "File:Perfect plus potion (4) detail.png"
   },
   "perien_the_blue": {
    "chosen": "File:Perian the Blue.png",
@@ -15367,6 +16425,13 @@
    "raw": "pogo_stick.png",
    "title": "File:Pogo stick detail.png"
   },
+  "poison_bomb": {
+   "file": "poison_bomb.png",
+   "name": "Poison bomb",
+   "processed": true,
+   "raw": "poison_bomb.png",
+   "title": "File:Poison bomb detail.png"
+  },
   "poison_chalice": {
    "file": "poison_chalice.png",
    "name": "Poison chalice",
@@ -15521,15 +16586,96 @@
    "raw": "potato_with_cheese.png",
    "title": "File:Potato with cheese detail.png"
   },
+  "potion_of_zombification": {
+   "file": "potion_of_zombification.png",
+   "name": "Potion of zombification",
+   "processed": true,
+   "raw": "potion_of_zombification.png",
+   "title": "File:Potion of zombification detail.png"
+  },
   "potter": {
    "file": "potter.png",
    "name": "Potter",
    "title": "File:Potter.png"
   },
+  "powerburst_of_acceleration": {
+   "file": "powerburst_of_acceleration.png",
+   "name": "Powerburst of acceleration",
+   "processed": true,
+   "raw": "powerburst_of_acceleration.png",
+   "title": "File:Powerburst of acceleration detail.png"
+  },
+  "powerburst_of_feats": {
+   "file": "powerburst_of_feats.png",
+   "name": "Powerburst of feats",
+   "processed": true,
+   "raw": "powerburst_of_feats.png",
+   "title": "File:Powerburst of feats detail.png"
+  },
+  "powerburst_of_masterstroke": {
+   "file": "powerburst_of_masterstroke.png",
+   "name": "Powerburst of masterstroke",
+   "processed": true,
+   "raw": "powerburst_of_masterstroke.png",
+   "title": "File:Powerburst of masterstroke detail.png"
+  },
+  "powerburst_of_opportunity": {
+   "file": "powerburst_of_opportunity.png",
+   "name": "Powerburst of opportunity",
+   "processed": true,
+   "raw": "powerburst_of_opportunity.png",
+   "title": "File:Powerburst of opportunity detail.png"
+  },
+  "powerburst_of_sorcery": {
+   "file": "powerburst_of_sorcery.png",
+   "name": "Powerburst of sorcery",
+   "processed": true,
+   "raw": "powerburst_of_sorcery.png",
+   "title": "File:Powerburst of sorcery detail.png"
+  },
+  "powerburst_of_vitality": {
+   "file": "powerburst_of_vitality.png",
+   "name": "Powerburst of vitality",
+   "processed": true,
+   "raw": "powerburst_of_vitality.png",
+   "title": "File:Powerburst of vitality detail.png"
+  },
   "pox": {
    "file": "pox.png",
    "name": "Pox",
    "title": "File:Pox.png"
+  },
+  "prayer_flask": {
+   "file": "prayer_flask.png",
+   "name": "Prayer flask",
+   "named": true,
+   "processed": true,
+   "raw": "prayer_flask.png",
+   "title": "File:Prayer flask (6) detail.png"
+  },
+  "prayer_potion": {
+   "file": "prayer_potion.png",
+   "name": "Prayer potion",
+   "named": true,
+   "processed": true,
+   "raw": "prayer_potion.png",
+   "title": "File:Prayer potion (4) detail.png"
+  },
+  "prayer_renewal": {
+   "file": "prayer_renewal.png",
+   "name": "Prayer renewal",
+   "named": true,
+   "processed": true,
+   "raw": "prayer_renewal.png",
+   "title": "File:Prayer renewal (4) detail.png"
+  },
+  "prayer_renewal_flask": {
+   "file": "prayer_renewal_flask.png",
+   "name": "Prayer renewal flask",
+   "named": true,
+   "processed": true,
+   "raw": "prayer_renewal_flask.png",
+   "title": "File:Prayer renewal flask (6) detail.png"
   },
   "prickly_pear_seed": {
    "file": "prickly_pear_seed.png",
@@ -16045,6 +17191,22 @@
    "processed": true,
    "raw": "rangers_aid.png",
    "title": "File:Ranger's aid detail.png"
+  },
+  "ranging_flask": {
+   "file": "ranging_flask.png",
+   "name": "Ranging flask",
+   "named": true,
+   "processed": true,
+   "raw": "ranging_flask.png",
+   "title": "File:Ranging flask (6) detail.png"
+  },
+  "ranging_potion": {
+   "file": "ranging_potion.png",
+   "name": "Ranging potion",
+   "named": true,
+   "processed": true,
+   "raw": "ranging_potion.png",
+   "title": "File:Ranging potion (4) detail.png"
   },
   "rapier": {
    "file": "rapier.png",
@@ -17037,6 +18199,22 @@
    "name": "Reldo",
    "title": "File:Reldo.png"
   },
+  "relicyms_balm": {
+   "file": "relicyms_balm.png",
+   "name": "Relicym's balm",
+   "named": true,
+   "processed": true,
+   "raw": "relicyms_balm.png",
+   "title": "File:Relicym's balm (4) detail.png"
+  },
+  "relicyms_balm_flask": {
+   "file": "relicyms_balm_flask.png",
+   "name": "Relicym's balm flask",
+   "named": true,
+   "processed": true,
+   "raw": "relicyms_balm_flask.png",
+   "title": "File:Relicym's balm flask (6) detail.png"
+  },
   "relobo_blinyo": {
    "chosen": "File:Relobo Blinyo (logs).png",
    "file": "relobo_blinyo.png",
@@ -17063,6 +18241,13 @@
    "raw": "remy.png",
    "title": "File:Remy pet.png"
   },
+  "replenishment_potion": {
+   "file": "replenishment_potion.png",
+   "name": "Replenishment potion",
+   "processed": true,
+   "raw": "replenishment_potion.png",
+   "title": "File:Replenishment potion detail.png"
+  },
   "researcher": {
    "file": "researcher.png",
    "name": "Researcher",
@@ -17072,6 +18257,22 @@
    "file": "restless_ghost.png",
    "name": "Restless ghost",
    "title": "File:Restless ghost.png"
+  },
+  "restore_flask": {
+   "file": "restore_flask.png",
+   "name": "Restore flask",
+   "named": true,
+   "processed": true,
+   "raw": "restore_flask.png",
+   "title": "File:Restore flask (6) detail.png"
+  },
+  "restore_potion": {
+   "file": "restore_potion.png",
+   "name": "Restore potion",
+   "named": true,
+   "processed": true,
+   "raw": "restore_potion.png",
+   "title": "File:Restore potion (4) detail.png"
   },
   "retired_tool_leprechaun": {
    "file": "retired_tool_leprechaun.png",
@@ -17615,6 +18816,22 @@
    "raw": "rune_warhammer.png",
    "title": "File:Rune warhammer detail.png"
   },
+  "runecrafting_flask": {
+   "file": "runecrafting_flask.png",
+   "name": "Runecrafting flask",
+   "named": true,
+   "processed": true,
+   "raw": "runecrafting_flask.png",
+   "title": "File:Runecrafting flask (6) detail.png"
+  },
+  "runecrafting_potion": {
+   "file": "runecrafting_potion.png",
+   "name": "Runecrafting potion",
+   "named": true,
+   "processed": true,
+   "raw": "runecrafting_potion.png",
+   "title": "File:Runecrafting potion (4) detail.png"
+  },
   "runic_orb": {
    "file": "runic_orb.png",
    "name": "Runic orb",
@@ -17774,6 +18991,22 @@
    "raw": "sandstone.png",
    "title": "File:Sandstone (10kg) detail.png"
   },
+  "sanfew_serum": {
+   "file": "sanfew_serum.png",
+   "name": "Sanfew serum",
+   "named": true,
+   "processed": true,
+   "raw": "sanfew_serum.png",
+   "title": "File:Sanfew serum (4) detail.png"
+  },
+  "sanfew_serum_flask": {
+   "file": "sanfew_serum_flask.png",
+   "name": "Sanfew serum flask",
+   "named": true,
+   "processed": true,
+   "raw": "sanfew_serum_flask.png",
+   "title": "File:Sanfew serum flask (6) detail.png"
+  },
   "sanguine_imp": {
    "file": "sanguine_imp.png",
    "name": "Sanguine imp",
@@ -17820,6 +19053,22 @@
    "raw": "saradomin_bow.png",
    "title": "File:Saradomin bow detail.png"
   },
+  "saradomin_brew": {
+   "file": "saradomin_brew.png",
+   "name": "Saradomin brew",
+   "named": true,
+   "processed": true,
+   "raw": "saradomin_brew.png",
+   "title": "File:Saradomin brew (4) detail.png"
+  },
+  "saradomin_brew_flask": {
+   "file": "saradomin_brew_flask.png",
+   "name": "Saradomin brew flask",
+   "named": true,
+   "processed": true,
+   "raw": "saradomin_brew_flask.png",
+   "title": "File:Saradomin brew flask (6) detail.png"
+  },
   "saradomin_godsword": {
    "file": "saradomin_godsword.png",
    "name": "Saradomin godsword",
@@ -17858,6 +19107,14 @@
    "name": "Saradominist preacher",
    "title": "File:Saradominist preacher.png"
   },
+  "saradomins_blessing_flask": {
+   "file": "saradomins_blessing_flask.png",
+   "name": "Saradomin's blessing flask",
+   "named": true,
+   "processed": true,
+   "raw": "saradomins_blessing_flask.png",
+   "title": "File:Saradomin's blessing flask (6) detail.png"
+  },
   "sardine": {
    "file": "sardine.png",
    "name": "Sardine",
@@ -17869,6 +19126,14 @@
    "file": "scavvo.png",
    "name": "Scavvo",
    "title": "File:Scavvo.png"
+  },
+  "scentless_flask": {
+   "file": "scentless_flask.png",
+   "name": "Scentless flask",
+   "named": true,
+   "processed": true,
+   "raw": "scentless_flask.png",
+   "title": "File:Scentless flask (6) detail.png"
   },
   "sceptre_of_the_gods": {
    "file": "sceptre_of_the_gods.png",
@@ -17966,6 +19231,13 @@
    "processed": true,
    "raw": "searing_flame.png",
    "title": "File:Searing Flame pet.png"
+  },
+  "searing_overload_potion": {
+   "file": "searing_overload_potion.png",
+   "name": "Searing overload potion",
+   "processed": true,
+   "raw": "searing_overload_potion.png",
+   "title": "File:Searing overload potion detail.png"
   },
   "seasinger_kiba": {
    "file": "seasinger_kiba.png",
@@ -18727,6 +19999,13 @@
    "raw": "snowdrop_seed.png",
    "title": "File:Snowdrop seed detail.png"
   },
+  "sobriety_potion": {
+   "file": "sobriety_potion.png",
+   "name": "Sobriety potion",
+   "processed": true,
+   "raw": "sobriety_potion.png",
+   "title": "File:Sobriety potion detail.png"
+  },
   "soda_ash": {
    "file": "soda_ash.png",
    "name": "Soda ash",
@@ -19001,6 +20280,22 @@
    "raw": "spinomastyx_hide.png",
    "title": "File:Spinomastyx hide detail.png"
   },
+  "spirit_attraction_flask": {
+   "file": "spirit_attraction_flask.png",
+   "name": "Spirit attraction flask",
+   "named": true,
+   "processed": true,
+   "raw": "spirit_attraction_flask.png",
+   "title": "File:Spirit attraction flask (6) detail.png"
+  },
+  "spirit_attraction_potion": {
+   "file": "spirit_attraction_potion.png",
+   "name": "Spirit attraction potion",
+   "named": true,
+   "processed": true,
+   "raw": "spirit_attraction_potion.png",
+   "title": "File:Spirit attraction potion (4) detail.png"
+  },
   "spirit_cobra": {
    "file": "spirit_cobra.png",
    "name": "Spirit cobra",
@@ -19161,6 +20456,14 @@
    "processed": true,
    "raw": "spiritbloom_orb.png",
    "title": "File:Spiritbloom orb detail.png"
+  },
+  "spiritual_prayer_potion": {
+   "file": "spiritual_prayer_potion.png",
+   "name": "Spiritual prayer potion",
+   "named": true,
+   "processed": true,
+   "raw": "spiritual_prayer_potion.png",
+   "title": "File:Spiritual prayer potion (4) detail.png"
   },
   "spit_goblin": {
    "chosen": "File:SpitGoblin.gif",
@@ -19367,6 +20670,22 @@
    "file": "stag_enchanted_valley.png",
    "name": "Stag (Enchanted Valley)",
    "title": "File:Stag.png"
+  },
+  "stamina_flask": {
+   "file": "stamina_flask.png",
+   "name": "Stamina flask",
+   "named": true,
+   "processed": true,
+   "raw": "stamina_flask.png",
+   "title": "File:Stamina flask (6) detail.png"
+  },
+  "stamina_potion": {
+   "file": "stamina_potion.png",
+   "name": "Stamina potion",
+   "named": true,
+   "processed": true,
+   "raw": "stamina_potion.png",
+   "title": "File:Stamina potion (4) detail.png"
   },
   "stanley_limelight": {
    "file": "stanley_limelight.png",
@@ -19651,6 +20970,13 @@
    "raw": "stew.png",
    "title": "File:Stew detail.png"
   },
+  "sticky_bomb": {
+   "file": "sticky_bomb.png",
+   "name": "Sticky bomb",
+   "processed": true,
+   "raw": "sticky_bomb.png",
+   "title": "File:Sticky bomb detail.png"
+  },
   "stinkshroom_spore": {
    "file": "stinkshroom_spore.png",
    "name": "Stinkshroom spore",
@@ -19737,6 +21063,22 @@
    "name": "Stray dog (Fort Forinthry)",
    "title": "File:Stray dog.png"
   },
+  "strength_flask": {
+   "file": "strength_flask.png",
+   "name": "Strength flask",
+   "named": true,
+   "processed": true,
+   "raw": "strength_flask.png",
+   "title": "File:Strength flask (6) detail.png"
+  },
+  "strength_potion": {
+   "file": "strength_potion.png",
+   "name": "Strength potion",
+   "named": true,
+   "processed": true,
+   "raw": "strength_potion.png",
+   "title": "File:Strength potion (4) detail.png"
+  },
   "stretched_hide": {
    "file": "stretched_hide.png",
    "name": "Stretched hide",
@@ -19804,6 +21146,38 @@
    "raw": "summer_sqirkjuice.png",
    "title": "File:Summer sq'irkjuice detail.png"
   },
+  "summoning_flask": {
+   "file": "summoning_flask.png",
+   "name": "Summoning flask",
+   "named": true,
+   "processed": true,
+   "raw": "summoning_flask.png",
+   "title": "File:Summoning flask (6) detail.png"
+  },
+  "summoning_potion": {
+   "file": "summoning_potion.png",
+   "name": "Summoning potion",
+   "named": true,
+   "processed": true,
+   "raw": "summoning_potion.png",
+   "title": "File:Summoning potion (4) detail.png"
+  },
+  "summoning_renewal": {
+   "file": "summoning_renewal.png",
+   "name": "Summoning renewal",
+   "named": true,
+   "processed": true,
+   "raw": "summoning_renewal.png",
+   "title": "File:Summoning renewal (4) detail.png"
+  },
+  "summoning_renewal_flask": {
+   "file": "summoning_renewal_flask.png",
+   "name": "Summoning renewal flask",
+   "named": true,
+   "processed": true,
+   "raw": "summoning_renewal_flask.png",
+   "title": "File:Summoning renewal flask (6) detail.png"
+  },
   "sunchoke_seed": {
    "file": "sunchoke_seed.png",
    "name": "Sunchoke seed",
@@ -19825,11 +21199,430 @@
    "raw": "sunspear.png",
    "title": "File:Sunspear detail.png"
   },
+  "super_adrenaline_flask": {
+   "file": "super_adrenaline_flask.png",
+   "name": "Super adrenaline flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_adrenaline_flask.png",
+   "title": "File:Super adrenaline flask (6) detail.png"
+  },
+  "super_adrenaline_potion": {
+   "file": "super_adrenaline_potion.png",
+   "name": "Super adrenaline potion",
+   "named": true,
+   "processed": true,
+   "raw": "super_adrenaline_potion.png",
+   "title": "File:Super adrenaline potion (4) detail.png"
+  },
+  "super_antifire": {
+   "file": "super_antifire.png",
+   "name": "Super antifire",
+   "named": true,
+   "processed": true,
+   "raw": "super_antifire.png",
+   "title": "File:Super antifire (4) detail.png"
+  },
+  "super_antifire_flask": {
+   "file": "super_antifire_flask.png",
+   "name": "Super antifire flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_antifire_flask.png",
+   "title": "File:Super antifire flask (6) detail.png"
+  },
+  "super_antipoison": {
+   "file": "super_antipoison.png",
+   "name": "Super antipoison",
+   "named": true,
+   "processed": true,
+   "raw": "super_antipoison.png",
+   "title": "File:Super antipoison (4) detail.png"
+  },
+  "super_antipoison_flask": {
+   "file": "super_antipoison_flask.png",
+   "name": "Super antipoison flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_antipoison_flask.png",
+   "title": "File:Super antipoison flask (6) detail.png"
+  },
+  "super_antisanguine": {
+   "file": "super_antisanguine.png",
+   "name": "Super antisanguine",
+   "named": true,
+   "processed": true,
+   "raw": "super_antisanguine.png",
+   "title": "File:Super antisanguine (4) detail.png"
+  },
+  "super_antisanguine_flask": {
+   "file": "super_antisanguine_flask.png",
+   "name": "Super antisanguine flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_antisanguine_flask.png",
+   "title": "File:Super antisanguine flask (6) detail.png"
+  },
+  "super_attack": {
+   "file": "super_attack.png",
+   "name": "Super attack",
+   "named": true,
+   "processed": true,
+   "raw": "super_attack.png",
+   "title": "File:Super attack (4) detail.png"
+  },
+  "super_attack_flask": {
+   "file": "super_attack_flask.png",
+   "name": "Super attack flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_attack_flask.png",
+   "title": "File:Super attack flask (6) detail.png"
+  },
+  "super_cooking_flask": {
+   "file": "super_cooking_flask.png",
+   "name": "Super cooking flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_cooking_flask.png",
+   "title": "File:Super cooking flask (6) detail.png"
+  },
+  "super_cooking_potion": {
+   "file": "super_cooking_potion.png",
+   "name": "Super cooking potion",
+   "named": true,
+   "processed": true,
+   "raw": "super_cooking_potion.png",
+   "title": "File:Super cooking potion (4) detail.png"
+  },
   "super_cow": {
    "chosen": "File:Cow (2).png",
    "file": "super_cow.png",
    "name": "Super Cow",
    "title": "File:Cow (2).png"
+  },
+  "super_defence": {
+   "file": "super_defence.png",
+   "name": "Super defence",
+   "named": true,
+   "processed": true,
+   "raw": "super_defence.png",
+   "title": "File:Super defence (4) detail.png"
+  },
+  "super_defence_flask": {
+   "file": "super_defence_flask.png",
+   "name": "Super defence flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_defence_flask.png",
+   "title": "File:Super defence flask (6) detail.png"
+  },
+  "super_divination": {
+   "file": "super_divination.png",
+   "name": "Super divination",
+   "named": true,
+   "processed": true,
+   "raw": "super_divination.png",
+   "title": "File:Super divination (4) detail.png"
+  },
+  "super_divination_flask": {
+   "file": "super_divination_flask.png",
+   "name": "Super divination flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_divination_flask.png",
+   "title": "File:Super divination flask (6) detail.png"
+  },
+  "super_energy": {
+   "file": "super_energy.png",
+   "name": "Super energy",
+   "named": true,
+   "processed": true,
+   "raw": "super_energy.png",
+   "title": "File:Super energy (4) detail.png"
+  },
+  "super_energy_flask": {
+   "file": "super_energy_flask.png",
+   "name": "Super energy flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_energy_flask.png",
+   "title": "File:Super energy flask (6) detail.png"
+  },
+  "super_fishing_explosive": {
+   "file": "super_fishing_explosive.png",
+   "name": "Super fishing explosive",
+   "processed": true,
+   "raw": "super_fishing_explosive.png",
+   "title": "File:Super fishing explosive detail.png"
+  },
+  "super_fishing_flask": {
+   "file": "super_fishing_flask.png",
+   "name": "Super fishing flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_fishing_flask.png",
+   "title": "File:Super fishing flask (6) detail.png"
+  },
+  "super_fishing_potion": {
+   "file": "super_fishing_potion.png",
+   "name": "Super fishing potion",
+   "named": true,
+   "processed": true,
+   "raw": "super_fishing_potion.png",
+   "title": "File:Super fishing potion (4) detail.png"
+  },
+  "super_guthix_balance": {
+   "file": "super_guthix_balance.png",
+   "name": "Super Guthix balance",
+   "processed": true,
+   "raw": "super_guthix_balance.png",
+   "title": "File:Super Guthix balance detail.png"
+  },
+  "super_guthix_brew_flask": {
+   "file": "super_guthix_brew_flask.png",
+   "name": "Super Guthix brew flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_guthix_brew_flask.png",
+   "title": "File:Super Guthix brew flask (6) detail.png"
+  },
+  "super_guthix_rest": {
+   "file": "super_guthix_rest.png",
+   "name": "Super Guthix rest",
+   "named": true,
+   "processed": true,
+   "raw": "super_guthix_rest.png",
+   "title": "File:Super Guthix rest (4) detail.png"
+  },
+  "super_hunter": {
+   "file": "super_hunter.png",
+   "name": "Super hunter",
+   "named": true,
+   "processed": true,
+   "raw": "super_hunter.png",
+   "title": "File:Super hunter (4) detail.png"
+  },
+  "super_hunter_flask": {
+   "file": "super_hunter_flask.png",
+   "name": "Super hunter flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_hunter_flask.png",
+   "title": "File:Super hunter flask (6) detail.png"
+  },
+  "super_invention": {
+   "file": "super_invention.png",
+   "name": "Super invention",
+   "named": true,
+   "processed": true,
+   "raw": "super_invention.png",
+   "title": "File:Super invention (4) detail.png"
+  },
+  "super_invention_flask": {
+   "file": "super_invention_flask.png",
+   "name": "Super invention flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_invention_flask.png",
+   "title": "File:Super invention flask (6) detail.png"
+  },
+  "super_magic_flask": {
+   "file": "super_magic_flask.png",
+   "name": "Super magic flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_magic_flask.png",
+   "title": "File:Super magic flask (6) detail.png"
+  },
+  "super_magic_potion": {
+   "file": "super_magic_potion.png",
+   "name": "Super magic potion",
+   "named": true,
+   "processed": true,
+   "raw": "super_magic_potion.png",
+   "title": "File:Super magic potion (4) detail.png"
+  },
+  "super_melee_potion": {
+   "file": "super_melee_potion.png",
+   "name": "Super melee potion",
+   "processed": true,
+   "raw": "super_melee_potion.png",
+   "title": "File:Super melee potion detail.png"
+  },
+  "super_mining_flask": {
+   "file": "super_mining_flask.png",
+   "name": "Super mining flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_mining_flask.png",
+   "title": "File:Super mining flask (6) detail.png"
+  },
+  "super_mining_potion": {
+   "file": "super_mining_potion.png",
+   "name": "Super mining potion",
+   "named": true,
+   "processed": true,
+   "raw": "super_mining_potion.png",
+   "title": "File:Super mining potion (4) detail.png"
+  },
+  "super_necromancy": {
+   "file": "super_necromancy.png",
+   "name": "Super necromancy",
+   "named": true,
+   "processed": true,
+   "raw": "super_necromancy.png",
+   "title": "File:Super necromancy (4) detail.png"
+  },
+  "super_necromancy_flask": {
+   "file": "super_necromancy_flask.png",
+   "name": "Super necromancy flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_necromancy_flask.png",
+   "title": "File:Super necromancy flask (6) detail.png"
+  },
+  "super_prayer": {
+   "file": "super_prayer.png",
+   "name": "Super prayer",
+   "named": true,
+   "processed": true,
+   "raw": "super_prayer.png",
+   "title": "File:Super prayer (4) detail.png"
+  },
+  "super_prayer_flask": {
+   "file": "super_prayer_flask.png",
+   "name": "Super prayer flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_prayer_flask.png",
+   "title": "File:Super prayer flask (6) detail.png"
+  },
+  "super_prayer_renewal_potion": {
+   "file": "super_prayer_renewal_potion.png",
+   "name": "Super prayer renewal potion",
+   "processed": true,
+   "raw": "super_prayer_renewal_potion.png",
+   "title": "File:Super prayer renewal potion detail.png"
+  },
+  "super_ranging_flask": {
+   "file": "super_ranging_flask.png",
+   "name": "Super ranging flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_ranging_flask.png",
+   "title": "File:Super ranging flask (6) detail.png"
+  },
+  "super_ranging_potion": {
+   "file": "super_ranging_potion.png",
+   "name": "Super ranging potion",
+   "named": true,
+   "processed": true,
+   "raw": "super_ranging_potion.png",
+   "title": "File:Super ranging potion (4) detail.png"
+  },
+  "super_restore": {
+   "file": "super_restore.png",
+   "name": "Super restore",
+   "named": true,
+   "processed": true,
+   "raw": "super_restore.png",
+   "title": "File:Super restore (4) detail.png"
+  },
+  "super_restore_flask": {
+   "file": "super_restore_flask.png",
+   "name": "Super restore flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_restore_flask.png",
+   "title": "File:Super restore flask (6) detail.png"
+  },
+  "super_runecrafting": {
+   "file": "super_runecrafting.png",
+   "name": "Super runecrafting",
+   "named": true,
+   "processed": true,
+   "raw": "super_runecrafting.png",
+   "title": "File:Super runecrafting (4) detail.png"
+  },
+  "super_runecrafting_flask": {
+   "file": "super_runecrafting_flask.png",
+   "name": "Super runecrafting flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_runecrafting_flask.png",
+   "title": "File:Super runecrafting flask (6) detail.png"
+  },
+  "super_saradomin_brew": {
+   "file": "super_saradomin_brew.png",
+   "name": "Super Saradomin brew",
+   "named": true,
+   "processed": true,
+   "raw": "super_saradomin_brew.png",
+   "title": "File:Super Saradomin brew (4) detail.png"
+  },
+  "super_saradomin_brew_flask": {
+   "file": "super_saradomin_brew_flask.png",
+   "name": "Super Saradomin brew flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_saradomin_brew_flask.png",
+   "title": "File:Super Saradomin brew flask (6) detail.png"
+  },
+  "super_strength": {
+   "file": "super_strength.png",
+   "name": "Super strength",
+   "named": true,
+   "processed": true,
+   "raw": "super_strength.png",
+   "title": "File:Super strength (4) detail.png"
+  },
+  "super_strength_flask": {
+   "file": "super_strength_flask.png",
+   "name": "Super strength flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_strength_flask.png",
+   "title": "File:Super strength flask (6) detail.png"
+  },
+  "super_warmasters_potion": {
+   "file": "super_warmasters_potion.png",
+   "name": "Super warmaster's potion",
+   "processed": true,
+   "raw": "super_warmasters_potion.png",
+   "title": "File:Super warmaster's potion detail.png"
+  },
+  "super_woodcutting_flask": {
+   "file": "super_woodcutting_flask.png",
+   "name": "Super woodcutting flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_woodcutting_flask.png",
+   "title": "File:Super woodcutting flask (6) detail.png"
+  },
+  "super_woodcutting_potion": {
+   "file": "super_woodcutting_potion.png",
+   "name": "Super woodcutting potion",
+   "named": true,
+   "processed": true,
+   "raw": "super_woodcutting_potion.png",
+   "title": "File:Super woodcutting potion (4) detail.png"
+  },
+  "super_zamorak_brew": {
+   "file": "super_zamorak_brew.png",
+   "name": "Super Zamorak brew",
+   "named": true,
+   "processed": true,
+   "raw": "super_zamorak_brew.png",
+   "title": "File:Super Zamorak brew (4) detail.png"
+  },
+  "super_zamorak_brew_flask": {
+   "file": "super_zamorak_brew_flask.png",
+   "name": "Super Zamorak brew flask",
+   "named": true,
+   "processed": true,
+   "raw": "super_zamorak_brew_flask.png",
+   "title": "File:Super Zamorak brew flask (6) detail.png"
   },
   "superior_ancient_mace": {
    "file": "superior_ancient_mace.png",
@@ -19956,6 +21749,55 @@
    "processed": true,
    "raw": "superior_zuriels_staff.png",
    "title": "File:Superior Zuriel's staff detail.png"
+  },
+  "supreme_attack_potion": {
+   "file": "supreme_attack_potion.png",
+   "name": "Supreme attack potion",
+   "processed": true,
+   "raw": "supreme_attack_potion.png",
+   "title": "File:Supreme attack potion detail.png"
+  },
+  "supreme_defence_potion": {
+   "file": "supreme_defence_potion.png",
+   "name": "Supreme defence potion",
+   "processed": true,
+   "raw": "supreme_defence_potion.png",
+   "title": "File:Supreme defence potion detail.png"
+  },
+  "supreme_magic_potion": {
+   "file": "supreme_magic_potion.png",
+   "name": "Supreme magic potion",
+   "processed": true,
+   "raw": "supreme_magic_potion.png",
+   "title": "File:Supreme magic potion detail.png"
+  },
+  "supreme_overload_potion": {
+   "file": "supreme_overload_potion.png",
+   "name": "Supreme overload potion",
+   "processed": true,
+   "raw": "supreme_overload_potion.png",
+   "title": "File:Supreme overload potion detail.png"
+  },
+  "supreme_overload_salve": {
+   "file": "supreme_overload_salve.png",
+   "name": "Supreme overload salve",
+   "processed": true,
+   "raw": "supreme_overload_salve.png",
+   "title": "File:Supreme overload salve detail.png"
+  },
+  "supreme_ranging_potion": {
+   "file": "supreme_ranging_potion.png",
+   "name": "Supreme ranging potion",
+   "processed": true,
+   "raw": "supreme_ranging_potion.png",
+   "title": "File:Supreme ranging potion detail.png"
+  },
+  "supreme_strength_potion": {
+   "file": "supreme_strength_potion.png",
+   "name": "Supreme strength potion",
+   "processed": true,
+   "raw": "supreme_strength_potion.png",
+   "title": "File:Supreme strength potion detail.png"
   },
   "suqah_hide": {
    "file": "suqah_hide.png",
@@ -20743,6 +22585,13 @@
    "name": "Troll Pillager",
    "title": "File:Troll Pillager (melee).png"
   },
+  "troll_potion": {
+   "file": "troll_potion.png",
+   "name": "Troll potion",
+   "processed": true,
+   "raw": "troll_potion.png",
+   "title": "File:Troll potion detail.png"
+  },
   "trout": {
    "file": "trout.png",
    "name": "Trout",
@@ -20920,6 +22769,13 @@
    "processed": true,
    "raw": "ugune_seed.png",
    "title": "File:Ugune seed detail.png"
+  },
+  "ultragrowth_potion": {
+   "file": "ultragrowth_potion.png",
+   "name": "Ultra-growth potion",
+   "processed": true,
+   "raw": "ultragrowth_potion.png",
+   "title": "File:Ultra-growth potion detail.png"
   },
   "umbra": {
    "chosen": "File:Umbra (Angel of Death).png",
@@ -21445,6 +23301,13 @@
    "name": "Vorkath",
    "title": "File:Vorkath.png"
   },
+  "vulnerability_bomb": {
+   "file": "vulnerability_bomb.png",
+   "name": "Vulnerability bomb",
+   "processed": true,
+   "raw": "vulnerability_bomb.png",
+   "title": "File:Vulnerability bomb detail.png"
+  },
   "vulture": {
    "chosen": "File:Vulture (pink) pet.png",
    "file": "vulture.png",
@@ -21671,6 +23534,30 @@
    "file": "wayne.png",
    "name": "Wayne",
    "title": "File:Wayne.png"
+  },
+  "weapon_poison": {
+   "file": "weapon_poison.png",
+   "name": "Weapon poison",
+   "named": true,
+   "processed": true,
+   "raw": "weapon_poison.png",
+   "title": "File:Weapon poison (4) detail.png"
+  },
+  "weapon_poison_plusplusplus": {
+   "file": "weapon_poison_plusplusplus.png",
+   "name": "Weapon poison+++",
+   "named": true,
+   "processed": true,
+   "raw": "weapon_poison_plusplusplus.png",
+   "title": "File:Weapon poison+++ (4) detail.png"
+  },
+  "weapon_poisonplusplusplus_flask": {
+   "file": "weapon_poisonplusplusplus_flask.png",
+   "name": "Weapon poison+++ flask",
+   "named": true,
+   "processed": true,
+   "raw": "weapon_poisonplusplusplus_flask.png",
+   "title": "File:Weapon poison+++ flask (6) detail.png"
   },
   "weaponsmaster": {
    "file": "weaponsmaster.png",
@@ -22272,6 +24159,22 @@
    "name": "Woman (Lumbridge Market)",
    "title": "File:Woman.png"
   },
+  "woodcutting_flask": {
+   "file": "woodcutting_flask.png",
+   "name": "Woodcutting flask",
+   "named": true,
+   "processed": true,
+   "raw": "woodcutting_flask.png",
+   "title": "File:Woodcutting flask (6) detail.png"
+  },
+  "woodcutting_potion": {
+   "file": "woodcutting_potion.png",
+   "name": "Woodcutting potion",
+   "named": true,
+   "processed": true,
+   "raw": "woodcutting_potion.png",
+   "title": "File:Woodcutting potion (4) detail.png"
+  },
   "wooden_spoon": {
    "file": "wooden_spoon.png",
    "name": "Wooden spoon",
@@ -22333,6 +24236,13 @@
    "processed": true,
    "raw": "wrapped_oomlie.png",
    "title": "File:Wrapped oomlie detail.png"
+  },
+  "wyrmfire_potion": {
+   "file": "wyrmfire_potion.png",
+   "name": "Wyrmfire potion",
+   "processed": true,
+   "raw": "wyrmfire_potion.png",
+   "title": "File:Wyrmfire potion detail.png"
   },
   "wyson_the_gardener": {
    "file": "wyson_the_gardener.png",
@@ -22488,6 +24398,22 @@
    "raw": "zamorak_bow.png",
    "title": "File:Zamorak bow detail.png"
   },
+  "zamorak_brew": {
+   "file": "zamorak_brew.png",
+   "name": "Zamorak brew",
+   "named": true,
+   "processed": true,
+   "raw": "zamorak_brew.png",
+   "title": "File:Zamorak brew (4) detail.png"
+  },
+  "zamorak_brew_flask": {
+   "file": "zamorak_brew_flask.png",
+   "name": "Zamorak brew flask",
+   "named": true,
+   "processed": true,
+   "raw": "zamorak_brew_flask.png",
+   "title": "File:Zamorak brew flask (6) detail.png"
+  },
   "zamorak_godsword": {
    "file": "zamorak_godsword.png",
    "name": "Zamorak godsword",
@@ -22572,6 +24498,14 @@
    "processed": true,
    "raw": "zamorakian_spear.png",
    "title": "File:Zamorakian spear detail.png"
+  },
+  "zamoraks_favour_flask": {
+   "file": "zamoraks_favour_flask.png",
+   "name": "Zamorak's favour flask",
+   "named": true,
+   "processed": true,
+   "raw": "zamoraks_favour_flask.png",
+   "title": "File:Zamorak's favour flask (6) detail.png"
   },
   "zanaris_choir": {
    "file": "zanaris_choir.png",
