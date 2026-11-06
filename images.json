@@ -142,12 +142,26 @@
    "raw": "acadia_longbow.png",
    "title": "File:Acadia longbow detail.png"
   },
+  "acadia_plank": {
+   "file": "acadia_plank.png",
+   "name": "Acadia plank",
+   "processed": true,
+   "raw": "acadia_plank.png",
+   "title": "File:Acadia plank detail.png"
+  },
   "acadia_shortbow": {
    "file": "acadia_shortbow.png",
    "name": "Acadia shortbow",
    "processed": true,
    "raw": "acadia_shortbow.png",
    "title": "File:Acadia shortbow detail.png"
+  },
+  "accursed_ashes": {
+   "file": "accursed_ashes.png",
+   "name": "Accursed ashes",
+   "processed": true,
+   "raw": "accursed_ashes.png",
+   "title": "File:Accursed ashes detail.png"
   },
   "ace": {
    "file": "ace.png",
@@ -198,6 +212,13 @@
    "processed": true,
    "raw": "adamant_2h_sword.png",
    "title": "File:Adamant 2h sword detail.png"
+  },
+  "adamant_bar": {
+   "file": "adamant_bar.png",
+   "name": "Adamant bar",
+   "processed": true,
+   "raw": "adamant_bar.png",
+   "title": "File:Adamant bar detail.png"
   },
   "adamant_battleaxe": {
    "file": "adamant_battleaxe.png",
@@ -540,6 +561,20 @@
    "name": "Airut",
    "title": "File:Airut.png"
   },
+  "airut_bonemeal": {
+   "file": "airut_bonemeal.png",
+   "name": "Airut bonemeal",
+   "processed": true,
+   "raw": "airut_bonemeal.png",
+   "title": "File:Airut bonemeal detail.png"
+  },
+  "airut_bones": {
+   "file": "airut_bones.png",
+   "name": "Airut bones",
+   "processed": true,
+   "raw": "airut_bones.png",
+   "title": "File:Airut bones detail.png"
+  },
   "akrisaes_war_mace": {
    "file": "akrisaes_war_mace.png",
    "name": "Akrisae's war mace",
@@ -656,6 +691,13 @@
    "name": "Ancient automaton",
    "title": "File:Ancient automaton.png"
   },
+  "ancient_bones_restless_ghost": {
+   "file": "ancient_bones_restless_ghost.png",
+   "name": "Ancient bones (Restless Ghost)",
+   "processed": true,
+   "raw": "ancient_bones_restless_ghost.png",
+   "title": "File:Ancient bones (The Restless Ghost) detail.png"
+  },
   "ancient_defender": {
    "file": "ancient_defender.png",
    "name": "Ancient defender",
@@ -768,6 +810,13 @@
    "raw": "annihilation.png",
    "title": "File:Annihilation detail.png"
   },
+  "apex_hide": {
+   "file": "apex_hide.png",
+   "name": "Apex hide",
+   "processed": true,
+   "raw": "apex_hide.png",
+   "title": "File:Apex hide detail.png"
+  },
   "apex_sinew": {
    "file": "apex_sinew.png",
    "name": "Apex sinew",
@@ -851,6 +900,13 @@
    "raw": "arcane_apoterrasaur_meat.png",
    "title": "File:Arcane apoterrasaur meat detail.png"
   },
+  "archaemastyx_hide": {
+   "file": "archaemastyx_hide.png",
+   "name": "Archaemastyx hide",
+   "processed": true,
+   "raw": "archaemastyx_hide.png",
+   "title": "File:Archaemastyx hide detail.png"
+  },
   "archaeologist": {
    "file": "archaeologist.png",
    "name": "Archaeologist",
@@ -926,6 +982,13 @@
    "processed": true,
    "raw": "argonite_2h_sword.png",
    "title": "File:Argonite 2h sword detail.png"
+  },
+  "argonite_bar": {
+   "file": "argonite_bar.png",
+   "name": "Argonite bar",
+   "processed": true,
+   "raw": "argonite_bar.png",
+   "title": "File:Argonite bar detail.png"
   },
   "argonite_battleaxe": {
    "file": "argonite_battleaxe.png",
@@ -1380,6 +1443,20 @@
    "name": "Baby black dragon",
    "title": "File:Baby black dragon.png"
   },
+  "baby_dragon_bonemeal": {
+   "file": "baby_dragon_bonemeal.png",
+   "name": "Baby dragon bonemeal",
+   "processed": true,
+   "raw": "baby_dragon_bonemeal.png",
+   "title": "File:Baby dragon bonemeal detail.png"
+  },
+  "baby_dragon_bones": {
+   "file": "baby_dragon_bones.png",
+   "name": "Baby dragon bones",
+   "processed": true,
+   "raw": "baby_dragon_bones.png",
+   "title": "File:Baby dragon bones detail.png"
+  },
   "baby_impling": {
    "file": "baby_impling.png",
    "name": "Baby impling",
@@ -1585,6 +1662,13 @@
    "processed": true,
    "raw": "bane_2h_sword.png",
    "title": "File:Bane 2h sword detail.png"
+  },
+  "bane_bar": {
+   "file": "bane_bar.png",
+   "name": "Bane bar",
+   "processed": true,
+   "raw": "bane_bar.png",
+   "title": "File:Bane bar detail.png"
   },
   "bane_crossbow": {
    "file": "bane_crossbow.png",
@@ -1830,6 +1914,20 @@
    "name": "Bat",
    "title": "File:Bat.png"
   },
+  "bat_bonemeal": {
+   "file": "bat_bonemeal.png",
+   "name": "Bat bonemeal",
+   "processed": true,
+   "raw": "bat_bonemeal.png",
+   "title": "File:Bat bonemeal detail.png"
+  },
+  "bat_bones": {
+   "file": "bat_bones.png",
+   "name": "Bat bones",
+   "processed": true,
+   "raw": "bat_bones.png",
+   "title": "File:Bat bones detail.png"
+  },
   "bat_shish": {
    "file": "bat_shish.png",
    "name": "Bat shish",
@@ -1850,6 +1948,13 @@
    "processed": true,
    "raw": "bathus_2h_sword.png",
    "title": "File:Bathus 2h sword detail.png"
+  },
+  "bathus_bar": {
+   "file": "bathus_bar.png",
+   "name": "Bathus bar",
+   "processed": true,
+   "raw": "bathus_bar.png",
+   "title": "File:Bathus bar detail.png"
   },
   "bathus_battleaxe": {
    "file": "bathus_battleaxe.png",
@@ -1928,6 +2033,13 @@
    "raw": "battlestaff.png",
    "title": "File:Battlestaff detail.png"
   },
+  "batwing": {
+   "file": "batwing.png",
+   "name": "Batwing",
+   "processed": true,
+   "raw": "batwing.png",
+   "title": "File:Batwing detail.png"
+  },
   "batwing_book": {
    "file": "batwing_book.png",
    "name": "Batwing book",
@@ -1946,6 +2058,20 @@
    "file": "bear_cub.png",
    "name": "Bear cub",
    "title": "File:Bear cub.png"
+  },
+  "bearded_gorilla_bonemeal": {
+   "file": "bearded_gorilla_bonemeal.png",
+   "name": "Bearded gorilla bonemeal",
+   "processed": true,
+   "raw": "bearded_gorilla_bonemeal.png",
+   "title": "File:Bearded gorilla bonemeal detail.png"
+  },
+  "bearded_gorilla_bones": {
+   "file": "bearded_gorilla_bones.png",
+   "name": "Bearded gorilla bones",
+   "processed": true,
+   "raw": "bearded_gorilla_bones.png",
+   "title": "File:Bearded gorilla bones detail.png"
   },
   "beaver": {
    "file": "beaver.png",
@@ -2038,6 +2164,20 @@
    "processed": true,
    "raw": "big_bass.png",
    "title": "File:Big bass detail.png"
+  },
+  "big_bonemeal": {
+   "file": "big_bonemeal.png",
+   "name": "Big bonemeal",
+   "processed": true,
+   "raw": "big_bonemeal.png",
+   "title": "File:Big bonemeal detail.png"
+  },
+  "big_bones": {
+   "file": "big_bones.png",
+   "name": "Big bones",
+   "processed": true,
+   "raw": "big_bones.png",
+   "title": "File:Big bones detail.png"
   },
   "big_frog": {
    "chosen": "File:Giantfrog.png",
@@ -2189,6 +2329,13 @@
    "file": "black_dragon.png",
    "name": "Black dragon",
    "title": "File:Black dragon.png"
+  },
+  "black_dragonhide": {
+   "file": "black_dragonhide.png",
+   "name": "Black dragonhide",
+   "processed": true,
+   "raw": "black_dragonhide.png",
+   "title": "File:Black dragonhide detail.png"
   },
   "black_halberd": {
    "file": "black_halberd.png",
@@ -2584,6 +2731,13 @@
    "name": "Blue dragon",
    "title": "File:Blue dragon.png"
   },
+  "blue_dragonhide": {
+   "file": "blue_dragonhide.png",
+   "name": "Blue dragonhide",
+   "processed": true,
+   "raw": "blue_dragonhide.png",
+   "title": "File:Blue dragonhide detail.png"
+  },
   "blue_jewel": {
    "file": "blue_jewel.png",
    "name": "Blue jewel",
@@ -2625,6 +2779,13 @@
    "raw": "blurite_2h_crossbow.png",
    "title": "File:Blurite 2h crossbow detail.png"
   },
+  "blurite_bar": {
+   "file": "blurite_bar.png",
+   "name": "Blurite bar",
+   "processed": true,
+   "raw": "blurite_bar.png",
+   "title": "File:Blurite bar detail.png"
+  },
   "blurite_crossbow": {
    "file": "blurite_crossbow.png",
    "name": "Blurite crossbow",
@@ -2662,6 +2823,13 @@
    "file": "bob_barter.png",
    "name": "Bob Barter",
    "title": "File:Bob Barter (herbs).png"
+  },
+  "body_bar": {
+   "file": "body_bar.png",
+   "name": "Body bar",
+   "processed": true,
+   "raw": "body_bar.png",
+   "title": "File:Body bar detail.png"
   },
   "body_esshound": {
    "file": "body_esshound.png",
@@ -2763,6 +2931,27 @@
    "processed": true,
    "raw": "bonecrusher_maul.png",
    "title": "File:Bonecrusher maul detail.png"
+  },
+  "bonemeal": {
+   "file": "bonemeal.png",
+   "name": "Bonemeal",
+   "processed": true,
+   "raw": "bonemeal.png",
+   "title": "File:Small zombie monkey bonemeal detail.png"
+  },
+  "bonemeal_bones": {
+   "file": "bonemeal_bones.png",
+   "name": "Bonemeal (Bones)",
+   "processed": true,
+   "raw": "bonemeal_bones.png",
+   "title": "File:Bonemeal (Bones) detail.png"
+  },
+  "bones": {
+   "file": "bones.png",
+   "name": "Bones",
+   "processed": true,
+   "raw": "bones.png",
+   "title": "File:Bones detail.png"
   },
   "bosun_higgs": {
    "file": "bosun_higgs.png",
@@ -2982,6 +3171,13 @@
    "processed": true,
    "raw": "bronze_2h_sword.png",
    "title": "File:Bronze 2h sword detail.png"
+  },
+  "bronze_bar": {
+   "file": "bronze_bar.png",
+   "name": "Bronze bar",
+   "processed": true,
+   "raw": "bronze_bar.png",
+   "title": "File:Bronze bar detail.png"
   },
   "bronze_battleaxe": {
    "file": "bronze_battleaxe.png",
@@ -3479,6 +3675,13 @@
    "raw": "carambola_seed.png",
    "title": "File:Carambola seed 5 detail.png"
   },
+  "carapace": {
+   "file": "carapace.png",
+   "name": "Carapace",
+   "processed": true,
+   "raw": "carapace.png",
+   "title": "File:Carapace detail.png"
+  },
   "cardamaim": {
    "file": "cardamaim.png",
    "name": "Cardamaim",
@@ -3712,6 +3915,13 @@
    "name": "Chancy",
    "title": "File:Chancy.png"
   },
+  "chaos_bar": {
+   "file": "chaos_bar.png",
+   "name": "Chaos bar",
+   "processed": true,
+   "raw": "chaos_bar.png",
+   "title": "File:Chaos bar detail.png"
+  },
   "chaos_demon": {
    "file": "chaos_demon.png",
    "name": "Chaos Demon",
@@ -3894,6 +4104,13 @@
    "raw": "chefs_delight_m.png",
    "title": "File:Chef's delight (m) detail.png"
   },
+  "chewed_bones": {
+   "file": "chewed_bones.png",
+   "name": "Chewed bones",
+   "processed": true,
+   "raw": "chewed_bones.png",
+   "title": "File:Chewed bones detail.png"
+  },
   "chicken": {
    "file": "chicken.png",
    "name": "Chicken",
@@ -4062,6 +4279,13 @@
    "processed": true,
    "raw": "ciku_seed.png",
    "title": "File:Ciku seed 5 detail.png"
+  },
+  "circular_hide": {
+   "file": "circular_hide.png",
+   "name": "Circular hide",
+   "processed": true,
+   "raw": "circular_hide.png",
+   "title": "File:Circular hide detail.png"
   },
   "claiborne": {
    "file": "claiborne.png",
@@ -4477,6 +4701,13 @@
    "name": "Compost mound",
    "title": "File:Compost mound.png"
   },
+  "concentrated_alloy_bar": {
+   "file": "concentrated_alloy_bar.png",
+   "name": "Concentrated alloy bar",
+   "processed": true,
+   "raw": "concentrated_alloy_bar.png",
+   "title": "File:Concentrated alloy bar detail.png"
+  },
   "confused_automaton": {
    "file": "confused_automaton.png",
    "name": "Confused automaton",
@@ -4839,6 +5070,13 @@
    "raw": "coshing_volunteer.png",
    "title": "File:Coshing volunteer (bearded).png"
   },
+  "cosmic_bar": {
+   "file": "cosmic_bar.png",
+   "name": "Cosmic bar",
+   "processed": true,
+   "raw": "cosmic_bar.png",
+   "title": "File:Cosmic bar detail.png"
+  },
   "cosmic_esshound": {
    "file": "cosmic_esshound.png",
    "name": "Cosmic esshound",
@@ -4879,6 +5117,13 @@
    "file": "cow1337killr.png",
    "name": "Cow1337killr",
    "title": "File:Cow1337killr.png"
+  },
+  "cowhide": {
+   "file": "cowhide.png",
+   "name": "Cowhide",
+   "processed": true,
+   "raw": "cowhide.png",
+   "title": "File:Cowhide detail.png"
   },
   "crab": {
    "file": "crab.png",
@@ -5166,6 +5411,13 @@
    "raw": "cursed_willow_logs.png",
    "title": "File:Cursed willow logs detail.png"
   },
+  "curved_bone": {
+   "file": "curved_bone.png",
+   "name": "Curved bone",
+   "processed": true,
+   "raw": "curved_bone.png",
+   "title": "File:Curved bone detail.png"
+  },
   "customs_officer": {
    "file": "customs_officer.png",
    "name": "Customs Officer",
@@ -5199,10 +5451,31 @@
    "name": "Dagannoth",
    "title": "File:Dagannoth melee.png"
   },
+  "dagannoth_bonemeal": {
+   "file": "dagannoth_bonemeal.png",
+   "name": "Dagannoth bonemeal",
+   "processed": true,
+   "raw": "dagannoth_bonemeal.png",
+   "title": "File:Dagannoth bonemeal detail.png"
+  },
+  "dagannoth_bones": {
+   "file": "dagannoth_bones.png",
+   "name": "Dagannoth bones",
+   "processed": true,
+   "raw": "dagannoth_bones.png",
+   "title": "File:Dagannoth bones detail.png"
+  },
   "dagannoth_guardian": {
    "file": "dagannoth_guardian.png",
    "name": "Dagannoth guardian",
    "title": "File:Dagannoth guardian.png"
+  },
+  "dagannoth_hide": {
+   "file": "dagannoth_hide.png",
+   "name": "Dagannoth hide",
+   "processed": true,
+   "raw": "dagannoth_hide.png",
+   "title": "File:Dagannoth hide detail.png"
   },
   "dagannoth_sentinel": {
    "file": "dagannoth_sentinel.png",
@@ -5598,6 +5871,27 @@
    "name": "Dimintheis",
    "title": "File:Dimintheis.png"
   },
+  "dinosaur_bonemeal": {
+   "file": "dinosaur_bonemeal.png",
+   "name": "Dinosaur bonemeal",
+   "processed": true,
+   "raw": "dinosaur_bonemeal.png",
+   "title": "File:Dinosaur bonemeal detail.png"
+  },
+  "dinosaur_bones": {
+   "file": "dinosaur_bones.png",
+   "name": "Dinosaur bones",
+   "processed": true,
+   "raw": "dinosaur_bones.png",
+   "title": "File:Dinosaur bones detail.png"
+  },
+  "dinosaur_hide": {
+   "file": "dinosaur_hide.png",
+   "name": "Dinosaur hide",
+   "processed": true,
+   "raw": "dinosaur_hide.png",
+   "title": "File:Dinosaur hide detail.png"
+  },
   "dire_wolf": {
    "chosen": "File:Dire wolf.png",
    "file": "dire_wolf.png",
@@ -5772,6 +6066,20 @@
    "raw": "dragon_bitter_m.png",
    "title": "File:Dragon bitter (m) detail.png"
   },
+  "dragon_bonemeal": {
+   "file": "dragon_bonemeal.png",
+   "name": "Dragon bonemeal",
+   "processed": true,
+   "raw": "dragon_bonemeal.png",
+   "title": "File:Dragon bonemeal detail.png"
+  },
+  "dragon_bones": {
+   "file": "dragon_bones.png",
+   "name": "Dragon bones",
+   "processed": true,
+   "raw": "dragon_bones.png",
+   "title": "File:Dragon bones detail.png"
+  },
   "dragon_cane": {
    "file": "dragon_cane.png",
    "name": "Dragon cane",
@@ -5930,6 +6238,20 @@
    "raw": "dragonfruit_seed.png",
    "title": "File:Dragonfruit seed 5 detail.png"
   },
+  "dragonkin_bonemeal": {
+   "file": "dragonkin_bonemeal.png",
+   "name": "Dragonkin bonemeal",
+   "processed": true,
+   "raw": "dragonkin_bonemeal.png",
+   "title": "File:Dragonkin bonemeal detail.png"
+  },
+  "dragonkin_bones": {
+   "file": "dragonkin_bones.png",
+   "name": "Dragonkin bones",
+   "processed": true,
+   "raw": "dragonkin_bones.png",
+   "title": "File:Dragonkin bones detail.png"
+  },
   "dragonstone": {
    "file": "dragonstone.png",
    "name": "Dragonstone",
@@ -5994,6 +6316,13 @@
    "processed": true,
    "raw": "dried_thistle.png",
    "title": "File:Dried thistle detail.png"
+  },
+  "dromomastyx_hide": {
+   "file": "dromomastyx_hide.png",
+   "name": "Dromomastyx hide",
+   "processed": true,
+   "raw": "dromomastyx_hide.png",
+   "title": "File:Dromomastyx hide detail.png"
   },
   "druid_senntisten": {
    "file": "druid_senntisten.png",
@@ -6410,6 +6739,13 @@
    "raw": "elder_longbow.png",
    "title": "File:Elder longbow detail.png"
   },
+  "elder_plank": {
+   "file": "elder_plank.png",
+   "name": "Elder plank",
+   "processed": true,
+   "raw": "elder_plank.png",
+   "title": "File:Elder plank detail.png"
+  },
   "elder_pyre_logs": {
    "file": "elder_pyre_logs.png",
    "name": "Elder pyre logs",
@@ -6423,6 +6759,13 @@
    "processed": true,
    "raw": "elder_rune_2h_sword.png",
    "title": "File:Elder rune 2h sword detail.png"
+  },
+  "elder_rune_bar": {
+   "file": "elder_rune_bar.png",
+   "name": "Elder rune bar",
+   "processed": true,
+   "raw": "elder_rune_bar.png",
+   "title": "File:Elder rune bar detail.png"
   },
   "elder_rune_longsword": {
    "file": "elder_rune_longsword.png",
@@ -6459,6 +6802,13 @@
    "processed": true,
    "raw": "eldritch_crossbow.png",
    "title": "File:Eldritch crossbow detail.png"
+  },
+  "elemental_bar": {
+   "file": "elemental_bar.png",
+   "name": "Elemental bar",
+   "processed": true,
+   "raw": "elemental_bar.png",
+   "title": "File:Elemental bar detail.png"
   },
   "elemental_battlestaff": {
    "file": "elemental_battlestaff.png",
@@ -6701,6 +7051,13 @@
    "name": "Enraged automaton",
    "title": "File:Enraged automaton.png"
   },
+  "enriched_alloy_bar": {
+   "file": "enriched_alloy_bar.png",
+   "name": "Enriched alloy bar",
+   "processed": true,
+   "raw": "enriched_alloy_bar.png",
+   "title": "File:Enriched alloy bar detail.png"
+  },
   "enriched_bright_wisp": {
    "file": "enriched_bright_wisp.png",
    "name": "Enriched bright wisp",
@@ -6830,6 +7187,13 @@
    "processed": true,
    "raw": "eternal_magic_shortbow.png",
    "title": "File:Eternal magic shortbow detail.png"
+  },
+  "eternal_plank": {
+   "file": "eternal_plank.png",
+   "name": "Eternal plank",
+   "processed": true,
+   "raw": "eternal_plank.png",
+   "title": "File:Eternal plank detail.png"
   },
   "eucalyptus_logs": {
    "file": "eucalyptus_logs.png",
@@ -7138,6 +7502,20 @@
    "name": "Fayeth",
    "title": "File:Fayeth.png"
   },
+  "fayrg_bonemeal": {
+   "file": "fayrg_bonemeal.png",
+   "name": "Fayrg bonemeal",
+   "processed": true,
+   "raw": "fayrg_bonemeal.png",
+   "title": "File:Fayrg bonemeal detail.png"
+  },
+  "fayrg_bones": {
+   "file": "fayrg_bones.png",
+   "name": "Fayrg bones",
+   "processed": true,
+   "raw": "fayrg_bones.png",
+   "title": "File:Fayrg bones detail.png"
+  },
   "fear_reaper": {
    "file": "fear_reaper.png",
    "name": "Fear reaper",
@@ -7334,6 +7712,13 @@
    "raw": "flatfish_gissel_potato.png",
    "title": "File:Flatfish & gissel potato detail.png"
   },
+  "flattened_hide": {
+   "file": "flattened_hide.png",
+   "name": "Flattened hide",
+   "processed": true,
+   "raw": "flattened_hide.png",
+   "title": "File:Flattened hide detail.png"
+  },
   "flesh_crawler": {
    "file": "flesh_crawler.png",
    "name": "Flesh Crawler",
@@ -7420,6 +7805,13 @@
    "processed": true,
    "raw": "fractite_2h_sword.png",
    "title": "File:Fractite 2h sword detail.png"
+  },
+  "fractite_bar": {
+   "file": "fractite_bar.png",
+   "name": "Fractite bar",
+   "processed": true,
+   "raw": "fractite_bar.png",
+   "title": "File:Fractite bar detail.png"
   },
   "fractite_battleaxe": {
    "file": "fractite_battleaxe.png",
@@ -7595,6 +7987,20 @@
    "raw": "frogspawn_gumbo.png",
    "title": "File:Frogspawn gumbo detail.png"
   },
+  "frost_dragon_bonemeal": {
+   "file": "frost_dragon_bonemeal.png",
+   "name": "Frost dragon bonemeal",
+   "processed": true,
+   "raw": "frost_dragon_bonemeal.png",
+   "title": "File:Frost dragon bonemeal detail.png"
+  },
+  "frost_dragon_bones": {
+   "file": "frost_dragon_bones.png",
+   "name": "Frost dragon bones",
+   "processed": true,
+   "raw": "frost_dragon_bones.png",
+   "title": "File:Frost dragon bones detail.png"
+  },
   "frostbite_dagger": {
    "file": "frostbite_dagger.png",
    "name": "Frostbite dagger",
@@ -7669,6 +8075,13 @@
    "file": "gadrin.png",
    "name": "Gadrin",
    "title": "File:Gadrin.png"
+  },
+  "gallimastyx_hide": {
+   "file": "gallimastyx_hide.png",
+   "name": "Gallimastyx hide",
+   "processed": true,
+   "raw": "gallimastyx_hide.png",
+   "title": "File:Gallimastyx hide detail.png"
   },
   "ganodermic_beast": {
    "file": "ganodermic_beast.png",
@@ -8072,6 +8485,13 @@
    "name": "Glophren",
    "title": "File:Glophren.png"
   },
+  "glorious_bar": {
+   "file": "glorious_bar.png",
+   "name": "Glorious bar",
+   "processed": true,
+   "raw": "glorious_bar.png",
+   "title": "File:Glorious bar detail.png"
+  },
   "glowing_ember": {
    "file": "glowing_ember.png",
    "name": "Glowing Ember",
@@ -8125,6 +8545,13 @@
    "processed": true,
    "raw": "godly_grapevine_seed.png",
    "title": "File:Godly grapevine seed 5 detail.png"
+  },
+  "gold_bar": {
+   "file": "gold_bar.png",
+   "name": "Gold bar",
+   "processed": true,
+   "raw": "gold_bar.png",
+   "title": "File:Gold bar detail.png"
   },
   "gold_ore": {
    "file": "gold_ore.png",
@@ -8207,6 +8634,13 @@
    "raw": "gorgonite_2h_sword.png",
    "title": "File:Gorgonite 2h sword detail.png"
   },
+  "gorgonite_bar": {
+   "file": "gorgonite_bar.png",
+   "name": "Gorgonite bar",
+   "processed": true,
+   "raw": "gorgonite_bar.png",
+   "title": "File:Gorgonite bar detail.png"
+  },
   "gorgonite_battleaxe": {
    "file": "gorgonite_battleaxe.png",
    "name": "Gorgonite battleaxe",
@@ -8269,6 +8703,20 @@
    "processed": true,
    "raw": "gorgonite_spear.png",
    "title": "File:Gorgonite spear detail.png"
+  },
+  "gorilla_bonemeal": {
+   "file": "gorilla_bonemeal.png",
+   "name": "Gorilla bonemeal",
+   "processed": true,
+   "raw": "gorilla_bonemeal.png",
+   "title": "File:Gorilla bonemeal detail.png"
+  },
+  "gorilla_bones": {
+   "file": "gorilla_bones.png",
+   "name": "Gorilla bones",
+   "processed": true,
+   "raw": "gorilla_bones.png",
+   "title": "File:Gorilla bones detail.png"
   },
   "gorvek": {
    "file": "gorvek.png",
@@ -8541,6 +8989,13 @@
    "processed": true,
    "raw": "green_blubber_jellyfish.png",
    "title": "File:Green blubber jellyfish detail.png"
+  },
+  "green_dragonhide": {
+   "file": "green_dragonhide.png",
+   "name": "Green dragonhide",
+   "processed": true,
+   "raw": "green_dragonhide.png",
+   "title": "File:Green dragonhide detail.png"
   },
   "green_gloop_soup": {
    "file": "green_gloop_soup.png",
@@ -9205,6 +9660,20 @@
    "name": "Hans",
    "title": "File:Hans.png"
   },
+  "hardened_dragon_bonemeal": {
+   "file": "hardened_dragon_bonemeal.png",
+   "name": "Hardened dragon bonemeal",
+   "processed": true,
+   "raw": "hardened_dragon_bonemeal.png",
+   "title": "File:Hardened dragon bonemeal detail.png"
+  },
+  "hardened_dragon_bones": {
+   "file": "hardened_dragon_bones.png",
+   "name": "Hardened dragon bones",
+   "processed": true,
+   "raw": "hardened_dragon_bones.png",
+   "title": "File:Hardened dragon bones detail.png"
+  },
   "hari": {
    "file": "hari.png",
    "name": "Hari",
@@ -9242,6 +9711,13 @@
    "file": "haunting_ghost.png",
    "name": "Haunting ghost",
    "title": "File:Haunting ghost.png"
+  },
+  "havensilver_bar": {
+   "file": "havensilver_bar.png",
+   "name": "Havensilver bar",
+   "processed": true,
+   "raw": "havensilver_bar.png",
+   "title": "File:Havensilver bar detail.png"
   },
   "havensilver_greatsword": {
    "file": "havensilver_greatsword.png",
@@ -9666,6 +10142,13 @@
    "name": "Ikis Krum",
    "title": "File:Ikus Krum.png"
   },
+  "immaculate_alloy_bar": {
+   "file": "immaculate_alloy_bar.png",
+   "name": "Immaculate alloy bar",
+   "processed": true,
+   "raw": "immaculate_alloy_bar.png",
+   "title": "File:Immaculate alloy bar detail.png"
+  },
   "immenizz": {
    "file": "immenizz.png",
    "name": "Immenizz",
@@ -9700,12 +10183,26 @@
    "raw": "imperium_core.png",
    "title": "File:Imperium core detail.png"
   },
+  "imphide": {
+   "file": "imphide.png",
+   "name": "Imphide",
+   "processed": true,
+   "raw": "imphide.png",
+   "title": "File:Imphide detail.png"
+  },
   "imphide_book": {
    "file": "imphide_book.png",
    "name": "Imphide book",
    "processed": true,
    "raw": "imphide_book.png",
    "title": "File:Imphide book detail.png"
+  },
+  "impious_ashes": {
+   "file": "impious_ashes.png",
+   "name": "Impious ashes",
+   "processed": true,
+   "raw": "impious_ashes.png",
+   "title": "File:Impious ashes detail.png"
   },
   "incomplete_hydrix": {
    "file": "incomplete_hydrix.png",
@@ -9720,6 +10217,13 @@
    "processed": true,
    "raw": "inferior_locator.png",
    "title": "File:Inferior locator detail.png"
+  },
+  "infernal_ashes": {
+   "file": "infernal_ashes.png",
+   "name": "Infernal ashes",
+   "processed": true,
+   "raw": "infernal_ashes.png",
+   "title": "File:Infernal ashes detail.png"
   },
   "infernal_mage": {
    "file": "infernal_mage.png",
@@ -9791,6 +10295,13 @@
    "processed": true,
    "raw": "iron_2h_sword.png",
    "title": "File:Iron 2h sword detail.png"
+  },
+  "iron_bar": {
+   "file": "iron_bar.png",
+   "name": "Iron bar",
+   "processed": true,
+   "raw": "iron_bar.png",
+   "title": "File:Iron bar detail.png"
   },
   "iron_battleaxe": {
    "file": "iron_battleaxe.png",
@@ -10113,6 +10624,20 @@
    "name": "Joe (City of Um)",
    "title": "File:Joe (City of Um).png"
   },
+  "jogre_bonemeal": {
+   "file": "jogre_bonemeal.png",
+   "name": "Jogre bonemeal",
+   "processed": true,
+   "raw": "jogre_bonemeal.png",
+   "title": "File:Jogre bonemeal detail.png"
+  },
+  "jogre_bones": {
+   "file": "jogre_bones.png",
+   "name": "Jogre bones",
+   "processed": true,
+   "raw": "jogre_bones.png",
+   "title": "File:Jogre bones detail.png"
+  },
   "johanhus_ulsbrecht": {
    "file": "johanhus_ulsbrecht.png",
    "name": "Johanhus Ulsbrecht",
@@ -10293,6 +10818,13 @@
    "processed": true,
    "raw": "katagon_2h_sword.png",
    "title": "File:Katagon 2h sword detail.png"
+  },
+  "katagon_bar": {
+   "file": "katagon_bar.png",
+   "name": "Katagon bar",
+   "processed": true,
+   "raw": "katagon_bar.png",
+   "title": "File:Katagon bar detail.png"
   },
   "katagon_battleaxe": {
    "file": "katagon_battleaxe.png",
@@ -10586,6 +11118,13 @@
    "raw": "kratonite_2h_sword.png",
    "title": "File:Kratonite 2h sword detail.png"
   },
+  "kratonite_bar": {
+   "file": "kratonite_bar.png",
+   "name": "Kratonite bar",
+   "processed": true,
+   "raw": "kratonite_bar.png",
+   "title": "File:Kratonite bar detail.png"
+  },
   "kratonite_battleaxe": {
    "file": "kratonite_battleaxe.png",
    "name": "Kratonite battleaxe",
@@ -10717,6 +11256,20 @@
    "processed": true,
    "raw": "lapis_lazuli_gem.png",
    "title": "File:Lapis lazuli gem detail.png"
+  },
+  "large_zombie_monkey_bonemeal": {
+   "file": "large_zombie_monkey_bonemeal.png",
+   "name": "Bonemeal",
+   "processed": true,
+   "raw": "large_zombie_monkey_bonemeal.png",
+   "title": "File:Large zombie monkey bonemeal detail.png"
+  },
+  "large_zombie_monkey_bones": {
+   "file": "large_zombie_monkey_bones.png",
+   "name": "Large zombie monkey bones",
+   "processed": true,
+   "raw": "large_zombie_monkey_bones.png",
+   "title": "File:Large zombie monkey bones detail.png"
   },
   "larriar": {
    "file": "larriar.png",
@@ -11058,6 +11611,13 @@
    "raw": "logs.png",
    "title": "File:Logs detail.png"
   },
+  "long_bone": {
+   "file": "long_bone.png",
+   "name": "Long bone",
+   "processed": true,
+   "raw": "long_bone.png",
+   "title": "File:Long bone detail.png"
+  },
   "longbow": {
    "file": "longbow.png",
    "name": "Longbow",
@@ -11143,6 +11703,13 @@
    "processed": true,
    "raw": "luminous_snaggler_seed.png",
    "title": "File:Luminous snaggler seed detail.png"
+  },
+  "lunar_bar": {
+   "file": "lunar_bar.png",
+   "name": "Lunar bar",
+   "processed": true,
+   "raw": "lunar_bar.png",
+   "title": "File:Lunar bar detail.png"
   },
   "lunar_ore": {
    "file": "lunar_ore.png",
@@ -11277,6 +11844,13 @@
    "raw": "magic_longbow.png",
    "title": "File:Magic longbow detail.png"
   },
+  "magic_plank": {
+   "file": "magic_plank.png",
+   "name": "Magic plank",
+   "processed": true,
+   "raw": "magic_plank.png",
+   "title": "File:Magic plank detail.png"
+  },
   "magic_pyre_logs": {
    "file": "magic_pyre_logs.png",
    "name": "Magic pyre logs",
@@ -11335,6 +11909,13 @@
    "processed": true,
    "raw": "mahogany_logs.png",
    "title": "File:Mahogany logs detail.png"
+  },
+  "mahogany_plank": {
+   "file": "mahogany_plank.png",
+   "name": "Mahogany plank",
+   "processed": true,
+   "raw": "mahogany_plank.png",
+   "title": "File:Mahogany plank detail.png"
   },
   "mahogany_pyre_logs": {
    "file": "mahogany_pyre_logs.png",
@@ -11400,6 +11981,13 @@
    "name": "Man (Lumbridge Market)",
    "title": "File:Man (Lumbridge Market, Talking).png"
   },
+  "mangled_bones": {
+   "file": "mangled_bones.png",
+   "name": "Mangled bones",
+   "processed": true,
+   "raw": "mangled_bones.png",
+   "title": "File:Mangled bones detail.png"
+  },
   "mango": {
    "file": "mango.png",
    "name": "Mango",
@@ -11448,6 +12036,13 @@
    "processed": true,
    "raw": "maple_longbow.png",
    "title": "File:Maple longbow detail.png"
+  },
+  "maple_plank": {
+   "file": "maple_plank.png",
+   "name": "Maple plank",
+   "processed": true,
+   "raw": "maple_plank.png",
+   "title": "File:Maple plank detail.png"
   },
   "maple_pyre_logs": {
    "file": "maple_pyre_logs.png",
@@ -11524,6 +12119,13 @@
    "processed": true,
    "raw": "marmaros_2h_sword.png",
    "title": "File:Marmaros 2h sword detail.png"
+  },
+  "marmaros_bar": {
+   "file": "marmaros_bar.png",
+   "name": "Marmaros bar",
+   "processed": true,
+   "raw": "marmaros_bar.png",
+   "title": "File:Marmaros bar detail.png"
   },
   "marmaros_battleaxe": {
    "file": "marmaros_battleaxe.png",
@@ -11756,6 +12358,20 @@
    "raw": "mechanised_chinchompa.png",
    "title": "File:Mechanised chinchompa detail.png"
   },
+  "medium_ninja_monkey_bonemeal": {
+   "file": "medium_ninja_monkey_bonemeal.png",
+   "name": "Bonemeal",
+   "processed": true,
+   "raw": "medium_ninja_monkey_bonemeal.png",
+   "title": "File:Medium ninja monkey bonemeal detail.png"
+  },
+  "medium_ninja_monkey_bones": {
+   "file": "medium_ninja_monkey_bones.png",
+   "name": "Medium ninja monkey bones",
+   "processed": true,
+   "raw": "medium_ninja_monkey_bones.png",
+   "title": "File:Medium ninja monkey bones detail.png"
+  },
   "meerkats": {
    "file": "meerkats.png",
    "name": "Meerkats",
@@ -11775,6 +12391,13 @@
    "file": "mega_duck.png",
    "name": "Mega Duck",
    "title": "File:Mega Duck.png"
+  },
+  "megamastyx_hide": {
+   "file": "megamastyx_hide.png",
+   "name": "Megamastyx hide",
+   "processed": true,
+   "raw": "megamastyx_hide.png",
+   "title": "File:Megamastyx hide detail.png"
   },
   "megan": {
    "chosen": "File:Megan (Party Room).png",
@@ -11926,6 +12549,13 @@
    "raw": "minced_meat.png",
    "title": "File:Minced meat detail.png"
   },
+  "mind_bar": {
+   "file": "mind_bar.png",
+   "name": "Mind bar",
+   "processed": true,
+   "raw": "mind_bar.png",
+   "title": "File:Mind bar detail.png"
+  },
   "mind_essling": {
    "file": "mind_essling.png",
    "name": "Mind essling",
@@ -12011,6 +12641,13 @@
    "processed": true,
    "raw": "mithril_2h_sword.png",
    "title": "File:Mithril 2h sword detail.png"
+  },
+  "mithril_bar": {
+   "file": "mithril_bar.png",
+   "name": "Mithril bar",
+   "processed": true,
+   "raw": "mithril_bar.png",
+   "title": "File:Mithril bar detail.png"
   },
   "mithril_battleaxe": {
    "file": "mithril_battleaxe.png",
@@ -12295,6 +12932,20 @@
    "processed": true,
    "raw": "monkey_bar.png",
    "title": "File:Monkey bar detail.png"
+  },
+  "monkey_bonemeal": {
+   "file": "monkey_bonemeal.png",
+   "name": "Monkey bonemeal",
+   "processed": true,
+   "raw": "monkey_bonemeal.png",
+   "title": "File:Monkey bonemeal detail.png"
+  },
+  "monkey_bones": {
+   "file": "monkey_bones.png",
+   "name": "Monkey bones",
+   "processed": true,
+   "raw": "monkey_bones.png",
+   "title": "File:Monkey bones detail.png"
   },
   "monkey_nuts": {
    "file": "monkey_nuts.png",
@@ -12616,6 +13267,13 @@
    "raw": "mystic_air_staff.png",
    "title": "File:Mystic air staff detail.png"
   },
+  "mystic_cloth": {
+   "file": "mystic_cloth.png",
+   "name": "Mystic cloth",
+   "processed": true,
+   "raw": "mystic_cloth.png",
+   "title": "File:Mystic cloth detail.png"
+  },
   "mystic_earth_staff": {
    "file": "mystic_earth_staff.png",
    "name": "Mystic earth staff",
@@ -12778,6 +13436,13 @@
    "processed": true,
    "raw": "necronium_2h_greataxe.png",
    "title": "File:Necronium 2h greataxe detail.png"
+  },
+  "necronium_bar": {
+   "file": "necronium_bar.png",
+   "name": "Necronium bar",
+   "processed": true,
+   "raw": "necronium_bar.png",
+   "title": "File:Necronium bar detail.png"
   },
   "necronium_battleaxe": {
    "file": "necronium_battleaxe.png",
@@ -12953,6 +13618,13 @@
    "raw": "novite_2h_sword.png",
    "title": "File:Novite 2h sword detail.png"
   },
+  "novite_bar": {
+   "file": "novite_bar.png",
+   "name": "Novite bar",
+   "processed": true,
+   "raw": "novite_bar.png",
+   "title": "File:Novite bar detail.png"
+  },
   "novite_battleaxe": {
    "file": "novite_battleaxe.png",
    "name": "Novite battleaxe",
@@ -13087,6 +13759,13 @@
    "raw": "oak_longbow.png",
    "title": "File:Oak longbow detail.png"
   },
+  "oak_plank": {
+   "file": "oak_plank.png",
+   "name": "Oak plank",
+   "processed": true,
+   "raw": "oak_plank.png",
+   "title": "File:Oak plank detail.png"
+  },
   "oak_pyre_logs": {
    "file": "oak_pyre_logs.png",
    "name": "Oak pyre logs",
@@ -13114,6 +13793,13 @@
    "processed": true,
    "raw": "obliteration.png",
    "title": "File:Obliteration detail.png"
+  },
+  "obsidian_bar": {
+   "file": "obsidian_bar.png",
+   "name": "Obsidian bar",
+   "processed": true,
+   "raw": "obsidian_bar.png",
+   "title": "File:Obsidian bar detail.png"
   },
   "obsidian_golem": {
    "file": "obsidian_golem.png",
@@ -14109,6 +14795,13 @@
    "raw": "orikalkum_2h_warhammer.png",
    "title": "File:Orikalkum 2h warhammer detail.png"
   },
+  "orikalkum_bar": {
+   "file": "orikalkum_bar.png",
+   "name": "Orikalkum bar",
+   "processed": true,
+   "raw": "orikalkum_bar.png",
+   "title": "File:Orikalkum bar detail.png"
+  },
   "orikalkum_crossbow": {
    "file": "orikalkum_crossbow.png",
    "name": "Orikalkum crossbow",
@@ -14154,6 +14847,27 @@
    "file": "otherworldly_being.png",
    "name": "Otherworldly being",
    "title": "File:Otherworldly being.png"
+  },
+  "ourg_bonemeal": {
+   "file": "ourg_bonemeal.png",
+   "name": "Ourg bonemeal",
+   "processed": true,
+   "raw": "ourg_bonemeal.png",
+   "title": "File:Ourg bonemeal detail.png"
+  },
+  "ourg_bones": {
+   "file": "ourg_bones.png",
+   "name": "Ourg bones",
+   "processed": true,
+   "raw": "ourg_bones.png",
+   "title": "File:Ourg bones detail.png"
+  },
+  "ourg_bones_general_graardor": {
+   "file": "ourg_bones_general_graardor.png",
+   "name": "Ourg bones (General Graardor)",
+   "processed": true,
+   "raw": "ourg_bones_general_graardor.png",
+   "title": "File:Ourg bones (General Graardor) detail.png"
   },
   "outlaw": {
    "file": "outlaw.png",
@@ -14233,6 +14947,13 @@
    "processed": true,
    "raw": "papreaper.png",
    "title": "File:Papreaper detail.png"
+  },
+  "paramastyx_hide": {
+   "file": "paramastyx_hide.png",
+   "name": "Paramastyx hide",
+   "processed": true,
+   "raw": "paramastyx_hide.png",
+   "title": "File:Paramastyx hide detail.png"
   },
   "parslay": {
    "file": "parslay.png",
@@ -14319,6 +15040,13 @@
    "processed": true,
    "raw": "penguin_staff.png",
    "title": "File:Penguin staff detail.png"
+  },
+  "perfect_gold_bar": {
+   "file": "perfect_gold_bar.png",
+   "name": "'Perfect' gold bar",
+   "processed": true,
+   "raw": "perfect_gold_bar.png",
+   "title": "File:'Perfect' gold bar detail.png"
   },
   "perfect_gold_ore": {
    "file": "perfect_gold_ore.png",
@@ -14598,6 +15326,20 @@
    "raw": "plain_pizza.png",
    "title": "File:Plain pizza detail.png"
   },
+  "plank": {
+   "file": "plank.png",
+   "name": "Plank",
+   "processed": true,
+   "raw": "plank.png",
+   "title": "File:Plank detail.png"
+  },
+  "platinum_bar": {
+   "file": "platinum_bar.png",
+   "name": "Platinum bar",
+   "processed": true,
+   "raw": "platinum_bar.png",
+   "title": "File:Platinum bar detail.png"
+  },
   "platinum_ore": {
    "file": "platinum_ore.png",
    "name": "Platinum ore",
@@ -14810,6 +15552,13 @@
    "raw": "primal_2h_sword.png",
    "title": "File:Primal 2h sword detail.png"
   },
+  "primal_bar": {
+   "file": "primal_bar.png",
+   "name": "Primal bar",
+   "processed": true,
+   "raw": "primal_bar.png",
+   "title": "File:Primal bar detail.png"
+  },
   "primal_battleaxe": {
    "file": "primal_battleaxe.png",
    "name": "Primal battleaxe",
@@ -14930,6 +15679,20 @@
    "raw": "prime_colossus.png",
    "title": "File:Prime Colossus Mk III.png"
   },
+  "primed_bar": {
+   "file": "primed_bar.png",
+   "name": "Primed bar",
+   "processed": true,
+   "raw": "primed_bar.png",
+   "title": "File:Primed bar detail.png"
+  },
+  "primed_glorious_bar": {
+   "file": "primed_glorious_bar.png",
+   "name": "Primed glorious bar",
+   "processed": true,
+   "raw": "primed_glorious_bar.png",
+   "title": "File:Primed glorious bar detail.png"
+  },
   "primed_keris": {
    "file": "primed_keris.png",
    "name": "Primed keris",
@@ -14977,6 +15740,13 @@
    "processed": true,
    "raw": "promethium_2h_sword.png",
    "title": "File:Promethium 2h sword detail.png"
+  },
+  "promethium_bar": {
+   "file": "promethium_bar.png",
+   "name": "Promethium bar",
+   "processed": true,
+   "raw": "promethium_bar.png",
+   "title": "File:Promethium bar detail.png"
   },
   "promethium_battleaxe": {
    "file": "promethium_battleaxe.png",
@@ -15059,6 +15829,13 @@
    "file": "protector.png",
    "name": "Protector",
    "title": "File:Protector.png"
+  },
+  "protomastyx_hide": {
+   "file": "protomastyx_hide.png",
+   "name": "Protomastyx hide",
+   "processed": true,
+   "raw": "protomastyx_hide.png",
+   "title": "File:Protomastyx hide detail.png"
   },
   "prototype_colossus": {
    "chosen": "File:Prototype colossus mk III.png",
@@ -15295,6 +16072,20 @@
    "file": "rat_city_of_um.png",
    "name": "Rat (City of Um)",
    "title": "File:Rat (City of Um).png"
+  },
+  "raurg_bonemeal": {
+   "file": "raurg_bonemeal.png",
+   "name": "Raurg bonemeal",
+   "processed": true,
+   "raw": "raurg_bonemeal.png",
+   "title": "File:Raurg bonemeal detail.png"
+  },
+  "raurg_bones": {
+   "file": "raurg_bones.png",
+   "name": "Raurg bones",
+   "processed": true,
+   "raw": "raurg_bones.png",
+   "title": "File:Raurg bones detail.png"
   },
   "ravenous_locust": {
    "file": "ravenous_locust.png",
@@ -15979,6 +16770,13 @@
    "name": "Red dragon",
    "title": "File:Red dragon (1).png"
   },
+  "red_dragonhide": {
+   "file": "red_dragonhide.png",
+   "name": "Red dragonhide",
+   "processed": true,
+   "raw": "red_dragonhide.png",
+   "title": "File:Red dragonhide detail.png"
+  },
   "red_hot_sauce": {
    "file": "red_hot_sauce.png",
    "name": "Red hot sauce",
@@ -16137,6 +16935,97 @@
    "processed": true,
    "raw": "reeses_sword.png",
    "title": "File:Reese's sword detail.png"
+  },
+  "refined_acadia_planks": {
+   "file": "refined_acadia_planks.png",
+   "name": "Refined Acadia planks",
+   "processed": true,
+   "raw": "refined_acadia_planks.png",
+   "title": "File:Refined Acadia planks detail.png"
+  },
+  "refined_elder_planks": {
+   "file": "refined_elder_planks.png",
+   "name": "Refined Elder planks",
+   "processed": true,
+   "raw": "refined_elder_planks.png",
+   "title": "File:Refined Elder planks detail.png"
+  },
+  "refined_eternal_planks": {
+   "file": "refined_eternal_planks.png",
+   "name": "Refined Eternal planks",
+   "processed": true,
+   "raw": "refined_eternal_planks.png",
+   "title": "File:Refined Eternal planks detail.png"
+  },
+  "refined_magic_planks": {
+   "file": "refined_magic_planks.png",
+   "name": "Refined Magic planks",
+   "processed": true,
+   "raw": "refined_magic_planks.png",
+   "title": "File:Refined Magic planks detail.png"
+  },
+  "refined_mahogany_planks": {
+   "file": "refined_mahogany_planks.png",
+   "name": "Refined Mahogany planks",
+   "processed": true,
+   "raw": "refined_mahogany_planks.png",
+   "title": "File:Refined Mahogany planks detail.png"
+  },
+  "refined_maple_planks": {
+   "file": "refined_maple_planks.png",
+   "name": "Refined Maple planks",
+   "processed": true,
+   "raw": "refined_maple_planks.png",
+   "title": "File:Refined Maple planks detail.png"
+  },
+  "refined_oak_planks": {
+   "file": "refined_oak_planks.png",
+   "name": "Refined Oak planks",
+   "processed": true,
+   "raw": "refined_oak_planks.png",
+   "title": "File:Refined Oak planks detail.png"
+  },
+  "refined_planks": {
+   "file": "refined_planks.png",
+   "name": "Refined planks",
+   "processed": true,
+   "raw": "refined_planks.png",
+   "title": "File:Refined planks detail.png"
+  },
+  "refined_teak_planks": {
+   "file": "refined_teak_planks.png",
+   "name": "Refined Teak planks",
+   "processed": true,
+   "raw": "refined_teak_planks.png",
+   "title": "File:Refined Teak planks detail.png"
+  },
+  "refined_willow_planks": {
+   "file": "refined_willow_planks.png",
+   "name": "Refined Willow planks",
+   "processed": true,
+   "raw": "refined_willow_planks.png",
+   "title": "File:Refined Willow planks detail.png"
+  },
+  "refined_yew_planks": {
+   "file": "refined_yew_planks.png",
+   "name": "Refined Yew planks",
+   "processed": true,
+   "raw": "refined_yew_planks.png",
+   "title": "File:Refined Yew planks detail.png"
+  },
+  "reinforced_dragon_bonemeal": {
+   "file": "reinforced_dragon_bonemeal.png",
+   "name": "Reinforced dragon bonemeal",
+   "processed": true,
+   "raw": "reinforced_dragon_bonemeal.png",
+   "title": "File:Reinforced dragon bonemeal detail.png"
+  },
+  "reinforced_dragon_bones": {
+   "file": "reinforced_dragon_bones.png",
+   "name": "Reinforced dragon bones",
+   "processed": true,
+   "raw": "reinforced_dragon_bones.png",
+   "title": "File:Reinforced dragon bones detail.png"
   },
   "reldak": {
    "file": "reldak.png",
@@ -16391,6 +17280,13 @@
    "raw": "royal_crossbow.png",
    "title": "File:Royal crossbow detail.png"
   },
+  "royal_dragonhide": {
+   "file": "royal_dragonhide.png",
+   "name": "Royal dragonhide",
+   "processed": true,
+   "raw": "royal_dragonhide.png",
+   "title": "File:Royal dragonhide detail.png"
+  },
   "royal_sceptre": {
    "file": "royal_sceptre.png",
    "name": "Royal sceptre",
@@ -16506,6 +17402,13 @@
    "processed": true,
    "raw": "rune_2h_sword.png",
    "title": "File:Rune 2h sword detail.png"
+  },
+  "rune_bar": {
+   "file": "rune_bar.png",
+   "name": "Rune bar",
+   "processed": true,
+   "raw": "rune_bar.png",
+   "title": "File:Rune bar detail.png"
   },
   "rune_battleaxe": {
    "file": "rune_battleaxe.png",
@@ -17041,6 +17944,13 @@
    "name": "Seagull",
    "title": "File:Seagull.png"
   },
+  "searing_ashes": {
+   "file": "searing_ashes.png",
+   "name": "Searing ashes",
+   "processed": true,
+   "raw": "searing_ashes.png",
+   "title": "File:Searing ashes detail.png"
+  },
   "searing_flame": {
    "file": "searing_flame.png",
    "name": "Searing Flame",
@@ -17254,6 +18164,20 @@
    "name": "Shady stranger",
    "title": "File:Shady stranger.png"
   },
+  "shaikahan_bonemeal": {
+   "file": "shaikahan_bonemeal.png",
+   "name": "Shaikahan bonemeal",
+   "processed": true,
+   "raw": "shaikahan_bonemeal.png",
+   "title": "File:Shaikahan bonemeal detail.png"
+  },
+  "shaikahan_bones": {
+   "file": "shaikahan_bones.png",
+   "name": "Shaikahan bones",
+   "processed": true,
+   "raw": "shaikahan_bones.png",
+   "title": "File:Shaikahan bones detail.png"
+  },
   "shambling_horror": {
    "file": "shambling_horror.png",
    "name": "Shambling horror",
@@ -17437,6 +18361,13 @@
    "name": "Sil'as Dahcsnu",
    "title": "File:Sil'as Dahcsnu.png"
   },
+  "silver_bar": {
+   "file": "silver_bar.png",
+   "name": "Silver bar",
+   "processed": true,
+   "raw": "silver_bar.png",
+   "title": "File:Silver bar detail.png"
+  },
   "silver_ore": {
    "file": "silver_ore.png",
    "name": "Silver ore",
@@ -17457,6 +18388,13 @@
    "processed": true,
    "raw": "silverlight.png",
    "title": "File:Silverlight detail.png"
+  },
+  "silvthril_bar": {
+   "file": "silvthril_bar.png",
+   "name": "Silvthril bar",
+   "processed": true,
+   "raw": "silvthril_bar.png",
+   "title": "File:Silvthril bar detail.png"
   },
   "sinco_doar": {
    "file": "sinco_doar.png",
@@ -17506,6 +18444,20 @@
    "processed": true,
    "raw": "skeletal_horror.png",
    "title": "File:Skeletal Horror.png"
+  },
+  "skeletal_monkey_bonemeal": {
+   "file": "skeletal_monkey_bonemeal.png",
+   "name": "Skeletal monkey bonemeal",
+   "processed": true,
+   "raw": "skeletal_monkey_bonemeal.png",
+   "title": "File:Skeletal monkey bonemeal detail.png"
+  },
+  "skeletal_monkey_bones": {
+   "file": "skeletal_monkey_bones.png",
+   "name": "Skeletal monkey bones",
+   "processed": true,
+   "raw": "skeletal_monkey_bones.png",
+   "title": "File:Skeletal monkey bones detail.png"
   },
   "skeletal_shielder": {
    "file": "skeletal_shielder.png",
@@ -17646,6 +18598,27 @@
    "raw": "slimy_eel.png",
    "title": "File:Slimy eel detail.png"
   },
+  "small_ninja_monkey_bonemeal": {
+   "file": "small_ninja_monkey_bonemeal.png",
+   "name": "Small ninja monkey bonemeal",
+   "processed": true,
+   "raw": "small_ninja_monkey_bonemeal.png",
+   "title": "File:Small ninja monkey bonemeal detail.png"
+  },
+  "small_ninja_monkey_bones": {
+   "file": "small_ninja_monkey_bones.png",
+   "name": "Small ninja monkey bones",
+   "processed": true,
+   "raw": "small_ninja_monkey_bones.png",
+   "title": "File:Small ninja monkey bones detail.png"
+  },
+  "small_zombie_monkey_bones": {
+   "file": "small_zombie_monkey_bones.png",
+   "name": "Small zombie monkey bones",
+   "processed": true,
+   "raw": "small_zombie_monkey_bones.png",
+   "title": "File:Small zombie monkey bones detail.png"
+  },
   "smithy": {
    "file": "smithy.png",
    "name": "Smithy",
@@ -17689,6 +18662,20 @@
    "file": "snake.png",
    "name": "Snake",
    "title": "File:Snake.png"
+  },
+  "snake_hide": {
+   "file": "snake_hide.png",
+   "name": "Snake hide",
+   "processed": true,
+   "raw": "snake_hide.png",
+   "title": "File:Snake hide detail.png"
+  },
+  "snake_hide_swamp": {
+   "file": "snake_hide_swamp.png",
+   "name": "Snake hide (swamp)",
+   "processed": true,
+   "raw": "snake_hide_swamp.png",
+   "title": "File:Snake hide (swamp) detail.png"
   },
   "snapdragon_seed": {
    "file": "snapdragon_seed.png",
@@ -17943,6 +18930,13 @@
    "raw": "spider_orb.png",
    "title": "File:Spider orb detail.png"
   },
+  "spider_silk": {
+   "file": "spider_silk.png",
+   "name": "Spider silk",
+   "processed": true,
+   "raw": "spider_silk.png",
+   "title": "File:Spider silk detail.png"
+  },
   "spider_wand": {
    "file": "spider_wand.png",
    "name": "Spider wand",
@@ -17991,6 +18985,13 @@
    "processed": true,
    "raw": "spinebeam_wand.png",
    "title": "File:Spinebeam wand detail.png"
+  },
+  "spinomastyx_hide": {
+   "file": "spinomastyx_hide.png",
+   "name": "Spinomastyx hide",
+   "processed": true,
+   "raw": "spinomastyx_hide.png",
+   "title": "File:Spinomastyx hide detail.png"
   },
   "spirit_cobra": {
    "file": "spirit_cobra.png",
@@ -18426,6 +19427,13 @@
    "raw": "steel_2h_sword.png",
    "title": "File:Steel 2h sword detail.png"
   },
+  "steel_bar": {
+   "file": "steel_bar.png",
+   "name": "Steel bar",
+   "processed": true,
+   "raw": "steel_bar.png",
+   "title": "File:Steel bar detail.png"
+  },
   "steel_battleaxe": {
    "file": "steel_battleaxe.png",
    "name": "Steel battleaxe",
@@ -18616,6 +19624,13 @@
    "raw": "steel_warhammer.png",
    "title": "File:Steel warhammer detail.png"
   },
+  "stegomastyx_hide": {
+   "file": "stegomastyx_hide.png",
+   "name": "Stegomastyx hide",
+   "processed": true,
+   "raw": "stegomastyx_hide.png",
+   "title": "File:Stegomastyx hide detail.png"
+  },
   "sten": {
    "file": "sten.png",
    "name": "Sten",
@@ -18714,6 +19729,13 @@
    "name": "Stray dog (Fort Forinthry)",
    "title": "File:Stray dog.png"
   },
+  "stretched_hide": {
+   "file": "stretched_hide.png",
+   "name": "Stretched hide",
+   "processed": true,
+   "raw": "stretched_hide.png",
+   "title": "File:Stretched hide detail.png"
+  },
   "strong_cooking_urn_empty": {
    "file": "strong_cooking_urn_empty.png",
    "name": "Strong cooking urn (empty)",
@@ -18738,6 +19760,13 @@
    "file": "suak.png",
    "name": "Suak",
    "title": "File:Suak.png"
+  },
+  "submastyx_hide": {
+   "file": "submastyx_hide.png",
+   "name": "Submastyx hide",
+   "processed": true,
+   "raw": "submastyx_hide.png",
+   "title": "File:Submastyx hide detail.png"
   },
   "suitcase": {
    "file": "suitcase.png",
@@ -18919,6 +19948,13 @@
    "processed": true,
    "raw": "superior_zuriels_staff.png",
    "title": "File:Superior Zuriel's staff detail.png"
+  },
+  "suqah_hide": {
+   "file": "suqah_hide.png",
+   "name": "Suqah hide",
+   "processed": true,
+   "raw": "suqah_hide.png",
+   "title": "File:Suqah hide detail.png"
   },
   "surok_magis": {
    "file": "surok_magis.png",
@@ -19123,6 +20159,13 @@
    "processed": true,
    "raw": "teak_logs.png",
    "title": "File:Teak logs detail.png"
+  },
+  "teak_plank": {
+   "file": "teak_plank.png",
+   "name": "Teak plank",
+   "processed": true,
+   "raw": "teak_plank.png",
+   "title": "File:Teak plank detail.png"
   },
   "teak_pyre_logs": {
    "file": "teak_pyre_logs.png",
@@ -19588,6 +20631,13 @@
    "raw": "torstol_seed.png",
    "title": "File:Torstol seed detail.png"
   },
+  "tortured_ashes": {
+   "file": "tortured_ashes.png",
+   "name": "Tortured ashes",
+   "processed": true,
+   "raw": "tortured_ashes.png",
+   "title": "File:Tortured ashes detail.png"
+  },
   "torzek": {
    "file": "torzek.png",
    "name": "Torzek",
@@ -19749,6 +20799,13 @@
    "file": "tyke.png",
    "name": "Tyke",
    "title": "File:Tyke (goblin).png"
+  },
+  "tyrannomastyx_hide": {
+   "file": "tyrannomastyx_hide.png",
+   "name": "Tyrannomastyx hide",
+   "processed": true,
+   "raw": "tyrannomastyx_hide.png",
+   "title": "File:Tyrannomastyx hide detail.png"
   },
   "tzekhaaraken": {
    "file": "tzekhaaraken.png",
@@ -20053,6 +21110,13 @@
    "file": "undead_crux_eqal_knight.png",
    "name": "Undead Crux Eqal knight",
    "title": "File:Undead Crux Eqal knight (1).png"
+  },
+  "undead_dragonhide": {
+   "file": "undead_dragonhide.png",
+   "name": "Undead dragonhide",
+   "processed": true,
+   "raw": "undead_dragonhide.png",
+   "title": "File:Undead dragonhide detail.png"
   },
   "undead_elven_knight": {
    "chosen": "File:Undead Elven Knight (1).png",
@@ -20895,6 +21959,13 @@
    "raw": "willow_longbow.png",
    "title": "File:Willow longbow detail.png"
   },
+  "willow_plank": {
+   "file": "willow_plank.png",
+   "name": "Willow plank",
+   "processed": true,
+   "raw": "willow_plank.png",
+   "title": "File:Willow plank detail.png"
+  },
   "willow_pyre_logs": {
    "file": "willow_pyre_logs.png",
    "name": "Willow pyre logs",
@@ -21150,6 +22221,20 @@
    "name": "Wolf",
    "title": "File:Wolf (Stronghold of Security, 1).png"
   },
+  "wolf_bonemeal": {
+   "file": "wolf_bonemeal.png",
+   "name": "Wolf bonemeal",
+   "processed": true,
+   "raw": "wolf_bonemeal.png",
+   "title": "File:Wolf bonemeal detail.png"
+  },
+  "wolf_bones": {
+   "file": "wolf_bones.png",
+   "name": "Wolf bones",
+   "processed": true,
+   "raw": "wolf_bones.png",
+   "title": "File:Wolf bones detail.png"
+  },
   "wolf_staff": {
    "file": "wolf_staff.png",
    "name": "Wolf staff",
@@ -21251,6 +22336,20 @@
    "name": "Wyvern",
    "title": "File:Wyvern.png"
   },
+  "wyvern_bonemeal": {
+   "file": "wyvern_bonemeal.png",
+   "name": "Wyvern bonemeal",
+   "processed": true,
+   "raw": "wyvern_bonemeal.png",
+   "title": "File:Wyvern bonemeal detail.png"
+  },
+  "wyvern_bones": {
+   "file": "wyvern_bones.png",
+   "name": "Wyvern bones",
+   "processed": true,
+   "raw": "wyvern_bones.png",
+   "title": "File:Wyvern bones detail.png"
+  },
   "wyvern_crossbow": {
    "file": "wyvern_crossbow.png",
    "name": "Wyvern crossbow",
@@ -21267,6 +22366,13 @@
    "file": "xuan.png",
    "name": "Xuan",
    "title": "File:Xuan.png"
+  },
+  "yakhide": {
+   "file": "yakhide.png",
+   "name": "Yak-hide",
+   "processed": true,
+   "raw": "yakhide.png",
+   "title": "File:Yak-hide detail.png"
   },
   "yaktwee_stick": {
    "file": "yaktwee_stick.png",
@@ -21313,6 +22419,13 @@
    "processed": true,
    "raw": "yew_longbow.png",
    "title": "File:Yew longbow detail.png"
+  },
+  "yew_plank": {
+   "file": "yew_plank.png",
+   "name": "Yew plank",
+   "processed": true,
+   "raw": "yew_plank.png",
+   "title": "File:Yew plank detail.png"
   },
   "yew_pyre_logs": {
    "file": "yew_pyre_logs.png",
@@ -21538,6 +22651,13 @@
    "raw": "zephyrium_2h_sword.png",
    "title": "File:Zephyrium 2h sword detail.png"
   },
+  "zephyrium_bar": {
+   "file": "zephyrium_bar.png",
+   "name": "Zephyrium bar",
+   "processed": true,
+   "raw": "zephyrium_bar.png",
+   "title": "File:Zephyrium bar detail.png"
+  },
   "zephyrium_battleaxe": {
    "file": "zephyrium_battleaxe.png",
    "name": "Zephyrium battleaxe",
@@ -21618,6 +22738,20 @@
    "file": "zoe.png",
    "name": "Zoe",
    "title": "File:Zoe.png"
+  },
+  "zogre_bonemeal": {
+   "file": "zogre_bonemeal.png",
+   "name": "Zogre bonemeal",
+   "processed": true,
+   "raw": "zogre_bonemeal.png",
+   "title": "File:Zogre bonemeal detail.png"
+  },
+  "zogre_bones": {
+   "file": "zogre_bones.png",
+   "name": "Zogre bones",
+   "processed": true,
+   "raw": "zogre_bones.png",
+   "title": "File:Zogre bones detail.png"
   },
   "zombie": {
    "file": "zombie.png",
