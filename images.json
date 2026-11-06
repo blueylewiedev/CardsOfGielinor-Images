@@ -1147,6 +1147,13 @@
    "raw": "argonite_dagger.png",
    "title": "File:Argonite dagger detail.png"
   },
+  "argonite_guard": {
+   "file": "argonite_guard.png",
+   "name": "Argonite guard",
+   "processed": true,
+   "raw": "argonite_guard.png",
+   "title": "File:Argonite guard detail.png"
+  },
   "argonite_knife": {
    "file": "argonite_knife.png",
    "name": "Argonite knife",
@@ -1154,6 +1161,13 @@
    "processed": true,
    "raw": "argonite_knife.png",
    "title": "File:Off-hand argonite knife detail.png"
+  },
+  "argonite_lantern": {
+   "file": "argonite_lantern.png",
+   "name": "Argonite lantern",
+   "processed": true,
+   "raw": "argonite_lantern.png",
+   "title": "File:Argonite lantern detail.png"
   },
   "argonite_longsword": {
    "file": "argonite_longsword.png",
@@ -2129,12 +2143,26 @@
    "raw": "bathus_dagger.png",
    "title": "File:Bathus dagger detail.png"
   },
+  "bathus_guard": {
+   "file": "bathus_guard.png",
+   "name": "Bathus guard",
+   "processed": true,
+   "raw": "bathus_guard.png",
+   "title": "File:Bathus guard detail.png"
+  },
   "bathus_knife": {
    "file": "bathus_knife.png",
    "name": "Bathus knife",
    "processed": true,
    "raw": "bathus_knife.png",
    "title": "File:Bathus knife detail.png"
+  },
+  "bathus_lantern": {
+   "file": "bathus_lantern.png",
+   "name": "Bathus lantern",
+   "processed": true,
+   "raw": "bathus_lantern.png",
+   "title": "File:Bathus lantern detail.png"
   },
   "bathus_longsword": {
    "file": "bathus_longsword.png",
@@ -4233,6 +4261,20 @@
    "raw": "chaotic_crossbow.png",
    "title": "File:Chaotic crossbow detail.png"
   },
+  "chaotic_guard": {
+   "file": "chaotic_guard.png",
+   "name": "Chaotic guard",
+   "processed": true,
+   "raw": "chaotic_guard.png",
+   "title": "File:Chaotic guard detail.png"
+  },
+  "chaotic_lantern": {
+   "file": "chaotic_lantern.png",
+   "name": "Chaotic lantern",
+   "processed": true,
+   "raw": "chaotic_lantern.png",
+   "title": "File:Chaotic lantern detail.png"
+  },
   "chaotic_longsword": {
    "file": "chaotic_longsword.png",
    "name": "Chaotic longsword",
@@ -5948,6 +5990,69 @@
    "name": "Death esswraith",
    "title": "File:Death esswraith.png"
   },
+  "death_guard_tier_10": {
+   "file": "death_guard_tier_10.png",
+   "name": "Death guard (tier 10)",
+   "processed": true,
+   "raw": "death_guard_tier_10.png",
+   "title": "File:Death guard (tier 10) detail.png"
+  },
+  "death_guard_tier_20": {
+   "file": "death_guard_tier_20.png",
+   "name": "Death guard (tier 20)",
+   "processed": true,
+   "raw": "death_guard_tier_20.png",
+   "title": "File:Death guard (tier 20) detail.png"
+  },
+  "death_guard_tier_30": {
+   "file": "death_guard_tier_30.png",
+   "name": "Death guard (tier 30)",
+   "processed": true,
+   "raw": "death_guard_tier_30.png",
+   "title": "File:Death guard (tier 30) detail.png"
+  },
+  "death_guard_tier_40": {
+   "file": "death_guard_tier_40.png",
+   "name": "Death guard (tier 40)",
+   "processed": true,
+   "raw": "death_guard_tier_40.png",
+   "title": "File:Death guard (tier 40) detail.png"
+  },
+  "death_guard_tier_50": {
+   "file": "death_guard_tier_50.png",
+   "name": "Death guard (tier 50)",
+   "processed": true,
+   "raw": "death_guard_tier_50.png",
+   "title": "File:Death guard (tier 50) detail.png"
+  },
+  "death_guard_tier_60": {
+   "file": "death_guard_tier_60.png",
+   "name": "Death guard (tier 60)",
+   "processed": true,
+   "raw": "death_guard_tier_60.png",
+   "title": "File:Death guard (tier 60) detail.png"
+  },
+  "death_guard_tier_70": {
+   "file": "death_guard_tier_70.png",
+   "name": "Death guard (tier 70)",
+   "processed": true,
+   "raw": "death_guard_tier_70.png",
+   "title": "File:Death guard (tier 70) detail.png"
+  },
+  "death_guard_tier_80": {
+   "file": "death_guard_tier_80.png",
+   "name": "Death guard (tier 80)",
+   "processed": true,
+   "raw": "death_guard_tier_80.png",
+   "title": "File:Death guard (tier 80) detail.png"
+  },
+  "death_guard_tier_90": {
+   "file": "death_guard_tier_90.png",
+   "name": "Death guard (tier 90)",
+   "processed": true,
+   "raw": "death_guard_tier_90.png",
+   "title": "File:Death guard (tier 90) detail.png"
+  },
   "death_lotus_dart": {
    "file": "death_lotus_dart.png",
    "name": "Death Lotus dart",
@@ -6120,6 +6225,13 @@
    "processed": true,
    "raw": "devils_snare_seed.png",
    "title": "File:Devil's snare seed detail.png"
+  },
+  "devourers_guard": {
+   "file": "devourers_guard.png",
+   "name": "Devourer's Guard",
+   "processed": true,
+   "raw": "devourers_guard.png",
+   "title": "File:Devourer's Guard detail.png"
   },
   "dezzick_the_mining_instructor": {
    "file": "dezzick_the_mining_instructor.png",
@@ -7472,6 +7584,13 @@
    "raw": "enriched_snapdragon_seed.png",
    "title": "File:Enriched snapdragon seed detail.png"
   },
+  "ensouled_bar": {
+   "file": "ensouled_bar.png",
+   "name": "Ensouled bar",
+   "processed": true,
+   "raw": "ensouled_bar.png",
+   "title": "File:Ensouled bar detail.png"
+  },
   "entgallow_branches": {
    "file": "entgallow_branches.png",
    "name": "Entgallow branches",
@@ -7506,6 +7625,20 @@
    "processed": true,
    "raw": "entgallow_wand.png",
    "title": "File:Entgallow wand detail.png"
+  },
+  "entropic_guard": {
+   "file": "entropic_guard.png",
+   "name": "Entropic guard",
+   "processed": true,
+   "raw": "entropic_guard.png",
+   "title": "File:Entropic guard detail.png"
+  },
+  "entropic_lantern": {
+   "file": "entropic_lantern.png",
+   "name": "Entropic lantern",
+   "processed": true,
+   "raw": "entropic_lantern.png",
+   "title": "File:Entropic lantern detail.png"
   },
   "equa_leaves": {
    "file": "equa_leaves.png",
@@ -8497,12 +8630,26 @@
    "raw": "fractite_dagger.png",
    "title": "File:Fractite dagger detail.png"
   },
+  "fractite_guard": {
+   "file": "fractite_guard.png",
+   "name": "Fractite guard",
+   "processed": true,
+   "raw": "fractite_guard.png",
+   "title": "File:Fractite guard detail.png"
+  },
   "fractite_knife": {
    "file": "fractite_knife.png",
    "name": "Fractite knife",
    "processed": true,
    "raw": "fractite_knife.png",
    "title": "File:Fractite knife detail.png"
+  },
+  "fractite_lantern": {
+   "file": "fractite_lantern.png",
+   "name": "Fractite lantern",
+   "processed": true,
+   "raw": "fractite_lantern.png",
+   "title": "File:Fractite lantern detail.png"
   },
   "fractite_longsword": {
    "file": "fractite_longsword.png",
@@ -9333,12 +9480,26 @@
    "raw": "gorgonite_dagger.png",
    "title": "File:Gorgonite dagger detail.png"
   },
+  "gorgonite_guard": {
+   "file": "gorgonite_guard.png",
+   "name": "Gorgonite guard",
+   "processed": true,
+   "raw": "gorgonite_guard.png",
+   "title": "File:Gorgonite guard detail.png"
+  },
   "gorgonite_knife": {
    "file": "gorgonite_knife.png",
    "name": "Gorgonite knife",
    "processed": true,
    "raw": "gorgonite_knife.png",
    "title": "File:Gorgonite knife detail.png"
+  },
+  "gorgonite_lantern": {
+   "file": "gorgonite_lantern.png",
+   "name": "Gorgonite lantern",
+   "processed": true,
+   "raw": "gorgonite_lantern.png",
+   "title": "File:Gorgonite lantern detail.png"
   },
   "gorgonite_longsword": {
    "file": "gorgonite_longsword.png",
@@ -9581,12 +9742,26 @@
    "raw": "gravite_chargebow.png",
    "title": "File:Gravite chargebow detail.png"
   },
+  "gravite_guard": {
+   "file": "gravite_guard.png",
+   "name": "Gravite guard",
+   "processed": true,
+   "raw": "gravite_guard.png",
+   "title": "File:Gravite guard detail.png"
+  },
   "gravite_knife": {
    "file": "gravite_knife.png",
    "name": "Gravite knife",
    "processed": true,
    "raw": "gravite_knife.png",
    "title": "File:Gravite knife detail.png"
+  },
+  "gravite_lantern": {
+   "file": "gravite_lantern.png",
+   "name": "Gravite lantern",
+   "processed": true,
+   "raw": "gravite_lantern.png",
+   "title": "File:Gravite lantern detail.png"
   },
   "gravite_longsword": {
    "file": "gravite_longsword.png",
@@ -9685,6 +9860,13 @@
    "file": "greater_demon_savage.png",
    "name": "Greater demon savage",
    "title": "File:Greater demon savage.png"
+  },
+  "greater_ensouled_bar": {
+   "file": "greater_ensouled_bar.png",
+   "name": "Greater ensouled bar",
+   "processed": true,
+   "raw": "greater_ensouled_bar.png",
+   "title": "File:Greater ensouled bar detail.png"
   },
   "greater_runic_staff": {
    "file": "greater_runic_staff.png",
@@ -11710,12 +11892,26 @@
    "raw": "katagon_dagger.png",
    "title": "File:Katagon dagger detail.png"
   },
+  "katagon_guard": {
+   "file": "katagon_guard.png",
+   "name": "Katagon guard",
+   "processed": true,
+   "raw": "katagon_guard.png",
+   "title": "File:Katagon guard detail.png"
+  },
   "katagon_knife": {
    "file": "katagon_knife.png",
    "name": "Katagon knife",
    "processed": true,
    "raw": "katagon_knife.png",
    "title": "File:Katagon knife detail.png"
+  },
+  "katagon_lantern": {
+   "file": "katagon_lantern.png",
+   "name": "Katagon lantern",
+   "processed": true,
+   "raw": "katagon_lantern.png",
+   "title": "File:Katagon lantern detail.png"
   },
   "katagon_longsword": {
    "file": "katagon_longsword.png",
@@ -12009,12 +12205,26 @@
    "raw": "kratonite_dagger.png",
    "title": "File:Kratonite dagger detail.png"
   },
+  "kratonite_guard": {
+   "file": "kratonite_guard.png",
+   "name": "Kratonite guard",
+   "processed": true,
+   "raw": "kratonite_guard.png",
+   "title": "File:Kratonite guard detail.png"
+  },
   "kratonite_knife": {
    "file": "kratonite_knife.png",
    "name": "Kratonite knife",
    "processed": true,
    "raw": "kratonite_knife.png",
    "title": "File:Kratonite knife detail.png"
+  },
+  "kratonite_lantern": {
+   "file": "kratonite_lantern.png",
+   "name": "Kratonite lantern",
+   "processed": true,
+   "raw": "kratonite_lantern.png",
+   "title": "File:Kratonite lantern detail.png"
   },
   "kratonite_longsword": {
    "file": "kratonite_longsword.png",
@@ -12334,6 +12544,13 @@
    "file": "lesser_demon_champion.png",
    "name": "Lesser Demon Champion",
    "title": "File:Lesser Demon Champion.png"
+  },
+  "lesser_ensouled_bar": {
+   "file": "lesser_ensouled_bar.png",
+   "name": "Lesser ensouled bar",
+   "processed": true,
+   "raw": "lesser_ensouled_bar.png",
+   "title": "File:Lesser ensouled bar detail.png"
   },
   "lesser_runic_staff": {
    "file": "lesser_runic_staff.png",
@@ -13057,12 +13274,26 @@
    "raw": "marmaros_dagger.png",
    "title": "File:Marmaros dagger detail.png"
   },
+  "marmaros_guard": {
+   "file": "marmaros_guard.png",
+   "name": "Marmaros guard",
+   "processed": true,
+   "raw": "marmaros_guard.png",
+   "title": "File:Marmaros guard detail.png"
+  },
   "marmaros_knife": {
    "file": "marmaros_knife.png",
    "name": "Marmaros knife",
    "processed": true,
    "raw": "marmaros_knife.png",
    "title": "File:Marmaros knife detail.png"
+  },
+  "marmaros_lantern": {
+   "file": "marmaros_lantern.png",
+   "name": "Marmaros lantern",
+   "processed": true,
+   "raw": "marmaros_lantern.png",
+   "title": "File:Marmaros lantern detail.png"
   },
   "marmaros_longsword": {
    "file": "marmaros_longsword.png",
@@ -14594,12 +14825,26 @@
    "raw": "novite_dagger.png",
    "title": "File:Novite dagger detail.png"
   },
+  "novite_guard": {
+   "file": "novite_guard.png",
+   "name": "Novite guard",
+   "processed": true,
+   "raw": "novite_guard.png",
+   "title": "File:Novite guard detail.png"
+  },
   "novite_knife": {
    "file": "novite_knife.png",
    "name": "Novite knife",
    "processed": true,
    "raw": "novite_knife.png",
    "title": "File:Novite knife detail.png"
+  },
+  "novite_lantern": {
+   "file": "novite_lantern.png",
+   "name": "Novite lantern",
+   "processed": true,
+   "raw": "novite_lantern.png",
+   "title": "File:Novite lantern detail.png"
   },
   "novite_longsword": {
    "file": "novite_longsword.png",
@@ -15619,6 +15864,13 @@
    "processed": true,
    "raw": "omen.png",
    "title": "File:Omen (pet).png"
+  },
+  "omni_guard": {
+   "file": "omni_guard.png",
+   "name": "Omni guard",
+   "processed": true,
+   "raw": "omni_guard.png",
+   "title": "File:Omni guard detail.png"
   },
   "omnitalisman_staff": {
    "file": "omnitalisman_staff.png",
@@ -16908,12 +17160,26 @@
    "raw": "promethium_dagger.png",
    "title": "File:Promethium dagger detail.png"
   },
+  "promethium_guard": {
+   "file": "promethium_guard.png",
+   "name": "Promethium guard",
+   "processed": true,
+   "raw": "promethium_guard.png",
+   "title": "File:Promethium guard detail.png"
+  },
   "promethium_knife": {
    "file": "promethium_knife.png",
    "name": "Promethium knife",
    "processed": true,
    "raw": "promethium_knife.png",
    "title": "File:Promethium knife detail.png"
+  },
+  "promethium_lantern": {
+   "file": "promethium_lantern.png",
+   "name": "Promethium lantern",
+   "processed": true,
+   "raw": "promethium_lantern.png",
+   "title": "File:Promethium lantern detail.png"
   },
   "promethium_longsword": {
    "file": "promethium_longsword.png",
@@ -18555,6 +18821,20 @@
    "raw": "ruinous_crossbow.png",
    "title": "File:Ruinous crossbow detail.png"
   },
+  "ruinous_guard": {
+   "file": "ruinous_guard.png",
+   "name": "Ruinous guard",
+   "processed": true,
+   "raw": "ruinous_guard.png",
+   "title": "File:Ruinous guard detail.png"
+  },
+  "ruinous_lantern": {
+   "file": "ruinous_lantern.png",
+   "name": "Ruinous lantern",
+   "processed": true,
+   "raw": "ruinous_lantern.png",
+   "title": "File:Ruinous lantern detail.png"
+  },
   "ruinous_maul": {
    "file": "ruinous_maul.png",
    "name": "Ruinous maul",
@@ -19804,6 +20084,69 @@
    "name": "Skoblin",
    "title": "File:Skoblin.png"
   },
+  "skull_lantern_tier_10": {
+   "file": "skull_lantern_tier_10.png",
+   "name": "Skull lantern (tier 10)",
+   "processed": true,
+   "raw": "skull_lantern_tier_10.png",
+   "title": "File:Skull lantern (tier 10) detail.png"
+  },
+  "skull_lantern_tier_20": {
+   "file": "skull_lantern_tier_20.png",
+   "name": "Skull lantern (tier 20)",
+   "processed": true,
+   "raw": "skull_lantern_tier_20.png",
+   "title": "File:Skull lantern (tier 20) detail.png"
+  },
+  "skull_lantern_tier_30": {
+   "file": "skull_lantern_tier_30.png",
+   "name": "Skull lantern (tier 30)",
+   "processed": true,
+   "raw": "skull_lantern_tier_30.png",
+   "title": "File:Skull lantern (tier 30) detail.png"
+  },
+  "skull_lantern_tier_40": {
+   "file": "skull_lantern_tier_40.png",
+   "name": "Skull lantern (tier 40)",
+   "processed": true,
+   "raw": "skull_lantern_tier_40.png",
+   "title": "File:Skull lantern (tier 40) detail.png"
+  },
+  "skull_lantern_tier_50": {
+   "file": "skull_lantern_tier_50.png",
+   "name": "Skull lantern (tier 50)",
+   "processed": true,
+   "raw": "skull_lantern_tier_50.png",
+   "title": "File:Skull lantern (tier 50) detail.png"
+  },
+  "skull_lantern_tier_60": {
+   "file": "skull_lantern_tier_60.png",
+   "name": "Skull lantern (tier 60)",
+   "processed": true,
+   "raw": "skull_lantern_tier_60.png",
+   "title": "File:Skull lantern (tier 60) detail.png"
+  },
+  "skull_lantern_tier_70": {
+   "file": "skull_lantern_tier_70.png",
+   "name": "Skull lantern (tier 70)",
+   "processed": true,
+   "raw": "skull_lantern_tier_70.png",
+   "title": "File:Skull lantern (tier 70) detail.png"
+  },
+  "skull_lantern_tier_80": {
+   "file": "skull_lantern_tier_80.png",
+   "name": "Skull lantern (tier 80)",
+   "processed": true,
+   "raw": "skull_lantern_tier_80.png",
+   "title": "File:Skull lantern (tier 80) detail.png"
+  },
+  "skull_lantern_tier_90": {
+   "file": "skull_lantern_tier_90.png",
+   "name": "Skull lantern (tier 90)",
+   "processed": true,
+   "raw": "skull_lantern_tier_90.png",
+   "title": "File:Skull lantern (tier 90) detail.png"
+  },
   "skull_sceptre": {
    "file": "skull_sceptre.png",
    "name": "Skull sceptre",
@@ -20089,6 +20432,13 @@
    "processed": true,
    "raw": "soulbell_orb.png",
    "title": "File:Soulbell orb detail.png"
+  },
+  "soulbound_lantern": {
+   "file": "soulbound_lantern.png",
+   "name": "Soulbound lantern",
+   "processed": true,
+   "raw": "soulbound_lantern.png",
+   "title": "File:Soulbound lantern detail.png"
   },
   "soulgazer": {
    "file": "soulgazer.png",
@@ -24614,12 +24964,26 @@
    "raw": "zephyrium_dagger.png",
    "title": "File:Zephyrium dagger detail.png"
   },
+  "zephyrium_guard": {
+   "file": "zephyrium_guard.png",
+   "name": "Zephyrium guard",
+   "processed": true,
+   "raw": "zephyrium_guard.png",
+   "title": "File:Zephyrium guard detail.png"
+  },
   "zephyrium_knife": {
    "file": "zephyrium_knife.png",
    "name": "Zephyrium knife",
    "processed": true,
    "raw": "zephyrium_knife.png",
    "title": "File:Zephyrium knife detail.png"
+  },
+  "zephyrium_lantern": {
+   "file": "zephyrium_lantern.png",
+   "name": "Zephyrium lantern",
+   "processed": true,
+   "raw": "zephyrium_lantern.png",
+   "title": "File:Zephyrium lantern detail.png"
   },
   "zephyrium_longsword": {
    "file": "zephyrium_longsword.png",
