@@ -17766,6 +17766,14 @@
    "name": "Sammy",
    "title": "File:Sammy.png"
   },
+  "sandstone": {
+   "file": "sandstone.png",
+   "name": "Sandstone",
+   "named": true,
+   "processed": true,
+   "raw": "sandstone.png",
+   "title": "File:Sandstone (10kg) detail.png"
+  },
   "sanguine_imp": {
    "file": "sanguine_imp.png",
    "name": "Sanguine imp",
@@ -23429,12 +23437,6 @@
    "tried": [
     "Rowley.png",
     "Rowley chathead.png"
-   ]
-  },
-  "sandstone": {
-   "name": "Sandstone",
-   "tried": [
-    "Sandstone detail.png"
    ]
   },
   "skeleton_warrior": {
