@@ -296,6 +296,13 @@
    "raw": "adamant_hasta.png",
    "title": "File:Adamant hasta detail.png"
   },
+  "adamant_hatchet": {
+   "file": "adamant_hatchet.png",
+   "name": "Adamant hatchet",
+   "processed": true,
+   "raw": "adamant_hatchet.png",
+   "title": "File:Adamant hatchet detail.png"
+  },
   "adamant_javelin": {
    "file": "adamant_javelin.png",
    "name": "Adamant javelin",
@@ -323,6 +330,13 @@
    "processed": true,
    "raw": "adamant_mace.png",
    "title": "File:Adamant mace detail.png"
+  },
+  "adamant_mattock": {
+   "file": "adamant_mattock.png",
+   "name": "Adamant mattock",
+   "processed": true,
+   "raw": "adamant_mattock.png",
+   "title": "File:Adamant mattock detail.png"
   },
   "adamant_minotaur": {
    "file": "adamant_minotaur.png",
@@ -384,6 +398,13 @@
    "processed": true,
    "raw": "adamant_off_hand_warhammer.png",
    "title": "File:Adamant off hand warhammer detail.png"
+  },
+  "adamant_pickaxe": {
+   "file": "adamant_pickaxe.png",
+   "name": "Adamant pickaxe",
+   "processed": true,
+   "raw": "adamant_pickaxe.png",
+   "title": "File:Adamant pickaxe detail.png"
   },
   "adamant_scimitar": {
    "file": "adamant_scimitar.png",
@@ -1850,6 +1871,13 @@
    "raw": "bane_crossbow.png",
    "title": "File:Bane crossbow detail.png"
   },
+  "bane_hatchet": {
+   "file": "bane_hatchet.png",
+   "name": "Bane hatchet",
+   "processed": true,
+   "raw": "bane_hatchet.png",
+   "title": "File:Bane hatchet detail.png"
+  },
   "bane_longsword": {
    "file": "bane_longsword.png",
    "name": "Bane longsword",
@@ -1857,12 +1885,26 @@
    "raw": "bane_longsword.png",
    "title": "File:Bane longsword detail.png"
   },
+  "bane_mattock": {
+   "file": "bane_mattock.png",
+   "name": "Bane mattock",
+   "processed": true,
+   "raw": "bane_mattock.png",
+   "title": "File:Bane mattock detail.png"
+  },
   "bane_off_hand_longsword": {
    "file": "bane_off_hand_longsword.png",
    "name": "Bane off hand longsword",
    "processed": true,
    "raw": "bane_off_hand_longsword.png",
    "title": "File:Bane off hand longsword detail.png"
+  },
+  "bane_pickaxe": {
+   "file": "bane_pickaxe.png",
+   "name": "Bane pickaxe",
+   "processed": true,
+   "raw": "bane_pickaxe.png",
+   "title": "File:Bane pickaxe detail.png"
   },
   "banite_ore": {
    "file": "banite_ore.png",
@@ -1965,6 +2007,13 @@
    "file": "barbarian.png",
    "name": "Barbarian",
    "title": "File:Barbarian (Alberich).png"
+  },
+  "barbarian_rod": {
+   "file": "barbarian_rod.png",
+   "name": "Barbarian rod",
+   "processed": true,
+   "raw": "barbarian_rod.png",
+   "title": "File:Barbarian rod detail.png"
   },
   "barberry_seed": {
    "file": "barberry_seed.png",
@@ -2277,6 +2326,20 @@
    "raw": "beer.png",
    "title": "File:Beer detail.png"
   },
+  "beer_glass": {
+   "file": "beer_glass.png",
+   "name": "Beer glass",
+   "processed": true,
+   "raw": "beer_glass.png",
+   "title": "File:Beer glass detail.png"
+  },
+  "beer_glass_new_varrock": {
+   "file": "beer_glass_new_varrock.png",
+   "name": "Beer glass (New Varrock)",
+   "processed": true,
+   "raw": "beer_glass_new_varrock.png",
+   "title": "File:Beer glass (New Varrock) detail.png"
+  },
   "beer_tankard": {
    "file": "beer_tankard.png",
    "name": "Beer (tankard)",
@@ -2365,6 +2428,13 @@
    "processed": true,
    "raw": "big_bones.png",
    "title": "File:Big bones detail.png"
+  },
+  "big_fishing_net": {
+   "file": "big_fishing_net.png",
+   "name": "Big fishing net",
+   "processed": true,
+   "raw": "big_fishing_net.png",
+   "title": "File:Big fishing net detail.png"
   },
   "big_frog": {
    "chosen": "File:Giantfrog.png",
@@ -2531,6 +2601,13 @@
    "raw": "black_halberd.png",
    "title": "File:Black halberd detail.png"
   },
+  "black_hatchet": {
+   "file": "black_hatchet.png",
+   "name": "Black hatchet",
+   "processed": true,
+   "raw": "black_hatchet.png",
+   "title": "File:Black hatchet detail.png"
+  },
   "black_knife": {
    "file": "black_knife.png",
    "name": "Black knife",
@@ -2664,6 +2741,13 @@
    "processed": true,
    "raw": "blessed_flask.png",
    "title": "File:Blessed flask detail.png"
+  },
+  "blessed_hatchet": {
+   "file": "blessed_hatchet.png",
+   "name": "Blessed hatchet",
+   "processed": true,
+   "raw": "blessed_hatchet.png",
+   "title": "File:Blessed hatchet detail.png"
   },
   "blightbound_crossbow": {
    "file": "blightbound_crossbow.png",
@@ -3456,6 +3540,13 @@
    "raw": "bronze_hasta.png",
    "title": "File:Bronze hasta detail.png"
   },
+  "bronze_hatchet": {
+   "file": "bronze_hatchet.png",
+   "name": "Bronze hatchet",
+   "processed": true,
+   "raw": "bronze_hatchet.png",
+   "title": "File:Bronze hatchet detail.png"
+  },
   "bronze_javelin": {
    "file": "bronze_javelin.png",
    "name": "Bronze javelin",
@@ -3483,6 +3574,13 @@
    "processed": true,
    "raw": "bronze_mace.png",
    "title": "File:Bronze mace detail.png"
+  },
+  "bronze_mattock": {
+   "file": "bronze_mattock.png",
+   "name": "Bronze mattock",
+   "processed": true,
+   "raw": "bronze_mattock.png",
+   "title": "File:Bronze mattock detail.png"
   },
   "bronze_minotaur": {
    "file": "bronze_minotaur.png",
@@ -3544,6 +3642,13 @@
    "processed": true,
    "raw": "bronze_off_hand_warhammer.png",
    "title": "File:Bronze off hand warhammer detail.png"
+  },
+  "bronze_pickaxe": {
+   "file": "bronze_pickaxe.png",
+   "name": "Bronze pickaxe",
+   "processed": true,
+   "raw": "bronze_pickaxe.png",
+   "title": "File:Bronze pickaxe detail.png"
   },
   "bronze_scimitar": {
    "file": "bronze_scimitar.png",
@@ -3626,6 +3731,13 @@
    "processed": true,
    "raw": "bubbles.png",
    "title": "File:Bubbles (pet).png"
+  },
+  "bucket": {
+   "file": "bucket.png",
+   "name": "Bucket",
+   "processed": true,
+   "raw": "bucket.png",
+   "title": "File:Bucket detail.png"
   },
   "bucket_of_milk": {
    "file": "bucket_of_milk.png",
@@ -3830,6 +3942,13 @@
    "processed": true,
    "raw": "calquat_fruit.png",
    "title": "File:Calquat fruit detail.png"
+  },
+  "calquat_keg": {
+   "file": "calquat_keg.png",
+   "name": "Calquat keg",
+   "processed": true,
+   "raw": "calquat_keg.png",
+   "title": "File:Calquat keg detail.png"
   },
   "calquat_tree_seed": {
    "file": "calquat_tree_seed.png",
@@ -4422,6 +4541,13 @@
    "processed": true,
    "raw": "chinchompa.png",
    "title": "File:Chinchompa detail.png"
+  },
+  "chisel": {
+   "file": "chisel.png",
+   "name": "Chisel",
+   "processed": true,
+   "raw": "chisel.png",
+   "title": "File:Chisel detail.png"
   },
   "choc_ice": {
    "file": "choc_ice.png",
@@ -5252,6 +5378,13 @@
    "raw": "corianger.png",
    "title": "File:Corianger detail.png"
   },
+  "cornucopia": {
+   "file": "cornucopia.png",
+   "name": "Cornucopia",
+   "processed": true,
+   "raw": "cornucopia.png",
+   "title": "File:Cornucopia detail.png"
+  },
   "corpse_archer": {
    "file": "corpse_archer.png",
    "name": "Corpse archer",
@@ -5630,6 +5763,13 @@
    "raw": "crystal_acorn.png",
    "title": "File:Crystal acorn 5 detail.png"
   },
+  "crystal_binding_rod": {
+   "file": "crystal_binding_rod.png",
+   "name": "Crystal binding rod",
+   "processed": true,
+   "raw": "crystal_binding_rod.png",
+   "title": "File:Crystal binding rod detail.png"
+  },
   "crystal_bow": {
    "file": "crystal_bow.png",
    "name": "Crystal bow",
@@ -5651,6 +5791,13 @@
    "raw": "crystal_dagger.png",
    "title": "File:Crystal dagger detail.png"
   },
+  "crystal_flask": {
+   "file": "crystal_flask.png",
+   "name": "Crystal flask",
+   "processed": true,
+   "raw": "crystal_flask.png",
+   "title": "File:Crystal flask detail.png"
+  },
   "crystal_halberd": {
    "file": "crystal_halberd.png",
    "name": "Crystal halberd",
@@ -5658,10 +5805,24 @@
    "raw": "crystal_halberd.png",
    "title": "File:Crystal halberd detail.png"
   },
+  "crystal_hatchet": {
+   "file": "crystal_hatchet.png",
+   "name": "Crystal hatchet",
+   "processed": true,
+   "raw": "crystal_hatchet.png",
+   "title": "File:Crystal hatchet detail.png"
+  },
   "crystal_impling": {
    "file": "crystal_impling.png",
    "name": "Crystal impling",
    "title": "File:Crystal impling.png"
+  },
+  "crystal_mattock": {
+   "file": "crystal_mattock.png",
+   "name": "Crystal mattock",
+   "processed": true,
+   "raw": "crystal_mattock.png",
+   "title": "File:Crystal mattock detail.png"
   },
   "crystal_orb": {
    "file": "crystal_orb.png",
@@ -5669,6 +5830,20 @@
    "processed": true,
    "raw": "crystal_orb.png",
    "title": "File:Crystal orb detail.png"
+  },
+  "crystal_pickaxe": {
+   "file": "crystal_pickaxe.png",
+   "name": "Crystal pickaxe",
+   "processed": true,
+   "raw": "crystal_pickaxe.png",
+   "title": "File:Crystal pickaxe detail.png"
+  },
+  "crystal_saw": {
+   "file": "crystal_saw.png",
+   "name": "Crystal saw",
+   "processed": true,
+   "raw": "crystal_saw.png",
+   "title": "File:Crystal saw detail.png"
   },
   "crystal_staff": {
    "file": "crystal_staff.png",
@@ -6612,6 +6787,13 @@
    "raw": "dragon_hasta.png",
    "title": "File:Dragon hasta detail.png"
   },
+  "dragon_hatchet": {
+   "file": "dragon_hatchet.png",
+   "name": "Dragon hatchet",
+   "processed": true,
+   "raw": "dragon_hatchet.png",
+   "title": "File:Dragon hatchet detail.png"
+  },
   "dragon_impling": {
    "file": "dragon_impling.png",
    "name": "Dragon impling",
@@ -6644,6 +6826,20 @@
    "processed": true,
    "raw": "dragon_mace.png",
    "title": "File:Dragon mace detail.png"
+  },
+  "dragon_mattock": {
+   "file": "dragon_mattock.png",
+   "name": "Dragon mattock",
+   "processed": true,
+   "raw": "dragon_mattock.png",
+   "title": "File:Dragon mattock detail.png"
+  },
+  "dragon_pickaxe": {
+   "file": "dragon_pickaxe.png",
+   "name": "Dragon pickaxe",
+   "processed": true,
+   "raw": "dragon_pickaxe.png",
+   "title": "File:Dragon pickaxe detail.png"
   },
   "dragon_rider_lance": {
    "file": "dragon_rider_lance.png",
@@ -7259,6 +7455,13 @@
    "raw": "elder_rune_bar.png",
    "title": "File:Elder rune bar detail.png"
   },
+  "elder_rune_hatchet": {
+   "file": "elder_rune_hatchet.png",
+   "name": "Elder rune hatchet",
+   "processed": true,
+   "raw": "elder_rune_hatchet.png",
+   "title": "File:Elder rune hatchet detail.png"
+  },
   "elder_rune_longsword": {
    "file": "elder_rune_longsword.png",
    "name": "Elder rune longsword",
@@ -7266,12 +7469,26 @@
    "raw": "elder_rune_longsword.png",
    "title": "File:Elder rune longsword detail.png"
   },
+  "elder_rune_mattock": {
+   "file": "elder_rune_mattock.png",
+   "name": "Elder rune mattock",
+   "processed": true,
+   "raw": "elder_rune_mattock.png",
+   "title": "File:Elder rune mattock detail.png"
+  },
   "elder_rune_off_hand_longsword": {
    "file": "elder_rune_off_hand_longsword.png",
    "name": "Elder rune off hand longsword",
    "processed": true,
    "raw": "elder_rune_off_hand_longsword.png",
    "title": "File:Elder rune off hand longsword detail.png"
+  },
+  "elder_rune_pickaxe": {
+   "file": "elder_rune_pickaxe.png",
+   "name": "Elder rune pickaxe",
+   "processed": true,
+   "raw": "elder_rune_pickaxe.png",
+   "title": "File:Elder rune pickaxe detail.png"
   },
   "elder_seed": {
    "file": "elder_seed.png",
@@ -7487,6 +7704,13 @@
    "raw": "empowered_water_staff.png",
    "title": "File:Empowered water staff detail.png"
   },
+  "empty_cup": {
+   "file": "empty_cup.png",
+   "name": "Empty cup",
+   "processed": true,
+   "raw": "empty_cup.png",
+   "title": "File:Empty cup detail.png"
+  },
   "empty_pot": {
    "file": "empty_pot.png",
    "name": "Empty pot",
@@ -7513,6 +7737,13 @@
    "processed": true,
    "raw": "enchanted_gem.png",
    "title": "File:Enchanted gem detail.png"
+  },
+  "enchanted_vial": {
+   "file": "enchanted_vial.png",
+   "name": "Enchanted vial",
+   "processed": true,
+   "raw": "enchanted_vial.png",
+   "title": "File:Enchanted vial detail.png"
   },
   "enduring_glacyte": {
    "file": "enduring_glacyte.png",
@@ -8349,6 +8580,13 @@
    "raw": "fellstalk_seed.png",
    "title": "File:Fellstalk seed 5 detail.png"
   },
+  "fenshell_knife": {
+   "file": "fenshell_knife.png",
+   "name": "Fenshell knife",
+   "processed": true,
+   "raw": "fenshell_knife.png",
+   "title": "File:Fenshell knife detail.png"
+  },
   "fenton": {
    "file": "fenton.png",
    "name": "Fenton",
@@ -8513,12 +8751,40 @@
    "raw": "fishing_potion.png",
    "title": "File:Fishing potion (4) detail.png"
   },
+  "fishing_rod": {
+   "file": "fishing_rod.png",
+   "name": "Fishing rod",
+   "processed": true,
+   "raw": "fishing_rod.png",
+   "title": "File:Fishing rod detail.png"
+  },
+  "fishing_rodomatic": {
+   "file": "fishing_rodomatic.png",
+   "name": "Fishing rod-o-matic",
+   "processed": true,
+   "raw": "fishing_rodomatic.png",
+   "title": "File:Fishing rod-o-matic detail.png"
+  },
+  "fishing_rodomatic_e": {
+   "file": "fishing_rodomatic_e.png",
+   "name": "Fishing rod-o-matic (e)",
+   "processed": true,
+   "raw": "fishing_rodomatic_e.png",
+   "title": "File:Fishing rod-o-matic detail.png"
+  },
   "flameburst_defender": {
    "file": "flameburst_defender.png",
    "name": "Flameburst defender",
    "processed": true,
    "raw": "flameburst_defender.png",
    "title": "File:Flameburst defender detail.png"
+  },
+  "flamtaer_hammer": {
+   "file": "flamtaer_hammer.png",
+   "name": "Flamtaer hammer",
+   "processed": true,
+   "raw": "flamtaer_hammer.png",
+   "title": "File:Flamtaer hammer detail.png"
   },
   "flatfish_edicap_potato": {
    "file": "flatfish_edicap_potato.png",
@@ -8966,6 +9232,13 @@
    "file": "gardener.png",
    "name": "Gardener",
    "title": "File:Gardener (Falador Park).png"
+  },
+  "gardening_trowel": {
+   "file": "gardening_trowel.png",
+   "name": "Gardening trowel",
+   "processed": true,
+   "raw": "gardening_trowel.png",
+   "title": "File:Gardening trowel detail.png"
   },
   "gargoyle": {
    "file": "gargoyle.png",
@@ -10490,6 +10763,13 @@
    "name": "Guildmaster",
    "title": "File:Guildmaster.png"
   },
+  "guildmaster_tonys_mattock": {
+   "file": "guildmaster_tonys_mattock.png",
+   "name": "Guildmaster Tony's mattock",
+   "processed": true,
+   "raw": "guildmaster_tonys_mattock.png",
+   "title": "File:Guildmaster Tony's mattock detail.png"
+  },
   "gundik": {
    "file": "gundik.png",
    "name": "Gundik",
@@ -10610,6 +10890,13 @@
    "name": "H.A.M. Member",
    "title": "File:H.A.M. Member (female).png"
   },
+  "hammer": {
+   "file": "hammer.png",
+   "name": "Hammer",
+   "processed": true,
+   "raw": "hammer.png",
+   "title": "File:Hammer detail.png"
+  },
   "hammerstone_seed": {
    "file": "hammerstone_seed.png",
    "name": "Hammerstone seed",
@@ -10617,6 +10904,13 @@
    "processed": true,
    "raw": "hammerstone_seed.png",
    "title": "File:Hammerstone seed 5 detail.png"
+  },
+  "hammertron_e": {
+   "file": "hammertron_e.png",
+   "name": "Hammer-tron (e)",
+   "processed": true,
+   "raw": "hammertron_e.png",
+   "title": "File:Hammer-tron detail.png"
   },
   "hand_cannon": {
    "file": "hand_cannon.png",
@@ -10662,6 +10956,13 @@
    "raw": "harmony_moss_seed.png",
    "title": "File:Harmony moss seed 5 detail.png"
   },
+  "harpoon": {
+   "file": "harpoon.png",
+   "name": "Harpoon",
+   "processed": true,
+   "raw": "harpoon.png",
+   "title": "File:Harpoon detail.png"
+  },
   "harralander_seed": {
    "file": "harralander_seed.png",
    "name": "Harralander seed",
@@ -10697,6 +10998,20 @@
    "processed": true,
    "raw": "harvest_potion.png",
    "title": "File:Harvest potion (4) detail.png"
+  },
+  "hatchet_of_bloom_and_blight": {
+   "file": "hatchet_of_bloom_and_blight.png",
+   "name": "Hatchet of bloom and blight",
+   "processed": true,
+   "raw": "hatchet_of_bloom_and_blight.png",
+   "title": "File:Hatchet of bloom and blight detail.png"
+  },
+  "hatchet_of_ember_and_glade": {
+   "file": "hatchet_of_ember_and_glade.png",
+   "name": "Hatchet of ember and glade",
+   "processed": true,
+   "raw": "hatchet_of_ember_and_glade.png",
+   "title": "File:Hatchet of ember and glade detail.png"
   },
   "haunting_ghost": {
    "file": "haunting_ghost.png",
@@ -10737,6 +11052,13 @@
    "processed": true,
    "raw": "havensilver_ore.png",
    "title": "File:Havensilver ore detail.png"
+  },
+  "hawthorns_hatchet": {
+   "file": "hawthorns_hatchet.png",
+   "name": "Hawthorn's hatchet",
+   "processed": true,
+   "raw": "hawthorns_hatchet.png",
+   "title": "File:Hawthorn's hatchet detail.png"
   },
   "hazeel": {
    "chosen": "File:Hazeel (Children of Mah).png",
@@ -11165,6 +11487,27 @@
    "name": "Ikis Krum",
    "title": "File:Ikus Krum.png"
   },
+  "imcando_hatchet": {
+   "file": "imcando_hatchet.png",
+   "name": "Imcando hatchet",
+   "processed": true,
+   "raw": "imcando_hatchet.png",
+   "title": "File:Imcando hatchet detail.png"
+  },
+  "imcando_mattock": {
+   "file": "imcando_mattock.png",
+   "name": "Imcando mattock",
+   "processed": true,
+   "raw": "imcando_mattock.png",
+   "title": "File:Imcando mattock detail.png"
+  },
+  "imcando_pickaxe": {
+   "file": "imcando_pickaxe.png",
+   "name": "Imcando pickaxe",
+   "processed": true,
+   "raw": "imcando_pickaxe.png",
+   "title": "File:Imcando pickaxe detail.png"
+  },
   "immaculate_alloy_bar": {
    "file": "immaculate_alloy_bar.png",
    "name": "Immaculate alloy bar",
@@ -11226,6 +11569,13 @@
    "processed": true,
    "raw": "impious_ashes.png",
    "title": "File:Impious ashes detail.png"
+  },
+  "impling_jar": {
+   "file": "impling_jar.png",
+   "name": "Impling jar",
+   "processed": true,
+   "raw": "impling_jar.png",
+   "title": "File:Impling jar detail.png"
   },
   "incomplete_hydrix": {
    "file": "incomplete_hydrix.png",
@@ -11411,6 +11761,13 @@
    "raw": "iron_hasta.png",
    "title": "File:Iron hasta detail.png"
   },
+  "iron_hatchet": {
+   "file": "iron_hatchet.png",
+   "name": "Iron hatchet",
+   "processed": true,
+   "raw": "iron_hatchet.png",
+   "title": "File:Iron hatchet detail.png"
+  },
   "iron_javelin": {
    "file": "iron_javelin.png",
    "name": "Iron javelin",
@@ -11438,6 +11795,13 @@
    "processed": true,
    "raw": "iron_mace.png",
    "title": "File:Iron mace detail.png"
+  },
+  "iron_mattock": {
+   "file": "iron_mattock.png",
+   "name": "Iron mattock",
+   "processed": true,
+   "raw": "iron_mattock.png",
+   "title": "File:Iron mattock detail.png"
   },
   "iron_minotaur": {
    "file": "iron_minotaur.png",
@@ -11506,6 +11870,13 @@
    "processed": true,
    "raw": "iron_ore.png",
    "title": "File:Iron ore detail.png"
+  },
+  "iron_pickaxe": {
+   "file": "iron_pickaxe.png",
+   "name": "Iron pickaxe",
+   "processed": true,
+   "raw": "iron_pickaxe.png",
+   "title": "File:Iron pickaxe detail.png"
   },
   "iron_scimitar": {
    "file": "iron_scimitar.png",
@@ -11697,6 +12068,13 @@
    "name": "Jonny the beard",
    "title": "File:Jonny the beard.png"
   },
+  "jug": {
+   "file": "jug.png",
+   "name": "Jug",
+   "processed": true,
+   "raw": "jug.png",
+   "title": "File:Jug detail.png"
+  },
   "jug_of_bad_wine": {
    "file": "jug_of_bad_wine.png",
    "name": "Jug of bad wine",
@@ -11764,6 +12142,13 @@
    "processed": true,
    "raw": "juju_mining_flask.png",
    "title": "File:Juju mining flask (6) detail.png"
+  },
+  "juju_vial": {
+   "file": "juju_vial.png",
+   "name": "Juju vial",
+   "processed": true,
+   "raw": "juju_vial.png",
+   "title": "File:Juju vial detail.png"
   },
   "juju_woodcutting_flask": {
    "file": "juju_woodcutting_flask.png",
@@ -12091,6 +12476,13 @@
    "raw": "keris.png",
    "title": "File:Keris detail.png"
   },
+  "kettle": {
+   "file": "kettle.png",
+   "name": "Kettle",
+   "processed": true,
+   "raw": "kettle.png",
+   "title": "File:Kettle detail.png"
+  },
   "ketzek": {
    "file": "ketzek.png",
    "name": "Ket-Zek",
@@ -12192,6 +12584,13 @@
    "file": "kjell.png",
    "name": "Kjell",
    "title": "File:Kjell.png"
+  },
+  "knife": {
+   "file": "knife.png",
+   "name": "Knife",
+   "processed": true,
+   "raw": "knife.png",
+   "title": "File:Knife detail.png"
   },
   "knight": {
    "file": "knight.png",
@@ -12704,6 +13103,13 @@
    "raw": "lobster.png",
    "title": "File:Lobster detail.png"
   },
+  "lobster_pot": {
+   "file": "lobster_pot.png",
+   "name": "Lobster pot",
+   "processed": true,
+   "raw": "lobster_pot.png",
+   "title": "File:Lobster pot detail.png"
+  },
   "local_mage": {
    "file": "local_mage.png",
    "name": "Local mage",
@@ -13053,6 +13459,13 @@
    "processed": true,
    "raw": "magic_staff.png",
    "title": "File:Magic staff detail.png"
+  },
+  "magic_watering_can": {
+   "file": "magic_watering_can.png",
+   "name": "Magic watering can",
+   "processed": true,
+   "raw": "magic_watering_can.png",
+   "title": "File:Magic watering can detail.png"
   },
   "magnetic_minnow": {
    "file": "magnetic_minnow.png",
@@ -13452,6 +13865,13 @@
    "processed": true,
    "raw": "masutas_warspear.png",
    "title": "File:Masuta's warspear detail.png"
+  },
+  "mattock_of_time_and_space": {
+   "file": "mattock_of_time_and_space.png",
+   "name": "Mattock of Time and Space",
+   "processed": true,
+   "raw": "mattock_of_time_and_space.png",
+   "title": "File:Mattock of Time and Space detail.png"
   },
   "matty_ock": {
    "file": "matty_ock.png",
@@ -13923,6 +14343,13 @@
    "raw": "mithril_hasta.png",
    "title": "File:Mithril hasta detail.png"
   },
+  "mithril_hatchet": {
+   "file": "mithril_hatchet.png",
+   "name": "Mithril hatchet",
+   "processed": true,
+   "raw": "mithril_hatchet.png",
+   "title": "File:Mithril hatchet detail.png"
+  },
   "mithril_javelin": {
    "file": "mithril_javelin.png",
    "name": "Mithril javelin",
@@ -13950,6 +14377,13 @@
    "processed": true,
    "raw": "mithril_mace.png",
    "title": "File:Mithril mace detail.png"
+  },
+  "mithril_mattock": {
+   "file": "mithril_mattock.png",
+   "name": "Mithril mattock",
+   "processed": true,
+   "raw": "mithril_mattock.png",
+   "title": "File:Mithril mattock detail.png"
   },
   "mithril_minotaur": {
    "file": "mithril_minotaur.png",
@@ -14018,6 +14452,13 @@
    "processed": true,
    "raw": "mithril_ore.png",
    "title": "File:Mithril ore detail.png"
+  },
+  "mithril_pickaxe": {
+   "file": "mithril_pickaxe.png",
+   "name": "Mithril pickaxe",
+   "processed": true,
+   "raw": "mithril_pickaxe.png",
+   "title": "File:Mithril pickaxe detail.png"
   },
   "mithril_scimitar": {
    "file": "mithril_scimitar.png",
@@ -14405,6 +14846,13 @@
    "raw": "mushrooms.png",
    "title": "File:Mushrooms detail.png"
   },
+  "mushroomy_pickpocketing_bag": {
+   "file": "mushroomy_pickpocketing_bag.png",
+   "name": "Mushroomy pickpocketing bag",
+   "processed": true,
+   "raw": "mushroomy_pickpocketing_bag.png",
+   "title": "File:Mushroomy pickpocketing bag detail.png"
+  },
   "musician_cooks_guild": {
    "chosen": "File:Cooking guild musician.png",
    "file": "musician_cooks_guild.png",
@@ -14679,12 +15127,33 @@
    "raw": "necronium_crossbow.png",
    "title": "File:Necronium crossbow detail.png"
   },
+  "necronium_hatchet": {
+   "file": "necronium_hatchet.png",
+   "name": "Necronium hatchet",
+   "processed": true,
+   "raw": "necronium_hatchet.png",
+   "title": "File:Necronium hatchet detail.png"
+  },
+  "necronium_mattock": {
+   "file": "necronium_mattock.png",
+   "name": "Necronium mattock",
+   "processed": true,
+   "raw": "necronium_mattock.png",
+   "title": "File:Necronium mattock detail.png"
+  },
   "necronium_off_hand_battleaxe": {
    "file": "necronium_off_hand_battleaxe.png",
    "name": "Necronium off hand battleaxe",
    "processed": true,
    "raw": "necronium_off_hand_battleaxe.png",
    "title": "File:Necronium off hand battleaxe detail.png"
+  },
+  "necronium_pickaxe": {
+   "file": "necronium_pickaxe.png",
+   "name": "Necronium pickaxe",
+   "processed": true,
+   "raw": "necronium_pickaxe.png",
+   "title": "File:Necronium pickaxe detail.png"
   },
   "necrovarus": {
    "file": "necrovarus.png",
@@ -15844,6 +16313,13 @@
    "raw": "ogre_composite_bow.png",
    "title": "File:Ogre composite bow detail.png"
   },
+  "ogre_flask_empty": {
+   "file": "ogre_flask_empty.png",
+   "name": "Ogre flask (empty)",
+   "processed": true,
+   "raw": "ogre_flask_empty.png",
+   "title": "File:Ogre flask (empty) detail.png"
+  },
   "oh_adamant_ceremonial_sword": {
    "file": "oh_adamant_ceremonial_sword.png",
    "name": "OH adamant ceremonial sword",
@@ -16051,12 +16527,33 @@
    "raw": "orikalkum_crossbow.png",
    "title": "File:Orikalkum crossbow detail.png"
   },
+  "orikalkum_hatchet": {
+   "file": "orikalkum_hatchet.png",
+   "name": "Orikalkum hatchet",
+   "processed": true,
+   "raw": "orikalkum_hatchet.png",
+   "title": "File:Orikalkum hatchet detail.png"
+  },
+  "orikalkum_mattock": {
+   "file": "orikalkum_mattock.png",
+   "name": "Orikalkum mattock",
+   "processed": true,
+   "raw": "orikalkum_mattock.png",
+   "title": "File:Orikalkum mattock detail.png"
+  },
   "orikalkum_off_hand_warhammer": {
    "file": "orikalkum_off_hand_warhammer.png",
    "name": "Orikalkum off hand warhammer",
    "processed": true,
    "raw": "orikalkum_off_hand_warhammer.png",
    "title": "File:Orikalkum off hand warhammer detail.png"
+  },
+  "orikalkum_pickaxe": {
+   "file": "orikalkum_pickaxe.png",
+   "name": "Orikalkum pickaxe",
+   "processed": true,
+   "raw": "orikalkum_pickaxe.png",
+   "title": "File:Orikalkum pickaxe detail.png"
   },
   "orikalkum_warhammer": {
    "file": "orikalkum_warhammer.png",
@@ -16522,6 +17019,20 @@
    "name": "Phoenix",
    "title": "File:Phoenix.png"
   },
+  "pickaxe_of_earth_and_song": {
+   "file": "pickaxe_of_earth_and_song.png",
+   "name": "Pickaxe of earth and song",
+   "processed": true,
+   "raw": "pickaxe_of_earth_and_song.png",
+   "title": "File:Pickaxe of earth and song detail.png"
+  },
+  "pickaxe_of_life_and_death": {
+   "file": "pickaxe_of_life_and_death.png",
+   "name": "Pickaxe of life and death",
+   "processed": true,
+   "raw": "pickaxe_of_life_and_death.png",
+   "title": "File:Pickaxe of life and death detail.png"
+  },
   "pickpocketing_trainer": {
    "file": "pickpocketing_trainer.png",
    "name": "Pickpocketing trainer",
@@ -16873,6 +17384,13 @@
    "raw": "potato_with_cheese.png",
    "title": "File:Potato with cheese detail.png"
   },
+  "potion_flask": {
+   "file": "potion_flask.png",
+   "name": "Potion flask",
+   "processed": true,
+   "raw": "potion_flask.png",
+   "title": "File:Potion flask detail.png"
+  },
   "potion_of_zombification": {
    "file": "potion_of_zombification.png",
    "name": "Potion of zombification",
@@ -16926,6 +17444,13 @@
    "processed": true,
    "raw": "powerburst_of_vitality.png",
    "title": "File:Powerburst of vitality detail.png"
+  },
+  "powerburst_vial": {
+   "file": "powerburst_vial.png",
+   "name": "Powerburst vial",
+   "processed": true,
+   "raw": "powerburst_vial.png",
+   "title": "File:Powerburst vial detail.png"
   },
   "pox": {
    "file": "pox.png",
@@ -17034,6 +17559,13 @@
    "raw": "primal_fruit_pulp.png",
    "title": "File:Primal fruit pulp detail.png"
   },
+  "primal_hatchet": {
+   "file": "primal_hatchet.png",
+   "name": "Primal hatchet",
+   "processed": true,
+   "raw": "primal_hatchet.png",
+   "title": "File:Primal hatchet detail.png"
+  },
   "primal_knife": {
    "file": "primal_knife.png",
    "name": "Primal knife",
@@ -17068,6 +17600,13 @@
    "processed": true,
    "raw": "primal_off_hand_warhammer.png",
    "title": "File:Primal off hand warhammer (used) detail.png"
+  },
+  "primal_pickaxe": {
+   "file": "primal_pickaxe.png",
+   "name": "Primal pickaxe",
+   "processed": true,
+   "raw": "primal_pickaxe.png",
+   "title": "File:Primal pickaxe detail.png"
   },
   "primal_portion": {
    "file": "primal_portion.png",
@@ -17384,6 +17923,13 @@
    "name": "Pyrelord",
    "title": "File:Pyrelord.png"
   },
+  "pyromatic_e": {
+   "file": "pyromatic_e.png",
+   "name": "Pyro-matic (e)",
+   "processed": true,
+   "raw": "pyromatic_e.png",
+   "title": "File:Pyro-matic detail.png"
+  },
   "queen_ellamaria": {
    "file": "queen_ellamaria.png",
    "name": "Queen Ellamaria",
@@ -17451,6 +17997,13 @@
    "processed": true,
    "raw": "rainbow_sweetcorn.png",
    "title": "File:Rainbow sweetcorn detail.png"
+  },
+  "rake": {
+   "file": "rake.png",
+   "name": "Rake",
+   "processed": true,
+   "raw": "rake.png",
+   "title": "File:Rake detail.png"
   },
   "ralph": {
    "file": "ralph.png",
@@ -18659,6 +19212,13 @@
    "raw": "rock_ore.png",
    "title": "File:Rock detail.png"
   },
+  "rock_pick": {
+   "file": "rock_pick.png",
+   "name": "Rock pick",
+   "processed": true,
+   "raw": "rock_pick.png",
+   "title": "File:Rock pick detail.png"
+  },
   "rock_slug": {
    "file": "rock_slug.png",
    "name": "Rock slug",
@@ -19012,6 +19572,13 @@
    "raw": "rune_hasta.png",
    "title": "File:Rune hasta detail.png"
   },
+  "rune_hatchet": {
+   "file": "rune_hatchet.png",
+   "name": "Rune hatchet",
+   "processed": true,
+   "raw": "rune_hatchet.png",
+   "title": "File:Rune hatchet detail.png"
+  },
   "rune_javelin": {
    "file": "rune_javelin.png",
    "name": "Rune javelin",
@@ -19039,6 +19606,13 @@
    "processed": true,
    "raw": "rune_mace.png",
    "title": "File:Rune mace detail.png"
+  },
+  "rune_mattock": {
+   "file": "rune_mattock.png",
+   "name": "Rune mattock",
+   "processed": true,
+   "raw": "rune_mattock.png",
+   "title": "File:Rune mattock detail.png"
   },
   "rune_off_hand_battleaxe": {
    "file": "rune_off_hand_battleaxe.png",
@@ -19095,6 +19669,13 @@
    "processed": true,
    "raw": "rune_off_hand_warhammer.png",
    "title": "File:Rune off hand warhammer detail.png"
+  },
+  "rune_pickaxe": {
+   "file": "rune_pickaxe.png",
+   "name": "Rune pickaxe",
+   "processed": true,
+   "raw": "rune_pickaxe.png",
+   "title": "File:Rune pickaxe detail.png"
   },
   "rune_scimitar": {
    "file": "rune_scimitar.png",
@@ -19437,6 +20018,13 @@
    "raw": "sardine.png",
    "title": "File:Sardine detail.png"
   },
+  "saw": {
+   "file": "saw.png",
+   "name": "Saw",
+   "processed": true,
+   "raw": "saw.png",
+   "title": "File:Saw detail.png"
+  },
   "scavvo": {
    "file": "scavvo.png",
    "name": "Scavvo",
@@ -19573,6 +20161,13 @@
    "name": "Seasinger Umi",
    "title": "File:Seasinger Umi.png"
   },
+  "secateurs": {
+   "file": "secateurs.png",
+   "name": "Secateurs",
+   "processed": true,
+   "raw": "secateurs.png",
+   "title": "File:Secateurs detail.png"
+  },
   "secondage_bow": {
    "file": "secondage_bow.png",
    "name": "Second-Age bow",
@@ -19593,6 +20188,13 @@
    "processed": true,
    "raw": "secondage_sword.png",
    "title": "File:Second-Age sword detail.png"
+  },
+  "seed_dibber": {
+   "file": "seed_dibber.png",
+   "name": "Seed dibber",
+   "processed": true,
+   "raw": "seed_dibber.png",
+   "title": "File:Seed dibber detail.png"
   },
   "seeping_elm_branches": {
    "file": "seeping_elm_branches.png",
@@ -19804,6 +20406,13 @@
    "processed": true,
    "raw": "shark_soup.png",
    "title": "File:Shark soup detail.png"
+  },
+  "shears": {
+   "file": "shears.png",
+   "name": "Shears",
+   "processed": true,
+   "raw": "shears.png",
+   "title": "File:Shears detail.png"
   },
   "sheep": {
    "file": "sheep.png",
@@ -20256,6 +20865,13 @@
    "raw": "slimy_eel.png",
    "title": "File:Slimy eel detail.png"
   },
+  "small_fishing_net": {
+   "file": "small_fishing_net.png",
+   "name": "Small fishing net",
+   "processed": true,
+   "raw": "small_fishing_net.png",
+   "title": "File:Small fishing net detail.png"
+  },
   "small_ninja_monkey_bonemeal": {
    "file": "small_ninja_monkey_bonemeal.png",
    "name": "Small ninja monkey bonemeal",
@@ -20487,6 +21103,13 @@
    "raw": "sourberry_seed.png",
    "title": "File:Sourberry seed detail.png"
   },
+  "spade": {
+   "file": "spade.png",
+   "name": "Spade",
+   "processed": true,
+   "raw": "spade.png",
+   "title": "File:Spade detail.png"
+  },
   "sparky": {
    "file": "sparky.png",
    "name": "Sparky",
@@ -20508,6 +21131,13 @@
    "processed": true,
    "raw": "special_teak_log.png",
    "title": "File:Special teak log detail.png"
+  },
+  "specimen_brush": {
+   "file": "specimen_brush.png",
+   "name": "Specimen brush",
+   "processed": true,
+   "raw": "specimen_brush.png",
+   "title": "File:Specimen brush detail.png"
   },
   "spectral_attendant": {
    "file": "spectral_attendant.png",
@@ -21207,6 +21837,13 @@
    "raw": "steel_hasta.png",
    "title": "File:Steel hasta detail.png"
   },
+  "steel_hatchet": {
+   "file": "steel_hatchet.png",
+   "name": "Steel hatchet",
+   "processed": true,
+   "raw": "steel_hatchet.png",
+   "title": "File:Steel hatchet detail.png"
+  },
   "steel_javelin": {
    "file": "steel_javelin.png",
    "name": "Steel javelin",
@@ -21234,6 +21871,13 @@
    "processed": true,
    "raw": "steel_mace.png",
    "title": "File:Steel mace detail.png"
+  },
+  "steel_mattock": {
+   "file": "steel_mattock.png",
+   "name": "Steel mattock",
+   "processed": true,
+   "raw": "steel_mattock.png",
+   "title": "File:Steel mattock detail.png"
   },
   "steel_minotaur": {
    "file": "steel_minotaur.png",
@@ -21295,6 +21939,13 @@
    "processed": true,
    "raw": "steel_off_hand_warhammer.png",
    "title": "File:Steel off hand warhammer detail.png"
+  },
+  "steel_pickaxe": {
+   "file": "steel_pickaxe.png",
+   "name": "Steel pickaxe",
+   "processed": true,
+   "raw": "steel_pickaxe.png",
+   "title": "File:Steel pickaxe detail.png"
   },
   "steel_scimitar": {
    "file": "steel_scimitar.png",
@@ -22362,6 +23013,13 @@
    "name": "Tavia",
    "title": "File:Tavia.png"
   },
+  "tavias_fishing_rod": {
+   "file": "tavias_fishing_rod.png",
+   "name": "Tavia's fishing rod",
+   "processed": true,
+   "raw": "tavias_fishing_rod.png",
+   "title": "File:Tavia's fishing rod detail.png"
+  },
   "tea_flask": {
    "file": "tea_flask.png",
    "name": "Tea flask",
@@ -22694,6 +23352,13 @@
    "name": "Tindar",
    "title": "File:Tindar.png"
   },
+  "tinderbox": {
+   "file": "tinderbox.png",
+   "name": "Tinderbox",
+   "processed": true,
+   "raw": "tinderbox.png",
+   "title": "File:Tinderbox detail.png"
+  },
   "tinse_torpe": {
    "file": "tinse_torpe.png",
    "name": "Tinse Torpe",
@@ -22983,6 +23648,13 @@
    "processed": true,
    "raw": "trout.png",
    "title": "File:Trout detail.png"
+  },
+  "trowel": {
+   "file": "trowel.png",
+   "name": "Trowel",
+   "processed": true,
+   "raw": "trowel.png",
+   "title": "File:Trowel detail.png"
   },
   "tumekens_light": {
    "file": "tumekens_light.png",
@@ -23617,6 +24289,13 @@
    "raw": "vestas_longsword.png",
    "title": "File:Vesta's longsword detail.png"
   },
+  "vial": {
+   "file": "vial.png",
+   "name": "Vial",
+   "processed": true,
+   "raw": "vial.png",
+   "title": "File:Vial detail.png"
+  },
   "vial_of_water": {
    "file": "vial_of_water.png",
    "name": "Vial of water",
@@ -23886,6 +24565,13 @@
    "file": "waterfiend_undercity.png",
    "name": "Waterfiend (Undercity)",
    "title": "File:Waterfiend (The Zamorakian Undercity).png"
+  },
+  "watering_can": {
+   "file": "watering_can.png",
+   "name": "Watering can",
+   "processed": true,
+   "raw": "watering_can.png",
+   "title": "File:Watering can detail.png"
   },
   "watermelon": {
    "file": "watermelon.png",
