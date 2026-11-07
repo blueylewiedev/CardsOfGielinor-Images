@@ -4611,6 +4611,13 @@
    "raw": "clean_arbuck.png",
    "title": "File:Clean arbuck detail.png"
   },
+  "clean_ardrigal": {
+   "file": "clean_ardrigal.png",
+   "name": "Clean ardrigal",
+   "processed": true,
+   "raw": "clean_ardrigal.png",
+   "title": "File:Clean ardrigal detail.png"
+  },
   "clean_argway": {
    "file": "clean_argway.png",
    "name": "Clean argway",
@@ -4737,6 +4744,13 @@
    "raw": "clean_ranarr.png",
    "title": "File:Clean ranarr detail.png"
   },
+  "clean_rogues_purse": {
+   "file": "clean_rogues_purse.png",
+   "name": "Clean rogue's purse",
+   "processed": true,
+   "raw": "clean_rogues_purse.png",
+   "title": "File:Clean rogue's purse detail.png"
+  },
   "clean_sagewort": {
    "file": "clean_sagewort.png",
    "name": "Clean sagewort",
@@ -4757,6 +4771,20 @@
    "processed": true,
    "raw": "clean_shengo.png",
    "title": "File:Clean shengo detail.png"
+  },
+  "clean_sito_foil": {
+   "file": "clean_sito_foil.png",
+   "name": "Clean sito foil",
+   "processed": true,
+   "raw": "clean_sito_foil.png",
+   "title": "File:Clean sito foil detail.png"
+  },
+  "clean_snake_weed": {
+   "file": "clean_snake_weed.png",
+   "name": "Clean snake weed",
+   "processed": true,
+   "raw": "clean_snake_weed.png",
+   "title": "File:Clean snake weed detail.png"
   },
   "clean_snapdragon": {
    "file": "clean_snapdragon.png",
@@ -4806,6 +4834,13 @@
    "processed": true,
    "raw": "clean_valerian.png",
    "title": "File:Clean valerian detail.png"
+  },
+  "clean_volencia_moss": {
+   "file": "clean_volencia_moss.png",
+   "name": "Clean volencia moss",
+   "processed": true,
+   "raw": "clean_volencia_moss.png",
+   "title": "File:Clean volencia moss detail.png"
   },
   "clean_wergali": {
    "file": "clean_wergali.png",
