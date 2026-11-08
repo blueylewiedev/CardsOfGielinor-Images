@@ -183,6 +183,20 @@
    "raw": "achey_tree_logs.png",
    "title": "File:Achey tree logs detail.png"
   },
+  "achto_primeval_mask": {
+   "file": "achto_primeval_mask.png",
+   "name": "Achto Primeval mask",
+   "processed": true,
+   "raw": "achto_primeval_mask.png",
+   "title": "File:Achto Primeval mask detail.png"
+  },
+  "achto_tempest_cowl": {
+   "file": "achto_tempest_cowl.png",
+   "name": "Achto Tempest cowl",
+   "processed": true,
+   "raw": "achto_tempest_cowl.png",
+   "title": "File:Achto Tempest cowl detail.png"
+  },
   "achto_teralith_helmet": {
    "file": "achto_teralith_helmet.png",
    "name": "Achto Teralith helmet",
@@ -672,6 +686,13 @@
    "raw": "ahrims_book_of_magic.png",
    "title": "File:Ahrim's book of magic detail.png"
   },
+  "ahrims_hood": {
+   "file": "ahrims_hood.png",
+   "name": "Ahrim's hood",
+   "processed": true,
+   "raw": "ahrims_hood.png",
+   "title": "File:Ahrim's hood detail.png"
+  },
   "ahrims_staff": {
    "file": "ahrims_staff.png",
    "name": "Ahrim's staff",
@@ -889,6 +910,13 @@
    "raw": "ancient_mace.png",
    "title": "File:Ancient mace detail.png"
   },
+  "ancient_mitre": {
+   "file": "ancient_mitre.png",
+   "name": "Ancient mitre",
+   "processed": true,
+   "raw": "ancient_mitre.png",
+   "title": "File:Ancient mitre detail.png"
+  },
   "ancient_repriser": {
    "file": "ancient_repriser.png",
    "name": "Ancient repriser",
@@ -943,6 +971,20 @@
    "file": "angurvadal.png",
    "name": "Angurvadal",
    "title": "File:Angurvadal.png"
+  },
+  "anima_core_helm_of_seren": {
+   "file": "anima_core_helm_of_seren.png",
+   "name": "Anima core helm of Seren",
+   "processed": true,
+   "raw": "anima_core_helm_of_seren.png",
+   "title": "File:Anima core helm of Seren detail.png"
+  },
+  "anima_core_helm_of_zamorak": {
+   "file": "anima_core_helm_of_zamorak.png",
+   "name": "Anima core helm of Zamorak",
+   "processed": true,
+   "raw": "anima_core_helm_of_zamorak.png",
+   "title": "File:Anima core helm of Zamorak detail.png"
   },
   "anima_core_helm_of_zaros": {
    "file": "anima_core_helm_of_zaros.png",
@@ -1048,6 +1090,13 @@
    "processed": true,
    "raw": "apex_hide.png",
    "title": "File:Apex hide detail.png"
+  },
+  "apex_hide_cowl": {
+   "file": "apex_hide_cowl.png",
+   "name": "Apex hide cowl",
+   "processed": true,
+   "raw": "apex_hide_cowl.png",
+   "title": "File:Apex hide cowl detail.png"
   },
   "apex_sinew": {
    "file": "apex_sinew.png",
@@ -1187,6 +1236,13 @@
    "raw": "archer.png",
    "title": "File:Archer (Lost City).png"
   },
+  "archer_helm": {
+   "file": "archer_helm.png",
+   "name": "Archer helm",
+   "processed": true,
+   "raw": "archer_helm.png",
+   "title": "File:Archer helm detail.png"
+  },
   "archglacor": {
    "file": "archglacor.png",
    "name": "Arch-Glacor",
@@ -1199,6 +1255,13 @@
    "processed": true,
    "raw": "archie.png",
    "title": "File:Archie (pet).png"
+  },
+  "archleather_coif": {
+   "file": "archleather_coif.png",
+   "name": "Archleather coif",
+   "processed": true,
+   "raw": "archleather_coif.png",
+   "title": "File:Archleather coif detail.png"
   },
   "archmage_sedridor": {
    "file": "archmage_sedridor.png",
@@ -1381,6 +1444,20 @@
    "processed": true,
    "raw": "armadyl_godsword.png",
    "title": "File:Armadyl godsword detail.png"
+  },
+  "armadyl_helmet": {
+   "file": "armadyl_helmet.png",
+   "name": "Armadyl helmet",
+   "processed": true,
+   "raw": "armadyl_helmet.png",
+   "title": "File:Armadyl helmet detail.png"
+  },
+  "armadyl_mitre": {
+   "file": "armadyl_mitre.png",
+   "name": "Armadyl mitre",
+   "processed": true,
+   "raw": "armadyl_mitre.png",
+   "title": "File:Armadyl mitre detail.png"
   },
   "armadyl_rune": {
    "file": "armadyl_rune.png",
@@ -2402,6 +2479,13 @@
    "raw": "batwing_book.png",
    "title": "File:Batwing book detail.png"
   },
+  "batwing_hood": {
+   "file": "batwing_hood.png",
+   "name": "Batwing hood",
+   "processed": true,
+   "raw": "batwing_hood.png",
+   "title": "File:Batwing hood detail.png"
+  },
   "batwing_wand": {
    "file": "batwing_wand.png",
    "name": "Batwing wand",
@@ -2508,6 +2592,13 @@
    "file": "benny_snow_imp.png",
    "name": "Benny (Snow imp)",
    "title": "File:Snow Imp.png"
+  },
+  "bens_spare_hat": {
+   "file": "bens_spare_hat.png",
+   "name": "Ben's spare hat",
+   "processed": true,
+   "raw": "bens_spare_hat.png",
+   "title": "File:Ben's spare hat detail.png"
   },
   "bernie": {
    "file": "bernie.png",
@@ -2720,6 +2811,13 @@
    "raw": "black_dragonhide.png",
    "title": "File:Black dragonhide detail.png"
   },
+  "black_dragonhide_coif": {
+   "file": "black_dragonhide_coif.png",
+   "name": "Black dragonhide coif",
+   "processed": true,
+   "raw": "black_dragonhide_coif.png",
+   "title": "File:Black dragonhide coif detail.png"
+  },
   "black_full_helm": {
    "file": "black_full_helm.png",
    "name": "Black full helm",
@@ -2894,6 +2992,13 @@
    "name": "Black warlock",
    "title": "File:Black warlock.png"
   },
+  "black_wizard_hat": {
+   "file": "black_wizard_hat.png",
+   "name": "Black wizard hat",
+   "processed": true,
+   "raw": "black_wizard_hat.png",
+   "title": "File:Black wizard hat detail.png"
+  },
   "blade_of_avaryss": {
    "file": "blade_of_avaryss.png",
    "name": "Blade of Avaryss",
@@ -2931,6 +3036,54 @@
    "raw": "blazehound.png",
    "title": "File:Blazehound adult.png"
   },
+  "blessed_dhide_coif_armadyl": {
+   "file": "blessed_dhide_coif_armadyl.png",
+   "name": "Blessed d'hide coif (Armadyl)",
+   "named": true,
+   "processed": true,
+   "raw": "blessed_dhide_coif_armadyl.png",
+   "title": "File:Blessed dragonhide coif (Armadyl) detail.png"
+  },
+  "blessed_dhide_coif_bandos": {
+   "file": "blessed_dhide_coif_bandos.png",
+   "name": "Blessed d'hide coif (Bandos)",
+   "named": true,
+   "processed": true,
+   "raw": "blessed_dhide_coif_bandos.png",
+   "title": "File:Blessed dragonhide coif (Bandos) detail.png"
+  },
+  "blessed_dhide_coif_guthix": {
+   "file": "blessed_dhide_coif_guthix.png",
+   "name": "Blessed d'hide coif (Guthix)",
+   "named": true,
+   "processed": true,
+   "raw": "blessed_dhide_coif_guthix.png",
+   "title": "File:Blessed dragonhide coif (Guthix) detail.png"
+  },
+  "blessed_dhide_coif_saradomin": {
+   "file": "blessed_dhide_coif_saradomin.png",
+   "name": "Blessed d'hide coif (Saradomin)",
+   "named": true,
+   "processed": true,
+   "raw": "blessed_dhide_coif_saradomin.png",
+   "title": "File:Blessed dragonhide coif (Saradomin) detail.png"
+  },
+  "blessed_dhide_coif_zamorak": {
+   "file": "blessed_dhide_coif_zamorak.png",
+   "name": "Blessed d'hide coif (Zamorak)",
+   "named": true,
+   "processed": true,
+   "raw": "blessed_dhide_coif_zamorak.png",
+   "title": "File:Blessed dragonhide coif (Zamorak) detail.png"
+  },
+  "blessed_dhide_coif_zaros": {
+   "file": "blessed_dhide_coif_zaros.png",
+   "name": "Blessed d'hide coif (Zaros)",
+   "named": true,
+   "processed": true,
+   "raw": "blessed_dhide_coif_zaros.png",
+   "title": "File:Blessed dragonhide coif (Zaros) detail.png"
+  },
   "blessed_flask": {
    "file": "blessed_flask.png",
    "name": "Blessed flask",
@@ -2958,6 +3111,13 @@
    "processed": true,
    "raw": "blighted_rebounder.png",
    "title": "File:Blighted rebounder detail.png"
+  },
+  "blightleaf_hood": {
+   "file": "blightleaf_hood.png",
+   "name": "Blightleaf hood",
+   "processed": true,
+   "raw": "blightleaf_hood.png",
+   "title": "File:Blightleaf hood detail.png"
   },
   "blightleaf_orb": {
    "file": "blightleaf_orb.png",
@@ -3212,6 +3372,13 @@
    "raw": "blue_dragonhide.png",
    "title": "File:Blue dragonhide detail.png"
   },
+  "blue_dragonhide_coif": {
+   "file": "blue_dragonhide_coif.png",
+   "name": "Blue dragonhide coif",
+   "processed": true,
+   "raw": "blue_dragonhide_coif.png",
+   "title": "File:Blue dragonhide coif detail.png"
+  },
   "blue_jewel": {
    "file": "blue_jewel.png",
    "name": "Blue jewel",
@@ -3309,6 +3476,13 @@
    "file": "body_esshound.png",
    "name": "Body esshound",
    "title": "File:Body esshound.png"
+  },
+  "body_helmet": {
+   "file": "body_helmet.png",
+   "name": "Body helmet",
+   "processed": true,
+   "raw": "body_helmet.png",
+   "title": "File:Body helmet detail.png"
   },
   "body_rune": {
    "file": "body_rune.png",
@@ -3922,6 +4096,13 @@
    "name": "Bruin Odetsson",
    "title": "File:Bruin Odetsson.png"
   },
+  "bryll_hood": {
+   "file": "bryll_hood.png",
+   "name": "Bryll hood",
+   "processed": true,
+   "raw": "bryll_hood.png",
+   "title": "File:Bryll hood detail.png"
+  },
   "bryll_orb": {
    "file": "bryll_orb.png",
    "name": "Bryll orb",
@@ -4250,6 +4431,13 @@
    "raw": "carapace.png",
    "title": "File:Carapace detail.png"
   },
+  "carapace_helm": {
+   "file": "carapace_helm.png",
+   "name": "Carapace helm",
+   "processed": true,
+   "raw": "carapace_helm.png",
+   "title": "File:Carapace helm detail.png"
+  },
   "cardamaim": {
    "file": "cardamaim.png",
    "name": "Cardamaim",
@@ -4464,6 +4652,13 @@
    "raw": "celestial_catalytic_wand.png",
    "title": "File:Celestial catalytic wand detail.png"
   },
+  "celestial_hood": {
+   "file": "celestial_hood.png",
+   "name": "Celestial hood",
+   "processed": true,
+   "raw": "celestial_hood.png",
+   "title": "File:Celestial hood detail.png"
+  },
   "celia_diggory": {
    "file": "celia_diggory.png",
    "name": "Celia Diggory",
@@ -4479,6 +4674,22 @@
    "file": "cerberus_juvenile.png",
    "name": "Cerberus Juvenile",
    "title": "File:Cerberus Juvenile.png"
+  },
+  "cf_masterwork_magic_hat": {
+   "file": "cf_masterwork_magic_hat.png",
+   "name": "CF masterwork magic hat",
+   "named": true,
+   "processed": true,
+   "raw": "cf_masterwork_magic_hat.png",
+   "title": "File:Custom-fit masterwork magic hat detail.png"
+  },
+  "cf_masterwork_ranged_cowl": {
+   "file": "cf_masterwork_ranged_cowl.png",
+   "name": "CF masterwork ranged cowl",
+   "named": true,
+   "processed": true,
+   "raw": "cf_masterwork_ranged_cowl.png",
+   "title": "File:Custom-fit masterwork ranged cowl detail.png"
   },
   "cft_masterwork_melee_helm": {
    "file": "cft_masterwork_melee_helm.png",
@@ -4524,6 +4735,13 @@
    "file": "chaos_esshound.png",
    "name": "Chaos esshound",
    "title": "File:Chaos esshound.png"
+  },
+  "chaos_helmet": {
+   "file": "chaos_helmet.png",
+   "name": "Chaos helmet",
+   "processed": true,
+   "raw": "chaos_helmet.png",
+   "title": "File:Chaos helmet detail.png"
   },
   "chaos_rune": {
    "file": "chaos_rune.png",
@@ -5701,6 +5919,13 @@
    "raw": "corrupt_dragon_spear.png",
    "title": "File:Corrupt dragon spear detail.png"
   },
+  "corrupt_morrigans_coif": {
+   "file": "corrupt_morrigans_coif.png",
+   "name": "Corrupt Morrigan's coif",
+   "processed": true,
+   "raw": "corrupt_morrigans_coif.png",
+   "title": "File:Corrupt Morrigan's coif detail.png"
+  },
   "corrupt_morrigans_javelin": {
    "file": "corrupt_morrigans_javelin.png",
    "name": "Corrupt Morrigan's javelin",
@@ -5735,6 +5960,13 @@
    "processed": true,
    "raw": "corrupt_vestas_spear.png",
    "title": "File:Corrupt Vesta's spear detail.png"
+  },
+  "corrupt_zuriels_hood": {
+   "file": "corrupt_zuriels_hood.png",
+   "name": "Corrupt Zuriel's hood",
+   "processed": true,
+   "raw": "corrupt_zuriels_hood.png",
+   "title": "File:Corrupt Zuriel's hood detail.png"
   },
   "corrupt_zuriels_staff": {
    "file": "corrupt_zuriels_staff.png",
@@ -5796,6 +6028,13 @@
    "file": "cosmic_esshound.png",
    "name": "Cosmic esshound",
    "title": "File:Cosmic esshound.png"
+  },
+  "cosmic_helmet": {
+   "file": "cosmic_helmet.png",
+   "name": "Cosmic helmet",
+   "processed": true,
+   "raw": "cosmic_helmet.png",
+   "title": "File:Cosmic helmet detail.png"
   },
   "cosmic_rune": {
    "file": "cosmic_rune.png",
@@ -6267,6 +6506,13 @@
    "name": "Dagon the Gatekeeper",
    "title": "File:Dagon the Gatekeeper.png"
   },
+  "dagonhai_hat": {
+   "file": "dagonhai_hat.png",
+   "name": "Dagon'hai hat",
+   "processed": true,
+   "raw": "dagonhai_hat.png",
+   "title": "File:Dagon'hai hat detail.png"
+  },
   "dahaka_aughra_elder": {
    "file": "dahaka_aughra_elder.png",
    "name": "Dahaka (Aughra elder)",
@@ -6317,6 +6563,13 @@
    "processed": true,
    "raw": "dark_ice_sliver.png",
    "title": "File:Dark ice sliver detail.png"
+  },
+  "dark_mystic_hat": {
+   "file": "dark_mystic_hat.png",
+   "name": "Dark mystic hat",
+   "processed": true,
+   "raw": "dark_mystic_hat.png",
+   "title": "File:Dark mystic hat detail.png"
   },
   "dark_shard_of_leng": {
    "file": "dark_shard_of_leng.png",
@@ -6508,6 +6761,13 @@
    "raw": "death_lotus_dart.png",
    "title": "File:Death Lotus dart detail.png"
   },
+  "death_lotus_hood": {
+   "file": "death_lotus_hood.png",
+   "name": "Death Lotus hood",
+   "processed": true,
+   "raw": "death_lotus_hood.png",
+   "title": "File:Death Lotus hood detail.png"
+  },
   "death_lotus_rogue": {
    "file": "death_lotus_rogue.png",
    "name": "Death Lotus rogue",
@@ -6610,6 +6870,13 @@
    "file": "delrith.png",
    "name": "Delrith",
    "title": "File:Delrith.png"
+  },
+  "demon_slayer_circlet": {
+   "file": "demon_slayer_circlet.png",
+   "name": "Demon slayer circlet",
+   "processed": true,
+   "raw": "demon_slayer_circlet.png",
+   "title": "File:Demon slayer circlet detail.png"
   },
   "demon_slayer_crossbow": {
    "file": "demon_slayer_crossbow.png",
@@ -6765,6 +7032,13 @@
    "raw": "dinosaur_hide.png",
    "title": "File:Dinosaur hide detail.png"
   },
+  "dinosaurhide_cowl": {
+   "file": "dinosaurhide_cowl.png",
+   "name": "Dinosaurhide cowl",
+   "processed": true,
+   "raw": "dinosaurhide_cowl.png",
+   "title": "File:Dinosaurhide cowl detail.png"
+  },
   "dire_wolf": {
    "chosen": "File:Dire wolf.png",
    "file": "dire_wolf.png",
@@ -6907,6 +7181,13 @@
    "processed": true,
    "raw": "draccles.png",
    "title": "File:Draccles detail.png"
+  },
+  "dracolich_coif": {
+   "file": "dracolich_coif.png",
+   "name": "Dracolich coif",
+   "processed": true,
+   "raw": "dracolich_coif.png",
+   "title": "File:Dracolich coif detail.png"
   },
   "dragith_nurn": {
    "file": "dragith_nurn.png",
@@ -7241,6 +7522,13 @@
    "raw": "dried_thistle.png",
    "title": "File:Dried thistle detail.png"
   },
+  "dromoleather_coif": {
+   "file": "dromoleather_coif.png",
+   "name": "Dromoleather coif",
+   "processed": true,
+   "raw": "dromoleather_coif.png",
+   "title": "File:Dromoleather coif detail.png"
+  },
   "dromomastyx_hide": {
    "file": "dromomastyx_hide.png",
    "name": "Dromomastyx hide",
@@ -7389,6 +7677,13 @@
    "processed": true,
    "raw": "dusk_eel_potato.png",
    "title": "File:Dusk eel potato detail.png"
+  },
+  "duskweed_hood": {
+   "file": "duskweed_hood.png",
+   "name": "Duskweed hood",
+   "processed": true,
+   "raw": "duskweed_hood.png",
+   "title": "File:Duskweed hood detail.png"
   },
   "duskweed_orb": {
    "file": "duskweed_orb.png",
@@ -7547,6 +7842,13 @@
    "file": "eclectic_impling.png",
    "name": "Eclectic impling",
    "title": "File:Eclectic impling.png"
+  },
+  "ectohood": {
+   "file": "ectohood.png",
+   "name": "Ectohood",
+   "processed": true,
+   "raw": "ectohood.png",
+   "title": "File:Ectohood detail.png"
   },
   "ectosphere": {
    "file": "ectosphere.png",
@@ -7799,6 +8101,13 @@
    "raw": "elemental_battlestaff.png",
    "title": "File:Elemental battlestaff detail.png"
   },
+  "elemental_helmet": {
+   "file": "elemental_helmet.png",
+   "name": "Elemental helmet",
+   "processed": true,
+   "raw": "elemental_helmet.png",
+   "title": "File:Elemental helmet detail.png"
+  },
   "elemental_ore": {
    "file": "elemental_ore.png",
    "name": "Elemental ore",
@@ -7842,6 +8151,20 @@
    "raw": "elite_death_lotus_dart.png",
    "title": "File:Elite Death Lotus dart detail.png"
   },
+  "elite_dracolich_coif": {
+   "file": "elite_dracolich_coif.png",
+   "name": "Elite Dracolich coif",
+   "processed": true,
+   "raw": "elite_dracolich_coif.png",
+   "title": "File:Elite Dracolich coif detail.png"
+  },
+  "elite_robin_hood_hat": {
+   "file": "elite_robin_hood_hat.png",
+   "name": "Elite Robin Hood hat",
+   "processed": true,
+   "raw": "elite_robin_hood_hat.png",
+   "title": "File:Elite Robin Hood hat detail.png"
+  },
   "elite_seasinger_kiba": {
    "file": "elite_seasinger_kiba.png",
    "name": "Elite seasinger kiba",
@@ -7860,6 +8183,20 @@
    "file": "elite_shadow_cackler.png",
    "name": "Elite Shadow Cackler",
    "title": "File:Elite Shadow Cackler.png"
+  },
+  "elite_sirenic_mask": {
+   "file": "elite_sirenic_mask.png",
+   "name": "Elite sirenic mask",
+   "processed": true,
+   "raw": "elite_sirenic_mask.png",
+   "title": "File:Elite sirenic mask detail.png"
+  },
+  "elite_tectonic_mask": {
+   "file": "elite_tectonic_mask.png",
+   "name": "Elite tectonic mask",
+   "processed": true,
+   "raw": "elite_tectonic_mask.png",
+   "title": "File:Elite tectonic mask detail.png"
   },
   "elite_tetsu_katana": {
    "file": "elite_tetsu_katana.png",
@@ -8017,6 +8354,13 @@
    "processed": true,
    "raw": "enchanted_gem.png",
    "title": "File:Enchanted gem detail.png"
+  },
+  "enchanted_hat": {
+   "file": "enchanted_hat.png",
+   "name": "Enchanted hat",
+   "processed": true,
+   "raw": "enchanted_hat.png",
+   "title": "File:Enchanted hat detail.png"
   },
   "enchanted_vial": {
    "file": "enchanted_vial.png",
@@ -8772,6 +9116,13 @@
    "name": "Farmer (Vinesweeper)",
    "title": "File:Farmer (Vinesweeper, 1).png"
   },
+  "farseer_helm": {
+   "file": "farseer_helm.png",
+   "name": "Farseer helm",
+   "processed": true,
+   "raw": "farseer_helm.png",
+   "title": "File:Farseer helm detail.png"
+  },
   "fat_rocco": {
    "file": "fat_rocco.png",
    "name": "Fat Rocco",
@@ -8986,6 +9337,34 @@
    "name": "Firefly (The Lost Grove)",
    "title": "File:Firefly.png"
   },
+  "first_tower_hat_blue": {
+   "file": "first_tower_hat_blue.png",
+   "name": "First tower hat (blue)",
+   "processed": true,
+   "raw": "first_tower_hat_blue.png",
+   "title": "File:First tower hat (blue) detail.png"
+  },
+  "first_tower_hat_green": {
+   "file": "first_tower_hat_green.png",
+   "name": "First tower hat (green)",
+   "processed": true,
+   "raw": "first_tower_hat_green.png",
+   "title": "File:First tower hat (green) detail.png"
+  },
+  "first_tower_hat_grey": {
+   "file": "first_tower_hat_grey.png",
+   "name": "First tower hat (grey)",
+   "processed": true,
+   "raw": "first_tower_hat_grey.png",
+   "title": "File:First tower hat (grey) detail.png"
+  },
+  "first_tower_hat_red": {
+   "file": "first_tower_hat_red.png",
+   "name": "First tower hat (red)",
+   "processed": true,
+   "raw": "first_tower_hat_red.png",
+   "title": "File:First tower hat (red) detail.png"
+  },
   "fish_and_chips": {
    "file": "fish_and_chips.png",
    "name": "Fish and chips",
@@ -9072,6 +9451,13 @@
    "processed": true,
    "raw": "flamtaer_hammer.png",
    "title": "File:Flamtaer hammer detail.png"
+  },
+  "flamtaer_hood": {
+   "file": "flamtaer_hood.png",
+   "name": "Flamtaer hood",
+   "processed": true,
+   "raw": "flamtaer_hood.png",
+   "title": "File:Flamtaer hood detail.png"
   },
   "flatfish_edicap_potato": {
    "file": "flatfish_edicap_potato.png",
@@ -9160,6 +9546,13 @@
    "file": "foal.png",
    "name": "Foal",
    "title": "File:Foal (black).png"
+  },
+  "focus_sight": {
+   "file": "focus_sight.png",
+   "name": "Focus sight",
+   "processed": true,
+   "raw": "focus_sight.png",
+   "title": "File:Focus sight detail.png"
   },
   "forge_regent": {
    "chosen": "File:Forge regent familiar.png",
@@ -9476,6 +9869,13 @@
    "name": "Fungal rodent",
    "title": "File:Fungal rodent.png"
   },
+  "fungal_visor": {
+   "file": "fungal_visor.png",
+   "name": "Fungal visor",
+   "processed": true,
+   "raw": "fungal_visor.png",
+   "title": "File:Fungal visor detail.png"
+  },
   "fury_shark": {
    "file": "fury_shark.png",
    "name": "Fury shark",
@@ -9494,6 +9894,13 @@
    "file": "gadrin.png",
    "name": "Gadrin",
    "title": "File:Gadrin.png"
+  },
+  "gallileather_coif": {
+   "file": "gallileather_coif.png",
+   "name": "Gallileather coif",
+   "processed": true,
+   "raw": "gallileather_coif.png",
+   "title": "File:Gallileather coif detail.png"
   },
   "gallimastyx_hide": {
    "file": "gallimastyx_hide.png",
@@ -9514,6 +9921,13 @@
    "processed": true,
    "raw": "ganodermic_runt.png",
    "title": "File:Gandermic runt.png"
+  },
+  "ganodermic_visor": {
+   "file": "ganodermic_visor.png",
+   "name": "Ganodermic visor",
+   "processed": true,
+   "raw": "ganodermic_visor.png",
+   "title": "File:Ganodermic visor detail.png"
   },
   "garden_pie": {
    "file": "garden_pie.png",
@@ -10520,6 +10934,13 @@
    "raw": "green_dragonhide.png",
    "title": "File:Green dragonhide detail.png"
   },
+  "green_dragonhide_coif": {
+   "file": "green_dragonhide_coif.png",
+   "name": "Green dragonhide coif",
+   "processed": true,
+   "raw": "green_dragonhide_coif.png",
+   "title": "File:Green dragonhide coif detail.png"
+  },
   "green_gloop_soup": {
    "file": "green_gloop_soup.png",
    "name": "Green gloop soup",
@@ -10603,6 +11024,13 @@
    "processed": true,
    "raw": "grifolic_orb.png",
    "title": "File:Grifolic orb detail.png"
+  },
+  "grifolic_visor": {
+   "file": "grifolic_visor.png",
+   "name": "Grifolic visor",
+   "processed": true,
+   "raw": "grifolic_visor.png",
+   "title": "File:Grifolic visor detail.png"
   },
   "grifolic_wand": {
    "file": "grifolic_wand.png",
@@ -11127,6 +11555,20 @@
    "raw": "guthix_bow.png",
    "title": "File:Guthix bow detail.png"
   },
+  "guthix_halo": {
+   "file": "guthix_halo.png",
+   "name": "Guthix halo",
+   "processed": true,
+   "raw": "guthix_halo.png",
+   "title": "File:Guthix halo detail.png"
+  },
+  "guthix_mitre": {
+   "file": "guthix_mitre.png",
+   "name": "Guthix mitre",
+   "processed": true,
+   "raw": "guthix_mitre.png",
+   "title": "File:Guthix mitre detail.png"
+  },
   "guthix_mjolnir": {
    "file": "guthix_mjolnir.png",
    "name": "Guthix mjolnir",
@@ -11251,6 +11693,13 @@
    "name": "Hans",
    "title": "File:Hans.png"
   },
+  "hard_leather_cowl": {
+   "file": "hard_leather_cowl.png",
+   "name": "Hard leather cowl",
+   "processed": true,
+   "raw": "hard_leather_cowl.png",
+   "title": "File:Hard leather cowl detail.png"
+  },
   "hardened_dragon_bonemeal": {
    "file": "hardened_dragon_bonemeal.png",
    "name": "Hardened dragon bonemeal",
@@ -11271,6 +11720,27 @@
    "processed": true,
    "raw": "hardened_fighter_hat.png",
    "title": "File:Hardened fighter hat detail.png"
+  },
+  "hardened_healer_hat": {
+   "file": "hardened_healer_hat.png",
+   "name": "Hardened healer hat",
+   "processed": true,
+   "raw": "hardened_healer_hat.png",
+   "title": "File:Hardened healer hat detail.png"
+  },
+  "hardened_ranger_hat": {
+   "file": "hardened_ranger_hat.png",
+   "name": "Hardened ranger hat",
+   "processed": true,
+   "raw": "hardened_ranger_hat.png",
+   "title": "File:Hardened ranger hat detail.png"
+  },
+  "hardened_runner_hat": {
+   "file": "hardened_runner_hat.png",
+   "name": "Hardened runner hat",
+   "processed": true,
+   "raw": "hardened_runner_hat.png",
+   "title": "File:Hardened runner hat detail.png"
   },
   "hari": {
    "file": "hari.png",
@@ -11412,6 +11882,13 @@
    "file": "head_of_research.png",
    "name": "Head of Research",
    "title": "File:Head of Research.png"
+  },
+  "healer_hat": {
+   "file": "healer_hat.png",
+   "name": "Healer hat",
+   "processed": true,
+   "raw": "healer_hat.png",
+   "title": "File:Healer hat detail.png"
   },
   "hebe": {
    "file": "hebe.png",
@@ -11580,6 +12057,13 @@
    "name": "Heskel",
    "title": "File:Heskel.png"
   },
+  "hexcrest": {
+   "file": "hexcrest.png",
+   "name": "Hexcrest",
+   "processed": true,
+   "raw": "hexcrest.png",
+   "title": "File:Hexcrest detail.png"
+  },
   "hexhunter_bow": {
    "file": "hexhunter_bow.png",
    "name": "Hexhunter bow",
@@ -11682,6 +12166,13 @@
    "processed": true,
    "raw": "honourable_kyzaj.png",
    "title": "File:Honourable kyzaj detail.png"
+  },
+  "hood_of_subjugation": {
+   "file": "hood_of_subjugation.png",
+   "name": "Hood of subjugation",
+   "processed": true,
+   "raw": "hood_of_subjugation.png",
+   "title": "File:Hood of subjugation detail.png"
   },
   "hooknosed_jack": {
    "file": "hooknosed_jack.png",
@@ -11898,6 +12389,13 @@
    "processed": true,
    "raw": "imphide_book.png",
    "title": "File:Imphide book detail.png"
+  },
+  "imphide_hood": {
+   "file": "imphide_hood.png",
+   "name": "Imphide hood",
+   "processed": true,
+   "raw": "imphide_hood.png",
+   "title": "File:Imphide hood detail.png"
   },
   "impious_ashes": {
    "file": "impious_ashes.png",
@@ -12621,6 +13119,13 @@
    "raw": "karamjan_rum.png",
    "title": "File:Karamjan rum detail.png"
   },
+  "karils_coif": {
+   "file": "karils_coif.png",
+   "name": "Karil's coif",
+   "processed": true,
+   "raw": "karils_coif.png",
+   "title": "File:Karil's coif detail.png"
+  },
   "karils_crossbow": {
    "file": "karils_crossbow.png",
    "name": "Karil's crossbow",
@@ -13299,6 +13804,13 @@
    "raw": "leaping_trout.png",
    "title": "File:Leaping trout detail.png"
   },
+  "leather_cowl": {
+   "file": "leather_cowl.png",
+   "name": "Leather cowl",
+   "processed": true,
+   "raw": "leather_cowl.png",
+   "title": "File:Leather cowl detail.png"
+  },
   "leech": {
    "file": "leech.png",
    "name": "Leech",
@@ -13416,6 +13928,13 @@
    "file": "light_creature.png",
    "name": "Light creature",
    "title": "File:Light creature.png"
+  },
+  "light_mystic_hat": {
+   "file": "light_mystic_hat.png",
+   "name": "Light mystic hat",
+   "processed": true,
+   "raw": "light_mystic_hat.png",
+   "title": "File:Light mystic hat detail.png"
   },
   "lil_lamb": {
    "file": "lil_lamb.png",
@@ -13638,6 +14157,13 @@
    "raw": "lunar_bar.png",
    "title": "File:Lunar bar detail.png"
   },
+  "lunar_helm": {
+   "file": "lunar_helm.png",
+   "name": "Lunar helm",
+   "processed": true,
+   "raw": "lunar_helm.png",
+   "title": "File:Lunar helm detail.png"
+  },
   "lunar_ore": {
    "file": "lunar_ore.png",
    "name": "Lunar ore",
@@ -13844,6 +14370,13 @@
    "processed": true,
    "raw": "magic_shortbow.png",
    "title": "File:Magic shortbow detail.png"
+  },
+  "magic_skull_mask": {
+   "file": "magic_skull_mask.png",
+   "name": "Magic skull mask",
+   "processed": true,
+   "raw": "magic_skull_mask.png",
+   "title": "File:Magic skull mask detail.png"
   },
   "magic_staff": {
    "file": "magic_staff.png",
@@ -14265,6 +14798,13 @@
    "raw": "masterwork_melee_helm.png",
    "title": "File:Masterwork melee helm detail.png"
   },
+  "masterwork_ranged_cowl": {
+   "file": "masterwork_ranged_cowl.png",
+   "name": "Masterwork ranged cowl",
+   "processed": true,
+   "raw": "masterwork_ranged_cowl.png",
+   "title": "File:Masterwork ranged cowl detail.png"
+  },
   "masterwork_spear_of_annihilation": {
    "file": "masterwork_spear_of_annihilation.png",
    "name": "Masterwork Spear of Annihilation",
@@ -14413,6 +14953,13 @@
    "file": "mega_duck.png",
    "name": "Mega Duck",
    "title": "File:Mega Duck.png"
+  },
+  "megaleather_coif": {
+   "file": "megaleather_coif.png",
+   "name": "Megaleather coif",
+   "processed": true,
+   "raw": "megaleather_coif.png",
+   "title": "File:Megaleather coif detail.png"
   },
   "megamastyx_hide": {
    "file": "megamastyx_hide.png",
@@ -14589,6 +15136,13 @@
    "file": "mind_essling.png",
    "name": "Mind essling",
    "title": "File:Mind essling.png"
+  },
+  "mind_helmet": {
+   "file": "mind_helmet.png",
+   "name": "Mind helmet",
+   "processed": true,
+   "raw": "mind_helmet.png",
+   "title": "File:Mind helmet detail.png"
   },
   "mind_rune": {
    "file": "mind_rune.png",
@@ -15106,6 +15660,13 @@
    "name": "Morgan",
    "title": "File:Morgan.png"
   },
+  "morrigans_coif": {
+   "file": "morrigans_coif.png",
+   "name": "Morrigan's coif",
+   "processed": true,
+   "raw": "morrigans_coif.png",
+   "title": "File:Morrigan's coif detail.png"
+  },
   "morrigans_javelin": {
    "file": "morrigans_javelin.png",
    "name": "Morrigan's javelin",
@@ -15335,6 +15896,13 @@
    "name": "Mutated zygomite",
    "title": "File:Mutated zygomite.png"
   },
+  "mycelium_visor_web": {
+   "file": "mycelium_visor_web.png",
+   "name": "Mycelium visor web",
+   "processed": true,
+   "raw": "mycelium_visor_web.png",
+   "title": "File:Mycelium visor web detail.png"
+  },
   "mysterious_old_man": {
    "file": "mysterious_old_man.png",
    "name": "Mysterious Old Man",
@@ -15374,6 +15942,13 @@
    "processed": true,
    "raw": "mystic_fire_staff.png",
    "title": "File:Mystic fire staff detail.png"
+  },
+  "mystic_hat": {
+   "file": "mystic_hat.png",
+   "name": "Mystic hat",
+   "processed": true,
+   "raw": "mystic_hat.png",
+   "title": "File:Mystic hat detail.png"
   },
   "mystic_lava_staff": {
    "file": "mystic_lava_staff.png",
@@ -15957,6 +16532,20 @@
    "file": "obsidian_golem.png",
    "name": "Obsidian golem",
    "title": "File:Obsidian golem.png"
+  },
+  "obsidian_mage_helm": {
+   "file": "obsidian_mage_helm.png",
+   "name": "Obsidian mage helm",
+   "processed": true,
+   "raw": "obsidian_mage_helm.png",
+   "title": "File:Obsidian mage helm detail.png"
+  },
+  "obsidian_ranger_helm": {
+   "file": "obsidian_ranger_helm.png",
+   "name": "Obsidian ranger helm",
+   "processed": true,
+   "raw": "obsidian_ranger_helm.png",
+   "title": "File:Obsidian ranger helm detail.png"
   },
   "obsidian_warrior_helm": {
    "file": "obsidian_warrior_helm.png",
@@ -17172,6 +17761,13 @@
    "raw": "papreaper.png",
    "title": "File:Papreaper detail.png"
   },
+  "paraleather_coif": {
+   "file": "paraleather_coif.png",
+   "name": "Paraleather coif",
+   "processed": true,
+   "raw": "paraleather_coif.png",
+   "title": "File:Paraleather coif detail.png"
+  },
   "paramastyx_hide": {
    "file": "paramastyx_hide.png",
    "name": "Paramastyx hide",
@@ -17364,6 +17960,13 @@
    "file": "perien_the_blue.png",
    "name": "Perien the Blue",
    "title": "File:Perian the Blue.png"
+  },
+  "pernix_cowl": {
+   "file": "pernix_cowl.png",
+   "name": "Pernix cowl",
+   "processed": true,
+   "raw": "pernix_cowl.png",
+   "title": "File:Pernix cowl detail.png"
   },
   "pestle_and_mortar": {
    "file": "pestle_and_mortar.png",
@@ -18306,6 +18909,13 @@
    "name": "Protector",
    "title": "File:Protector.png"
   },
+  "protoleather_coif": {
+   "file": "protoleather_coif.png",
+   "name": "Protoleather coif",
+   "processed": true,
+   "raw": "protoleather_coif.png",
+   "title": "File:Protoleather coif detail.png"
+  },
   "protomastyx_hide": {
    "file": "protomastyx_hide.png",
    "name": "Protomastyx hide",
@@ -18535,6 +19145,13 @@
    "file": "ranged_assistant.png",
    "name": "Ranged assistant",
    "title": "File:Ranged assistant.png"
+  },
+  "ranger_hat": {
+   "file": "ranger_hat.png",
+   "name": "Ranger hat",
+   "processed": true,
+   "raw": "ranger_hat.png",
+   "title": "File:Ranger hat detail.png"
   },
   "rangers_aid": {
    "file": "rangers_aid.png",
@@ -19290,6 +19907,13 @@
    "raw": "red_dragonhide.png",
    "title": "File:Red dragonhide detail.png"
   },
+  "red_dragonhide_coif": {
+   "file": "red_dragonhide_coif.png",
+   "name": "Red dragonhide coif",
+   "processed": true,
+   "raw": "red_dragonhide_coif.png",
+   "title": "File:Red dragonhide coif detail.png"
+  },
   "red_hot_sauce": {
    "file": "red_hot_sauce.png",
    "name": "Red hot sauce",
@@ -19455,6 +20079,20 @@
    "processed": true,
    "raw": "refined_acadia_planks.png",
    "title": "File:Refined Acadia planks detail.png"
+  },
+  "refined_anima_core_helm_of_seren": {
+   "file": "refined_anima_core_helm_of_seren.png",
+   "name": "Refined anima core helm of Seren",
+   "processed": true,
+   "raw": "refined_anima_core_helm_of_seren.png",
+   "title": "File:Refined anima core helm of Seren detail.png"
+  },
+  "refined_anima_core_helm_of_zamorak": {
+   "file": "refined_anima_core_helm_of_zamorak.png",
+   "name": "Refined anima core helm of Zamorak",
+   "processed": true,
+   "raw": "refined_anima_core_helm_of_zamorak.png",
+   "title": "File:Refined anima core helm of Zamorak detail.png"
   },
   "refined_anima_core_helm_of_zaros": {
    "file": "refined_anima_core_helm_of_zaros.png",
@@ -19704,6 +20342,13 @@
    "raw": "roast_rabbit.png",
    "title": "File:Roast rabbit detail.png"
   },
+  "robin_hood_hat": {
+   "file": "robin_hood_hat.png",
+   "name": "Robin Hood hat",
+   "processed": true,
+   "raw": "robin_hood_hat.png",
+   "title": "File:Robin Hood hat detail.png"
+  },
   "rock_golem": {
    "file": "rock_golem.png",
    "name": "Rock golem",
@@ -19832,6 +20477,13 @@
    "raw": "rosaberry_seed.png",
    "title": "File:Rosaberry seed detail.png"
   },
+  "roseblood_hood": {
+   "file": "roseblood_hood.png",
+   "name": "Roseblood hood",
+   "processed": true,
+   "raw": "roseblood_hood.png",
+   "title": "File:Roseblood hood detail.png"
+  },
   "roseblood_orb": {
    "file": "roseblood_orb.png",
    "name": "Roseblood orb",
@@ -19859,6 +20511,13 @@
    "processed": true,
    "raw": "royal_dragonhide.png",
    "title": "File:Royal dragonhide detail.png"
+  },
+  "royal_dragonhide_coif": {
+   "file": "royal_dragonhide_coif.png",
+   "name": "Royal dragonhide coif",
+   "processed": true,
+   "raw": "royal_dragonhide_coif.png",
+   "title": "File:Royal dragonhide coif detail.png"
   },
   "royal_sceptre": {
    "file": "royal_sceptre.png",
@@ -20351,6 +21010,13 @@
    "raw": "runecrafting_potion.png",
    "title": "File:Runecrafting potion (4) detail.png"
   },
+  "runic_hood": {
+   "file": "runic_hood.png",
+   "name": "Runic hood",
+   "processed": true,
+   "raw": "runic_hood.png",
+   "title": "File:Runic hood detail.png"
+  },
   "runic_orb": {
    "file": "runic_orb.png",
    "name": "Runic orb",
@@ -20371,6 +21037,13 @@
    "processed": true,
    "raw": "runite_ore.png",
    "title": "File:Runite ore detail.png"
+  },
+  "runner_hat": {
+   "file": "runner_hat.png",
+   "name": "Runner hat",
+   "processed": true,
+   "raw": "runner_hat.png",
+   "title": "File:Runner hat detail.png"
   },
   "sacred_clay_bow": {
    "file": "sacred_clay_bow.png",
@@ -20418,6 +21091,13 @@
    "processed": true,
    "raw": "sagewort_seed.png",
    "title": "File:Sagewort seed detail.png"
+  },
+  "sagittarian_coif": {
+   "file": "sagittarian_coif.png",
+   "name": "Sagittarian coif",
+   "processed": true,
+   "raw": "sagittarian_coif.png",
+   "title": "File:Sagittarian coif detail.png"
   },
   "sagittarian_longbow": {
    "file": "sagittarian_longbow.png",
@@ -20482,6 +21162,13 @@
    "processed": true,
    "raw": "salve_eel_potato.png",
    "title": "File:Fish potato.png"
+  },
+  "salve_hood": {
+   "file": "salve_hood.png",
+   "name": "Salve hood",
+   "processed": true,
+   "raw": "salve_hood.png",
+   "title": "File:Salve hood detail.png"
   },
   "salve_orb": {
    "file": "salve_orb.png",
@@ -20594,6 +21281,20 @@
    "processed": true,
    "raw": "saradomin_godsword.png",
    "title": "File:Saradomin godsword detail.png"
+  },
+  "saradomin_halo": {
+   "file": "saradomin_halo.png",
+   "name": "Saradomin halo",
+   "processed": true,
+   "raw": "saradomin_halo.png",
+   "title": "File:Saradomin halo detail.png"
+  },
+  "saradomin_mitre": {
+   "file": "saradomin_mitre.png",
+   "name": "Saradomin mitre",
+   "processed": true,
+   "raw": "saradomin_mitre.png",
+   "title": "File:Saradomin mitre detail.png"
   },
   "saradomin_mjolnir": {
    "file": "saradomin_mjolnir.png",
@@ -20804,6 +21505,13 @@
    "processed": true,
    "raw": "secondage_full_helm.png",
    "title": "File:Second-Age full helm detail.png"
+  },
+  "secondage_range_coif": {
+   "file": "secondage_range_coif.png",
+   "name": "Second-Age range coif",
+   "processed": true,
+   "raw": "secondage_range_coif.png",
+   "title": "File:Second-Age range coif detail.png"
   },
   "secondage_staff": {
    "file": "secondage_staff.png",
@@ -21271,6 +21979,20 @@
    "name": "Sir Vyvin",
    "title": "File:Sir Vyvin.png"
   },
+  "sirenic_mask": {
+   "file": "sirenic_mask.png",
+   "name": "Sirenic mask",
+   "processed": true,
+   "raw": "sirenic_mask.png",
+   "title": "File:Sirenic mask detail.png"
+  },
+  "skeletal_helm": {
+   "file": "skeletal_helm.png",
+   "name": "Skeletal helm",
+   "processed": true,
+   "raw": "skeletal_helm.png",
+   "title": "File:Skeletal helm detail.png"
+  },
   "skeletal_horror": {
    "file": "skeletal_horror.png",
    "name": "Skeletal horror",
@@ -21588,6 +22310,13 @@
    "raw": "snake_hide_swamp.png",
    "title": "File:Snake hide (swamp) detail.png"
   },
+  "snakeskin_bandana": {
+   "file": "snakeskin_bandana.png",
+   "name": "Snakeskin bandana",
+   "processed": true,
+   "raw": "snakeskin_bandana.png",
+   "title": "File:Snakeskin bandana detail.png"
+  },
   "snapdragon_seed": {
    "file": "snapdragon_seed.png",
    "name": "Snapdragon seed",
@@ -21713,6 +22442,13 @@
    "processed": true,
    "raw": "soul_talisman_staff.png",
    "title": "File:Soul talisman staff detail.png"
+  },
+  "soulbell_hood": {
+   "file": "soulbell_hood.png",
+   "name": "Soulbell hood",
+   "processed": true,
+   "raw": "soulbell_hood.png",
+   "title": "File:Soulbell hood detail.png"
   },
   "soulbell_orb": {
    "file": "soulbell_orb.png",
@@ -21876,6 +22612,13 @@
    "raw": "spider_silk.png",
    "title": "File:Spider silk detail.png"
   },
+  "spider_silk_hood": {
+   "file": "spider_silk_hood.png",
+   "name": "Spider silk hood",
+   "processed": true,
+   "raw": "spider_silk_hood.png",
+   "title": "File:Spider silk hood detail.png"
+  },
   "spider_wand": {
    "file": "spider_wand.png",
    "name": "Spider wand",
@@ -21931,6 +22674,20 @@
    "processed": true,
    "raw": "spinebeam_wand.png",
    "title": "File:Spinebeam wand detail.png"
+  },
+  "spined_helm": {
+   "file": "spined_helm.png",
+   "name": "Spined helm",
+   "processed": true,
+   "raw": "spined_helm.png",
+   "title": "File:Spined helm detail.png"
+  },
+  "spinoleather_coif": {
+   "file": "spinoleather_coif.png",
+   "name": "Spinoleather coif",
+   "processed": true,
+   "raw": "spinoleather_coif.png",
+   "title": "File:Spinoleather coif detail.png"
   },
   "spinomastyx_hide": {
    "file": "spinomastyx_hide.png",
@@ -22116,6 +22873,13 @@
    "name": "Spirit zamatrice",
    "title": "File:Spirit zamatrice.png"
   },
+  "spiritbloom_hood": {
+   "file": "spiritbloom_hood.png",
+   "name": "Spiritbloom hood",
+   "processed": true,
+   "raw": "spiritbloom_hood.png",
+   "title": "File:Spiritbloom hood detail.png"
+  },
   "spiritbloom_orb": {
    "file": "spiritbloom_orb.png",
    "name": "Spiritbloom orb",
@@ -22143,6 +22907,13 @@
    "processed": true,
    "raw": "split_log.png",
    "title": "File:Split log detail.png"
+  },
+  "splitbark_helm": {
+   "file": "splitbark_helm.png",
+   "name": "Splitbark helm",
+   "processed": true,
+   "raw": "splitbark_helm.png",
+   "title": "File:Splitbark helm detail.png"
   },
   "splitbark_orb": {
    "file": "splitbark_orb.png",
@@ -22659,6 +23430,13 @@
    "raw": "steel_warhammer.png",
    "title": "File:Steel warhammer detail.png"
   },
+  "stegoleather_coif": {
+   "file": "stegoleather_coif.png",
+   "name": "Stegoleather coif",
+   "processed": true,
+   "raw": "stegoleather_coif.png",
+   "title": "File:Stegoleather coif detail.png"
+  },
   "stegomastyx_hide": {
    "file": "stegomastyx_hide.png",
    "name": "Stegomastyx hide",
@@ -22808,6 +23586,13 @@
    "raw": "strykebow.png",
    "title": "File:Strykebow detail.png"
   },
+  "studded_leather_coif": {
+   "file": "studded_leather_coif.png",
+   "name": "Studded leather coif",
+   "processed": true,
+   "raw": "studded_leather_coif.png",
+   "title": "File:Studded leather coif detail.png"
+  },
   "student": {
    "chosen": "File:Student (1).png",
    "file": "student.png",
@@ -22818,6 +23603,13 @@
    "file": "suak.png",
    "name": "Suak",
    "title": "File:Suak.png"
+  },
+  "subleather_coif": {
+   "file": "subleather_coif.png",
+   "name": "Subleather coif",
+   "processed": true,
+   "raw": "subleather_coif.png",
+   "title": "File:Subleather coif detail.png"
   },
   "submastyx_hide": {
    "file": "submastyx_hide.png",
@@ -23339,6 +24131,13 @@
    "raw": "superior_ancient_mace.png",
    "title": "File:Superior ancient mace detail.png"
   },
+  "superior_death_lotus_hood": {
+   "file": "superior_death_lotus_hood.png",
+   "name": "Superior Death Lotus hood",
+   "processed": true,
+   "raw": "superior_death_lotus_hood.png",
+   "title": "File:Superior Death Lotus hood detail.png"
+  },
   "superior_dragon_claw": {
    "file": "superior_dragon_claw.png",
    "name": "Superior dragon claw",
@@ -23380,6 +24179,13 @@
    "processed": true,
    "raw": "superior_locator.png",
    "title": "File:Superior locator detail.png"
+  },
+  "superior_morrigans_coif": {
+   "file": "superior_morrigans_coif.png",
+   "name": "Superior Morrigan's coif",
+   "processed": true,
+   "raw": "superior_morrigans_coif.png",
+   "title": "File:Superior Morrigan's coif detail.png"
   },
   "superior_morrigans_javelin": {
    "file": "superior_morrigans_javelin.png",
@@ -23430,6 +24236,20 @@
    "raw": "superior_oh_dragon_longsword.png",
    "title": "File:Superior off-hand dragon longsword detail.png"
   },
+  "superior_skeletal_helm": {
+   "file": "superior_skeletal_helm.png",
+   "name": "Superior skeletal helm",
+   "processed": true,
+   "raw": "superior_skeletal_helm.png",
+   "title": "File:Superior skeletal helm detail.png"
+  },
+  "superior_spined_helm": {
+   "file": "superior_spined_helm.png",
+   "name": "Superior spined helm",
+   "processed": true,
+   "raw": "superior_spined_helm.png",
+   "title": "File:Superior spined helm detail.png"
+  },
   "superior_statiuss_full_helm": {
    "file": "superior_statiuss_full_helm.png",
    "name": "Superior Statius's full helm",
@@ -23465,12 +24285,33 @@
    "raw": "superior_vestas_spear.png",
    "title": "File:Superior Vesta's spear detail.png"
   },
+  "superior_void_knight_mage_helm": {
+   "file": "superior_void_knight_mage_helm.png",
+   "name": "Superior void knight mage helm",
+   "processed": true,
+   "raw": "superior_void_knight_mage_helm.png",
+   "title": "File:Superior void knight mage helm.png"
+  },
   "superior_void_knight_melee_helm": {
    "file": "superior_void_knight_melee_helm.png",
    "name": "Superior void knight melee helm",
    "processed": true,
    "raw": "superior_void_knight_melee_helm.png",
    "title": "File:Superior void knight melee helm.png"
+  },
+  "superior_void_knight_ranger_helm": {
+   "file": "superior_void_knight_ranger_helm.png",
+   "name": "Superior void knight ranger helm",
+   "processed": true,
+   "raw": "superior_void_knight_ranger_helm.png",
+   "title": "File:Superior void knight ranger helm.png"
+  },
+  "superior_zuriels_hood": {
+   "file": "superior_zuriels_hood.png",
+   "name": "Superior Zuriel's hood",
+   "processed": true,
+   "raw": "superior_zuriels_hood.png",
+   "title": "File:Superior Zuriel's hood detail.png"
   },
   "superior_zuriels_staff": {
    "file": "superior_zuriels_staff.png",
@@ -23777,6 +24618,13 @@
    "raw": "tellervos_net.png",
    "title": "File:Tellervo's net detail.png"
   },
+  "tempest_cowl": {
+   "file": "tempest_cowl.png",
+   "name": "Tempest cowl",
+   "processed": true,
+   "raw": "tempest_cowl.png",
+   "title": "File:Tempest cowl detail.png"
+  },
   "temple_knight_monolith": {
    "chosen": "File:Temple Knight (Battle of the Monolith, male).png",
    "file": "temple_knight_monolith.png",
@@ -24007,6 +24855,13 @@
    "processed": true,
    "raw": "third_age_full_helmet.png",
    "title": "File:Third age full helmet detail.png"
+  },
+  "third_age_ranger_coif": {
+   "file": "third_age_ranger_coif.png",
+   "name": "Third age ranger coif",
+   "processed": true,
+   "raw": "third_age_ranger_coif.png",
+   "title": "File:Third age ranger coif detail.png"
   },
   "thok_rune": {
    "file": "thok_rune.png",
@@ -24449,6 +25304,13 @@
    "name": "Tyke",
    "title": "File:Tyke (goblin).png"
   },
+  "tyrannoleather_coif": {
+   "file": "tyrannoleather_coif.png",
+   "name": "Tyrannoleather coif",
+   "processed": true,
+   "raw": "tyrannoleather_coif.png",
+   "title": "File:Tyrannoleather coif detail.png"
+  },
   "tyrannomastyx_hide": {
    "file": "tyrannomastyx_hide.png",
    "name": "Tyrannomastyx hide",
@@ -24781,6 +25643,13 @@
    "raw": "undead_dragonhide.png",
    "title": "File:Undead dragonhide detail.png"
   },
+  "undead_dragonhide_coif": {
+   "file": "undead_dragonhide_coif.png",
+   "name": "Undead dragonhide coif",
+   "processed": true,
+   "raw": "undead_dragonhide_coif.png",
+   "title": "File:Undead dragonhide coif detail.png"
+  },
   "undead_elven_knight": {
    "chosen": "File:Undead Elven Knight (1).png",
    "file": "undead_elven_knight.png",
@@ -25099,12 +25968,26 @@
    "raw": "void_knight_mace.png",
    "title": "File:Void knight mace detail.png"
   },
+  "void_knight_mage_helm": {
+   "file": "void_knight_mage_helm.png",
+   "name": "Void knight mage helm",
+   "processed": true,
+   "raw": "void_knight_mage_helm.png",
+   "title": "File:Void knight mage helm detail.png"
+  },
   "void_knight_melee_helm": {
    "file": "void_knight_melee_helm.png",
    "name": "Void knight melee helm",
    "processed": true,
    "raw": "void_knight_melee_helm.png",
    "title": "File:Void knight melee helm detail.png"
+  },
+  "void_knight_ranger_helm": {
+   "file": "void_knight_ranger_helm.png",
+   "name": "Void knight ranger helm",
+   "processed": true,
+   "raw": "void_knight_ranger_helm.png",
+   "title": "File:Void knight ranger helm detail.png"
   },
   "volatile_clay_butterfly_net": {
    "file": "volatile_clay_butterfly_net.png",
@@ -25660,6 +26543,13 @@
    "raw": "wilder_pie.png",
    "title": "File:Wilder pie detail.png"
   },
+  "wildercress_hood": {
+   "file": "wildercress_hood.png",
+   "name": "Wildercress hood",
+   "processed": true,
+   "raw": "wildercress_hood.png",
+   "title": "File:Wildercress hood detail.png"
+  },
   "wildercress_orb": {
    "file": "wildercress_orb.png",
    "name": "Wildercress orb",
@@ -25853,6 +26743,27 @@
    "file": "wizard_goldberg.png",
    "name": "Wizard Goldberg",
    "title": "File:Wizard Goldberg.png"
+  },
+  "wizard_hat": {
+   "file": "wizard_hat.png",
+   "name": "Wizard hat",
+   "processed": true,
+   "raw": "wizard_hat.png",
+   "title": "File:Wizard hat detail.png"
+  },
+  "wizard_hat_g": {
+   "file": "wizard_hat_g.png",
+   "name": "Wizard hat (g)",
+   "processed": true,
+   "raw": "wizard_hat_g.png",
+   "title": "File:Wizard hat (g) detail.png"
+  },
+  "wizard_hat_t": {
+   "file": "wizard_hat_t.png",
+   "name": "Wizard hat (t)",
+   "processed": true,
+   "raw": "wizard_hat_t.png",
+   "title": "File:Wizard hat (t) detail.png"
   },
   "wizard_ilona": {
    "file": "wizard_ilona.png",
@@ -26293,6 +27204,13 @@
    "name": "Zamorak mage",
    "title": "File:Zamorak mage.png"
   },
+  "zamorak_mitre": {
+   "file": "zamorak_mitre.png",
+   "name": "Zamorak mitre",
+   "processed": true,
+   "raw": "zamorak_mitre.png",
+   "title": "File:Zamorak mitre detail.png"
+  },
   "zamorak_mjolnir": {
    "file": "zamorak_mjolnir.png",
    "name": "Zamorak mjolnir",
@@ -26632,6 +27550,13 @@
    "file": "zommy_brains_walker.png",
    "name": "Zommy 'Brains' Walker",
    "title": "File:Zommy 'Brains' Walker.png"
+  },
+  "zuriels_hood": {
+   "file": "zuriels_hood.png",
+   "name": "Zuriel's hood",
+   "processed": true,
+   "raw": "zuriels_hood.png",
+   "title": "File:Zuriel's hood detail.png"
   },
   "zuriels_staff": {
    "file": "zuriels_staff.png",
