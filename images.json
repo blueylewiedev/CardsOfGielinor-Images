@@ -20998,6 +20998,14 @@
    "raw": "purple_sweets.png",
    "title": "File:Purple sweets 1 detail.png"
   },
+  "putrid_zombie": {
+   "file": "putrid_zombie.png",
+   "name": "Putrid zombie",
+   "named": true,
+   "processed": true,
+   "raw": "putrid_zombie.png",
+   "title": "File:Putrid Zombie.png"
+  },
   "pyre_logs": {
    "file": "pyre_logs.png",
    "name": "Pyre logs",
@@ -24202,6 +24210,14 @@
    "file": "skeleton_warlock.png",
    "name": "Skeleton warlock",
    "title": "File:Skeleton warlock.png"
+  },
+  "skeleton_warrior": {
+   "file": "skeleton_warrior.png",
+   "name": "Skeleton warrior",
+   "named": true,
+   "processed": true,
+   "raw": "skeleton_warrior.png",
+   "title": "File:Skeleton Warrior.png"
   },
   "skewered_beast": {
    "file": "skewered_beast.png",
@@ -30391,15 +30407,6 @@
     "Ghost troll brute chathead.png"
    ]
   },
-  "putrid_zombie": {
-   "name": "Putrid zombie",
-   "tried": [
-    "Putrid zombie.png",
-    "Putrid zombie (Rasial).png",
-    "Putrid zombie chathead.png",
-    "Putrid zombie (Rasial) chathead.png"
-   ]
-  },
   "robbo": {
    "name": "Robbo",
    "tried": [
@@ -30412,15 +30419,6 @@
    "tried": [
     "Rowley.png",
     "Rowley chathead.png"
-   ]
-  },
-  "skeleton_warrior": {
-   "name": "Skeleton warrior",
-   "tried": [
-    "Skeleton warrior.png",
-    "Skeleton warrior (Battle of Forinthry).png",
-    "Skeleton warrior chathead.png",
-    "Skeleton warrior (Battle of Forinthry) chathead.png"
    ]
   }
  }
