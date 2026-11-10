@@ -539,6 +539,12 @@
    "raw": "admiral_pie.png",
    "title": "File:Admiral pie detail.png"
   },
+  "adolescent_white_wolf": {
+   "chosen": "File:Wolf25.png",
+   "file": "adolescent_white_wolf.png",
+   "name": "Adolescent White wolf",
+   "title": "File:Wolf25.png"
+  },
   "adrenaline_flask": {
    "file": "adrenaline_flask.png",
    "name": "Adrenaline flask",
@@ -679,6 +685,12 @@
    "name": "Agrith-Na-Na",
    "title": "File:Agrith-Na-Na.png"
   },
+  "ahab": {
+   "chosen": "File:Ahab.png",
+   "file": "ahab.png",
+   "name": "Ahab",
+   "title": "File:Ahab.png"
+  },
   "ahrims_book_of_magic": {
    "file": "ahrims_book_of_magic.png",
    "name": "Ahrim's book of magic",
@@ -739,6 +751,12 @@
    "processed": true,
    "raw": "air_talisman_staff.png",
    "title": "File:Air talisman staff detail.png"
+  },
+  "air_wizard": {
+   "chosen": "File:Air wizard.png",
+   "file": "air_wizard.png",
+   "name": "Air wizard",
+   "title": "File:Air wizard.png"
   },
   "airut": {
    "file": "airut.png",
@@ -817,6 +835,12 @@
    "raw": "alchemical_onyx.png",
    "title": "File:Alchemical onyx detail.png"
   },
+  "alder_bamboo_merchant": {
+   "chosen": "File:Alder (bamboo merchant).png",
+   "file": "alder_bamboo_merchant.png",
+   "name": "Alder (bamboo merchant)",
+   "title": "File:Alder (bamboo merchant).png"
+  },
   "ale_yeast": {
    "file": "ale_yeast.png",
    "name": "Ale yeast",
@@ -829,6 +853,12 @@
    "name": "Alfonso",
    "title": "File:Alfonso.png"
   },
+  "almost_master_crafter": {
+   "chosen": "File:Almost Master Crafter (1).png",
+   "file": "almost_master_crafter.png",
+   "name": "Almost Master Crafter",
+   "title": "File:Almost Master Crafter (1).png"
+  },
   "aloe_seed": {
    "file": "aloe_seed.png",
    "name": "Aloe seed",
@@ -836,6 +866,12 @@
    "processed": true,
    "raw": "aloe_seed.png",
    "title": "File:Aloe seed 5 detail.png"
+  },
+  "alran": {
+   "chosen": "File:Alran.png",
+   "file": "alran.png",
+   "name": "Alran",
+   "title": "File:Alran.png"
   },
   "amascut": {
    "chosen": "File:Amascut (Eclipse of the Heart).png",
@@ -979,6 +1015,12 @@
    "name": "Angurvadal",
    "title": "File:Angurvadal.png"
   },
+  "ani_farming_merchant": {
+   "chosen": "File:Ani (farming merchant).png",
+   "file": "ani_farming_merchant.png",
+   "name": "Ani (farming merchant)",
+   "title": "File:Ani (farming merchant).png"
+  },
   "anima_core_helm_of_seren": {
    "file": "anima_core_helm_of_seren.png",
    "name": "Anima core helm of Seren",
@@ -1007,11 +1049,29 @@
    "raw": "anima_core_helm_of_zaros.png",
    "title": "File:Anima core helm of Zaros detail.png"
   },
+  "animated_bronze_armour": {
+   "chosen": "File:Animated Bronze Armour.png",
+   "file": "animated_bronze_armour.png",
+   "name": "Animated Bronze Armour",
+   "title": "File:Animated Bronze Armour.png"
+  },
+  "animated_iron_armour": {
+   "chosen": "File:Animated Iron Armour.png",
+   "file": "animated_iron_armour.png",
+   "name": "Animated Iron Armour",
+   "title": "File:Animated Iron Armour.png"
+  },
   "animated_spade": {
    "chosen": "File:Animated Spade.png",
    "file": "animated_spade.png",
    "name": "Animated spade",
    "title": "File:Animated Spade.png"
+  },
+  "anja": {
+   "chosen": "File:Anja.png",
+   "file": "anja.png",
+   "name": "Anja",
+   "title": "File:Anja.png"
   },
   "ankh": {
    "file": "ankh.png",
@@ -6017,6 +6077,13 @@
    "raw": "corrupt_statiuss_full_helm.png",
    "title": "File:Corrupt Statius's full helm detail.png"
   },
+  "corrupt_statiuss_warhammer": {
+   "file": "corrupt_statiuss_warhammer.png",
+   "name": "Corrupt Statius's warhammer",
+   "processed": true,
+   "raw": "corrupt_statiuss_warhammer.png",
+   "title": "File:Corrupt Statius's warhammer detail.png"
+  },
   "corrupt_vestas_longsword": {
    "file": "corrupt_vestas_longsword.png",
    "name": "Corrupt Vesta's longsword",
@@ -9388,6 +9455,13 @@
    "file": "farmer_vinesweeper.png",
    "name": "Farmer (Vinesweeper)",
    "title": "File:Farmer (Vinesweeper, 1).png"
+  },
+  "farmers_hat": {
+   "file": "farmers_hat.png",
+   "name": "Farmer's hat",
+   "processed": true,
+   "raw": "farmers_hat.png",
+   "title": "File:Farmer's hat detail.png"
   },
   "farseer_helm": {
    "file": "farseer_helm.png",
@@ -22266,6 +22340,13 @@
    "raw": "shaikahan_bones.png",
    "title": "File:Shaikahan bones detail.png"
   },
+  "shamans_headdress": {
+   "file": "shamans_headdress.png",
+   "name": "Shaman's headdress",
+   "processed": true,
+   "raw": "shamans_headdress.png",
+   "title": "File:Shaman's headdress detail.png"
+  },
   "shambling_horror": {
    "file": "shambling_horror.png",
    "name": "Shambling horror",
@@ -23035,6 +23116,13 @@
    "processed": true,
    "raw": "sourberry_seed.png",
    "title": "File:Sourberry seed detail.png"
+  },
+  "sous_chefs_toque": {
+   "file": "sous_chefs_toque.png",
+   "name": "Sous chef's toque",
+   "processed": true,
+   "raw": "sous_chefs_toque.png",
+   "title": "File:Sous chef's toque detail.png"
   },
   "spade": {
    "file": "spade.png",
