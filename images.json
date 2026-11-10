@@ -767,6 +767,13 @@
    "raw": "aggroverload.png",
    "title": "File:Aggroverload (4) detail.png"
   },
+  "agile_top": {
+   "file": "agile_top.png",
+   "name": "Agile top",
+   "processed": true,
+   "raw": "agile_top.png",
+   "title": "File:Agile top detail.png"
+  },
   "agility_flask": {
    "file": "agility_flask.png",
    "name": "Agility flask",
@@ -928,6 +935,13 @@
    "processed": true,
    "raw": "akrisaes_hood.png",
    "title": "File:Akrisae's hood detail.png"
+  },
+  "akrisaes_robe_top": {
+   "file": "akrisaes_robe_top.png",
+   "name": "Akrisae's robe top",
+   "processed": true,
+   "raw": "akrisaes_robe_top.png",
+   "title": "File:Akrisae's robe top detail.png"
   },
   "akrisaes_war_mace": {
    "file": "akrisaes_war_mace.png",
@@ -1263,6 +1277,13 @@
    "processed": true,
    "raw": "anima_core_body_of_seren.png",
    "title": "File:Anima core body of Seren detail.png"
+  },
+  "anima_core_body_of_sliske": {
+   "file": "anima_core_body_of_sliske.png",
+   "name": "Anima core body of Sliske",
+   "processed": true,
+   "raw": "anima_core_body_of_sliske.png",
+   "title": "File:Anima core body of Sliske detail.png"
   },
   "anima_core_body_of_zamorak": {
    "file": "anima_core_body_of_zamorak.png",
@@ -1605,6 +1626,13 @@
    "processed": true,
    "raw": "archaeologists_hat.png",
    "title": "File:Archaeologist's hat detail.png"
+  },
+  "archaeologists_jacket": {
+   "file": "archaeologists_jacket.png",
+   "name": "Archaeologist's jacket",
+   "processed": true,
+   "raw": "archaeologists_jacket.png",
+   "title": "File:Archaeologist's jacket detail.png"
   },
   "archaeology_flask": {
    "file": "archaeology_flask.png",
@@ -1966,6 +1994,13 @@
    "raw": "artisans_cape.png",
    "title": "File:Artisan's cape detail.png"
   },
+  "artisans_top": {
+   "file": "artisans_top.png",
+   "name": "Artisan's top",
+   "processed": true,
+   "raw": "artisans_top.png",
+   "title": "File:Artisan's top detail.png"
+  },
   "ascension_crossbow": {
    "file": "ascension_crossbow.png",
    "name": "Ascension crossbow",
@@ -2127,6 +2162,13 @@
    "file": "attendee.png",
    "name": "Attendee",
    "title": "File:Attendee (5).png"
+  },
+  "attuned_crystal_body": {
+   "file": "attuned_crystal_body.png",
+   "name": "Attuned crystal body",
+   "processed": true,
+   "raw": "attuned_crystal_body.png",
+   "title": "File:Attuned crystal body detail.png"
   },
   "attuned_crystal_bow": {
    "file": "attuned_crystal_bow.png",
@@ -3651,6 +3693,13 @@
    "raw": "black_helm_h5.png",
    "title": "File:Black helm (h5) detail.png"
   },
+  "black_ibis_body": {
+   "file": "black_ibis_body.png",
+   "name": "Black ibis body",
+   "processed": true,
+   "raw": "black_ibis_body.png",
+   "title": "File:Black ibis body detail.png"
+  },
   "black_ibis_mask": {
    "file": "black_ibis_mask.png",
    "name": "Black ibis mask",
@@ -3854,6 +3903,13 @@
    "processed": true,
    "raw": "blacksmiths_helmet.png",
    "title": "File:Blacksmith's helmet detail.png"
+  },
+  "blacksmiths_top": {
+   "file": "blacksmiths_top.png",
+   "name": "Blacksmith's top",
+   "processed": true,
+   "raw": "blacksmiths_top.png",
+   "title": "File:Blacksmith's top detail.png"
   },
   "blade_of_avaryss": {
    "file": "blade_of_avaryss.png",
@@ -4569,6 +4625,13 @@
    "processed": true,
    "raw": "botanists_mask.png",
    "title": "File:Botanist's mask detail.png"
+  },
+  "botanists_top": {
+   "file": "botanists_top.png",
+   "name": "Botanist's top",
+   "processed": true,
+   "raw": "botanists_top.png",
+   "title": "File:Botanist's top detail.png"
   },
   "bottle_of_wine": {
    "file": "bottle_of_wine.png",
@@ -6979,6 +7042,13 @@
    "raw": "consecrated_keris.png",
    "title": "File:Consecrated keris detail.png"
   },
+  "constructors_garb": {
+   "file": "constructors_garb.png",
+   "name": "Constructor's garb",
+   "processed": true,
+   "raw": "constructors_garb.png",
+   "title": "File:Constructor's garb detail.png"
+  },
   "constructors_hat": {
    "file": "constructors_hat.png",
    "name": "Constructor's hat",
@@ -7710,6 +7780,13 @@
    "raw": "crystal_binding_rod.png",
    "title": "File:Crystal binding rod detail.png"
   },
+  "crystal_body": {
+   "file": "crystal_body.png",
+   "name": "Crystal body",
+   "processed": true,
+   "raw": "crystal_body.png",
+   "title": "File:Crystal body detail.png"
+  },
   "crystal_bow": {
    "file": "crystal_bow.png",
    "name": "Crystal bow",
@@ -8409,6 +8486,13 @@
    "raw": "deathbell_hood.png",
    "title": "File:Deathbell hood detail.png"
   },
+  "deathbell_robe_top": {
+   "file": "deathbell_robe_top.png",
+   "name": "Deathbell robe top",
+   "processed": true,
+   "raw": "deathbell_robe_top.png",
+   "title": "File:Deathbell robe top detail.png"
+  },
   "deathbloom_hood": {
    "file": "deathbloom_hood.png",
    "name": "Deathbloom hood",
@@ -8416,12 +8500,26 @@
    "raw": "deathbloom_hood.png",
    "title": "File:Deathbloom hood detail.png"
   },
+  "deathbloom_robe_top": {
+   "file": "deathbloom_robe_top.png",
+   "name": "Deathbloom robe top",
+   "processed": true,
+   "raw": "deathbloom_robe_top.png",
+   "title": "File:Deathbloom robe top detail.png"
+  },
   "deathcress_hood": {
    "file": "deathcress_hood.png",
    "name": "Deathcress hood",
    "processed": true,
    "raw": "deathcress_hood.png",
    "title": "File:Deathcress hood detail.png"
+  },
+  "deathcress_robe_top": {
+   "file": "deathcress_robe_top.png",
+   "name": "Deathcress robe top",
+   "processed": true,
+   "raw": "deathcress_robe_top.png",
+   "title": "File:Deathcress robe top detail.png"
   },
   "deathdealer_hood_tier_70": {
    "file": "deathdealer_hood_tier_70.png",
@@ -8444,6 +8542,27 @@
    "raw": "deathdealer_hood_tier_90.png",
    "title": "File:Deathdealer hood (tier 90) detail.png"
   },
+  "deathdealer_robe_top_tier_70": {
+   "file": "deathdealer_robe_top_tier_70.png",
+   "name": "Deathdealer robe top (tier 70)",
+   "processed": true,
+   "raw": "deathdealer_robe_top_tier_70.png",
+   "title": "File:Deathdealer robe top (tier 70) detail.png"
+  },
+  "deathdealer_robe_top_tier_80": {
+   "file": "deathdealer_robe_top_tier_80.png",
+   "name": "Deathdealer robe top (tier 80)",
+   "processed": true,
+   "raw": "deathdealer_robe_top_tier_80.png",
+   "title": "File:Deathdealer robe top (tier 80) detail.png"
+  },
+  "deathdealer_robe_top_tier_90": {
+   "file": "deathdealer_robe_top_tier_90.png",
+   "name": "Deathdealer robe top (tier 90)",
+   "processed": true,
+   "raw": "deathdealer_robe_top_tier_90.png",
+   "title": "File:Deathdealer robe top (tier 90) detail.png"
+  },
   "deathleaf_hood": {
    "file": "deathleaf_hood.png",
    "name": "Deathleaf hood",
@@ -8451,12 +8570,26 @@
    "raw": "deathleaf_hood.png",
    "title": "File:Deathleaf hood detail.png"
   },
+  "deathleaf_robe_top": {
+   "file": "deathleaf_robe_top.png",
+   "name": "Deathleaf robe top",
+   "processed": true,
+   "raw": "deathleaf_robe_top.png",
+   "title": "File:Deathleaf robe top detail.png"
+  },
   "deathsalve_hood": {
    "file": "deathsalve_hood.png",
    "name": "Deathsalve hood",
    "processed": true,
    "raw": "deathsalve_hood.png",
    "title": "File:Deathsalve hood detail.png"
+  },
+  "deathsalve_robe_top": {
+   "file": "deathsalve_robe_top.png",
+   "name": "Deathsalve robe top",
+   "processed": true,
+   "raw": "deathsalve_robe_top.png",
+   "title": "File:Deathsalve robe top detail.png"
   },
   "deathshead_moth": {
    "file": "deathshead_moth.png",
@@ -8526,12 +8659,82 @@
    "raw": "deathwarden_hood_tier_90.png",
    "title": "File:Deathwarden hood (tier 90) detail.png"
   },
+  "deathwarden_robe_top_tier_10": {
+   "file": "deathwarden_robe_top_tier_10.png",
+   "name": "Deathwarden robe top (tier 10)",
+   "processed": true,
+   "raw": "deathwarden_robe_top_tier_10.png",
+   "title": "File:Deathwarden robe top (tier 10) detail.png"
+  },
+  "deathwarden_robe_top_tier_20": {
+   "file": "deathwarden_robe_top_tier_20.png",
+   "name": "Deathwarden robe top (tier 20)",
+   "processed": true,
+   "raw": "deathwarden_robe_top_tier_20.png",
+   "title": "File:Deathwarden robe top (tier 20) detail.png"
+  },
+  "deathwarden_robe_top_tier_30": {
+   "file": "deathwarden_robe_top_tier_30.png",
+   "name": "Deathwarden robe top (tier 30)",
+   "processed": true,
+   "raw": "deathwarden_robe_top_tier_30.png",
+   "title": "File:Deathwarden robe top (tier 30) detail.png"
+  },
+  "deathwarden_robe_top_tier_40": {
+   "file": "deathwarden_robe_top_tier_40.png",
+   "name": "Deathwarden robe top (tier 40)",
+   "processed": true,
+   "raw": "deathwarden_robe_top_tier_40.png",
+   "title": "File:Deathwarden robe top (tier 40) detail.png"
+  },
+  "deathwarden_robe_top_tier_50": {
+   "file": "deathwarden_robe_top_tier_50.png",
+   "name": "Deathwarden robe top (tier 50)",
+   "processed": true,
+   "raw": "deathwarden_robe_top_tier_50.png",
+   "title": "File:Deathwarden robe top (tier 50) detail.png"
+  },
+  "deathwarden_robe_top_tier_60": {
+   "file": "deathwarden_robe_top_tier_60.png",
+   "name": "Deathwarden robe top (tier 60)",
+   "processed": true,
+   "raw": "deathwarden_robe_top_tier_60.png",
+   "title": "File:Deathwarden robe top (tier 60) detail.png"
+  },
+  "deathwarden_robe_top_tier_70": {
+   "file": "deathwarden_robe_top_tier_70.png",
+   "name": "Deathwarden robe top (tier 70)",
+   "processed": true,
+   "raw": "deathwarden_robe_top_tier_70.png",
+   "title": "File:Deathwarden robe top (tier 70) detail.png"
+  },
+  "deathwarden_robe_top_tier_80": {
+   "file": "deathwarden_robe_top_tier_80.png",
+   "name": "Deathwarden robe top (tier 80)",
+   "processed": true,
+   "raw": "deathwarden_robe_top_tier_80.png",
+   "title": "File:Deathwarden robe top (tier 80) detail.png"
+  },
+  "deathwarden_robe_top_tier_90": {
+   "file": "deathwarden_robe_top_tier_90.png",
+   "name": "Deathwarden robe top (tier 90)",
+   "processed": true,
+   "raw": "deathwarden_robe_top_tier_90.png",
+   "title": "File:Deathwarden robe top (tier 90) detail.png"
+  },
   "deathweed_hood": {
    "file": "deathweed_hood.png",
    "name": "Deathweed hood",
    "processed": true,
    "raw": "deathweed_hood.png",
    "title": "File:Deathweed hood detail.png"
+  },
+  "deathweed_robe_top": {
+   "file": "deathweed_robe_top.png",
+   "name": "Deathweed robe top",
+   "processed": true,
+   "raw": "deathweed_robe_top.png",
+   "title": "File:Deathweed robe top detail.png"
   },
   "decaying_avatar": {
    "chosen": "File:Decaying avatar.png",
@@ -8872,6 +9075,13 @@
    "processed": true,
    "raw": "diviners_headwear.png",
    "title": "File:Diviner's headwear detail.png"
+  },
+  "diviners_robe": {
+   "file": "diviners_robe.png",
+   "name": "Diviner's robe",
+   "processed": true,
+   "raw": "diviners_robe.png",
+   "title": "File:Diviner's robe detail.png"
   },
   "doc": {
    "chosen": "File:Doc.png",
@@ -9217,6 +9427,13 @@
    "raw": "dragon_platebody.png",
    "title": "File:Dragon platebody detail.png"
   },
+  "dragon_rider_body": {
+   "file": "dragon_rider_body.png",
+   "name": "Dragon Rider body",
+   "processed": true,
+   "raw": "dragon_rider_body.png",
+   "title": "File:Dragon Rider body detail.png"
+  },
   "dragon_rider_helm": {
    "file": "dragon_rider_helm.png",
    "name": "Dragon Rider helm",
@@ -9311,6 +9528,13 @@
    "file": "dragonstone_dragon.png",
    "name": "Dragonstone dragon",
    "title": "File:Dragonstone dragon.png"
+  },
+  "dragonstone_hauberk": {
+   "file": "dragonstone_hauberk.png",
+   "name": "Dragonstone hauberk",
+   "processed": true,
+   "raw": "dragonstone_hauberk.png",
+   "title": "File:Dragonstone hauberk detail.png"
   },
   "dragonstone_helm": {
    "file": "dragonstone_helm.png",
@@ -10705,6 +10929,13 @@
    "raw": "entropic_lantern.png",
    "title": "File:Entropic lantern detail.png"
   },
+  "entropic_robe_top": {
+   "file": "entropic_robe_top.png",
+   "name": "Entropic robe top",
+   "processed": true,
+   "raw": "entropic_robe_top.png",
+   "title": "File:Entropic robe top detail.png"
+  },
   "eohric": {
    "chosen": "File:Eohric.png",
    "file": "eohric.png",
@@ -10879,6 +11110,13 @@
    "processed": true,
    "raw": "exoskeleton_headband.png",
    "title": "File:Exoskeleton headband detail.png"
+  },
+  "exoskeleton_torso": {
+   "file": "exoskeleton_torso.png",
+   "name": "Exoskeleton torso",
+   "processed": true,
+   "raw": "exoskeleton_torso.png",
+   "title": "File:Exoskeleton torso detail.png"
   },
   "experiment_no2": {
    "chosen": "File:Experiment no 2.png",
@@ -11187,6 +11425,13 @@
    "raw": "factory_mask.png",
    "title": "File:Factory mask detail.png"
   },
+  "factory_top": {
+   "file": "factory_top.png",
+   "name": "Factory top",
+   "processed": true,
+   "raw": "factory_top.png",
+   "title": "File:Factory top detail.png"
+  },
   "fairy": {
    "chosen": "File:Fairy (green).png",
    "file": "fairy.png",
@@ -11347,6 +11592,13 @@
    "processed": true,
    "raw": "farmers_hat.png",
    "title": "File:Farmer's hat detail.png"
+  },
+  "farmers_jacket": {
+   "file": "farmers_jacket.png",
+   "name": "Farmer's jacket",
+   "processed": true,
+   "raw": "farmers_jacket.png",
+   "title": "File:Farmer's jacket detail.png"
   },
   "farseer_helm": {
    "file": "farseer_helm.png",
@@ -11726,6 +11978,13 @@
    "raw": "fishing_hat.png",
    "title": "File:Fishing hat detail.png"
   },
+  "fishing_jacket": {
+   "file": "fishing_jacket.png",
+   "name": "Fishing jacket",
+   "processed": true,
+   "raw": "fishing_jacket.png",
+   "title": "File:Fishing jacket detail.png"
+  },
   "fishing_potion": {
    "file": "fishing_potion.png",
    "name": "Fishing potion",
@@ -11828,6 +12087,13 @@
    "processed": true,
    "raw": "flesh_rune_dungeoneering.png",
    "title": "File:Flesh rune (Dungeoneering) detail.png"
+  },
+  "fletchers_chestpiece": {
+   "file": "fletchers_chestpiece.png",
+   "name": "Fletcher's chestpiece",
+   "processed": true,
+   "raw": "fletchers_chestpiece.png",
+   "title": "File:Fletcher's chestpiece detail.png"
   },
   "fletchers_headwear": {
    "file": "fletchers_headwear.png",
@@ -12503,6 +12769,13 @@
    "raw": "gemi.png",
    "title": "File:Gemi (pet).png"
   },
+  "gemstone_hauberk": {
+   "file": "gemstone_hauberk.png",
+   "name": "Gemstone hauberk",
+   "processed": true,
+   "raw": "gemstone_hauberk.png",
+   "title": "File:Gemstone hauberk detail.png"
+  },
   "gemstone_helm": {
    "file": "gemstone_helm.png",
    "name": "Gemstone helm",
@@ -12581,6 +12854,13 @@
    "file": "ghost_city_of_um.png",
    "name": "Ghost (City of Um)",
    "title": "File:Ghost (City of Um, elf).png"
+  },
+  "ghost_hunter_body": {
+   "file": "ghost_hunter_body.png",
+   "name": "Ghost hunter body",
+   "processed": true,
+   "raw": "ghost_hunter_body.png",
+   "title": "File:Ghost hunter body (20) detail.png"
   },
   "ghost_hunter_goggles": {
    "file": "ghost_hunter_goggles.png",
@@ -12861,6 +13141,13 @@
    "name": "Gladius",
    "title": "File:Gladius.png"
   },
+  "globetrotter_jacket": {
+   "file": "globetrotter_jacket.png",
+   "name": "Globetrotter jacket",
+   "processed": true,
+   "raw": "globetrotter_jacket.png",
+   "title": "File:Globetrotter jacket detail.png"
+  },
   "gloomberry_seed": {
    "file": "gloomberry_seed.png",
    "name": "Gloomberry seed",
@@ -13000,6 +13287,13 @@
    "processed": true,
    "raw": "golden_mining_helmet.png",
    "title": "File:Golden mining helmet detail.png"
+  },
+  "golden_mining_top": {
+   "file": "golden_mining_top.png",
+   "name": "Golden mining top",
+   "processed": true,
+   "raw": "golden_mining_top.png",
+   "title": "File:Golden mining top detail.png"
   },
   "golden_warbler": {
    "file": "golden_warbler.png",
@@ -14853,6 +15147,13 @@
    "raw": "house_drakan_hood.png",
    "title": "File:House Drakan hood detail.png"
   },
+  "house_drakan_top": {
+   "file": "house_drakan_top.png",
+   "name": "House Drakan top",
+   "processed": true,
+   "raw": "house_drakan_top.png",
+   "title": "File:House Drakan top detail.png"
+  },
   "hunding": {
    "file": "hunding.png",
    "name": "Hunding",
@@ -14873,6 +15174,13 @@
    "processed": true,
    "raw": "hunter_potion.png",
    "title": "File:Hunter potion (4) detail.png"
+  },
+  "hunters_chestpiece": {
+   "file": "hunters_chestpiece.png",
+   "name": "Hunter's chestpiece",
+   "processed": true,
+   "raw": "hunters_chestpiece.png",
+   "title": "File:Hunter's chestpiece detail.png"
   },
   "hunters_crossbow": {
    "file": "hunters_crossbow.png",
@@ -16882,6 +17190,13 @@
    "raw": "lumberjack_hat.png",
    "title": "File:Lumberjack hat detail.png"
   },
+  "lumberjack_top": {
+   "file": "lumberjack_top.png",
+   "name": "Lumberjack top",
+   "processed": true,
+   "raw": "lumberjack_top.png",
+   "title": "File:Lumberjack top detail.png"
+  },
   "lumbridge_captain": {
    "file": "lumbridge_captain.png",
    "name": "Lumbridge Captain",
@@ -17591,6 +17906,13 @@
    "processed": true,
    "raw": "master_runecrafter_hat.png",
    "title": "File:Master runecrafter hat detail.png"
+  },
+  "master_runecrafter_robe": {
+   "file": "master_runecrafter_robe.png",
+   "name": "Master runecrafter robe",
+   "processed": true,
+   "raw": "master_runecrafter_robe.png",
+   "title": "File:Master runecrafter robe detail.png"
   },
   "master_wand": {
    "file": "master_wand.png",
@@ -18375,6 +18697,13 @@
    "raw": "mizuyari.png",
    "title": "File:Mizuyari detail.png"
   },
+  "mod_body": {
+   "file": "mod_body.png",
+   "name": "Mod body",
+   "processed": true,
+   "raw": "mod_body.png",
+   "title": "File:Mod body detail.png"
+  },
   "mod_hat": {
    "file": "mod_hat.png",
    "name": "Mod hat",
@@ -19110,6 +19439,13 @@
    "raw": "nectrohood.png",
    "title": "File:Nectrohood detail.png"
   },
+  "nectrorobe_top": {
+   "file": "nectrorobe_top.png",
+   "name": "Nectrorobe top",
+   "processed": true,
+   "raw": "nectrorobe_top.png",
+   "title": "File:Nectrorobe top detail.png"
+  },
   "ned": {
    "file": "ned.png",
    "name": "Ned",
@@ -19178,6 +19514,13 @@
    "file": "nilrem.png",
    "name": "Nilrem",
    "title": "File:Nilrem.png"
+  },
+  "nimble_chestpiece": {
+   "file": "nimble_chestpiece.png",
+   "name": "Nimble chestpiece",
+   "processed": true,
+   "raw": "nimble_chestpiece.png",
+   "title": "File:Nimble chestpiece detail.png"
   },
   "nimble_headwear": {
    "file": "nimble_headwear.png",
@@ -19494,6 +19837,13 @@
    "processed": true,
    "raw": "obsidian_mage_helm.png",
    "title": "File:Obsidian mage helm detail.png"
+  },
+  "obsidian_platebody": {
+   "file": "obsidian_platebody.png",
+   "name": "Obsidian platebody",
+   "processed": true,
+   "raw": "obsidian_platebody.png",
+   "title": "File:Obsidian platebody detail.png"
   },
   "obsidian_ranger_helm": {
    "file": "obsidian_ranger_helm.png",
@@ -20777,6 +21127,13 @@
    "raw": "pathfinder_hood.png",
    "title": "File:Pathfinder hood detail.png"
   },
+  "pathfinder_jacket": {
+   "file": "pathfinder_jacket.png",
+   "name": "Pathfinder jacket",
+   "processed": true,
+   "raw": "pathfinder_jacket.png",
+   "title": "File:Pathfinder jacket detail.png"
+  },
   "paul": {
    "file": "paul.png",
    "name": "Paul",
@@ -21236,6 +21593,13 @@
    "processed": true,
    "raw": "plank.png",
    "title": "File:Plank detail.png"
+  },
+  "platebody_of_trials": {
+   "file": "platebody_of_trials.png",
+   "name": "Platebody of Trials",
+   "processed": true,
+   "raw": "platebody_of_trials.png",
+   "title": "File:Platebody of Trials detail.png"
   },
   "platinum_bar": {
    "file": "platinum_bar.png",
@@ -23162,6 +23526,13 @@
    "raw": "refined_anima_core_body_of_seren.png",
    "title": "File:Refined anima core body of Seren detail.png"
   },
+  "refined_anima_core_body_of_sliske": {
+   "file": "refined_anima_core_body_of_sliske.png",
+   "name": "Refined anima core body of Sliske",
+   "processed": true,
+   "raw": "refined_anima_core_body_of_sliske.png",
+   "title": "File:Refined anima core body of Sliske detail.png"
+  },
   "refined_anima_core_body_of_zamorak": {
    "file": "refined_anima_core_body_of_zamorak.png",
    "name": "Refined anima core body of Zamorak",
@@ -23475,6 +23846,13 @@
    "raw": "ritualists_mask.png",
    "title": "File:Ritualist's mask detail.png"
   },
+  "ritualists_robe_top": {
+   "file": "ritualists_robe_top.png",
+   "name": "Ritualist's robe top",
+   "processed": true,
+   "raw": "ritualists_robe_top.png",
+   "title": "File:Ritualist's robe top detail.png"
+  },
   "river_troll": {
    "file": "river_troll.png",
    "name": "River troll",
@@ -23514,6 +23892,13 @@
    "processed": true,
    "raw": "roast_rabbit.png",
    "title": "File:Roast rabbit detail.png"
+  },
+  "robe_top_of_the_first_necromancer": {
+   "file": "robe_top_of_the_first_necromancer.png",
+   "name": "Robe top of the First Necromancer",
+   "processed": true,
+   "raw": "robe_top_of_the_first_necromancer.png",
+   "title": "File:Robe top of the First Necromancer detail.png"
   },
   "robe_top_of_tumekens_resplendence": {
    "file": "robe_top_of_tumekens_resplendence.png",
@@ -25081,12 +25466,26 @@
    "raw": "shadowblood_hood.png",
    "title": "File:Shadowblood hood detail.png"
   },
+  "shadowblood_robe_top": {
+   "file": "shadowblood_robe_top.png",
+   "name": "Shadowblood robe top",
+   "processed": true,
+   "raw": "shadowblood_robe_top.png",
+   "title": "File:Shadowblood robe top detail.png"
+  },
   "shadowbryll_hood": {
    "file": "shadowbryll_hood.png",
    "name": "Shadowbryll hood",
    "processed": true,
    "raw": "shadowbryll_hood.png",
    "title": "File:Shadowbryll hood detail.png"
+  },
+  "shadowbryll_robe_top": {
+   "file": "shadowbryll_robe_top.png",
+   "name": "Shadowbryll robe top",
+   "processed": true,
+   "raw": "shadowbryll_robe_top.png",
+   "title": "File:Shadowbryll robe top detail.png"
   },
   "shadowinfused_herb": {
    "file": "shadowinfused_herb.png",
@@ -25136,6 +25535,13 @@
    "processed": true,
    "raw": "shamans_headdress.png",
    "title": "File:Shaman's headdress detail.png"
+  },
+  "shamans_poncho": {
+   "file": "shamans_poncho.png",
+   "name": "Shaman's poncho",
+   "processed": true,
+   "raw": "shamans_poncho.png",
+   "title": "File:Shaman's poncho detail.png"
   },
   "shambling_horror": {
    "file": "shambling_horror.png",
@@ -25935,6 +26341,13 @@
    "processed": true,
    "raw": "soulrune_hood.png",
    "title": "File:Soulrune hood detail.png"
+  },
+  "soulrune_robe_top": {
+   "file": "soulrune_robe_top.png",
+   "name": "Soulrune robe top",
+   "processed": true,
+   "raw": "soulrune_robe_top.png",
+   "title": "File:Soulrune robe top detail.png"
   },
   "sourberry_seed": {
    "file": "sourberry_seed.png",
@@ -27962,6 +28375,13 @@
    "raw": "superior_void_knight_ranger_helm.png",
    "title": "File:Superior void knight ranger helm.png"
   },
+  "superior_void_knight_top": {
+   "file": "superior_void_knight_top.png",
+   "name": "Superior void knight top",
+   "processed": true,
+   "raw": "superior_void_knight_top.png",
+   "title": "File:Superior void knight top.png"
+  },
   "superior_zuriels_hood": {
    "file": "superior_zuriels_hood.png",
    "name": "Superior Zuriel's hood",
@@ -29594,6 +30014,13 @@
    "raw": "varanuss_mercy.png",
    "title": "File:Varanus's Mercy detail.png"
   },
+  "varrock_armour": {
+   "file": "varrock_armour.png",
+   "name": "Varrock armour",
+   "processed": true,
+   "raw": "varrock_armour.png",
+   "title": "File:Varrock armour 4 detail.png"
+  },
   "varrock_captain": {
    "file": "varrock_captain.png",
    "name": "Varrock Captain",
@@ -29799,6 +30226,13 @@
    "raw": "void_knight_ranger_helm.png",
    "title": "File:Void knight ranger helm detail.png"
   },
+  "void_knight_top": {
+   "file": "void_knight_top.png",
+   "name": "Void knight top",
+   "processed": true,
+   "raw": "void_knight_top.png",
+   "title": "File:Void knight top detail.png"
+  },
   "volatile_clay_butterfly_net": {
    "file": "volatile_clay_butterfly_net.png",
    "name": "Volatile clay butterfly net",
@@ -29965,12 +30399,26 @@
    "name": "Warped rat",
    "title": "File:Warped rat.png"
   },
+  "warpriest_of_armadyl_cuirass": {
+   "file": "warpriest_of_armadyl_cuirass.png",
+   "name": "Warpriest of Armadyl cuirass",
+   "processed": true,
+   "raw": "warpriest_of_armadyl_cuirass.png",
+   "title": "File:Warpriest of Armadyl cuirass detail.png"
+  },
   "warpriest_of_armadyl_helm": {
    "file": "warpriest_of_armadyl_helm.png",
    "name": "Warpriest of Armadyl helm",
    "processed": true,
    "raw": "warpriest_of_armadyl_helm.png",
    "title": "File:Warpriest of Armadyl helm detail.png"
+  },
+  "warpriest_of_bandos_cuirass": {
+   "file": "warpriest_of_bandos_cuirass.png",
+   "name": "Warpriest of Bandos cuirass",
+   "processed": true,
+   "raw": "warpriest_of_bandos_cuirass.png",
+   "title": "File:Warpriest of Bandos cuirass detail.png"
   },
   "warpriest_of_bandos_helm": {
    "file": "warpriest_of_bandos_helm.png",
@@ -29979,6 +30427,13 @@
    "raw": "warpriest_of_bandos_helm.png",
    "title": "File:Warpriest of Bandos helm detail.png"
   },
+  "warpriest_of_saradomin_cuirass": {
+   "file": "warpriest_of_saradomin_cuirass.png",
+   "name": "Warpriest of Saradomin cuirass",
+   "processed": true,
+   "raw": "warpriest_of_saradomin_cuirass.png",
+   "title": "File:Warpriest of Saradomin cuirass detail.png"
+  },
   "warpriest_of_saradomin_helm": {
    "file": "warpriest_of_saradomin_helm.png",
    "name": "Warpriest of Saradomin helm",
@@ -29986,12 +30441,26 @@
    "raw": "warpriest_of_saradomin_helm.png",
    "title": "File:Warpriest of Saradomin helm detail.png"
   },
+  "warpriest_of_tuska_cuirass": {
+   "file": "warpriest_of_tuska_cuirass.png",
+   "name": "Warpriest of Tuska cuirass",
+   "processed": true,
+   "raw": "warpriest_of_tuska_cuirass.png",
+   "title": "File:Warpriest of Tuska cuirass detail.png"
+  },
   "warpriest_of_tuska_helm": {
    "file": "warpriest_of_tuska_helm.png",
    "name": "Warpriest of Tuska helm",
    "processed": true,
    "raw": "warpriest_of_tuska_helm.png",
    "title": "File:Warpriest of Tuska helm detail.png"
+  },
+  "warpriest_of_zamorak_cuirass": {
+   "file": "warpriest_of_zamorak_cuirass.png",
+   "name": "Warpriest of Zamorak cuirass",
+   "processed": true,
+   "raw": "warpriest_of_zamorak_cuirass.png",
+   "title": "File:Warpriest of Zamorak cuirass detail.png"
   },
   "warpriest_of_zamorak_helm": {
    "file": "warpriest_of_zamorak_helm.png",
@@ -30567,6 +31036,13 @@
    "processed": true,
    "raw": "witchdoctor_mask.png",
    "title": "File:Witchdoctor mask detail.png"
+  },
+  "witchdoctor_robes": {
+   "file": "witchdoctor_robes.png",
+   "name": "Witchdoctor robes",
+   "processed": true,
+   "raw": "witchdoctor_robes.png",
+   "title": "File:Witchdoctor robes detail.png"
   },
   "wizard": {
    "file": "wizard.png",
