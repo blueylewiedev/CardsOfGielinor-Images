@@ -209,6 +209,13 @@
    "raw": "achto_tempest_cowl.png",
    "title": "File:Achto Tempest cowl detail.png"
   },
+  "achto_teralith_cuirass": {
+   "file": "achto_teralith_cuirass.png",
+   "name": "Achto Teralith cuirass",
+   "processed": true,
+   "raw": "achto_teralith_cuirass.png",
+   "title": "File:Achto Teralith cuirass detail.png"
+  },
   "achto_teralith_helmet": {
    "file": "achto_teralith_helmet.png",
    "name": "Achto Teralith helmet",
@@ -274,6 +281,13 @@
    "processed": true,
    "raw": "adamant_ceremonial_sword.png",
    "title": "File:Adamant ceremonial sword V detail.png"
+  },
+  "adamant_chainbody": {
+   "file": "adamant_chainbody.png",
+   "name": "Adamant chainbody",
+   "processed": true,
+   "raw": "adamant_chainbody.png",
+   "title": "File:Adamant chainbody detail.png"
   },
   "adamant_claws": {
    "file": "adamant_claws.png",
@@ -501,6 +515,62 @@
    "processed": true,
    "raw": "adamant_pickaxe.png",
    "title": "File:Adamant pickaxe detail.png"
+  },
+  "adamant_platebody": {
+   "file": "adamant_platebody.png",
+   "name": "Adamant platebody",
+   "processed": true,
+   "raw": "adamant_platebody.png",
+   "title": "File:Adamant platebody detail.png"
+  },
+  "adamant_platebody_g": {
+   "file": "adamant_platebody_g.png",
+   "name": "Adamant platebody (g)",
+   "processed": true,
+   "raw": "adamant_platebody_g.png",
+   "title": "File:Adamant platebody (g) detail.png"
+  },
+  "adamant_platebody_h1": {
+   "file": "adamant_platebody_h1.png",
+   "name": "Adamant platebody (h1)",
+   "processed": true,
+   "raw": "adamant_platebody_h1.png",
+   "title": "File:Adamant platebody (h1) detail.png"
+  },
+  "adamant_platebody_h2": {
+   "file": "adamant_platebody_h2.png",
+   "name": "Adamant platebody (h2)",
+   "processed": true,
+   "raw": "adamant_platebody_h2.png",
+   "title": "File:Adamant platebody (h2) detail.png"
+  },
+  "adamant_platebody_h3": {
+   "file": "adamant_platebody_h3.png",
+   "name": "Adamant platebody (h3)",
+   "processed": true,
+   "raw": "adamant_platebody_h3.png",
+   "title": "File:Adamant platebody (h3) detail.png"
+  },
+  "adamant_platebody_h4": {
+   "file": "adamant_platebody_h4.png",
+   "name": "Adamant platebody (h4)",
+   "processed": true,
+   "raw": "adamant_platebody_h4.png",
+   "title": "File:Adamant platebody (h4) detail.png"
+  },
+  "adamant_platebody_h5": {
+   "file": "adamant_platebody_h5.png",
+   "name": "Adamant platebody (h5)",
+   "processed": true,
+   "raw": "adamant_platebody_h5.png",
+   "title": "File:Adamant platebody (h5) detail.png"
+  },
+  "adamant_platebody_t": {
+   "file": "adamant_platebody_t.png",
+   "name": "Adamant platebody (t)",
+   "processed": true,
+   "raw": "adamant_platebody_t.png",
+   "title": "File:Adamant platebody (t) detail.png"
   },
   "adamant_scimitar": {
    "file": "adamant_scimitar.png",
@@ -1159,6 +1229,13 @@
    "name": "Ani (farming merchant)",
    "title": "File:Ani (farming merchant).png"
   },
+  "anima_core_body_of_zaros": {
+   "file": "anima_core_body_of_zaros.png",
+   "name": "Anima core body of Zaros",
+   "processed": true,
+   "raw": "anima_core_body_of_zaros.png",
+   "title": "File:Anima core body of Zaros detail.png"
+  },
   "anima_core_helm_of_seren": {
    "file": "anima_core_helm_of_seren.png",
    "name": "Anima core helm of Seren",
@@ -1593,6 +1670,13 @@
    "raw": "argonite_battleaxe.png",
    "title": "File:Argonite battleaxe detail.png"
   },
+  "argonite_chainbody": {
+   "file": "argonite_chainbody.png",
+   "name": "Argonite chainbody",
+   "processed": true,
+   "raw": "argonite_chainbody.png",
+   "title": "File:Argonite chainbody detail.png"
+  },
   "argonite_dagger": {
    "file": "argonite_dagger.png",
    "name": "Argonite dagger",
@@ -1656,6 +1740,13 @@
    "processed": true,
    "raw": "argonite_ore_dungeoneering.png",
    "title": "File:Argonite ore (Dungeoneering) detail.png"
+  },
+  "argonite_platebody": {
+   "file": "argonite_platebody.png",
+   "name": "Argonite platebody",
+   "processed": true,
+   "raw": "argonite_platebody.png",
+   "title": "File:Argonite platebody detail.png"
   },
   "argonite_rapier": {
    "file": "argonite_rapier.png",
@@ -2434,6 +2525,13 @@
    "name": "Bandos avatar",
    "title": "File:Bandos avatar.png"
   },
+  "bandos_chestplate": {
+   "file": "bandos_chestplate.png",
+   "name": "Bandos chestplate",
+   "processed": true,
+   "raw": "bandos_chestplate.png",
+   "title": "File:Bandos chestplate detail.png"
+  },
   "bandos_godsword": {
    "file": "bandos_godsword.png",
    "name": "Bandos godsword",
@@ -2454,6 +2552,13 @@
    "processed": true,
    "raw": "bandos_mitre.png",
    "title": "File:Bandos mitre detail.png"
+  },
+  "bandos_robe_top": {
+   "file": "bandos_robe_top.png",
+   "name": "Bandos robe top",
+   "processed": true,
+   "raw": "bandos_robe_top.png",
+   "title": "File:Bandos robe top detail.png"
   },
   "bandosian_golem": {
    "chosen": "File:Bandosian golem (Nomad's Elegy).png",
@@ -2536,6 +2641,13 @@
    "processed": true,
    "raw": "bane_pickaxe.png",
    "title": "File:Bane pickaxe detail.png"
+  },
+  "bane_platebody": {
+   "file": "bane_platebody.png",
+   "name": "Bane platebody",
+   "processed": true,
+   "raw": "bane_platebody.png",
+   "title": "File:Bane platebody detail.png"
   },
   "banite_ore": {
    "file": "banite_ore.png",
@@ -2859,6 +2971,13 @@
    "raw": "bathus_battleaxe.png",
    "title": "File:Bathus battleaxe detail.png"
   },
+  "bathus_chainbody": {
+   "file": "bathus_chainbody.png",
+   "name": "Bathus chainbody",
+   "processed": true,
+   "raw": "bathus_chainbody.png",
+   "title": "File:Bathus chainbody detail.png"
+  },
   "bathus_dagger": {
    "file": "bathus_dagger.png",
    "name": "Bathus dagger",
@@ -2921,6 +3040,13 @@
    "processed": true,
    "raw": "bathus_ore_dungeoneering.png",
    "title": "File:Bathus ore (Dungeoneering) detail.png"
+  },
+  "bathus_platebody": {
+   "file": "bathus_platebody.png",
+   "name": "Bathus platebody",
+   "processed": true,
+   "raw": "bathus_platebody.png",
+   "title": "File:Bathus platebody detail.png"
   },
   "bathus_rapier": {
    "file": "bathus_rapier.png",
@@ -3285,6 +3411,13 @@
    "raw": "black_cane.png",
    "title": "File:Black cane detail.png"
   },
+  "black_chainbody": {
+   "file": "black_chainbody.png",
+   "name": "Black chainbody",
+   "processed": true,
+   "raw": "black_chainbody.png",
+   "title": "File:Black chainbody detail.png"
+  },
   "black_chinchompa": {
    "file": "black_chinchompa.png",
    "name": "Black chinchompa",
@@ -3507,6 +3640,62 @@
    "processed": true,
    "raw": "black_mask.png",
    "title": "File:Black mask detail.png"
+  },
+  "black_platebody": {
+   "file": "black_platebody.png",
+   "name": "Black platebody",
+   "processed": true,
+   "raw": "black_platebody.png",
+   "title": "File:Black platebody detail.png"
+  },
+  "black_platebody_g": {
+   "file": "black_platebody_g.png",
+   "name": "Black platebody (g)",
+   "processed": true,
+   "raw": "black_platebody_g.png",
+   "title": "File:Black platebody (g) detail.png"
+  },
+  "black_platebody_h1": {
+   "file": "black_platebody_h1.png",
+   "name": "Black platebody (h1)",
+   "processed": true,
+   "raw": "black_platebody_h1.png",
+   "title": "File:Black platebody (h1) detail.png"
+  },
+  "black_platebody_h2": {
+   "file": "black_platebody_h2.png",
+   "name": "Black platebody (h2)",
+   "processed": true,
+   "raw": "black_platebody_h2.png",
+   "title": "File:Black platebody (h2) detail.png"
+  },
+  "black_platebody_h3": {
+   "file": "black_platebody_h3.png",
+   "name": "Black platebody (h3)",
+   "processed": true,
+   "raw": "black_platebody_h3.png",
+   "title": "File:Black platebody (h3) detail.png"
+  },
+  "black_platebody_h4": {
+   "file": "black_platebody_h4.png",
+   "name": "Black platebody (h4)",
+   "processed": true,
+   "raw": "black_platebody_h4.png",
+   "title": "File:Black platebody (h4) detail.png"
+  },
+  "black_platebody_h5": {
+   "file": "black_platebody_h5.png",
+   "name": "Black platebody (h5)",
+   "processed": true,
+   "raw": "black_platebody_h5.png",
+   "title": "File:Black platebody (h5) detail.png"
+  },
+  "black_platebody_t": {
+   "file": "black_platebody_t.png",
+   "name": "Black platebody (t)",
+   "processed": true,
+   "raw": "black_platebody_t.png",
+   "title": "File:Black platebody (t) detail.png"
   },
   "black_salamander": {
    "file": "black_salamander.png",
@@ -4510,6 +4699,13 @@
    "raw": "bronze_battleaxe.png",
    "title": "File:Bronze battleaxe detail.png"
   },
+  "bronze_chainbody": {
+   "file": "bronze_chainbody.png",
+   "name": "Bronze chainbody",
+   "processed": true,
+   "raw": "bronze_chainbody.png",
+   "title": "File:Bronze chainbody detail.png"
+  },
   "bronze_claws": {
    "file": "bronze_claws.png",
    "name": "Bronze claws",
@@ -4694,6 +4890,13 @@
    "processed": true,
    "raw": "bronze_pickaxe.png",
    "title": "File:Bronze pickaxe detail.png"
+  },
+  "bronze_platebody": {
+   "file": "bronze_platebody.png",
+   "name": "Bronze platebody",
+   "processed": true,
+   "raw": "bronze_platebody.png",
+   "title": "File:Bronze platebody detail.png"
   },
   "bronze_scimitar": {
    "file": "bronze_scimitar.png",
@@ -6854,6 +7057,13 @@
    "raw": "corrupt_dragon_battleaxe.png",
    "title": "File:Corrupt dragon battleaxe detail.png"
   },
+  "corrupt_dragon_chainbody": {
+   "file": "corrupt_dragon_chainbody.png",
+   "name": "Corrupt dragon chainbody",
+   "processed": true,
+   "raw": "corrupt_dragon_chainbody.png",
+   "title": "File:Corrupt dragon chainbody detail.png"
+  },
   "corrupt_dragon_dagger": {
    "file": "corrupt_dragon_dagger.png",
    "name": "Corrupt dragon dagger",
@@ -6924,12 +7134,26 @@
    "raw": "corrupt_statiuss_full_helm.png",
    "title": "File:Corrupt Statius's full helm detail.png"
   },
+  "corrupt_statiuss_platebody": {
+   "file": "corrupt_statiuss_platebody.png",
+   "name": "Corrupt Statius's platebody",
+   "processed": true,
+   "raw": "corrupt_statiuss_platebody.png",
+   "title": "File:Corrupt Statius's platebody detail.png"
+  },
   "corrupt_statiuss_warhammer": {
    "file": "corrupt_statiuss_warhammer.png",
    "name": "Corrupt Statius's warhammer",
    "processed": true,
    "raw": "corrupt_statiuss_warhammer.png",
    "title": "File:Corrupt Statius's warhammer detail.png"
+  },
+  "corrupt_vestas_chainbody": {
+   "file": "corrupt_vestas_chainbody.png",
+   "name": "Corrupt Vesta's chainbody",
+   "processed": true,
+   "raw": "corrupt_vestas_chainbody.png",
+   "title": "File:Corrupt Vesta's chainbody detail.png"
   },
   "corrupt_vestas_longsword": {
    "file": "corrupt_vestas_longsword.png",
@@ -8261,6 +8485,13 @@
    "raw": "dharoks_helm.png",
    "title": "File:Dharok's helm detail.png"
   },
+  "dharoks_platebody": {
+   "file": "dharoks_platebody.png",
+   "name": "Dharok's platebody",
+   "processed": true,
+   "raw": "dharoks_platebody.png",
+   "title": "File:Dharok's platebody detail.png"
+  },
   "diamond": {
    "file": "diamond.png",
    "name": "Diamond",
@@ -8582,6 +8813,13 @@
    "raw": "dragon_cane.png",
    "title": "File:Dragon cane detail.png"
   },
+  "dragon_chainbody": {
+   "file": "dragon_chainbody.png",
+   "name": "Dragon chainbody",
+   "processed": true,
+   "raw": "dragon_chainbody.png",
+   "title": "File:Dragon chainbody detail.png"
+  },
   "dragon_claw": {
    "file": "dragon_claw.png",
    "name": "Dragon claw",
@@ -8705,6 +8943,13 @@
    "processed": true,
    "raw": "dragon_pickaxe.png",
    "title": "File:Dragon pickaxe detail.png"
+  },
+  "dragon_platebody": {
+   "file": "dragon_platebody.png",
+   "name": "Dragon platebody",
+   "processed": true,
+   "raw": "dragon_platebody.png",
+   "title": "File:Dragon platebody detail.png"
   },
   "dragon_rider_helm": {
    "file": "dragon_rider_helm.png",
@@ -9536,6 +9781,13 @@
    "raw": "elder_rune_pickaxe.png",
    "title": "File:Elder rune pickaxe detail.png"
   },
+  "elder_rune_platebody": {
+   "file": "elder_rune_platebody.png",
+   "name": "Elder rune platebody",
+   "processed": true,
+   "raw": "elder_rune_platebody.png",
+   "title": "File:Elder rune platebody detail.png"
+  },
   "elder_seed": {
    "file": "elder_seed.png",
    "name": "Elder seed",
@@ -9620,6 +9872,13 @@
    "file": "elite_black_knight.png",
    "name": "Elite Black Knight",
    "title": "File:Elite Black Knight.png"
+  },
+  "elite_black_platebody": {
+   "file": "elite_black_platebody.png",
+   "name": "Elite black platebody",
+   "processed": true,
+   "raw": "elite_black_platebody.png",
+   "title": "File:Elite black platebody detail.png"
   },
   "elite_dark_mage": {
    "chosen": "File:Elite Dark Mage.png",
@@ -10916,6 +11175,13 @@
    "raw": "fighter_hat.png",
    "title": "File:Fighter hat detail.png"
   },
+  "fighter_torso": {
+   "file": "fighter_torso.png",
+   "name": "Fighter torso",
+   "processed": true,
+   "raw": "fighter_torso.png",
+   "title": "File:Fighter torso detail.png"
+  },
   "fillets": {
    "file": "fillets.png",
    "name": "Fillets",
@@ -11389,6 +11655,13 @@
    "raw": "fractite_battleaxe.png",
    "title": "File:Fractite battleaxe detail.png"
   },
+  "fractite_chainbody": {
+   "file": "fractite_chainbody.png",
+   "name": "Fractite chainbody",
+   "processed": true,
+   "raw": "fractite_chainbody.png",
+   "title": "File:Fractite chainbody detail.png"
+  },
   "fractite_dagger": {
    "file": "fractite_dagger.png",
    "name": "Fractite dagger",
@@ -11451,6 +11724,13 @@
    "processed": true,
    "raw": "fractite_ore_dungeoneering.png",
    "title": "File:Fractite ore (Dungeoneering) detail.png"
+  },
+  "fractite_platebody": {
+   "file": "fractite_platebody.png",
+   "name": "Fractite platebody",
+   "processed": true,
+   "raw": "fractite_platebody.png",
+   "title": "File:Fractite platebody detail.png"
   },
   "fractite_rapier": {
    "file": "fractite_rapier.png",
@@ -12380,6 +12660,13 @@
    "raw": "gorgonite_battleaxe.png",
    "title": "File:Gorgonite battleaxe detail.png"
   },
+  "gorgonite_chainbody": {
+   "file": "gorgonite_chainbody.png",
+   "name": "Gorgonite chainbody",
+   "processed": true,
+   "raw": "gorgonite_chainbody.png",
+   "title": "File:Gorgonite chainbody detail.png"
+  },
   "gorgonite_dagger": {
    "file": "gorgonite_dagger.png",
    "name": "Gorgonite dagger",
@@ -12442,6 +12729,13 @@
    "processed": true,
    "raw": "gorgonite_ore_dungeoneering.png",
    "title": "File:Gorgonite ore (Dungeoneering) detail.png"
+  },
+  "gorgonite_platebody": {
+   "file": "gorgonite_platebody.png",
+   "name": "Gorgonite platebody",
+   "processed": true,
+   "raw": "gorgonite_platebody.png",
+   "title": "File:Gorgonite platebody detail.png"
   },
   "gorgonite_rapier": {
    "file": "gorgonite_rapier.png",
@@ -12552,6 +12846,13 @@
    "processed": true,
    "raw": "granite_5kg.png",
    "title": "File:Granite (5kg) detail.png"
+  },
+  "granite_body": {
+   "file": "granite_body.png",
+   "name": "Granite body",
+   "processed": true,
+   "raw": "granite_body.png",
+   "title": "File:Granite body detail.png"
   },
   "granite_crab": {
    "file": "granite_crab.png",
@@ -13362,6 +13663,13 @@
    "raw": "gud_raider_axe.png",
    "title": "File:Gud raider axe detail.png"
   },
+  "gud_raider_chainbody": {
+   "file": "gud_raider_chainbody.png",
+   "name": "Gud raider chainbody",
+   "processed": true,
+   "raw": "gud_raider_chainbody.png",
+   "title": "File:Gud raider chainbody detail.png"
+  },
   "gudrun": {
    "chosen": "File:Gudrun2.png",
    "file": "gudrun.png",
@@ -13408,6 +13716,13 @@
    "processed": true,
    "raw": "guthans_helm.png",
    "title": "File:Guthan's helm detail.png"
+  },
+  "guthans_platebody": {
+   "file": "guthans_platebody.png",
+   "name": "Guthan's platebody",
+   "processed": true,
+   "raw": "guthans_platebody.png",
+   "title": "File:Guthan's platebody detail.png"
   },
   "guthans_warspear": {
    "file": "guthans_warspear.png",
@@ -13604,6 +13919,13 @@
    "processed": true,
    "raw": "hardened_fighter_hat.png",
    "title": "File:Hardened fighter hat detail.png"
+  },
+  "hardened_fighter_torso": {
+   "file": "hardened_fighter_torso.png",
+   "name": "Hardened fighter torso",
+   "processed": true,
+   "raw": "hardened_fighter_torso.png",
+   "title": "File:Hardened fighter torso detail.png"
   },
   "hardened_healer_hat": {
    "file": "hardened_healer_hat.png",
@@ -14374,6 +14696,13 @@
    "name": "Inglin",
    "title": "File:Inglin.png"
   },
+  "initiate_hauberk": {
+   "file": "initiate_hauberk.png",
+   "name": "Initiate hauberk",
+   "processed": true,
+   "raw": "initiate_hauberk.png",
+   "title": "File:Initiate hauberk detail.png"
+  },
   "initiate_sallet": {
    "file": "initiate_sallet.png",
    "name": "Initiate sallet",
@@ -14466,6 +14795,13 @@
    "processed": true,
    "raw": "iron_ceremonial_sword.png",
    "title": "File:Iron ceremonial sword V detail.png"
+  },
+  "iron_chainbody": {
+   "file": "iron_chainbody.png",
+   "name": "Iron chainbody",
+   "processed": true,
+   "raw": "iron_chainbody.png",
+   "title": "File:Iron chainbody detail.png"
   },
   "iron_claws": {
    "file": "iron_claws.png",
@@ -14651,6 +14987,13 @@
    "processed": true,
    "raw": "iron_pickaxe.png",
    "title": "File:Iron pickaxe detail.png"
+  },
+  "iron_platebody": {
+   "file": "iron_platebody.png",
+   "name": "Iron platebody",
+   "processed": true,
+   "raw": "iron_platebody.png",
+   "title": "File:Iron platebody detail.png"
   },
   "iron_scimitar": {
    "file": "iron_scimitar.png",
@@ -15093,6 +15436,13 @@
    "raw": "katagon_battleaxe.png",
    "title": "File:Katagon battleaxe detail.png"
   },
+  "katagon_chainbody": {
+   "file": "katagon_chainbody.png",
+   "name": "Katagon chainbody",
+   "processed": true,
+   "raw": "katagon_chainbody.png",
+   "title": "File:Katagon chainbody detail.png"
+  },
   "katagon_dagger": {
    "file": "katagon_dagger.png",
    "name": "Katagon dagger",
@@ -15155,6 +15505,13 @@
    "processed": true,
    "raw": "katagon_ore_dungeoneering.png",
    "title": "File:Katagon ore (Dungeoneering) detail.png"
+  },
+  "katagon_platebody": {
+   "file": "katagon_platebody.png",
+   "name": "Katagon platebody",
+   "processed": true,
+   "raw": "katagon_platebody.png",
+   "title": "File:Katagon platebody detail.png"
   },
   "katagon_rapier": {
    "file": "katagon_rapier.png",
@@ -15300,6 +15657,13 @@
    "raw": "kharidib.png",
    "title": "File:Kharid-ib detail.png"
   },
+  "khazard_armour": {
+   "file": "khazard_armour.png",
+   "name": "Khazard armour",
+   "processed": true,
+   "raw": "khazard_armour.png",
+   "title": "File:Khazard armour detail.png"
+  },
   "khazard_helmet": {
    "file": "khazard_helmet.png",
    "name": "Khazard helmet",
@@ -15434,6 +15798,13 @@
    "raw": "kratonite_battleaxe.png",
    "title": "File:Kratonite battleaxe detail.png"
   },
+  "kratonite_chainbody": {
+   "file": "kratonite_chainbody.png",
+   "name": "Kratonite chainbody",
+   "processed": true,
+   "raw": "kratonite_chainbody.png",
+   "title": "File:Kratonite chainbody detail.png"
+  },
   "kratonite_dagger": {
    "file": "kratonite_dagger.png",
    "name": "Kratonite dagger",
@@ -15482,6 +15853,13 @@
    "processed": true,
    "raw": "kratonite_maul.png",
    "title": "File:Kratonite maul detail.png"
+  },
+  "kratonite_platebody": {
+   "file": "kratonite_platebody.png",
+   "name": "Kratonite platebody",
+   "processed": true,
+   "raw": "kratonite_platebody.png",
+   "title": "File:Kratonite platebody detail.png"
   },
   "kratonite_rapier": {
    "file": "kratonite_rapier.png",
@@ -15885,6 +16263,13 @@
    "file": "lin.png",
    "name": "Lin",
    "title": "File:Lin.png"
+  },
+  "linzas_cuirass": {
+   "file": "linzas_cuirass.png",
+   "name": "Linza's cuirass",
+   "processed": true,
+   "raw": "linzas_cuirass.png",
+   "title": "File:Linza's cuirass detail.png"
   },
   "linzas_hammer": {
    "file": "linzas_hammer.png",
@@ -16378,6 +16763,13 @@
    "raw": "malcolm.png",
    "title": "File:Malcolm (pet).png"
   },
+  "malevolent_cuirass": {
+   "file": "malevolent_cuirass.png",
+   "name": "Malevolent cuirass",
+   "processed": true,
+   "raw": "malevolent_cuirass.png",
+   "title": "File:Malevolent cuirass detail.png"
+  },
   "malevolent_helm": {
    "file": "malevolent_helm.png",
    "name": "Malevolent helm",
@@ -16573,6 +16965,13 @@
    "raw": "marmaros_battleaxe.png",
    "title": "File:Marmaros battleaxe detail.png"
   },
+  "marmaros_chainbody": {
+   "file": "marmaros_chainbody.png",
+   "name": "Marmaros chainbody",
+   "processed": true,
+   "raw": "marmaros_chainbody.png",
+   "title": "File:Marmaros chainbody detail.png"
+  },
   "marmaros_dagger": {
    "file": "marmaros_dagger.png",
    "name": "Marmaros dagger",
@@ -16635,6 +17034,13 @@
    "processed": true,
    "raw": "marmaros_ore_dungeoneering.png",
    "title": "File:Marmaros ore (Dungeoneering) detail.png"
+  },
+  "marmaros_platebody": {
+   "file": "marmaros_platebody.png",
+   "name": "Marmaros platebody",
+   "processed": true,
+   "raw": "marmaros_platebody.png",
+   "title": "File:Marmaros platebody detail.png"
   },
   "marmaros_rapier": {
    "file": "marmaros_rapier.png",
@@ -16744,6 +17150,13 @@
    "processed": true,
    "raw": "masterwork_melee_helm.png",
    "title": "File:Masterwork melee helm detail.png"
+  },
+  "masterwork_melee_platebody": {
+   "file": "masterwork_melee_platebody.png",
+   "name": "Masterwork melee platebody",
+   "processed": true,
+   "raw": "masterwork_melee_platebody.png",
+   "title": "File:Masterwork melee platebody detail.png"
   },
   "masterwork_ranged_cowl": {
    "file": "masterwork_ranged_cowl.png",
@@ -17217,6 +17630,13 @@
    "raw": "mithril_ceremonial_sword.png",
    "title": "File:Mithril ceremonial sword V detail.png"
   },
+  "mithril_chainbody": {
+   "file": "mithril_chainbody.png",
+   "name": "Mithril chainbody",
+   "processed": true,
+   "raw": "mithril_chainbody.png",
+   "title": "File:Mithril chainbody detail.png"
+  },
   "mithril_claws": {
    "file": "mithril_claws.png",
    "name": "Mithril claws",
@@ -17401,6 +17821,13 @@
    "processed": true,
    "raw": "mithril_pickaxe.png",
    "title": "File:Mithril pickaxe detail.png"
+  },
+  "mithril_platebody": {
+   "file": "mithril_platebody.png",
+   "name": "Mithril platebody",
+   "processed": true,
+   "raw": "mithril_platebody.png",
+   "title": "File:Mithril platebody detail.png"
   },
   "mithril_scimitar": {
    "file": "mithril_scimitar.png",
@@ -18139,6 +18566,13 @@
    "raw": "necronium_pickaxe.png",
    "title": "File:Necronium pickaxe detail.png"
   },
+  "necronium_platebody": {
+   "file": "necronium_platebody.png",
+   "name": "Necronium platebody",
+   "processed": true,
+   "raw": "necronium_platebody.png",
+   "title": "File:Necronium platebody detail.png"
+  },
   "necrovarus": {
    "file": "necrovarus.png",
    "name": "Necrovarus",
@@ -18320,6 +18754,13 @@
    "raw": "novite_battleaxe.png",
    "title": "File:Novite battleaxe detail.png"
   },
+  "novite_chainbody": {
+   "file": "novite_chainbody.png",
+   "name": "Novite chainbody",
+   "processed": true,
+   "raw": "novite_chainbody.png",
+   "title": "File:Novite chainbody detail.png"
+  },
   "novite_dagger": {
    "file": "novite_dagger.png",
    "name": "Novite dagger",
@@ -18382,6 +18823,13 @@
    "processed": true,
    "raw": "novite_ore_dungeoneering.png",
    "title": "File:Novite ore (Dungeoneering) detail.png"
+  },
+  "novite_platebody": {
+   "file": "novite_platebody.png",
+   "name": "Novite platebody",
+   "processed": true,
+   "raw": "novite_platebody.png",
+   "title": "File:Novite platebody detail.png"
   },
   "novite_rapier": {
    "file": "novite_rapier.png",
@@ -19588,6 +20036,13 @@
    "raw": "orikalkum_pickaxe.png",
    "title": "File:Orikalkum pickaxe detail.png"
   },
+  "orikalkum_platebody": {
+   "file": "orikalkum_platebody.png",
+   "name": "Orikalkum platebody",
+   "processed": true,
+   "raw": "orikalkum_platebody.png",
+   "title": "File:Orikalkum platebody detail.png"
+  },
   "orikalkum_warhammer": {
    "file": "orikalkum_warhammer.png",
    "name": "Orikalkum warhammer",
@@ -20578,6 +21033,13 @@
    "raw": "primal_battleaxe.png",
    "title": "File:Primal battleaxe detail.png"
   },
+  "primal_chainbody": {
+   "file": "primal_chainbody.png",
+   "name": "Primal chainbody",
+   "processed": true,
+   "raw": "primal_chainbody.png",
+   "title": "File:Primal chainbody detail.png"
+  },
   "primal_crossbow": {
    "file": "primal_crossbow.png",
    "name": "Primal crossbow",
@@ -20675,6 +21137,20 @@
    "processed": true,
    "raw": "primal_pickaxe.png",
    "title": "File:Primal pickaxe detail.png"
+  },
+  "primal_platebody": {
+   "file": "primal_platebody.png",
+   "name": "Primal platebody",
+   "processed": true,
+   "raw": "primal_platebody.png",
+   "title": "File:Primal platebody detail.png"
+  },
+  "primal_platebody_dungeoneering": {
+   "file": "primal_platebody_dungeoneering.png",
+   "name": "Primal platebody (Dungeoneering)",
+   "processed": true,
+   "raw": "primal_platebody_dungeoneering.png",
+   "title": "File:Primal platebody (Dungeoneering) detail.png"
   },
   "primal_portion": {
    "file": "primal_portion.png",
@@ -20809,6 +21285,13 @@
    "raw": "promethium_battleaxe.png",
    "title": "File:Promethium battleaxe detail.png"
   },
+  "promethium_chainbody": {
+   "file": "promethium_chainbody.png",
+   "name": "Promethium chainbody",
+   "processed": true,
+   "raw": "promethium_chainbody.png",
+   "title": "File:Promethium chainbody detail.png"
+  },
   "promethium_dagger": {
    "file": "promethium_dagger.png",
    "name": "Promethium dagger",
@@ -20872,6 +21355,13 @@
    "raw": "promethium_ore_dungeoneering.png",
    "title": "File:Promethium ore (Dungeoneering) detail.png"
   },
+  "promethium_platebody": {
+   "file": "promethium_platebody.png",
+   "name": "Promethium platebody",
+   "processed": true,
+   "raw": "promethium_platebody.png",
+   "title": "File:Promethium platebody detail.png"
+  },
   "promethium_rapier": {
    "file": "promethium_rapier.png",
    "name": "Promethium rapier",
@@ -20892,6 +21382,13 @@
    "processed": true,
    "raw": "promethium_warhammer.png",
    "title": "File:Promethium warhammer detail.png"
+  },
+  "proselyte_hauberk": {
+   "file": "proselyte_hauberk.png",
+   "name": "Proselyte hauberk",
+   "processed": true,
+   "raw": "proselyte_hauberk.png",
+   "title": "File:Proselyte hauberk detail.png"
   },
   "proselyte_sallet": {
    "file": "proselyte_sallet.png",
@@ -21094,6 +21591,13 @@
    "processed": true,
    "raw": "raider_axe.png",
    "title": "File:Raider axe detail.png"
+  },
+  "raider_chainbody": {
+   "file": "raider_chainbody.png",
+   "name": "Raider chainbody",
+   "processed": true,
+   "raw": "raider_chainbody.png",
+   "title": "File:Raider chainbody detail.png"
   },
   "rainbow_fish": {
    "file": "rainbow_fish.png",
@@ -22091,6 +22595,13 @@
    "raw": "refined_acadia_planks.png",
    "title": "File:Refined Acadia planks detail.png"
   },
+  "refined_anima_core_body_of_zaros": {
+   "file": "refined_anima_core_body_of_zaros.png",
+   "name": "Refined anima core body of Zaros",
+   "processed": true,
+   "raw": "refined_anima_core_body_of_zaros.png",
+   "title": "File:Refined anima core body of Zaros detail.png"
+  },
   "refined_anima_core_helm_of_seren": {
    "file": "refined_anima_core_helm_of_seren.png",
    "name": "Refined anima core helm of Seren",
@@ -22468,6 +22979,13 @@
    "raw": "rockshell_helm.png",
    "title": "File:Rock-shell helm detail.png"
   },
+  "rockshell_plate": {
+   "file": "rockshell_plate.png",
+   "name": "Rock-shell plate",
+   "processed": true,
+   "raw": "rockshell_plate.png",
+   "title": "File:Rock-shell plate detail.png"
+  },
   "rocktail": {
    "file": "rocktail.png",
    "name": "Rocktail",
@@ -22766,6 +23284,13 @@
    "raw": "rune_ceremonial_sword.png",
    "title": "File:Rune ceremonial sword V detail.png"
   },
+  "rune_chainbody": {
+   "file": "rune_chainbody.png",
+   "name": "Rune chainbody",
+   "processed": true,
+   "raw": "rune_chainbody.png",
+   "title": "File:Rune chainbody detail.png"
+  },
   "rune_claws": {
    "file": "rune_claws.png",
    "name": "Rune claws",
@@ -23046,6 +23571,111 @@
    "processed": true,
    "raw": "rune_pickaxe.png",
    "title": "File:Rune pickaxe detail.png"
+  },
+  "rune_platebody": {
+   "file": "rune_platebody.png",
+   "name": "Rune platebody",
+   "processed": true,
+   "raw": "rune_platebody.png",
+   "title": "File:Rune platebody detail.png"
+  },
+  "rune_platebody_ancient": {
+   "file": "rune_platebody_ancient.png",
+   "name": "Rune platebody (Ancient)",
+   "processed": true,
+   "raw": "rune_platebody_ancient.png",
+   "title": "File:Rune platebody (Ancient) detail.png"
+  },
+  "rune_platebody_armadyl": {
+   "file": "rune_platebody_armadyl.png",
+   "name": "Rune platebody (Armadyl)",
+   "processed": true,
+   "raw": "rune_platebody_armadyl.png",
+   "title": "File:Rune platebody (Armadyl) detail.png"
+  },
+  "rune_platebody_bandos": {
+   "file": "rune_platebody_bandos.png",
+   "name": "Rune platebody (Bandos)",
+   "processed": true,
+   "raw": "rune_platebody_bandos.png",
+   "title": "File:Rune platebody (Bandos) detail.png"
+  },
+  "rune_platebody_g": {
+   "file": "rune_platebody_g.png",
+   "name": "Rune platebody (g)",
+   "processed": true,
+   "raw": "rune_platebody_g.png",
+   "title": "File:Rune platebody (g) detail.png"
+  },
+  "rune_platebody_gilded": {
+   "file": "rune_platebody_gilded.png",
+   "name": "Rune platebody (Gilded)",
+   "processed": true,
+   "raw": "rune_platebody_gilded.png",
+   "title": "File:Rune platebody (Gilded) detail.png"
+  },
+  "rune_platebody_guthix": {
+   "file": "rune_platebody_guthix.png",
+   "name": "Rune platebody (Guthix)",
+   "processed": true,
+   "raw": "rune_platebody_guthix.png",
+   "title": "File:Rune platebody (Guthix) detail.png"
+  },
+  "rune_platebody_h1": {
+   "file": "rune_platebody_h1.png",
+   "name": "Rune platebody (h1)",
+   "processed": true,
+   "raw": "rune_platebody_h1.png",
+   "title": "File:Rune platebody (h1) detail.png"
+  },
+  "rune_platebody_h2": {
+   "file": "rune_platebody_h2.png",
+   "name": "Rune platebody (h2)",
+   "processed": true,
+   "raw": "rune_platebody_h2.png",
+   "title": "File:Rune platebody (h2) detail.png"
+  },
+  "rune_platebody_h3": {
+   "file": "rune_platebody_h3.png",
+   "name": "Rune platebody (h3)",
+   "processed": true,
+   "raw": "rune_platebody_h3.png",
+   "title": "File:Rune platebody (h3) detail.png"
+  },
+  "rune_platebody_h4": {
+   "file": "rune_platebody_h4.png",
+   "name": "Rune platebody (h4)",
+   "processed": true,
+   "raw": "rune_platebody_h4.png",
+   "title": "File:Rune platebody (h4) detail.png"
+  },
+  "rune_platebody_h5": {
+   "file": "rune_platebody_h5.png",
+   "name": "Rune platebody (h5)",
+   "processed": true,
+   "raw": "rune_platebody_h5.png",
+   "title": "File:Rune platebody (h5) detail.png"
+  },
+  "rune_platebody_saradomin": {
+   "file": "rune_platebody_saradomin.png",
+   "name": "Rune platebody (Saradomin)",
+   "processed": true,
+   "raw": "rune_platebody_saradomin.png",
+   "title": "File:Rune platebody (Saradomin) detail.png"
+  },
+  "rune_platebody_t": {
+   "file": "rune_platebody_t.png",
+   "name": "Rune platebody (t)",
+   "processed": true,
+   "raw": "rune_platebody_t.png",
+   "title": "File:Rune platebody (t) detail.png"
+  },
+  "rune_platebody_zamorak": {
+   "file": "rune_platebody_zamorak.png",
+   "name": "Rune platebody (Zamorak)",
+   "processed": true,
+   "raw": "rune_platebody_zamorak.png",
+   "title": "File:Rune platebody (Zamorak) detail.png"
   },
   "rune_scimitar": {
    "file": "rune_scimitar.png",
@@ -23607,6 +24237,13 @@
    "processed": true,
    "raw": "secondage_mage_mask.png",
    "title": "File:Second-Age mage mask detail.png"
+  },
+  "secondage_platebody": {
+   "file": "secondage_platebody.png",
+   "name": "Second-Age platebody",
+   "processed": true,
+   "raw": "secondage_platebody.png",
+   "title": "File:Second-Age platebody detail.png"
   },
   "secondage_range_coif": {
    "file": "secondage_range_coif.png",
@@ -25335,6 +25972,13 @@
    "raw": "statiuss_full_helm.png",
    "title": "File:Statius's full helm detail.png"
   },
+  "statiuss_platebody": {
+   "file": "statiuss_platebody.png",
+   "name": "Statius's platebody",
+   "processed": true,
+   "raw": "statiuss_platebody.png",
+   "title": "File:Statius's platebody detail.png"
+  },
   "statiuss_warhammer": {
    "file": "statiuss_warhammer.png",
    "name": "Statius's warhammer",
@@ -25390,6 +26034,13 @@
    "processed": true,
    "raw": "steel_battleaxe.png",
    "title": "File:Steel battleaxe detail.png"
+  },
+  "steel_chainbody": {
+   "file": "steel_chainbody.png",
+   "name": "Steel chainbody",
+   "processed": true,
+   "raw": "steel_chainbody.png",
+   "title": "File:Steel chainbody detail.png"
   },
   "steel_claws": {
    "file": "steel_claws.png",
@@ -25568,6 +26219,13 @@
    "processed": true,
    "raw": "steel_pickaxe.png",
    "title": "File:Steel pickaxe detail.png"
+  },
+  "steel_platebody": {
+   "file": "steel_platebody.png",
+   "name": "Steel platebody",
+   "processed": true,
+   "raw": "steel_platebody.png",
+   "title": "File:Steel platebody detail.png"
   },
   "steel_scimitar": {
    "file": "steel_scimitar.png",
@@ -26415,6 +27073,13 @@
    "raw": "superior_oh_dragon_longsword.png",
    "title": "File:Superior off-hand dragon longsword detail.png"
   },
+  "superior_rockshell_plate": {
+   "file": "superior_rockshell_plate.png",
+   "name": "Superior rock-shell plate",
+   "processed": true,
+   "raw": "superior_rockshell_plate.png",
+   "title": "File:Superior rock-shell plate detail.png"
+  },
   "superior_seasingers_hood": {
    "file": "superior_seasingers_hood.png",
    "name": "Superior seasinger's hood",
@@ -26443,6 +27108,13 @@
    "raw": "superior_statiuss_full_helm.png",
    "title": "File:Superior Statius's full helm detail.png"
   },
+  "superior_statiuss_platebody": {
+   "file": "superior_statiuss_platebody.png",
+   "name": "Superior Statius's platebody",
+   "processed": true,
+   "raw": "superior_statiuss_platebody.png",
+   "title": "File:Superior Statius's platebody detail.png"
+  },
   "superior_statiuss_warhammer": {
    "file": "superior_statiuss_warhammer.png",
    "name": "Superior Statius's warhammer",
@@ -26450,12 +27122,26 @@
    "raw": "superior_statiuss_warhammer.png",
    "title": "File:Superior Statius's warhammer detail.png"
   },
+  "superior_tetsu_body": {
+   "file": "superior_tetsu_body.png",
+   "name": "Superior tetsu body",
+   "processed": true,
+   "raw": "superior_tetsu_body.png",
+   "title": "File:Superior tetsu body.png"
+  },
   "superior_tetsu_helm": {
    "file": "superior_tetsu_helm.png",
    "name": "Superior tetsu helm",
    "processed": true,
    "raw": "superior_tetsu_helm.png",
    "title": "File:Superior tetsu helm.png"
+  },
+  "superior_vestas_chainbody": {
+   "file": "superior_vestas_chainbody.png",
+   "name": "Superior Vesta's Chainbody",
+   "processed": true,
+   "raw": "superior_vestas_chainbody.png",
+   "title": "File:Superior Vesta's Chainbody detail.png"
   },
   "superior_vestas_longsword": {
    "file": "superior_vestas_longsword.png",
@@ -26824,6 +27510,13 @@
    "name": "Temple Knight (Monolith)",
    "title": "File:Temple Knight (Battle of the Monolith, male).png"
   },
+  "teralith_cuirass": {
+   "file": "teralith_cuirass.png",
+   "name": "Teralith cuirass",
+   "processed": true,
+   "raw": "teralith_cuirass.png",
+   "title": "File:Teralith cuirass detail.png"
+  },
   "teralith_helmet": {
    "file": "teralith_helmet.png",
    "name": "Teralith helmet",
@@ -26855,6 +27548,13 @@
    "file": "terry_balando.png",
    "name": "Terry Balando",
    "title": "File:Terry Balando.png"
+  },
+  "tetsu_body": {
+   "file": "tetsu_body.png",
+   "name": "Tetsu body",
+   "processed": true,
+   "raw": "tetsu_body.png",
+   "title": "File:Tetsu body detail.png"
   },
   "tetsu_helm": {
    "file": "tetsu_helm.png",
@@ -27062,6 +27762,13 @@
    "processed": true,
    "raw": "third_age_mage_hat.png",
    "title": "File:Third age mage hat detail.png"
+  },
+  "third_age_platebody": {
+   "file": "third_age_platebody.png",
+   "name": "Third age platebody",
+   "processed": true,
+   "raw": "third_age_platebody.png",
+   "title": "File:Third age platebody detail.png"
   },
   "third_age_ranger_coif": {
    "file": "third_age_ranger_coif.png",
@@ -27289,6 +27996,13 @@
    "raw": "torags_helm.png",
    "title": "File:Torag's helm detail.png"
   },
+  "torags_platebody": {
+   "file": "torags_platebody.png",
+   "name": "Torag's platebody",
+   "processed": true,
+   "raw": "torags_platebody.png",
+   "title": "File:Torag's platebody detail.png"
+  },
   "tormented_demon": {
    "file": "tormented_demon.png",
    "name": "Tormented demon",
@@ -27327,6 +28041,13 @@
    "processed": true,
    "raw": "torva_full_helm.png",
    "title": "File:Torva full helm detail.png"
+  },
+  "torva_platebody": {
+   "file": "torva_platebody.png",
+   "name": "Torva platebody",
+   "processed": true,
+   "raw": "torva_platebody.png",
+   "title": "File:Torva platebody detail.png"
   },
   "torzek": {
    "file": "torzek.png",
@@ -27415,6 +28136,13 @@
    "processed": true,
    "raw": "trimmed_masterwork_melee_helm.png",
    "title": "File:Trimmed masterwork melee helm detail.png"
+  },
+  "trimmed_masterwork_melee_platebody": {
+   "file": "trimmed_masterwork_melee_platebody.png",
+   "name": "Trimmed masterwork melee platebody",
+   "processed": true,
+   "raw": "trimmed_masterwork_melee_platebody.png",
+   "title": "File:Trimmed masterwork melee platebody detail.png"
   },
   "troll_brute_senntisten": {
    "file": "troll_brute_senntisten.png",
@@ -28083,6 +28811,13 @@
    "name": "Verac the Redefined",
    "title": "File:Verac the Redefined.png"
   },
+  "veracs_brassard": {
+   "file": "veracs_brassard.png",
+   "name": "Verac's brassard",
+   "processed": true,
+   "raw": "veracs_brassard.png",
+   "title": "File:Verac's brassard detail.png"
+  },
   "veracs_flail": {
    "file": "veracs_flail.png",
    "name": "Verac's flail",
@@ -28107,6 +28842,13 @@
    "name": "Veronica",
    "title": "File:Veronica.png"
   },
+  "vestas_chainbody": {
+   "file": "vestas_chainbody.png",
+   "name": "Vesta's chainbody",
+   "processed": true,
+   "raw": "vestas_chainbody.png",
+   "title": "File:Vesta's chainbody detail.png"
+  },
   "vestas_longsword": {
    "file": "vestas_longsword.png",
    "name": "Vesta's longsword",
@@ -28120,6 +28862,13 @@
    "processed": true,
    "raw": "vestments_of_havoc_hood.png",
    "title": "File:Vestments of havoc hood detail.png"
+  },
+  "vestments_of_havoc_robe_top": {
+   "file": "vestments_of_havoc_robe_top.png",
+   "name": "Vestments of havoc robe top",
+   "processed": true,
+   "raw": "vestments_of_havoc_robe_top.png",
+   "title": "File:Vestments of havoc robe top detail.png"
   },
   "vial": {
    "file": "vial.png",
@@ -28604,6 +29353,13 @@
    "raw": "white_battleaxe.png",
    "title": "File:White battleaxe detail.png"
   },
+  "white_chainbody": {
+   "file": "white_chainbody.png",
+   "name": "White chainbody",
+   "processed": true,
+   "raw": "white_chainbody.png",
+   "title": "File:White chainbody detail.png"
+  },
   "white_claw": {
    "file": "white_claw.png",
    "name": "White claw",
@@ -28686,6 +29442,13 @@
    "processed": true,
    "raw": "white_magic_staff.png",
    "title": "File:White magic staff detail.png"
+  },
+  "white_platebody": {
+   "file": "white_platebody.png",
+   "name": "White platebody",
+   "processed": true,
+   "raw": "white_platebody.png",
+   "title": "File:White platebody detail.png"
   },
   "white_rose_seed": {
    "file": "white_rose_seed.png",
@@ -29314,6 +30077,13 @@
    "raw": "yakhide.png",
    "title": "File:Yak-hide detail.png"
   },
+  "yakhide_armour_top": {
+   "file": "yakhide_armour_top.png",
+   "name": "Yak-hide armour (top)",
+   "processed": true,
+   "raw": "yakhide_armour_top.png",
+   "title": "File:Yak-hide armour (top) detail.png"
+  },
   "yaktwee_stick": {
    "file": "yaktwee_stick.png",
    "name": "Yaktwee stick",
@@ -29643,6 +30413,13 @@
    "raw": "zephyrium_battleaxe.png",
    "title": "File:Zephyrium battleaxe detail.png"
   },
+  "zephyrium_chainbody": {
+   "file": "zephyrium_chainbody.png",
+   "name": "Zephyrium chainbody",
+   "processed": true,
+   "raw": "zephyrium_chainbody.png",
+   "title": "File:Zephyrium chainbody detail.png"
+  },
   "zephyrium_dagger": {
    "file": "zephyrium_dagger.png",
    "name": "Zephyrium dagger",
@@ -29705,6 +30482,13 @@
    "processed": true,
    "raw": "zephyrium_ore_dungeoneering.png",
    "title": "File:Zephyrium ore (Dungeoneering) detail.png"
+  },
+  "zephyrium_platebody": {
+   "file": "zephyrium_platebody.png",
+   "name": "Zephyrium platebody",
+   "processed": true,
+   "raw": "zephyrium_platebody.png",
+   "title": "File:Zephyrium platebody detail.png"
   },
   "zephyrium_rapier": {
    "file": "zephyrium_rapier.png",
