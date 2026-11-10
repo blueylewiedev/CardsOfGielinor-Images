@@ -202,6 +202,13 @@
    "raw": "achto_primeval_mask.png",
    "title": "File:Achto Primeval mask detail.png"
   },
+  "achto_primeval_robe_top": {
+   "file": "achto_primeval_robe_top.png",
+   "name": "Achto Primeval robe top",
+   "processed": true,
+   "raw": "achto_primeval_robe_top.png",
+   "title": "File:Achto Primeval robe top detail.png"
+  },
   "achto_tempest_body": {
    "file": "achto_tempest_body.png",
    "name": "Achto Tempest body",
@@ -818,6 +825,13 @@
    "raw": "ahrims_hood.png",
    "title": "File:Ahrim's hood detail.png"
   },
+  "ahrims_robe_top": {
+   "file": "ahrims_robe_top.png",
+   "name": "Ahrim's robe top",
+   "processed": true,
+   "raw": "ahrims_robe_top.png",
+   "title": "File:Ahrim's robe top detail.png"
+  },
   "ahrims_staff": {
    "file": "ahrims_staff.png",
    "name": "Ahrim's staff",
@@ -1170,6 +1184,13 @@
    "raw": "ancient_repriser.png",
    "title": "File:Ancient repriser detail.png"
   },
+  "ancient_robe_top": {
+   "file": "ancient_robe_top.png",
+   "name": "Ancient robe top",
+   "processed": true,
+   "raw": "ancient_robe_top.png",
+   "title": "File:Ancient robe top detail.png"
+  },
   "ancient_staff": {
    "file": "ancient_staff.png",
    "name": "Ancient staff",
@@ -1235,6 +1256,13 @@
    "file": "ani_farming_merchant.png",
    "name": "Ani (farming merchant)",
    "title": "File:Ani (farming merchant).png"
+  },
+  "anima_core_body_of_seren": {
+   "file": "anima_core_body_of_seren.png",
+   "name": "Anima core body of Seren",
+   "processed": true,
+   "raw": "anima_core_body_of_seren.png",
+   "title": "File:Anima core body of Seren detail.png"
   },
   "anima_core_body_of_zamorak": {
    "file": "anima_core_body_of_zamorak.png",
@@ -3139,6 +3167,13 @@
    "raw": "batwing_hood.png",
    "title": "File:Batwing hood detail.png"
   },
+  "batwing_torso": {
+   "file": "batwing_torso.png",
+   "name": "Batwing torso",
+   "processed": true,
+   "raw": "batwing_torso.png",
+   "title": "File:Batwing torso detail.png"
+  },
   "batwing_wand": {
    "file": "batwing_wand.png",
    "name": "Batwing wand",
@@ -3806,6 +3841,13 @@
    "raw": "black_wizard_hat.png",
    "title": "File:Black wizard hat detail.png"
   },
+  "black_wizard_robe_top": {
+   "file": "black_wizard_robe_top.png",
+   "name": "Black wizard robe top",
+   "processed": true,
+   "raw": "black_wizard_robe_top.png",
+   "title": "File:Black wizard robe top detail.png"
+  },
   "blacksmiths_helmet": {
    "file": "blacksmiths_helmet.png",
    "name": "Blacksmith's helmet",
@@ -4361,6 +4403,13 @@
    "processed": true,
    "raw": "body_bar.png",
    "title": "File:Body bar detail.png"
+  },
+  "body_body": {
+   "file": "body_body.png",
+   "name": "Body body",
+   "processed": true,
+   "raw": "body_body.png",
+   "title": "File:Body body detail.png"
   },
   "body_esshound": {
    "file": "body_esshound.png",
@@ -5111,6 +5160,13 @@
    "raw": "bryll_orb.png",
    "title": "File:Bryll orb detail.png"
   },
+  "bryll_robe_top": {
+   "file": "bryll_robe_top.png",
+   "name": "Bryll robe top",
+   "processed": true,
+   "raw": "bryll_robe_top.png",
+   "title": "File:Bryll robe top detail.png"
+  },
   "bryll_thoksdottir": {
    "file": "bryll_thoksdottir.png",
    "name": "Bryll Thoksdottir",
@@ -5790,6 +5846,13 @@
    "raw": "celestial_hood.png",
    "title": "File:Celestial hood detail.png"
   },
+  "celestial_robe_top": {
+   "file": "celestial_robe_top.png",
+   "name": "Celestial robe top",
+   "processed": true,
+   "raw": "celestial_robe_top.png",
+   "title": "File:Celestial robe top detail.png"
+  },
   "celia_diggory": {
    "file": "celia_diggory.png",
    "name": "Celia Diggory",
@@ -5863,6 +5926,13 @@
    "processed": true,
    "raw": "chaos_bar.png",
    "title": "File:Chaos bar detail.png"
+  },
+  "chaos_body": {
+   "file": "chaos_body.png",
+   "name": "Chaos body",
+   "processed": true,
+   "raw": "chaos_body.png",
+   "title": "File:Chaos body detail.png"
   },
   "chaos_demon": {
    "file": "chaos_demon.png",
@@ -7309,6 +7379,13 @@
    "raw": "corrupt_zuriels_hood.png",
    "title": "File:Corrupt Zuriel's hood detail.png"
   },
+  "corrupt_zuriels_robe_top": {
+   "file": "corrupt_zuriels_robe_top.png",
+   "name": "Corrupt Zuriel's robe top",
+   "processed": true,
+   "raw": "corrupt_zuriels_robe_top.png",
+   "title": "File:Corrupt Zuriel's robe top detail.png"
+  },
   "corrupt_zuriels_staff": {
    "file": "corrupt_zuriels_staff.png",
    "name": "Corrupt Zuriel's staff",
@@ -7364,6 +7441,13 @@
    "processed": true,
    "raw": "cosmic_bar.png",
    "title": "File:Cosmic bar detail.png"
+  },
+  "cosmic_body": {
+   "file": "cosmic_body.png",
+   "name": "Cosmic body",
+   "processed": true,
+   "raw": "cosmic_body.png",
+   "title": "File:Cosmic body detail.png"
   },
   "cosmic_esshound": {
    "file": "cosmic_esshound.png",
@@ -7603,6 +7687,13 @@
    "processed": true,
    "raw": "cryptbloom_helm.png",
    "title": "File:Cryptbloom helm detail.png"
+  },
+  "cryptbloom_top": {
+   "file": "cryptbloom_top.png",
+   "name": "Cryptbloom top",
+   "processed": true,
+   "raw": "cryptbloom_top.png",
+   "title": "File:Cryptbloom top detail.png"
   },
   "crystal_acorn": {
    "file": "crystal_acorn.png",
@@ -7977,6 +8068,13 @@
    "raw": "dagonhai_hat.png",
    "title": "File:Dagon'hai hat detail.png"
   },
+  "dagonhai_robe_top": {
+   "file": "dagonhai_robe_top.png",
+   "name": "Dagon'hai robe top",
+   "processed": true,
+   "raw": "dagonhai_robe_top.png",
+   "title": "File:Dagon'hai robe top detail.png"
+  },
   "dahaka_aughra_elder": {
    "file": "dahaka_aughra_elder.png",
    "name": "Dahaka (Aughra elder)",
@@ -8034,6 +8132,13 @@
    "processed": true,
    "raw": "dark_mystic_hat.png",
    "title": "File:Dark mystic hat detail.png"
+  },
+  "dark_mystic_robe_top": {
+   "file": "dark_mystic_robe_top.png",
+   "name": "Dark mystic robe top",
+   "processed": true,
+   "raw": "dark_mystic_robe_top.png",
+   "title": "File:Dark mystic robe top detail.png"
   },
   "dark_shard_of_leng": {
    "file": "dark_shard_of_leng.png",
@@ -9510,6 +9615,13 @@
    "raw": "duskweed_orb.png",
    "title": "File:Duskweed orb detail.png"
   },
+  "duskweed_robe_top": {
+   "file": "duskweed_robe_top.png",
+   "name": "Duskweed robe top",
+   "processed": true,
+   "raw": "duskweed_robe_top.png",
+   "title": "File:Duskweed robe top detail.png"
+  },
   "dusky_wigglebill": {
    "chosen": "File:Dusky Wigglebill.png",
    "file": "dusky_wigglebill.png",
@@ -9733,6 +9845,13 @@
    "processed": true,
    "raw": "ectohood.png",
    "title": "File:Ectohood detail.png"
+  },
+  "ectorobe_top": {
+   "file": "ectorobe_top.png",
+   "name": "Ectorobe top",
+   "processed": true,
+   "raw": "ectorobe_top.png",
+   "title": "File:Ectorobe top detail.png"
   },
   "ectosphere": {
    "file": "ectosphere.png",
@@ -9992,6 +10111,13 @@
    "raw": "elemental_battlestaff.png",
    "title": "File:Elemental battlestaff detail.png"
   },
+  "elemental_body": {
+   "file": "elemental_body.png",
+   "name": "Elemental body",
+   "processed": true,
+   "raw": "elemental_body.png",
+   "title": "File:Elemental body detail.png"
+  },
   "elemental_helmet": {
    "file": "elemental_helmet.png",
    "name": "Elemental helmet",
@@ -10158,6 +10284,13 @@
    "processed": true,
    "raw": "elite_tectonic_mask.png",
    "title": "File:Elite tectonic mask detail.png"
+  },
+  "elite_tectonic_robe_top": {
+   "file": "elite_tectonic_robe_top.png",
+   "name": "Elite tectonic robe top",
+   "processed": true,
+   "raw": "elite_tectonic_robe_top.png",
+   "title": "File:Elite tectonic robe top detail.png"
   },
   "elite_tetsu_katana": {
    "file": "elite_tetsu_katana.png",
@@ -10352,6 +10485,13 @@
    "processed": true,
    "raw": "enchanted_hat.png",
    "title": "File:Enchanted hat detail.png"
+  },
+  "enchanted_top": {
+   "file": "enchanted_top.png",
+   "name": "Enchanted top",
+   "processed": true,
+   "raw": "enchanted_top.png",
+   "title": "File:Enchanted top detail.png"
   },
   "enchanted_vial": {
    "file": "enchanted_vial.png",
@@ -11507,6 +11647,34 @@
    "raw": "first_tower_hat_red.png",
    "title": "File:First tower hat (red) detail.png"
   },
+  "first_tower_robe_top_blue": {
+   "file": "first_tower_robe_top_blue.png",
+   "name": "First tower robe top (blue)",
+   "processed": true,
+   "raw": "first_tower_robe_top_blue.png",
+   "title": "File:First tower robe top (blue) detail.png"
+  },
+  "first_tower_robe_top_green": {
+   "file": "first_tower_robe_top_green.png",
+   "name": "First tower robe top (green)",
+   "processed": true,
+   "raw": "first_tower_robe_top_green.png",
+   "title": "File:First tower robe top (green) detail.png"
+  },
+  "first_tower_robe_top_grey": {
+   "file": "first_tower_robe_top_grey.png",
+   "name": "First tower robe top (grey)",
+   "processed": true,
+   "raw": "first_tower_robe_top_grey.png",
+   "title": "File:First tower robe top (grey) detail.png"
+  },
+  "first_tower_robe_top_red": {
+   "file": "first_tower_robe_top_red.png",
+   "name": "First tower robe top (red)",
+   "processed": true,
+   "raw": "first_tower_robe_top_red.png",
+   "title": "File:First tower robe top (red) detail.png"
+  },
   "fish_and_chips": {
    "file": "fish_and_chips.png",
    "name": "Fish and chips",
@@ -11613,6 +11781,13 @@
    "processed": true,
    "raw": "flamtaer_hood.png",
    "title": "File:Flamtaer hood detail.png"
+  },
+  "flamtaer_robe_top": {
+   "file": "flamtaer_robe_top.png",
+   "name": "Flamtaer robe top",
+   "processed": true,
+   "raw": "flamtaer_robe_top.png",
+   "title": "File:Flamtaer robe top detail.png"
   },
   "flatfish_edicap_potato": {
    "file": "flatfish_edicap_potato.png",
@@ -12167,6 +12342,13 @@
    "name": "Fungal mage",
    "title": "File:Fungal mage.png"
   },
+  "fungal_poncho": {
+   "file": "fungal_poncho.png",
+   "name": "Fungal poncho",
+   "processed": true,
+   "raw": "fungal_poncho.png",
+   "title": "File:Fungal poncho detail.png"
+  },
   "fungal_rodent": {
    "file": "fungal_rodent.png",
    "name": "Fungal rodent",
@@ -12236,6 +12418,13 @@
    "name": "Ganodermic beast",
    "title": "File:Ganodermic beast.png"
   },
+  "ganodermic_poncho": {
+   "file": "ganodermic_poncho.png",
+   "name": "Ganodermic poncho",
+   "processed": true,
+   "raw": "ganodermic_poncho.png",
+   "title": "File:Ganodermic poncho detail.png"
+  },
   "ganodermic_runt": {
    "file": "ganodermic_runt.png",
    "name": "Ganodermic runt",
@@ -12250,6 +12439,13 @@
    "processed": true,
    "raw": "ganodermic_visor.png",
    "title": "File:Ganodermic visor detail.png"
+  },
+  "garb_of_subjugation": {
+   "file": "garb_of_subjugation.png",
+   "name": "Garb of subjugation",
+   "processed": true,
+   "raw": "garb_of_subjugation.png",
+   "title": "File:Garb of subjugation detail.png"
   },
   "garden_pie": {
    "file": "garden_pie.png",
@@ -13433,6 +13629,13 @@
    "processed": true,
    "raw": "grifolic_orb.png",
    "title": "File:Grifolic orb detail.png"
+  },
+  "grifolic_poncho": {
+   "file": "grifolic_poncho.png",
+   "name": "Grifolic poncho",
+   "processed": true,
+   "raw": "grifolic_poncho.png",
+   "title": "File:Grifolic poncho detail.png"
   },
   "grifolic_visor": {
    "file": "grifolic_visor.png",
@@ -14855,6 +15058,13 @@
    "raw": "imphide_hood.png",
    "title": "File:Imphide hood detail.png"
   },
+  "imphide_robe_top": {
+   "file": "imphide_robe_top.png",
+   "name": "Imphide robe top",
+   "processed": true,
+   "raw": "imphide_robe_top.png",
+   "title": "File:Imphide robe top detail.png"
+  },
   "impious_ashes": {
    "file": "impious_ashes.png",
    "name": "Impious ashes",
@@ -14916,6 +15126,13 @@
    "processed": true,
    "raw": "infinity_hat.png",
    "title": "File:Infinity hat detail.png"
+  },
+  "infinity_top": {
+   "file": "infinity_top.png",
+   "name": "Infinity top",
+   "processed": true,
+   "raw": "infinity_top.png",
+   "title": "File:Infinity top detail.png"
   },
   "information_clerk": {
    "file": "information_clerk.png",
@@ -16478,6 +16695,13 @@
    "raw": "light_mystic_hat.png",
    "title": "File:Light mystic hat detail.png"
   },
+  "light_mystic_robe_top": {
+   "file": "light_mystic_robe_top.png",
+   "name": "Light mystic robe top",
+   "processed": true,
+   "raw": "light_mystic_robe_top.png",
+   "title": "File:Light mystic robe top detail.png"
+  },
   "lil_lamb": {
    "file": "lil_lamb.png",
    "name": "Li'l lamb",
@@ -16733,6 +16957,13 @@
    "processed": true,
    "raw": "lunar_staff.png",
    "title": "File:Lunar staff detail.png"
+  },
+  "lunar_torso": {
+   "file": "lunar_torso.png",
+   "name": "Lunar torso",
+   "processed": true,
+   "raw": "lunar_torso.png",
+   "title": "File:Lunar torso detail.png"
   },
   "lunderwin": {
    "file": "lunderwin.png",
@@ -17389,6 +17620,13 @@
    "raw": "masterwork_magic_hat.png",
    "title": "File:Masterwork magic hat detail.png"
   },
+  "masterwork_magic_robe_top": {
+   "file": "masterwork_magic_robe_top.png",
+   "name": "Masterwork magic robe top",
+   "processed": true,
+   "raw": "masterwork_magic_robe_top.png",
+   "title": "File:Masterwork magic robe top detail.png"
+  },
   "masterwork_melee_helm": {
    "file": "masterwork_melee_helm.png",
    "name": "Masterwork melee helm",
@@ -17750,6 +17988,13 @@
    "processed": true,
    "raw": "mind_bar.png",
    "title": "File:Mind bar detail.png"
+  },
+  "mind_body": {
+   "file": "mind_body.png",
+   "name": "Mind body",
+   "processed": true,
+   "raw": "mind_body.png",
+   "title": "File:Mind body detail.png"
   },
   "mind_essling": {
    "file": "mind_essling.png",
@@ -18557,6 +18802,13 @@
    "name": "Mutated zygomite",
    "title": "File:Mutated zygomite.png"
   },
+  "mycelium_poncho_web": {
+   "file": "mycelium_poncho_web.png",
+   "name": "Mycelium poncho web",
+   "processed": true,
+   "raw": "mycelium_poncho_web.png",
+   "title": "File:Mycelium poncho web detail.png"
+  },
   "mycelium_visor_web": {
    "file": "mycelium_visor_web.png",
    "name": "Mycelium visor web",
@@ -18636,6 +18888,13 @@
    "processed": true,
    "raw": "mystic_orb.png",
    "title": "File:Mystic orb detail.png"
+  },
+  "mystic_robe_top": {
+   "file": "mystic_robe_top.png",
+   "name": "Mystic robe top",
+   "processed": true,
+   "raw": "mystic_robe_top.png",
+   "title": "File:Mystic robe top detail.png"
   },
   "mystic_steam_staff": {
    "file": "mystic_steam_staff.png",
@@ -21503,6 +21762,13 @@
    "raw": "primeval_mask.png",
    "title": "File:Primeval mask detail.png"
   },
+  "primeval_robe_top": {
+   "file": "primeval_robe_top.png",
+   "name": "Primeval robe top",
+   "processed": true,
+   "raw": "primeval_robe_top.png",
+   "title": "File:Primeval robe top detail.png"
+  },
   "princess_fort_forinthry": {
    "chosen": "File:Princess (Murder on the Border).png",
    "file": "princess_fort_forinthry.png",
@@ -22889,6 +23155,13 @@
    "raw": "refined_acadia_planks.png",
    "title": "File:Refined Acadia planks detail.png"
   },
+  "refined_anima_core_body_of_seren": {
+   "file": "refined_anima_core_body_of_seren.png",
+   "name": "Refined anima core body of Seren",
+   "processed": true,
+   "raw": "refined_anima_core_body_of_seren.png",
+   "title": "File:Refined anima core body of Seren detail.png"
+  },
   "refined_anima_core_body_of_zamorak": {
    "file": "refined_anima_core_body_of_zamorak.png",
    "name": "Refined anima core body of Zamorak",
@@ -23242,6 +23515,13 @@
    "raw": "roast_rabbit.png",
    "title": "File:Roast rabbit detail.png"
   },
+  "robe_top_of_tumekens_resplendence": {
+   "file": "robe_top_of_tumekens_resplendence.png",
+   "name": "Robe top of Tumeken's resplendence",
+   "processed": true,
+   "raw": "robe_top_of_tumekens_resplendence.png",
+   "title": "File:Robe top of Tumeken's resplendence detail.png"
+  },
   "robin_hood_hat": {
    "file": "robin_hood_hat.png",
    "name": "Robin Hood hat",
@@ -23404,6 +23684,13 @@
    "processed": true,
    "raw": "roseblood_orb.png",
    "title": "File:Roseblood orb detail.png"
+  },
+  "roseblood_robe_top": {
+   "file": "roseblood_robe_top.png",
+   "name": "Roseblood robe top",
+   "processed": true,
+   "raw": "roseblood_robe_top.png",
+   "title": "File:Roseblood robe top detail.png"
   },
   "rosemary_seed": {
    "file": "rosemary_seed.png",
@@ -24057,6 +24344,13 @@
    "raw": "runic_orb.png",
    "title": "File:Runic orb detail.png"
   },
+  "runic_robe_top": {
+   "file": "runic_robe_top.png",
+   "name": "Runic robe top",
+   "processed": true,
+   "raw": "runic_robe_top.png",
+   "title": "File:Runic robe top detail.png"
+  },
   "runic_staff": {
    "file": "runic_staff.png",
    "name": "Runic staff",
@@ -24216,6 +24510,13 @@
    "processed": true,
    "raw": "salve_orb.png",
    "title": "File:Salve orb detail.png"
+  },
+  "salve_robe_top": {
+   "file": "salve_robe_top.png",
+   "name": "Salve robe top",
+   "processed": true,
+   "raw": "salve_robe_top.png",
+   "title": "File:Salve robe top detail.png"
   },
   "samaden_seed": {
    "file": "samaden_seed.png",
@@ -24532,6 +24833,13 @@
    "raw": "seasingers_hood.png",
    "title": "File:Seasinger's hood detail.png"
   },
+  "seasingers_robe_top": {
+   "file": "seasingers_robe_top.png",
+   "name": "Seasinger's robe top",
+   "processed": true,
+   "raw": "seasingers_robe_top.png",
+   "title": "File:Seasinger's robe top detail.png"
+  },
   "secateurs": {
    "file": "secateurs.png",
    "name": "Secateurs",
@@ -24580,6 +24888,13 @@
    "processed": true,
    "raw": "secondage_range_top.png",
    "title": "File:Second-Age range top detail.png"
+  },
+  "secondage_robe_top": {
+   "file": "secondage_robe_top.png",
+   "name": "Second-Age robe top",
+   "processed": true,
+   "raw": "secondage_robe_top.png",
+   "title": "File:Second-Age robe top detail.png"
   },
   "secondage_staff": {
    "file": "secondage_staff.png",
@@ -25136,6 +25451,13 @@
    "name": "Skeletal shielder",
    "title": "File:Skeletal shielder.png"
   },
+  "skeletal_top": {
+   "file": "skeletal_top.png",
+   "name": "Skeletal top",
+   "processed": true,
+   "raw": "skeletal_top.png",
+   "title": "File:Skeletal top detail.png"
+  },
   "skeleton": {
    "chosen": "File:Skeleton (level 15).png",
    "file": "skeleton.png",
@@ -25588,6 +25910,13 @@
    "raw": "soulbell_orb.png",
    "title": "File:Soulbell orb detail.png"
   },
+  "soulbell_robe_top": {
+   "file": "soulbell_robe_top.png",
+   "name": "Soulbell robe top",
+   "processed": true,
+   "raw": "soulbell_robe_top.png",
+   "title": "File:Soulbell robe top detail.png"
+  },
   "soulbound_lantern": {
    "file": "soulbound_lantern.png",
    "name": "Soulbound lantern",
@@ -25770,6 +26099,13 @@
    "processed": true,
    "raw": "spider_silk_hood.png",
    "title": "File:Spider silk hood detail.png"
+  },
+  "spider_silk_robe_top": {
+   "file": "spider_silk_robe_top.png",
+   "name": "Spider silk robe top",
+   "processed": true,
+   "raw": "spider_silk_robe_top.png",
+   "title": "File:Spider silk robe top detail.png"
   },
   "spider_wand": {
    "file": "spider_wand.png",
@@ -26053,6 +26389,13 @@
    "raw": "spiritbloom_orb.png",
    "title": "File:Spiritbloom orb detail.png"
   },
+  "spiritbloom_robe_top": {
+   "file": "spiritbloom_robe_top.png",
+   "name": "Spiritbloom robe top",
+   "processed": true,
+   "raw": "spiritbloom_robe_top.png",
+   "title": "File:Spiritbloom robe top detail.png"
+  },
   "spiritual_prayer_potion": {
    "file": "spiritual_prayer_potion.png",
    "name": "Spiritual prayer potion",
@@ -26073,6 +26416,13 @@
    "processed": true,
    "raw": "split_log.png",
    "title": "File:Split log detail.png"
+  },
+  "splitbark_body": {
+   "file": "splitbark_body.png",
+   "name": "Splitbark body",
+   "processed": true,
+   "raw": "splitbark_body.png",
+   "title": "File:Splitbark body detail.png"
   },
   "splitbark_helm": {
    "file": "splitbark_helm.png",
@@ -26314,6 +26664,13 @@
    "processed": true,
    "raw": "starbloom_hat.png",
    "title": "File:Starbloom hat detail.png"
+  },
+  "starbloom_robe_top": {
+   "file": "starbloom_robe_top.png",
+   "name": "Starbloom robe top",
+   "processed": true,
+   "raw": "starbloom_robe_top.png",
+   "title": "File:Starbloom robe top detail.png"
   },
   "stardust": {
    "file": "stardust.png",
@@ -27493,12 +27850,26 @@
    "raw": "superior_seasingers_hood.png",
    "title": "File:Superior seasinger's hood detail.png"
   },
+  "superior_seasingers_robe_top": {
+   "file": "superior_seasingers_robe_top.png",
+   "name": "Superior seasinger's robe top",
+   "processed": true,
+   "raw": "superior_seasingers_robe_top.png",
+   "title": "File:Superior seasinger's robe top detail.png"
+  },
   "superior_skeletal_helm": {
    "file": "superior_skeletal_helm.png",
    "name": "Superior skeletal helm",
    "processed": true,
    "raw": "superior_skeletal_helm.png",
    "title": "File:Superior skeletal helm detail.png"
+  },
+  "superior_skeletal_top": {
+   "file": "superior_skeletal_top.png",
+   "name": "Superior skeletal top",
+   "processed": true,
+   "raw": "superior_skeletal_top.png",
+   "title": "File:Superior skeletal top detail.png"
   },
   "superior_spined_body": {
    "file": "superior_spined_body.png",
@@ -27597,6 +27968,13 @@
    "processed": true,
    "raw": "superior_zuriels_hood.png",
    "title": "File:Superior Zuriel's hood detail.png"
+  },
+  "superior_zuriels_robe_top": {
+   "file": "superior_zuriels_robe_top.png",
+   "name": "Superior Zuriel's robe top",
+   "processed": true,
+   "raw": "superior_zuriels_robe_top.png",
+   "title": "File:Superior Zuriel's robe top detail.png"
   },
   "superior_zuriels_staff": {
    "file": "superior_zuriels_staff.png",
@@ -27893,6 +28271,13 @@
    "raw": "tectonic_mask.png",
    "title": "File:Tectonic mask detail.png"
   },
+  "tectonic_robe_top": {
+   "file": "tectonic_robe_top.png",
+   "name": "Tectonic robe top",
+   "processed": true,
+   "raw": "tectonic_robe_top.png",
+   "title": "File:Tectonic robe top detail.png"
+  },
   "ted": {
    "file": "ted.png",
    "name": "Ted",
@@ -28155,6 +28540,13 @@
    "name": "Thing under the bed",
    "title": "File:Thing under the bed.png"
   },
+  "third_age_druidic_robe_top": {
+   "file": "third_age_druidic_robe_top.png",
+   "name": "Third age druidic robe top",
+   "processed": true,
+   "raw": "third_age_druidic_robe_top.png",
+   "title": "File:Third age druidic robe top detail.png"
+  },
   "third_age_druidic_staff": {
    "file": "third_age_druidic_staff.png",
    "name": "Third age druidic staff",
@@ -28203,6 +28595,13 @@
    "processed": true,
    "raw": "third_age_ranger_coif.png",
    "title": "File:Third age ranger coif detail.png"
+  },
+  "third_age_robe_top": {
+   "file": "third_age_robe_top.png",
+   "name": "Third age robe top",
+   "processed": true,
+   "raw": "third_age_robe_top.png",
+   "title": "File:Third age robe top detail.png"
   },
   "thok_rune": {
    "file": "thok_rune.png",
@@ -29351,6 +29750,13 @@
    "raw": "virtus_mask.png",
    "title": "File:Virtus mask detail.png"
   },
+  "virtus_robe_top": {
+   "file": "virtus_robe_top.png",
+   "name": "Virtus robe top",
+   "processed": true,
+   "raw": "virtus_robe_top.png",
+   "title": "File:Virtus robe top detail.png"
+  },
   "virtus_wand": {
    "file": "virtus_wand.png",
    "name": "Virtus wand",
@@ -30010,6 +30416,13 @@
    "raw": "wildercress_orb.png",
    "title": "File:Wildercress orb detail.png"
   },
+  "wildercress_robe_top": {
+   "file": "wildercress_robe_top.png",
+   "name": "Wildercress robe top",
+   "processed": true,
+   "raw": "wildercress_robe_top.png",
+   "title": "File:Wildercress robe top detail.png"
+  },
   "wilderness_sword": {
    "file": "wilderness_sword.png",
    "name": "Wilderness sword",
@@ -30254,6 +30667,27 @@
    "file": "wizard_rinsit.png",
    "name": "Wizard Rinsit",
    "title": "File:Wizard Rinsit.png"
+  },
+  "wizard_robe_top": {
+   "file": "wizard_robe_top.png",
+   "name": "Wizard robe top",
+   "processed": true,
+   "raw": "wizard_robe_top.png",
+   "title": "File:Wizard robe top detail.png"
+  },
+  "wizard_robe_top_g": {
+   "file": "wizard_robe_top_g.png",
+   "name": "Wizard robe top (g)",
+   "processed": true,
+   "raw": "wizard_robe_top_g.png",
+   "title": "File:Wizard robe top (g) detail.png"
+  },
+  "wizard_robe_top_t": {
+   "file": "wizard_robe_top_t.png",
+   "name": "Wizard robe top (t)",
+   "processed": true,
+   "raw": "wizard_robe_top_t.png",
+   "title": "File:Wizard robe top (t) detail.png"
   },
   "wizard_runecrafting_guild": {
    "file": "wizard_runecrafting_guild.png",
@@ -30691,6 +31125,13 @@
    "name": "Zamorak ranger",
    "title": "File:Zamorak ranger (2).png"
   },
+  "zamorak_robe_top": {
+   "file": "zamorak_robe_top.png",
+   "name": "Zamorak robe (top)",
+   "processed": true,
+   "raw": "zamorak_robe_top.png",
+   "title": "File:Zamorak robe (top) detail.png"
+  },
   "zamorak_staff": {
    "file": "zamorak_staff.png",
    "name": "Zamorak staff",
@@ -31038,6 +31479,13 @@
    "processed": true,
    "raw": "zuriels_hood.png",
    "title": "File:Zuriel's hood detail.png"
+  },
+  "zuriels_robe_top": {
+   "file": "zuriels_robe_top.png",
+   "name": "Zuriel's robe top",
+   "processed": true,
+   "raw": "zuriels_robe_top.png",
+   "title": "File:Zuriel's robe top detail.png"
   },
   "zuriels_staff": {
    "file": "zuriels_staff.png",
