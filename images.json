@@ -202,6 +202,13 @@
    "raw": "achto_primeval_mask.png",
    "title": "File:Achto Primeval mask detail.png"
   },
+  "achto_tempest_body": {
+   "file": "achto_tempest_body.png",
+   "name": "Achto Tempest body",
+   "processed": true,
+   "raw": "achto_tempest_body.png",
+   "title": "File:Achto Tempest body detail.png"
+  },
   "achto_tempest_cowl": {
    "file": "achto_tempest_cowl.png",
    "name": "Achto Tempest cowl",
@@ -1229,6 +1236,13 @@
    "name": "Ani (farming merchant)",
    "title": "File:Ani (farming merchant).png"
   },
+  "anima_core_body_of_zamorak": {
+   "file": "anima_core_body_of_zamorak.png",
+   "name": "Anima core body of Zamorak",
+   "processed": true,
+   "raw": "anima_core_body_of_zamorak.png",
+   "title": "File:Anima core body of Zamorak detail.png"
+  },
   "anima_core_body_of_zaros": {
    "file": "anima_core_body_of_zaros.png",
    "name": "Anima core body of Zaros",
@@ -1421,6 +1435,13 @@
    "processed": true,
    "raw": "apex_hide.png",
    "title": "File:Apex hide detail.png"
+  },
+  "apex_hide_body": {
+   "file": "apex_hide_body.png",
+   "name": "Apex hide body",
+   "processed": true,
+   "raw": "apex_hide_body.png",
+   "title": "File:Apex hide body detail.png"
   },
   "apex_hide_cowl": {
    "file": "apex_hide_cowl.png",
@@ -1617,6 +1638,13 @@
    "processed": true,
    "raw": "archie.png",
    "title": "File:Archie (pet).png"
+  },
+  "archleather_body": {
+   "file": "archleather_body.png",
+   "name": "Archleather body",
+   "processed": true,
+   "raw": "archleather_body.png",
+   "title": "File:Archleather body detail.png"
   },
   "archleather_coif": {
    "file": "archleather_coif.png",
@@ -1819,6 +1847,13 @@
    "raw": "armadyl_battlestaff.png",
    "title": "File:Armadyl battlestaff detail.png"
   },
+  "armadyl_chestplate": {
+   "file": "armadyl_chestplate.png",
+   "name": "Armadyl chestplate",
+   "processed": true,
+   "raw": "armadyl_chestplate.png",
+   "title": "File:Armadyl chestplate detail.png"
+  },
   "armadyl_crossbow": {
    "file": "armadyl_crossbow.png",
    "name": "Armadyl crossbow",
@@ -1846,6 +1881,13 @@
    "processed": true,
    "raw": "armadyl_mitre.png",
    "title": "File:Armadyl mitre detail.png"
+  },
+  "armadyl_robe_top": {
+   "file": "armadyl_robe_top.png",
+   "name": "Armadyl robe top",
+   "processed": true,
+   "raw": "armadyl_robe_top.png",
+   "title": "File:Armadyl robe top detail.png"
   },
   "armadyl_rune": {
    "file": "armadyl_rune.png",
@@ -3477,6 +3519,13 @@
    "raw": "black_dragonhide.png",
    "title": "File:Black dragonhide detail.png"
   },
+  "black_dragonhide_body": {
+   "file": "black_dragonhide_body.png",
+   "name": "Black dragonhide body",
+   "processed": true,
+   "raw": "black_dragonhide_body.png",
+   "title": "File:Black dragonhide body detail.png"
+  },
   "black_dragonhide_coif": {
    "file": "black_dragonhide_coif.png",
    "name": "Black dragonhide coif",
@@ -3849,6 +3898,48 @@
    "raw": "blessed_dhide_coif_zaros.png",
    "title": "File:Blessed dragonhide coif (Zaros) detail.png"
   },
+  "blessed_dragonhide_body_armadyl": {
+   "file": "blessed_dragonhide_body_armadyl.png",
+   "name": "Blessed dragonhide body (Armadyl)",
+   "processed": true,
+   "raw": "blessed_dragonhide_body_armadyl.png",
+   "title": "File:Blessed dragonhide body (Armadyl) detail.png"
+  },
+  "blessed_dragonhide_body_bandos": {
+   "file": "blessed_dragonhide_body_bandos.png",
+   "name": "Blessed dragonhide body (Bandos)",
+   "processed": true,
+   "raw": "blessed_dragonhide_body_bandos.png",
+   "title": "File:Blessed dragonhide body (Bandos) detail.png"
+  },
+  "blessed_dragonhide_body_guthix": {
+   "file": "blessed_dragonhide_body_guthix.png",
+   "name": "Blessed dragonhide body (Guthix)",
+   "processed": true,
+   "raw": "blessed_dragonhide_body_guthix.png",
+   "title": "File:Blessed dragonhide body (Guthix) detail.png"
+  },
+  "blessed_dragonhide_body_saradomin": {
+   "file": "blessed_dragonhide_body_saradomin.png",
+   "name": "Blessed dragonhide body (Saradomin)",
+   "processed": true,
+   "raw": "blessed_dragonhide_body_saradomin.png",
+   "title": "File:Blessed dragonhide body (Saradomin) detail.png"
+  },
+  "blessed_dragonhide_body_zamorak": {
+   "file": "blessed_dragonhide_body_zamorak.png",
+   "name": "Blessed dragonhide body (Zamorak)",
+   "processed": true,
+   "raw": "blessed_dragonhide_body_zamorak.png",
+   "title": "File:Blessed dragonhide body (Zamorak) detail.png"
+  },
+  "blessed_dragonhide_body_zaros": {
+   "file": "blessed_dragonhide_body_zaros.png",
+   "name": "Blessed dragonhide body (Zaros)",
+   "processed": true,
+   "raw": "blessed_dragonhide_body_zaros.png",
+   "title": "File:Blessed dragonhide body (Zaros) detail.png"
+  },
   "blessed_flask": {
    "file": "blessed_flask.png",
    "name": "Blessed flask",
@@ -3890,6 +3981,13 @@
    "processed": true,
    "raw": "blightleaf_orb.png",
    "title": "File:Blightleaf orb detail.png"
+  },
+  "blightleaf_robe_top": {
+   "file": "blightleaf_robe_top.png",
+   "name": "Blightleaf robe top",
+   "processed": true,
+   "raw": "blightleaf_robe_top.png",
+   "title": "File:Blightleaf robe top detail.png"
   },
   "blindweed_seed": {
    "file": "blindweed_seed.png",
@@ -4142,6 +4240,27 @@
    "processed": true,
    "raw": "blue_dragonhide.png",
    "title": "File:Blue dragonhide detail.png"
+  },
+  "blue_dragonhide_body": {
+   "file": "blue_dragonhide_body.png",
+   "name": "Blue dragonhide body",
+   "processed": true,
+   "raw": "blue_dragonhide_body.png",
+   "title": "File:Blue dragonhide body detail.png"
+  },
+  "blue_dragonhide_body_g": {
+   "file": "blue_dragonhide_body_g.png",
+   "name": "Blue dragonhide body (g)",
+   "processed": true,
+   "raw": "blue_dragonhide_body_g.png",
+   "title": "File:Blue dragonhide body (g) detail.png"
+  },
+  "blue_dragonhide_body_t": {
+   "file": "blue_dragonhide_body_t.png",
+   "name": "Blue dragonhide body (t)",
+   "processed": true,
+   "raw": "blue_dragonhide_body_t.png",
+   "title": "File:Blue dragonhide body (t) detail.png"
   },
   "blue_dragonhide_coif": {
    "file": "blue_dragonhide_coif.png",
@@ -5427,6 +5546,13 @@
    "processed": true,
    "raw": "carapace_helm.png",
    "title": "File:Carapace helm detail.png"
+  },
+  "carapace_torso": {
+   "file": "carapace_torso.png",
+   "name": "Carapace torso",
+   "processed": true,
+   "raw": "carapace_torso.png",
+   "title": "File:Carapace torso detail.png"
   },
   "cardamaim": {
    "file": "cardamaim.png",
@@ -7120,6 +7246,13 @@
    "raw": "corrupt_morrigans_javelin.png",
    "title": "File:Corrupt Morrigan's javelin detail.png"
   },
+  "corrupt_morrigans_leather_body": {
+   "file": "corrupt_morrigans_leather_body.png",
+   "name": "Corrupt Morrigan's leather body",
+   "processed": true,
+   "raw": "corrupt_morrigans_leather_body.png",
+   "title": "File:Corrupt Morrigan's leather body detail.png"
+  },
   "corrupt_morrigans_throwing_axe": {
    "file": "corrupt_morrigans_throwing_axe.png",
    "name": "Corrupt Morrigan's throwing axe",
@@ -8109,6 +8242,13 @@
    "name": "Death Lotus assassin",
    "title": "File:Death Lotus assassin male.png"
   },
+  "death_lotus_chestplate": {
+   "file": "death_lotus_chestplate.png",
+   "name": "Death Lotus chestplate",
+   "processed": true,
+   "raw": "death_lotus_chestplate.png",
+   "title": "File:Death Lotus chestplate detail.png"
+  },
   "death_lotus_dart": {
    "file": "death_lotus_dart.png",
    "name": "Death Lotus dart",
@@ -8390,6 +8530,13 @@
    "raw": "demon_slayer_crossbow.png",
    "title": "File:Demon slayer crossbow detail.png"
   },
+  "demon_slayer_torso": {
+   "file": "demon_slayer_torso.png",
+   "name": "Demon slayer torso",
+   "processed": true,
+   "raw": "demon_slayer_torso.png",
+   "title": "File:Demon slayer torso detail.png"
+  },
   "denath": {
    "file": "denath.png",
    "name": "Denath",
@@ -8562,6 +8709,13 @@
    "processed": true,
    "raw": "dinosaur_hide.png",
    "title": "File:Dinosaur hide detail.png"
+  },
+  "dinosaurhide_body": {
+   "file": "dinosaurhide_body.png",
+   "name": "Dinosaurhide body",
+   "processed": true,
+   "raw": "dinosaurhide_body.png",
+   "title": "File:Dinosaurhide body detail.png"
   },
   "dinosaurhide_cowl": {
    "file": "dinosaurhide_cowl.png",
@@ -8744,6 +8898,13 @@
    "processed": true,
    "raw": "dracolich_coif.png",
    "title": "File:Dracolich coif detail.png"
+  },
+  "dracolich_hauberk": {
+   "file": "dracolich_hauberk.png",
+   "name": "Dracolich hauberk",
+   "processed": true,
+   "raw": "dracolich_hauberk.png",
+   "title": "File:Dracolich hauberk detail.png"
   },
   "dragith_nurn": {
    "file": "dragith_nurn.png",
@@ -9129,6 +9290,13 @@
    "file": "drogo_dwarf.png",
    "name": "Drogo dwarf",
    "title": "File:Drogo dwarf.png"
+  },
+  "dromoleather_body": {
+   "file": "dromoleather_body.png",
+   "name": "Dromoleather body",
+   "processed": true,
+   "raw": "dromoleather_body.png",
+   "title": "File:Dromoleather body detail.png"
   },
   "dromoleather_coif": {
    "file": "dromoleather_coif.png",
@@ -9918,12 +10086,26 @@
    "raw": "elite_dracolich_coif.png",
    "title": "File:Elite Dracolich coif detail.png"
   },
+  "elite_dracolich_hauberk": {
+   "file": "elite_dracolich_hauberk.png",
+   "name": "Elite Dracolich hauberk",
+   "processed": true,
+   "raw": "elite_dracolich_hauberk.png",
+   "title": "File:Elite Dracolich hauberk detail.png"
+  },
   "elite_robin_hood_hat": {
    "file": "elite_robin_hood_hat.png",
    "name": "Elite Robin Hood hat",
    "processed": true,
    "raw": "elite_robin_hood_hat.png",
    "title": "File:Elite Robin Hood hat detail.png"
+  },
+  "elite_robin_hood_tunic": {
+   "file": "elite_robin_hood_tunic.png",
+   "name": "Elite Robin Hood tunic",
+   "processed": true,
+   "raw": "elite_robin_hood_tunic.png",
+   "title": "File:Elite Robin Hood tunic detail.png"
   },
   "elite_sakadagami": {
    "chosen": "File:Elite Sakadagami.png",
@@ -9949,6 +10131,13 @@
    "file": "elite_shadow_cackler.png",
    "name": "Elite Shadow Cackler",
    "title": "File:Elite Shadow Cackler.png"
+  },
+  "elite_sirenic_hauberk": {
+   "file": "elite_sirenic_hauberk.png",
+   "name": "Elite sirenic hauberk",
+   "processed": true,
+   "raw": "elite_sirenic_hauberk.png",
+   "title": "File:Elite sirenic hauberk detail.png"
   },
   "elite_sirenic_mask": {
    "file": "elite_sirenic_mask.png",
@@ -11893,6 +12082,13 @@
    "raw": "frogburger.png",
    "title": "File:Frogburger detail.png"
   },
+  "frogleather_body": {
+   "file": "frogleather_body.png",
+   "name": "Frog-leather body",
+   "processed": true,
+   "raw": "frogleather_body.png",
+   "title": "File:Frog-leather body detail.png"
+  },
   "frogspawn_gumbo": {
    "file": "frogspawn_gumbo.png",
    "name": "Frogspawn gumbo",
@@ -12007,6 +12203,13 @@
    "file": "gaius.png",
    "name": "Gaius",
    "title": "File:Gaius.png"
+  },
+  "gallileather_body": {
+   "file": "gallileather_body.png",
+   "name": "Gallileather body",
+   "processed": true,
+   "raw": "gallileather_body.png",
+   "title": "File:Gallileather body detail.png"
   },
   "gallileather_coif": {
    "file": "gallileather_coif.png",
@@ -13119,6 +13322,27 @@
    "raw": "green_dragonhide.png",
    "title": "File:Green dragonhide detail.png"
   },
+  "green_dragonhide_body": {
+   "file": "green_dragonhide_body.png",
+   "name": "Green dragonhide body",
+   "processed": true,
+   "raw": "green_dragonhide_body.png",
+   "title": "File:Green dragonhide body detail.png"
+  },
+  "green_dragonhide_body_g": {
+   "file": "green_dragonhide_body_g.png",
+   "name": "Green dragonhide body (g)",
+   "processed": true,
+   "raw": "green_dragonhide_body_g.png",
+   "title": "File:Green dragonhide body (g) detail.png"
+  },
+  "green_dragonhide_body_t": {
+   "file": "green_dragonhide_body_t.png",
+   "name": "Green dragonhide body (t)",
+   "processed": true,
+   "raw": "green_dragonhide_body_t.png",
+   "title": "File:Green dragonhide body (t) detail.png"
+  },
   "green_dragonhide_coif": {
    "file": "green_dragonhide_coif.png",
    "name": "Green dragonhide coif",
@@ -13891,6 +14115,13 @@
    "file": "hans.png",
    "name": "Hans",
    "title": "File:Hans.png"
+  },
+  "hard_leather_body": {
+   "file": "hard_leather_body.png",
+   "name": "Hard leather body",
+   "processed": true,
+   "raw": "hard_leather_body.png",
+   "title": "File:Hard leather body detail.png"
   },
   "hard_leather_cowl": {
    "file": "hard_leather_cowl.png",
@@ -15409,6 +15640,13 @@
    "raw": "karils_pistol_crossbow.png",
    "title": "File:Karil's pistol crossbow detail.png"
   },
+  "karils_top": {
+   "file": "karils_top.png",
+   "name": "Karil's top",
+   "processed": true,
+   "raw": "karils_top.png",
+   "title": "File:Karil's top detail.png"
+  },
   "karma_the_chameleon": {
    "chosen": "File:Karma the chameleon (green).png",
    "file": "karma_the_chameleon.png",
@@ -16100,6 +16338,13 @@
    "processed": true,
    "raw": "leaping_trout.png",
    "title": "File:Leaping trout detail.png"
+  },
+  "leather_body": {
+   "file": "leather_body.png",
+   "name": "Leather body",
+   "processed": true,
+   "raw": "leather_body.png",
+   "title": "File:Leather body detail.png"
   },
   "leather_cowl": {
    "file": "leather_cowl.png",
@@ -17158,6 +17403,13 @@
    "raw": "masterwork_melee_platebody.png",
    "title": "File:Masterwork melee platebody detail.png"
   },
+  "masterwork_ranged_body": {
+   "file": "masterwork_ranged_body.png",
+   "name": "Masterwork ranged body",
+   "processed": true,
+   "raw": "masterwork_ranged_body.png",
+   "title": "File:Masterwork ranged body detail.png"
+  },
   "masterwork_ranged_cowl": {
    "file": "masterwork_ranged_cowl.png",
    "name": "Masterwork ranged cowl",
@@ -17313,6 +17565,13 @@
    "file": "mega_duck.png",
    "name": "Mega Duck",
    "title": "File:Mega Duck.png"
+  },
+  "megaleather_body": {
+   "file": "megaleather_body.png",
+   "name": "Megaleather body",
+   "processed": true,
+   "raw": "megaleather_body.png",
+   "title": "File:Megaleather body detail.png"
   },
   "megaleather_coif": {
    "file": "megaleather_coif.png",
@@ -18061,6 +18320,13 @@
    "processed": true,
    "raw": "morrigans_javelin.png",
    "title": "File:Morrigan's javelin detail.png"
+  },
+  "morrigans_leather_body": {
+   "file": "morrigans_leather_body.png",
+   "name": "Morrigan's leather body",
+   "processed": true,
+   "raw": "morrigans_leather_body.png",
+   "title": "File:Morrigan's leather body detail.png"
   },
   "morrigans_throwing_axe": {
    "file": "morrigans_throwing_axe.png",
@@ -20198,6 +20464,13 @@
    "raw": "papreaper.png",
    "title": "File:Papreaper detail.png"
   },
+  "paraleather_body": {
+   "file": "paraleather_body.png",
+   "name": "Paraleather body",
+   "processed": true,
+   "raw": "paraleather_body.png",
+   "title": "File:Paraleather body detail.png"
+  },
   "paraleather_coif": {
    "file": "paraleather_coif.png",
    "name": "Paraleather coif",
@@ -20404,6 +20677,13 @@
    "file": "perien_the_blue.png",
    "name": "Perien the Blue",
    "title": "File:Perian the Blue.png"
+  },
+  "pernix_body": {
+   "file": "pernix_body.png",
+   "name": "Pernix body",
+   "processed": true,
+   "raw": "pernix_body.png",
+   "title": "File:Pernix body detail.png"
   },
   "pernix_cowl": {
    "file": "pernix_cowl.png",
@@ -21408,6 +21688,13 @@
    "file": "protector.png",
    "name": "Protector",
    "title": "File:Protector.png"
+  },
+  "protoleather_body": {
+   "file": "protoleather_body.png",
+   "name": "Protoleather body",
+   "processed": true,
+   "raw": "protoleather_body.png",
+   "title": "File:Protoleather body detail.png"
   },
   "protoleather_coif": {
    "file": "protoleather_coif.png",
@@ -22422,6 +22709,13 @@
    "raw": "red_dragonhide.png",
    "title": "File:Red dragonhide detail.png"
   },
+  "red_dragonhide_body": {
+   "file": "red_dragonhide_body.png",
+   "name": "Red dragonhide body",
+   "processed": true,
+   "raw": "red_dragonhide_body.png",
+   "title": "File:Red dragonhide body detail.png"
+  },
   "red_dragonhide_coif": {
    "file": "red_dragonhide_coif.png",
    "name": "Red dragonhide coif",
@@ -22594,6 +22888,13 @@
    "processed": true,
    "raw": "refined_acadia_planks.png",
    "title": "File:Refined Acadia planks detail.png"
+  },
+  "refined_anima_core_body_of_zamorak": {
+   "file": "refined_anima_core_body_of_zamorak.png",
+   "name": "Refined anima core body of Zamorak",
+   "processed": true,
+   "raw": "refined_anima_core_body_of_zamorak.png",
+   "title": "File:Refined anima core body of Zamorak detail.png"
   },
   "refined_anima_core_body_of_zaros": {
    "file": "refined_anima_core_body_of_zaros.png",
@@ -22948,6 +23249,13 @@
    "raw": "robin_hood_hat.png",
    "title": "File:Robin Hood hat detail.png"
   },
+  "robin_hood_tunic": {
+   "file": "robin_hood_tunic.png",
+   "name": "Robin Hood tunic",
+   "processed": true,
+   "raw": "robin_hood_tunic.png",
+   "title": "File:Robin Hood tunic detail.png"
+  },
   "rock_golem": {
    "file": "rock_golem.png",
    "name": "Rock golem",
@@ -23117,6 +23425,13 @@
    "processed": true,
    "raw": "royal_dragonhide.png",
    "title": "File:Royal dragonhide detail.png"
+  },
+  "royal_dragonhide_body": {
+   "file": "royal_dragonhide_body.png",
+   "name": "Royal dragonhide body",
+   "processed": true,
+   "raw": "royal_dragonhide_body.png",
+   "title": "File:Royal dragonhide body detail.png"
   },
   "royal_dragonhide_coif": {
    "file": "royal_dragonhide_coif.png",
@@ -23810,6 +24125,13 @@
    "raw": "sagewort_seed.png",
    "title": "File:Sagewort seed detail.png"
   },
+  "sagittarian_body": {
+   "file": "sagittarian_body.png",
+   "name": "Sagittarian body",
+   "processed": true,
+   "raw": "sagittarian_body.png",
+   "title": "File:Sagittarian body detail.png"
+  },
   "sagittarian_coif": {
    "file": "sagittarian_coif.png",
    "name": "Sagittarian coif",
@@ -24251,6 +24573,13 @@
    "processed": true,
    "raw": "secondage_range_coif.png",
    "title": "File:Second-Age range coif detail.png"
+  },
+  "secondage_range_top": {
+   "file": "secondage_range_top.png",
+   "name": "Second-Age range top",
+   "processed": true,
+   "raw": "secondage_range_top.png",
+   "title": "File:Second-Age range top detail.png"
   },
   "secondage_staff": {
    "file": "secondage_staff.png",
@@ -24759,6 +25088,13 @@
    "name": "Sir Vyvin",
    "title": "File:Sir Vyvin.png"
   },
+  "sirenic_hauberk": {
+   "file": "sirenic_hauberk.png",
+   "name": "Sirenic hauberk",
+   "processed": true,
+   "raw": "sirenic_hauberk.png",
+   "title": "File:Sirenic hauberk detail.png"
+  },
   "sirenic_mask": {
    "file": "sirenic_mask.png",
    "name": "Sirenic mask",
@@ -25104,6 +25440,13 @@
    "processed": true,
    "raw": "snakeskin_bandana.png",
    "title": "File:Snakeskin bandana detail.png"
+  },
+  "snakeskin_body": {
+   "file": "snakeskin_body.png",
+   "name": "Snakeskin body",
+   "processed": true,
+   "raw": "snakeskin_body.png",
+   "title": "File:Snakeskin body detail.png"
   },
   "snapdragon_seed": {
    "file": "snapdragon_seed.png",
@@ -25484,12 +25827,26 @@
    "raw": "spinebeam_wand.png",
    "title": "File:Spinebeam wand detail.png"
   },
+  "spined_body": {
+   "file": "spined_body.png",
+   "name": "Spined body",
+   "processed": true,
+   "raw": "spined_body.png",
+   "title": "File:Spined body detail.png"
+  },
   "spined_helm": {
    "file": "spined_helm.png",
    "name": "Spined helm",
    "processed": true,
    "raw": "spined_helm.png",
    "title": "File:Spined helm detail.png"
+  },
+  "spinoleather_body": {
+   "file": "spinoleather_body.png",
+   "name": "Spinoleather body",
+   "processed": true,
+   "raw": "spinoleather_body.png",
+   "title": "File:Spinoleather body detail.png"
   },
   "spinoleather_coif": {
    "file": "spinoleather_coif.png",
@@ -26267,6 +26624,13 @@
    "raw": "steel_warhammer.png",
    "title": "File:Steel warhammer detail.png"
   },
+  "stegoleather_body": {
+   "file": "stegoleather_body.png",
+   "name": "Stegoleather body",
+   "processed": true,
+   "raw": "stegoleather_body.png",
+   "title": "File:Stegoleather body detail.png"
+  },
   "stegoleather_coif": {
    "file": "stegoleather_coif.png",
    "name": "Stegoleather coif",
@@ -26423,6 +26787,27 @@
    "raw": "strykebow.png",
    "title": "File:Strykebow detail.png"
   },
+  "studded_body": {
+   "file": "studded_body.png",
+   "name": "Studded body",
+   "processed": true,
+   "raw": "studded_body.png",
+   "title": "File:Studded body detail.png"
+  },
+  "studded_body_g": {
+   "file": "studded_body_g.png",
+   "name": "Studded body (g)",
+   "processed": true,
+   "raw": "studded_body_g.png",
+   "title": "File:Studded body (g) detail.png"
+  },
+  "studded_body_t": {
+   "file": "studded_body_t.png",
+   "name": "Studded body (t)",
+   "processed": true,
+   "raw": "studded_body_t.png",
+   "title": "File:Studded body (t) detail.png"
+  },
   "studded_leather_coif": {
    "file": "studded_leather_coif.png",
    "name": "Studded leather coif",
@@ -26440,6 +26825,13 @@
    "file": "suak.png",
    "name": "Suak",
    "title": "File:Suak.png"
+  },
+  "subleather_body": {
+   "file": "subleather_body.png",
+   "name": "Subleather body",
+   "processed": true,
+   "raw": "subleather_body.png",
+   "title": "File:Subleather body detail.png"
   },
   "subleather_coif": {
    "file": "subleather_coif.png",
@@ -26968,6 +27360,13 @@
    "raw": "superior_ancient_mace.png",
    "title": "File:Superior ancient mace detail.png"
   },
+  "superior_death_lotus_chestplate": {
+   "file": "superior_death_lotus_chestplate.png",
+   "name": "Superior Death Lotus chestplate",
+   "processed": true,
+   "raw": "superior_death_lotus_chestplate.png",
+   "title": "File:Superior Death Lotus chestplate detail.png"
+  },
   "superior_death_lotus_hood": {
    "file": "superior_death_lotus_hood.png",
    "name": "Superior Death Lotus hood",
@@ -27031,6 +27430,13 @@
    "raw": "superior_morrigans_javelin.png",
    "title": "File:Superior Morrigan's javelin detail.png"
   },
+  "superior_morrigans_leather_body": {
+   "file": "superior_morrigans_leather_body.png",
+   "name": "Superior Morrigan's leather body",
+   "processed": true,
+   "raw": "superior_morrigans_leather_body.png",
+   "title": "File:Superior Morrigan's leather body detail.png"
+  },
   "superior_morrigans_throwing_axe": {
    "file": "superior_morrigans_throwing_axe.png",
    "name": "Superior Morrigan's throwing axe",
@@ -27093,6 +27499,13 @@
    "processed": true,
    "raw": "superior_skeletal_helm.png",
    "title": "File:Superior skeletal helm detail.png"
+  },
+  "superior_spined_body": {
+   "file": "superior_spined_body.png",
+   "name": "Superior spined body",
+   "processed": true,
+   "raw": "superior_spined_body.png",
+   "title": "File:Superior spined body detail.png"
   },
   "superior_spined_helm": {
    "file": "superior_spined_helm.png",
@@ -27497,6 +27910,13 @@
    "raw": "tellervos_net.png",
    "title": "File:Tellervo's net detail.png"
   },
+  "tempest_body": {
+   "file": "tempest_body.png",
+   "name": "Tempest body",
+   "processed": true,
+   "raw": "tempest_body.png",
+   "title": "File:Tempest body detail.png"
+  },
   "tempest_cowl": {
    "file": "tempest_cowl.png",
    "name": "Tempest cowl",
@@ -27769,6 +28189,13 @@
    "processed": true,
    "raw": "third_age_platebody.png",
    "title": "File:Third age platebody detail.png"
+  },
+  "third_age_ranger_body": {
+   "file": "third_age_ranger_body.png",
+   "name": "Third age ranger body",
+   "processed": true,
+   "raw": "third_age_ranger_body.png",
+   "title": "File:Third age ranger body detail.png"
   },
   "third_age_ranger_coif": {
    "file": "third_age_ranger_coif.png",
@@ -28239,6 +28666,13 @@
    "name": "Tyke",
    "title": "File:Tyke (goblin).png"
   },
+  "tyrannoleather_body": {
+   "file": "tyrannoleather_body.png",
+   "name": "Tyrannoleather body",
+   "processed": true,
+   "raw": "tyrannoleather_body.png",
+   "title": "File:Tyrannoleather body detail.png"
+  },
   "tyrannoleather_coif": {
    "file": "tyrannoleather_coif.png",
    "name": "Tyrannoleather coif",
@@ -28577,6 +29011,13 @@
    "processed": true,
    "raw": "undead_dragonhide.png",
    "title": "File:Undead dragonhide detail.png"
+  },
+  "undead_dragonhide_body": {
+   "file": "undead_dragonhide_body.png",
+   "name": "Undead dragonhide body",
+   "processed": true,
+   "raw": "undead_dragonhide_body.png",
+   "title": "File:Undead dragonhide body detail.png"
   },
   "undead_dragonhide_coif": {
    "file": "undead_dragonhide_coif.png",
