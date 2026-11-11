@@ -25344,11 +25344,11 @@
    "raw": "seercull.png",
    "title": "File:Seercull detail.png"
   },
-  "seers_headband_4": {
-   "file": "seers_headband_4.png",
-   "name": "Seer's headband 4",
+  "seers_headband": {
+   "file": "seers_headband.png",
+   "name": "Seer's headband",
    "processed": true,
-   "raw": "seers_headband_4.png",
+   "raw": "seers_headband.png",
    "title": "File:Seer's headband 4 detail.png"
   },
   "seething_pyrefiend": {
