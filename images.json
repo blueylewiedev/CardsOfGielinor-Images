@@ -51,6 +51,13 @@
    "name": "Aberrant Spectre Champion",
    "title": "File:Aberrant Spectre Champion.png"
   },
+  "abomination_cape": {
+   "file": "abomination_cape.png",
+   "name": "Abomination cape",
+   "processed": true,
+   "raw": "abomination_cape.png",
+   "title": "File:Abomination cape detail.png"
+  },
   "abyssal_beast": {
    "file": "abyssal_beast.png",
    "name": "Abyssal beast",
@@ -774,6 +781,13 @@
    "raw": "agile_top.png",
    "title": "File:Agile top detail.png"
   },
+  "agility_cape": {
+   "file": "agility_cape.png",
+   "name": "Agility cape",
+   "processed": true,
+   "raw": "agility_cape.png",
+   "title": "File:Agility cape detail.png"
+  },
   "agility_flask": {
    "file": "agility_flask.png",
    "name": "Agility flask",
@@ -1143,6 +1157,13 @@
    "processed": true,
    "raw": "ancient_bones_restless_ghost.png",
    "title": "File:Ancient bones (The Restless Ghost) detail.png"
+  },
+  "ancient_cloak": {
+   "file": "ancient_cloak.png",
+   "name": "Ancient cloak",
+   "processed": true,
+   "raw": "ancient_cloak.png",
+   "title": "File:Ancient cloak detail.png"
   },
   "ancient_defender": {
    "file": "ancient_defender.png",
@@ -1634,6 +1655,13 @@
    "raw": "archaeologists_jacket.png",
    "title": "File:Archaeologist's jacket detail.png"
   },
+  "archaeology_cape": {
+   "file": "archaeology_cape.png",
+   "name": "Archaeology cape",
+   "processed": true,
+   "raw": "archaeology_cape.png",
+   "title": "File:Archaeology cape detail.png"
+  },
   "archaeology_flask": {
    "file": "archaeology_flask.png",
    "name": "Archaeology flask",
@@ -1732,6 +1760,13 @@
    "processed": true,
    "raw": "arctic_pyre_logs.png",
    "title": "File:Arctic pyre logs detail.png"
+  },
+  "ardougne_cloak": {
+   "file": "ardougne_cloak.png",
+   "name": "Ardougne cloak",
+   "processed": true,
+   "raw": "ardougne_cloak.png",
+   "title": "File:Ardougne cloak 4 detail.png"
   },
   "argonite_2h_sword": {
    "file": "argonite_2h_sword.png",
@@ -1910,6 +1945,13 @@
    "raw": "armadyl_chestplate.png",
    "title": "File:Armadyl chestplate detail.png"
   },
+  "armadyl_cloak": {
+   "file": "armadyl_cloak.png",
+   "name": "Armadyl cloak",
+   "processed": true,
+   "raw": "armadyl_cloak.png",
+   "title": "File:Armadyl cloak detail.png"
+  },
   "armadyl_crossbow": {
    "file": "armadyl_crossbow.png",
    "name": "Armadyl crossbow",
@@ -1968,6 +2010,13 @@
    "file": "arrav.png",
    "name": "Arrav",
    "title": "File:Arrav.png"
+  },
+  "arrowstorm_drape": {
+   "file": "arrowstorm_drape.png",
+   "name": "Arrowstorm drape",
+   "processed": true,
+   "raw": "arrowstorm_drape.png",
+   "title": "File:Arrowstorm drape detail.png"
   },
   "art_critic_jacques": {
    "file": "art_critic_jacques.png",
@@ -2141,6 +2190,13 @@
    "raw": "astral_rune_dungeoneering.png",
    "title": "File:Astral rune (Dungeoneering) detail.png"
   },
+  "attack_cape": {
+   "file": "attack_cape.png",
+   "name": "Attack cape",
+   "processed": true,
+   "raw": "attack_cape.png",
+   "title": "File:Attack cape detail.png"
+  },
   "attack_flask": {
    "file": "attack_flask.png",
    "name": "Attack flask",
@@ -2294,6 +2350,27 @@
    "processed": true,
    "raw": "avantoe_seed.png",
    "title": "File:Avantoe seed 5 detail.png"
+  },
+  "avas_accumulator": {
+   "file": "avas_accumulator.png",
+   "name": "Ava's accumulator",
+   "processed": true,
+   "raw": "avas_accumulator.png",
+   "title": "File:Ava's accumulator detail.png"
+  },
+  "avas_alerter": {
+   "file": "avas_alerter.png",
+   "name": "Ava's alerter",
+   "processed": true,
+   "raw": "avas_alerter.png",
+   "title": "File:Ava's alerter detail.png"
+  },
+  "avas_attractor": {
+   "file": "avas_attractor.png",
+   "name": "Ava's attractor",
+   "processed": true,
+   "raw": "avas_attractor.png",
+   "title": "File:Ava's attractor detail.png"
   },
   "avatar_of_amascut": {
    "file": "avatar_of_amascut.png",
@@ -2491,6 +2568,13 @@
    "raw": "baby_yagas_house.png",
    "title": "File:Baby Yaga's House (pet).png"
   },
+  "backstab_cape": {
+   "file": "backstab_cape.png",
+   "name": "Backstab cape",
+   "processed": true,
+   "raw": "backstab_cape.png",
+   "title": "File:Backstab cape detail.png"
+  },
   "bacon": {
    "file": "bacon.png",
    "name": "Bacon",
@@ -2537,6 +2621,13 @@
    "processed": true,
    "raw": "bacon_stack.png",
    "title": "File:Bacon stack detail.png"
+  },
+  "bag_of_clues": {
+   "file": "bag_of_clues.png",
+   "name": "Bag of clues",
+   "processed": true,
+   "raw": "bag_of_clues.png",
+   "title": "File:Bag of clues detail.png"
   },
   "bagrada_rex_meat": {
    "file": "bagrada_rex_meat.png",
@@ -2643,6 +2734,13 @@
    "processed": true,
    "raw": "bandos_chestplate.png",
    "title": "File:Bandos chestplate detail.png"
+  },
+  "bandos_cloak": {
+   "file": "bandos_cloak.png",
+   "name": "Bandos cloak",
+   "processed": true,
+   "raw": "bandos_cloak.png",
+   "title": "File:Bandos cloak detail.png"
   },
   "bandos_godsword": {
    "file": "bandos_godsword.png",
@@ -3925,6 +4023,13 @@
    "raw": "blade_of_nymora.png",
    "title": "File:Blade of Nymora detail.png"
   },
+  "bladestorm_drape": {
+   "file": "bladestorm_drape.png",
+   "name": "Bladestorm drape",
+   "processed": true,
+   "raw": "bladestorm_drape.png",
+   "title": "File:Bladestorm drape detail.png"
+  },
   "blaec": {
    "file": "blaec.png",
    "name": "Blaec",
@@ -4298,6 +4403,13 @@
    "processed": true,
    "raw": "blue_blubber_jellyfish.png",
    "title": "File:Blue blubber jellyfish detail.png"
+  },
+  "blue_cape": {
+   "file": "blue_cape.png",
+   "name": "Blue cape",
+   "processed": true,
+   "raw": "blue_cape.png",
+   "title": "File:Blue cape detail.png"
   },
   "blue_crab": {
    "file": "blue_crab.png",
@@ -5542,6 +5654,13 @@
    "name": "Cannonballhead",
    "title": "File:Cannonballhead.png"
   },
+  "cape_of_legends": {
+   "file": "cape_of_legends.png",
+   "name": "Cape of legends",
+   "processed": true,
+   "raw": "cape_of_legends.png",
+   "title": "File:Cape of legends detail.png"
+  },
   "capn_ekahi": {
    "chosen": "File:Cap'n Ekahi.png",
    "file": "capn_ekahi.png",
@@ -6452,10 +6571,66 @@
    "name": "Claire Hick",
    "title": "File:Claire Hick.png"
   },
+  "clan_amlodd_cape": {
+   "file": "clan_amlodd_cape.png",
+   "name": "Clan Amlodd cape",
+   "processed": true,
+   "raw": "clan_amlodd_cape.png",
+   "title": "File:Clan Amlodd cape detail.png"
+  },
+  "clan_cadarn_cape": {
+   "file": "clan_cadarn_cape.png",
+   "name": "Clan Cadarn cape",
+   "processed": true,
+   "raw": "clan_cadarn_cape.png",
+   "title": "File:Clan Cadarn cape detail.png"
+  },
+  "clan_crwys_cape": {
+   "file": "clan_crwys_cape.png",
+   "name": "Clan Crwys cape",
+   "processed": true,
+   "raw": "clan_crwys_cape.png",
+   "title": "File:Clan Crwys cape detail.png"
+  },
+  "clan_hefin_cape": {
+   "file": "clan_hefin_cape.png",
+   "name": "Clan Hefin cape",
+   "processed": true,
+   "raw": "clan_hefin_cape.png",
+   "title": "File:Clan Hefin cape detail.png"
+  },
+  "clan_iorwerth_cape": {
+   "file": "clan_iorwerth_cape.png",
+   "name": "Clan Iorwerth cape",
+   "processed": true,
+   "raw": "clan_iorwerth_cape.png",
+   "title": "File:Clan Iorwerth cape detail.png"
+  },
+  "clan_ithell_cape": {
+   "file": "clan_ithell_cape.png",
+   "name": "Clan Ithell cape",
+   "processed": true,
+   "raw": "clan_ithell_cape.png",
+   "title": "File:Clan Ithell cape detail.png"
+  },
+  "clan_meilyr_cape": {
+   "file": "clan_meilyr_cape.png",
+   "name": "Clan Meilyr cape",
+   "processed": true,
+   "raw": "clan_meilyr_cape.png",
+   "title": "File:Clan Meilyr cape detail.png"
+  },
   "clan_representative": {
    "file": "clan_representative.png",
    "name": "Clan representative",
    "title": "File:Clan representative.png"
+  },
+  "clan_trahaearn_cape": {
+   "file": "clan_trahaearn_cape.png",
+   "name": "Clan Trahaearn cape",
+   "processed": true,
+   "raw": "clan_trahaearn_cape.png",
+   "title": "File:Clan Trahaearn cape detail.png"
   },
   "claret_crab": {
    "file": "claret_crab.png",
@@ -6951,6 +7126,13 @@
    "raw": "combat_potion.png",
    "title": "File:Combat potion (4) detail.png"
   },
+  "combatants_cape": {
+   "file": "combatants_cape.png",
+   "name": "Combatant's cape",
+   "processed": true,
+   "raw": "combatants_cape.png",
+   "title": "File:Combatant's cape detail.png"
+  },
   "commandant_bletchley": {
    "chosen": "File:Commandant Bletchley.png",
    "file": "commandant_bletchley.png",
@@ -6998,6 +7180,20 @@
    "name": "Common jadinko",
    "title": "File:Common jadinko.png"
   },
+  "completionist_cape": {
+   "file": "completionist_cape.png",
+   "name": "Completionist cape",
+   "processed": true,
+   "raw": "completionist_cape.png",
+   "title": "File:Completionist cape detail.png"
+  },
+  "completionist_cape_t": {
+   "file": "completionist_cape_t.png",
+   "name": "Completionist cape (t)",
+   "processed": true,
+   "raw": "completionist_cape_t.png",
+   "title": "File:Completionist cape (t) detail.png"
+  },
   "compost_mound": {
    "file": "compost_mound.png",
    "name": "Compost mound",
@@ -7041,6 +7237,20 @@
    "processed": true,
    "raw": "consecrated_keris.png",
    "title": "File:Consecrated keris detail.png"
+  },
+  "constitution_cape": {
+   "file": "constitution_cape.png",
+   "name": "Constitution cape",
+   "processed": true,
+   "raw": "constitution_cape.png",
+   "title": "File:Constitution cape detail.png"
+  },
+  "construction_cape": {
+   "file": "construction_cape.png",
+   "name": "Construction cape",
+   "processed": true,
+   "raw": "construction_cape.png",
+   "title": "File:Construction cape detail.png"
   },
   "constructors_garb": {
    "file": "constructors_garb.png",
@@ -7182,6 +7392,13 @@
    "processed": true,
    "raw": "cooking_apple.png",
    "title": "File:Cooking apple detail.png"
+  },
+  "cooking_cape": {
+   "file": "cooking_cape.png",
+   "name": "Cooking cape",
+   "processed": true,
+   "raw": "cooking_cape.png",
+   "title": "File:Cooking cape detail.png"
   },
   "cooking_flask": {
    "file": "cooking_flask.png",
@@ -7606,6 +7823,13 @@
    "processed": true,
    "raw": "cracked_cooking_urn_empty.png",
    "title": "File:Cracked cooking urn (empty) detail.png"
+  },
+  "crafting_cape": {
+   "file": "crafting_cape.png",
+   "name": "Crafting cape",
+   "processed": true,
+   "raw": "crafting_cape.png",
+   "title": "File:Crafting cape detail.png"
   },
   "crafting_flask": {
    "file": "crafting_flask.png",
@@ -8596,6 +8820,13 @@
    "name": "Deathshead moth",
    "title": "File:Deathshead moth.png"
   },
+  "deathstorm_drape": {
+   "file": "deathstorm_drape.png",
+   "name": "Deathstorm drape",
+   "processed": true,
+   "raw": "deathstorm_drape.png",
+   "title": "File:Deathstorm drape detail.png"
+  },
   "deathwarden_hood_tier_10": {
    "file": "deathwarden_hood_tier_10.png",
    "name": "Deathwarden hood (tier 10)",
@@ -8771,6 +9002,13 @@
    "processed": true,
    "raw": "decorated_cooking_urn_empty.png",
    "title": "File:Decorated cooking urn (empty) detail.png"
+  },
+  "defence_cape": {
+   "file": "defence_cape.png",
+   "name": "Defence cape",
+   "processed": true,
+   "raw": "defence_cape.png",
+   "title": "File:Defence cape detail.png"
   },
   "defence_flask": {
    "file": "defence_flask.png",
@@ -9044,6 +9282,13 @@
    "processed": true,
    "raw": "dirty_blast.png",
    "title": "File:Dirty blast detail.png"
+  },
+  "divination_cape": {
+   "file": "divination_cape.png",
+   "name": "Divination cape",
+   "processed": true,
+   "raw": "divination_cape.png",
+   "title": "File:Divination cape detail.png"
   },
   "divination_flask": {
    "file": "divination_flask.png",
@@ -9434,6 +9679,13 @@
    "raw": "dragon_rider_body.png",
    "title": "File:Dragon Rider body detail.png"
   },
+  "dragon_rider_cape": {
+   "file": "dragon_rider_cape.png",
+   "name": "Dragon Rider cape",
+   "processed": true,
+   "raw": "dragon_rider_cape.png",
+   "title": "File:Dragon Rider cape detail.png"
+  },
   "dragon_rider_helm": {
    "file": "dragon_rider_helm.png",
    "name": "Dragon Rider helm",
@@ -9785,6 +10037,13 @@
    "file": "dung.png",
    "name": "Dung",
    "title": "File:Dung.png"
+  },
+  "dungeoneering_cape": {
+   "file": "dungeoneering_cape.png",
+   "name": "Dungeoneering cape",
+   "processed": true,
+   "raw": "dungeoneering_cape.png",
+   "title": "File:Dungeoneering cape detail.png"
   },
   "dunstan": {
    "chosen": "File:Dunstan.png",
@@ -11136,6 +11395,13 @@
    "raw": "explosemary.png",
    "title": "File:Explosemary detail.png"
   },
+  "explosive_barrel": {
+   "file": "explosive_barrel.png",
+   "name": "Explosive barrel",
+   "processed": true,
+   "raw": "explosive_barrel.png",
+   "title": "File:Explosive barrel detail.png"
+  },
   "exquisite_cooking_urn_empty": {
    "file": "exquisite_cooking_urn_empty.png",
    "name": "Exquisite cooking urn (empty)",
@@ -11600,6 +11866,13 @@
    "raw": "farmers_jacket.png",
    "title": "File:Farmer's jacket detail.png"
   },
+  "farming_cape": {
+   "file": "farming_cape.png",
+   "name": "Farming cape",
+   "processed": true,
+   "raw": "farming_cape.png",
+   "title": "File:Farming cape detail.png"
+  },
   "farseer_helm": {
    "file": "farseer_helm.png",
    "name": "Farseer helm",
@@ -11784,6 +12057,13 @@
    "raw": "fire_battlestaff.png",
    "title": "File:Fire battlestaff detail.png"
   },
+  "fire_cape": {
+   "file": "fire_cape.png",
+   "name": "Fire cape",
+   "processed": true,
+   "raw": "fire_cape.png",
+   "title": "File:Fire cape detail.png"
+  },
   "fire_drake": {
    "file": "fire_drake.png",
    "name": "Fire Drake",
@@ -11863,6 +12143,13 @@
    "file": "firefly_the_lost_grove.png",
    "name": "Firefly (The Lost Grove)",
    "title": "File:Firefly.png"
+  },
+  "firemaking_cape": {
+   "file": "firemaking_cape.png",
+   "name": "Firemaking cape",
+   "processed": true,
+   "raw": "firemaking_cape.png",
+   "title": "File:Firemaking cape detail.png"
   },
   "first_age_tiara": {
    "file": "first_age_tiara.png",
@@ -11962,6 +12249,13 @@
    "processed": true,
    "raw": "fishbowl.png",
    "title": "File:Fishbowl (orange fish) pet.png"
+  },
+  "fishing_cape": {
+   "file": "fishing_cape.png",
+   "name": "Fishing cape",
+   "processed": true,
+   "raw": "fishing_cape.png",
+   "title": "File:Fishing cape detail.png"
   },
   "fishing_flask": {
    "file": "fishing_flask.png",
@@ -12101,6 +12395,13 @@
    "processed": true,
    "raw": "fletchers_headwear.png",
    "title": "File:Fletcher's headwear detail.png"
+  },
+  "fletching_cape": {
+   "file": "fletching_cape.png",
+   "name": "Fletching cape",
+   "processed": true,
+   "raw": "fletching_cape.png",
+   "title": "File:Fletching cape detail.png"
   },
   "fletching_flask": {
    "file": "fletching_flask.png",
@@ -12754,6 +13055,13 @@
    "name": "Gatekeeper",
    "title": "File:Gatekeeper.png"
   },
+  "gatherers_cape": {
+   "file": "gatherers_cape.png",
+   "name": "Gatherer's cape",
+   "processed": true,
+   "raw": "gatherers_cape.png",
+   "title": "File:Gatherer's cape detail.png"
+  },
   "gavel": {
    "file": "gavel.png",
    "name": "Gavel",
@@ -12854,6 +13162,13 @@
    "file": "ghost_city_of_um.png",
    "name": "Ghost (City of Um)",
    "title": "File:Ghost (City of Um, elf).png"
+  },
+  "ghost_hunter_backpack": {
+   "file": "ghost_hunter_backpack.png",
+   "name": "Ghost hunter backpack",
+   "processed": true,
+   "raw": "ghost_hunter_backpack.png",
+   "title": "File:Ghost hunter backpack (20) detail.png"
   },
   "ghost_hunter_body": {
    "file": "ghost_hunter_body.png",
@@ -13140,6 +13455,13 @@
    "file": "gladius.png",
    "name": "Gladius",
    "title": "File:Gladius.png"
+  },
+  "globetrotter_backpack": {
+   "file": "globetrotter_backpack.png",
+   "name": "Globetrotter backpack",
+   "processed": true,
+   "raw": "globetrotter_backpack.png",
+   "title": "File:Globetrotter backpack detail.png"
   },
   "globetrotter_jacket": {
    "file": "globetrotter_jacket.png",
@@ -14475,6 +14797,13 @@
    "raw": "guthix_bow.png",
    "title": "File:Guthix bow detail.png"
   },
+  "guthix_cape": {
+   "file": "guthix_cape.png",
+   "name": "Guthix cape",
+   "processed": true,
+   "raw": "guthix_cape.png",
+   "title": "File:Guthix cape detail.png"
+  },
   "guthix_halo": {
    "file": "guthix_halo.png",
    "name": "Guthix halo",
@@ -14968,6 +15297,13 @@
    "raw": "herbert.png",
    "title": "File:Herbert (pet).png"
   },
+  "herblore_cape": {
+   "file": "herblore_cape.png",
+   "name": "Herblore cape",
+   "processed": true,
+   "raw": "herblore_cape.png",
+   "title": "File:Herblore cape detail.png"
+  },
   "hermit_crab": {
    "file": "hermit_crab.png",
    "name": "Hermit crab",
@@ -15159,6 +15495,13 @@
    "name": "Hunding",
    "title": "File:Hunding.png"
   },
+  "hunter_cape": {
+   "file": "hunter_cape.png",
+   "name": "Hunter cape",
+   "processed": true,
+   "raw": "hunter_cape.png",
+   "title": "File:Hunter cape detail.png"
+  },
   "hunter_flask": {
    "file": "hunter_flask.png",
    "name": "Hunter flask",
@@ -15261,6 +15604,41 @@
    "file": "iffie.png",
    "name": "Iffie",
    "title": "File:Iffie.png"
+  },
+  "igneous_kalket": {
+   "file": "igneous_kalket.png",
+   "name": "Igneous Kal-Ket",
+   "processed": true,
+   "raw": "igneous_kalket.png",
+   "title": "File:Igneous Kal-Ket detail.png"
+  },
+  "igneous_kalmej": {
+   "file": "igneous_kalmej.png",
+   "name": "Igneous Kal-Mej",
+   "processed": true,
+   "raw": "igneous_kalmej.png",
+   "title": "File:Igneous Kal-Mej detail.png"
+  },
+  "igneous_kalmor": {
+   "file": "igneous_kalmor.png",
+   "name": "Igneous Kal-Mor",
+   "processed": true,
+   "raw": "igneous_kalmor.png",
+   "title": "File:Igneous Kal-Mor detail.png"
+  },
+  "igneous_kalxil": {
+   "file": "igneous_kalxil.png",
+   "name": "Igneous Kal-Xil",
+   "processed": true,
+   "raw": "igneous_kalxil.png",
+   "title": "File:Igneous Kal-Xil detail.png"
+  },
+  "igneous_kalzuk": {
+   "file": "igneous_kalzuk.png",
+   "name": "Igneous Kal-Zuk",
+   "processed": true,
+   "raw": "igneous_kalzuk.png",
+   "title": "File:Igneous Kal-Zuk detail.png"
   },
   "igneous_tzekhaarhur": {
    "file": "igneous_tzekhaarhur.png",
@@ -15387,6 +15765,13 @@
    "raw": "impling_jar.png",
    "title": "File:Impling jar detail.png"
   },
+  "inannas_gift": {
+   "file": "inannas_gift.png",
+   "name": "Inanna's gift",
+   "processed": true,
+   "raw": "inannas_gift.png",
+   "title": "File:Inanna's gift detail.png"
+  },
   "incomplete_hydrix": {
    "file": "incomplete_hydrix.png",
    "name": "Incomplete hydrix",
@@ -15486,6 +15871,13 @@
    "processed": true,
    "raw": "intricate_decorative_sword.png",
    "title": "File:Intricate decorative sword detail.png"
+  },
+  "invention_cape": {
+   "file": "invention_cape.png",
+   "name": "Invention cape",
+   "processed": true,
+   "raw": "invention_cape.png",
+   "title": "File:Invention cape detail.png"
   },
   "invention_flask": {
    "file": "invention_flask.png",
@@ -15877,6 +16269,13 @@
    "file": "jeremy_clerksin.png",
    "name": "Jeremy Clerksin",
    "title": "File:Jeremy Clerksin.png"
+  },
+  "jerrods_cape": {
+   "file": "jerrods_cape.png",
+   "name": "Jerrod's cape",
+   "processed": true,
+   "raw": "jerrods_cape.png",
+   "title": "File:Jerrod's cape detail.png"
   },
   "jessikas_sword": {
    "file": "jessikas_sword.png",
@@ -17252,6 +17651,13 @@
    "raw": "lunar_bar.png",
    "title": "File:Lunar bar detail.png"
   },
+  "lunar_cape": {
+   "file": "lunar_cape.png",
+   "name": "Lunar cape",
+   "processed": true,
+   "raw": "lunar_cape.png",
+   "title": "File:Lunar cape detail.png"
+  },
   "lunar_helm": {
    "file": "lunar_helm.png",
    "name": "Lunar helm",
@@ -17377,6 +17783,13 @@
    "processed": true,
    "raw": "magic_butterfly_net.png",
    "title": "File:Magic butterfly net detail.png"
+  },
+  "magic_cape": {
+   "file": "magic_cape.png",
+   "name": "Magic cape",
+   "processed": true,
+   "raw": "magic_cape.png",
+   "title": "File:Magic cape detail.png"
   },
   "magic_composite_bow": {
    "file": "magic_composite_bow.png",
@@ -17894,11 +18307,46 @@
    "raw": "mask_of_tumekens_resplendence.png",
    "title": "File:Mask of Tumeken's resplendence detail.png"
   },
+  "master_clan_cape": {
+   "file": "master_clan_cape.png",
+   "name": "Master clan cape",
+   "processed": true,
+   "raw": "master_clan_cape.png",
+   "title": "File:Master clan cape detail.png"
+  },
+  "master_completionist_cape": {
+   "file": "master_completionist_cape.png",
+   "name": "Master completionist cape",
+   "processed": true,
+   "raw": "master_completionist_cape.png",
+   "title": "File:Master completionist cape detail.png"
+  },
+  "master_completionist_cape_t": {
+   "file": "master_completionist_cape_t.png",
+   "name": "Master completionist cape (t)",
+   "processed": true,
+   "raw": "master_completionist_cape_t.png",
+   "title": "File:Master completionist cape (t) detail.png"
+  },
   "master_farmer": {
    "chosen": "File:Master Farmer (3).png",
    "file": "master_farmer.png",
    "name": "Master Farmer",
    "title": "File:Master Farmer (3).png"
+  },
+  "master_max_cape": {
+   "file": "master_max_cape.png",
+   "name": "Master max cape",
+   "processed": true,
+   "raw": "master_max_cape.png",
+   "title": "File:Master max cape detail.png"
+  },
+  "master_quest_cape": {
+   "file": "master_quest_cape.png",
+   "name": "Master quest cape",
+   "processed": true,
+   "raw": "master_quest_cape.png",
+   "title": "File:Master quest cape detail.png"
   },
   "master_runecrafter_hat": {
    "file": "master_runecrafter_hat.png",
@@ -18041,6 +18489,13 @@
    "file": "max.png",
    "name": "Max",
    "title": "File:Max.png"
+  },
+  "max_cape": {
+   "file": "max_cape.png",
+   "name": "Max cape",
+   "processed": true,
+   "raw": "max_cape.png",
+   "title": "File:Max cape detail.png"
   },
   "may": {
    "file": "may.png",
@@ -18355,6 +18810,13 @@
    "file": "minerva.png",
    "name": "Minerva",
    "title": "File:Minerva.png"
+  },
+  "mining_cape": {
+   "file": "mining_cape.png",
+   "name": "Mining cape",
+   "processed": true,
+   "raw": "mining_cape.png",
+   "title": "File:Mining cape detail.png"
   },
   "mining_flask": {
    "file": "mining_flask.png",
@@ -18703,6 +19165,13 @@
    "processed": true,
    "raw": "mod_body.png",
    "title": "File:Mod body detail.png"
+  },
+  "mod_cape": {
+   "file": "mod_cape.png",
+   "name": "Mod cape",
+   "processed": true,
+   "raw": "mod_cape.png",
+   "title": "File:Mod cape detail.png"
   },
   "mod_hat": {
    "file": "mod_hat.png",
@@ -19334,6 +19803,13 @@
    "raw": "necrite_ore.png",
    "title": "File:Necrite ore detail.png"
   },
+  "necromancy_cape": {
+   "file": "necromancy_cape.png",
+   "name": "Necromancy cape",
+   "processed": true,
+   "raw": "necromancy_cape.png",
+   "title": "File:Necromancy cape detail.png"
+  },
   "necromancy_flask": {
    "file": "necromancy_flask.png",
    "name": "Necromancy flask",
@@ -19825,6 +20301,13 @@
    "processed": true,
    "raw": "obsidian_bar.png",
    "title": "File:Obsidian bar detail.png"
+  },
+  "obsidian_cape": {
+   "file": "obsidian_cape.png",
+   "name": "Obsidian cape",
+   "processed": true,
+   "raw": "obsidian_cape.png",
+   "title": "File:Obsidian cape detail.png"
   },
   "obsidian_golem": {
    "file": "obsidian_golem.png",
@@ -21120,6 +21603,13 @@
    "raw": "pat_of_butter.png",
    "title": "File:Pat of butter detail.png"
   },
+  "pathfinder_cape": {
+   "file": "pathfinder_cape.png",
+   "name": "Pathfinder cape",
+   "processed": true,
+   "raw": "pathfinder_cape.png",
+   "title": "File:Pathfinder cape detail.png"
+  },
   "pathfinder_hood": {
    "file": "pathfinder_hood.png",
    "name": "Pathfinder hood",
@@ -21869,6 +22359,13 @@
    "name": "Pox",
    "title": "File:Pox.png"
   },
+  "prayer_cape": {
+   "file": "prayer_cape.png",
+   "name": "Prayer cape",
+   "processed": true,
+   "raw": "prayer_cape.png",
+   "title": "File:Prayer cape detail.png"
+  },
   "prayer_flask": {
    "file": "prayer_flask.png",
    "name": "Prayer flask",
@@ -22473,6 +22970,13 @@
    "name": "Quercus",
    "title": "File:Quercus.png"
   },
+  "quest_cape": {
+   "file": "quest_cape.png",
+   "name": "Quest Cape",
+   "processed": true,
+   "raw": "quest_cape.png",
+   "title": "File:Quest Cape detail.png"
+  },
   "quickbow": {
    "file": "quickbow.png",
    "name": "Quickbow",
@@ -22577,6 +23081,13 @@
    "file": "ranged_assistant.png",
    "name": "Ranged assistant",
    "title": "File:Ranged assistant.png"
+  },
+  "ranged_cape": {
+   "file": "ranged_cape.png",
+   "name": "Ranged cape",
+   "processed": true,
+   "raw": "ranged_cape.png",
+   "title": "File:Ranged cape detail.png"
   },
   "ranger_hat": {
    "file": "ranger_hat.png",
@@ -23318,6 +23829,13 @@
    "processed": true,
    "raw": "red_blossom_seed.png",
    "title": "File:Red blossom seed detail.png"
+  },
+  "red_cape": {
+   "file": "red_cape.png",
+   "name": "Red cape",
+   "processed": true,
+   "raw": "red_cape.png",
+   "title": "File:Red cape detail.png"
   },
   "red_chinchompa": {
    "file": "red_chinchompa.png",
@@ -24699,6 +25217,13 @@
    "raw": "rune_warhammer.png",
    "title": "File:Rune warhammer detail.png"
   },
+  "runecrafting_cape": {
+   "file": "runecrafting_cape.png",
+   "name": "Runecrafting cape",
+   "processed": true,
+   "raw": "runecrafting_cape.png",
+   "title": "File:Runecrafting cape detail.png"
+  },
   "runecrafting_flask": {
    "file": "runecrafting_flask.png",
    "name": "Runecrafting flask",
@@ -24756,6 +25281,13 @@
    "processed": true,
    "raw": "runner_hat.png",
    "title": "File:Runner hat detail.png"
+  },
+  "sack_of_effigies": {
+   "file": "sack_of_effigies.png",
+   "name": "Sack of effigies",
+   "processed": true,
+   "raw": "sack_of_effigies.png",
+   "title": "File:Sack of effigies detail.png"
   },
   "sacred_clay_bow": {
    "file": "sacred_clay_bow.png",
@@ -25000,6 +25532,13 @@
    "processed": true,
    "raw": "saradomin_brew_flask.png",
    "title": "File:Saradomin brew flask (6) detail.png"
+  },
+  "saradomin_cape": {
+   "file": "saradomin_cape.png",
+   "name": "Saradomin cape",
+   "processed": true,
+   "raw": "saradomin_cape.png",
+   "title": "File:Saradomin cape detail.png"
   },
   "saradomin_godsword": {
    "file": "saradomin_godsword.png",
@@ -26015,6 +26554,13 @@
    "raw": "slaughtercress.png",
    "title": "File:Slaughtercress detail.png"
   },
+  "slayer_cape": {
+   "file": "slayer_cape.png",
+   "name": "Slayer cape",
+   "processed": true,
+   "raw": "slayer_cape.png",
+   "title": "File:Slayer cape detail.png"
+  },
   "slayer_helmet": {
    "file": "slayer_helmet.png",
    "name": "Slayer helmet",
@@ -26103,6 +26649,13 @@
    "processed": true,
    "raw": "small_zombie_monkey_bones.png",
    "title": "File:Small zombie monkey bones detail.png"
+  },
+  "smithing_cape": {
+   "file": "smithing_cape.png",
+   "name": "Smithing cape",
+   "processed": true,
+   "raw": "smithing_cape.png",
+   "title": "File:Smithing cape detail.png"
   },
   "smithy": {
    "file": "smithy.png",
@@ -26256,6 +26809,13 @@
    "file": "sostratus.png",
    "name": "Sostratus",
    "title": "File:Sostratus.png"
+  },
+  "soul_cape": {
+   "file": "soul_cape.png",
+   "name": "Soul cape",
+   "processed": true,
+   "raw": "soul_cape.png",
+   "title": "File:Soul cape detail.png"
   },
   "soul_esswraith": {
    "file": "soul_esswraith.png",
@@ -26420,6 +26980,13 @@
    "file": "spectral_tender.png",
    "name": "Spectral tender",
    "title": "File:Spectral tender.png"
+  },
+  "spellstorm_drape": {
+   "file": "spellstorm_drape.png",
+   "name": "Spellstorm drape",
+   "processed": true,
+   "raw": "spellstorm_drape.png",
+   "title": "File:Spellstorm drape detail.png"
   },
   "spellwisp": {
    "file": "spellwisp.png",
@@ -26633,6 +27200,13 @@
    "processed": true,
    "raw": "spirit_attraction_potion.png",
    "title": "File:Spirit attraction potion (4) detail.png"
+  },
+  "spirit_cape": {
+   "file": "spirit_cape.png",
+   "name": "Spirit cape",
+   "processed": true,
+   "raw": "spirit_cape.png",
+   "title": "File:Spirit cape detail.png"
   },
   "spirit_cobra": {
    "file": "spirit_cobra.png",
@@ -27520,6 +28094,13 @@
    "name": "Stray dog (Fort Forinthry)",
    "title": "File:Stray dog.png"
   },
+  "strength_cape": {
+   "file": "strength_cape.png",
+   "name": "Strength cape",
+   "processed": true,
+   "raw": "strength_cape.png",
+   "title": "File:Strength cape detail.png"
+  },
   "strength_flask": {
    "file": "strength_flask.png",
    "name": "Strength flask",
@@ -27644,6 +28225,13 @@
    "processed": true,
    "raw": "summer_sqirkjuice.png",
    "title": "File:Summer sq'irkjuice detail.png"
+  },
+  "summoning_cape": {
+   "file": "summoning_cape.png",
+   "name": "Summoning cape",
+   "processed": true,
+   "raw": "summoning_cape.png",
+   "title": "File:Summoning cape detail.png"
   },
   "summoning_flask": {
    "file": "summoning_flask.png",
@@ -28249,6 +28837,13 @@
    "raw": "superior_oh_dragon_longsword.png",
    "title": "File:Superior off-hand dragon longsword detail.png"
   },
+  "superior_reefwalkers_cape": {
+   "file": "superior_reefwalkers_cape.png",
+   "name": "Superior reefwalker's cape",
+   "processed": true,
+   "raw": "superior_reefwalkers_cape.png",
+   "title": "File:Superior reefwalker's cape detail.png"
+  },
   "superior_rockshell_plate": {
    "file": "superior_rockshell_plate.png",
    "name": "Superior rock-shell plate",
@@ -28402,6 +28997,13 @@
    "processed": true,
    "raw": "superior_zuriels_staff.png",
    "title": "File:Superior Zuriel's staff detail.png"
+  },
+  "support_cape": {
+   "file": "support_cape.png",
+   "name": "Support cape",
+   "processed": true,
+   "raw": "support_cape.png",
+   "title": "File:Support cape detail.png"
   },
   "supreme_attack_potion": {
    "file": "supreme_attack_potion.png",
@@ -28684,6 +29286,13 @@
    "raw": "teak_pyre_logs.png",
    "title": "File:Teak pyre logs detail.png"
   },
+  "team1_cape": {
+   "file": "team1_cape.png",
+   "name": "Team-1 cape",
+   "processed": true,
+   "raw": "team1_cape.png",
+   "title": "File:Team-1 cape detail.png"
+  },
   "tectonic_mask": {
    "file": "tectonic_mask.png",
    "name": "Tectonic mask",
@@ -28906,6 +29515,13 @@
    "name": "Thief",
    "title": "File:Thief (Varrock, 1).png"
   },
+  "thieving_cape": {
+   "file": "thieving_cape.png",
+   "name": "Thieving cape",
+   "processed": true,
+   "raw": "thieving_cape.png",
+   "title": "File:Thieving cape detail.png"
+  },
   "thigat_branches": {
    "file": "thigat_branches.png",
    "name": "Thigat branches",
@@ -28959,6 +29575,13 @@
    "file": "thing_under_the_bed.png",
    "name": "Thing under the bed",
    "title": "File:Thing under the bed.png"
+  },
+  "third_age_druidic_cloak": {
+   "file": "third_age_druidic_cloak.png",
+   "name": "Third age druidic cloak",
+   "processed": true,
+   "raw": "third_age_druidic_cloak.png",
+   "title": "File:Third age druidic cloak detail.png"
   },
   "third_age_druidic_robe_top": {
    "file": "third_age_druidic_robe_top.png",
@@ -29118,6 +29741,34 @@
    "file": "tokhaarhur.png",
    "name": "TokHaar-Hur",
    "title": "File:TokHaar-Hur.png"
+  },
+  "tokhaarkalket": {
+   "file": "tokhaarkalket.png",
+   "name": "TokHaar-Kal-Ket",
+   "processed": true,
+   "raw": "tokhaarkalket.png",
+   "title": "File:TokHaar-Kal-Ket detail.png"
+  },
+  "tokhaarkalmej": {
+   "file": "tokhaarkalmej.png",
+   "name": "TokHaar-Kal-Mej",
+   "processed": true,
+   "raw": "tokhaarkalmej.png",
+   "title": "File:TokHaar-Kal-Mej detail.png"
+  },
+  "tokhaarkalmor": {
+   "file": "tokhaarkalmor.png",
+   "name": "TokHaar-Kal-Mor",
+   "processed": true,
+   "raw": "tokhaarkalmor.png",
+   "title": "File:TokHaar-Kal-Mor detail.png"
+  },
+  "tokhaarkalxil": {
+   "file": "tokhaarkalxil.png",
+   "name": "TokHaar-Kal-Xil",
+   "processed": true,
+   "raw": "tokhaarkalxil.png",
+   "title": "File:TokHaar-Kal-Xil detail.png"
   },
   "tokhaarket": {
    "file": "tokhaarket.png",
@@ -30137,6 +30788,34 @@
    "raw": "vestments_of_havoc_robe_top.png",
    "title": "File:Vestments of havoc robe top detail.png"
   },
+  "veteran_cape_10_year": {
+   "file": "veteran_cape_10_year.png",
+   "name": "Veteran cape (10 year)",
+   "processed": true,
+   "raw": "veteran_cape_10_year.png",
+   "title": "File:Veteran cape (10 year) detail.png"
+  },
+  "veteran_cape_15_year": {
+   "file": "veteran_cape_15_year.png",
+   "name": "Veteran cape (15 year)",
+   "processed": true,
+   "raw": "veteran_cape_15_year.png",
+   "title": "File:Veteran cape (15 year) detail.png"
+  },
+  "veteran_cape_20_year": {
+   "file": "veteran_cape_20_year.png",
+   "name": "Veteran cape (20 year)",
+   "processed": true,
+   "raw": "veteran_cape_20_year.png",
+   "title": "File:Veteran cape (20 year) detail.png"
+  },
+  "veteran_cape_5_year": {
+   "file": "veteran_cape_5_year.png",
+   "name": "Veteran cape (5 year)",
+   "processed": true,
+   "raw": "veteran_cape_5_year.png",
+   "title": "File:Veteran cape (5 year) detail.png"
+  },
   "vial": {
    "file": "vial.png",
    "name": "Vial",
@@ -30399,6 +31078,13 @@
    "name": "Warped rat",
    "title": "File:Warped rat.png"
   },
+  "warpriest_of_armadyl_cape": {
+   "file": "warpriest_of_armadyl_cape.png",
+   "name": "Warpriest of Armadyl cape",
+   "processed": true,
+   "raw": "warpriest_of_armadyl_cape.png",
+   "title": "File:Warpriest of Armadyl cape detail.png"
+  },
   "warpriest_of_armadyl_cuirass": {
    "file": "warpriest_of_armadyl_cuirass.png",
    "name": "Warpriest of Armadyl cuirass",
@@ -30412,6 +31098,13 @@
    "processed": true,
    "raw": "warpriest_of_armadyl_helm.png",
    "title": "File:Warpriest of Armadyl helm detail.png"
+  },
+  "warpriest_of_bandos_cape": {
+   "file": "warpriest_of_bandos_cape.png",
+   "name": "Warpriest of Bandos cape",
+   "processed": true,
+   "raw": "warpriest_of_bandos_cape.png",
+   "title": "File:Warpriest of Bandos cape detail.png"
   },
   "warpriest_of_bandos_cuirass": {
    "file": "warpriest_of_bandos_cuirass.png",
@@ -30427,6 +31120,13 @@
    "raw": "warpriest_of_bandos_helm.png",
    "title": "File:Warpriest of Bandos helm detail.png"
   },
+  "warpriest_of_saradomin_cape": {
+   "file": "warpriest_of_saradomin_cape.png",
+   "name": "Warpriest of Saradomin cape",
+   "processed": true,
+   "raw": "warpriest_of_saradomin_cape.png",
+   "title": "File:Warpriest of Saradomin cape detail.png"
+  },
   "warpriest_of_saradomin_cuirass": {
    "file": "warpriest_of_saradomin_cuirass.png",
    "name": "Warpriest of Saradomin cuirass",
@@ -30441,6 +31141,13 @@
    "raw": "warpriest_of_saradomin_helm.png",
    "title": "File:Warpriest of Saradomin helm detail.png"
   },
+  "warpriest_of_tuska_cape": {
+   "file": "warpriest_of_tuska_cape.png",
+   "name": "Warpriest of Tuska cape",
+   "processed": true,
+   "raw": "warpriest_of_tuska_cape.png",
+   "title": "File:Warpriest of Tuska cape detail.png"
+  },
   "warpriest_of_tuska_cuirass": {
    "file": "warpriest_of_tuska_cuirass.png",
    "name": "Warpriest of Tuska cuirass",
@@ -30454,6 +31161,13 @@
    "processed": true,
    "raw": "warpriest_of_tuska_helm.png",
    "title": "File:Warpriest of Tuska helm detail.png"
+  },
+  "warpriest_of_zamorak_cape": {
+   "file": "warpriest_of_zamorak_cape.png",
+   "name": "Warpriest of Zamorak cape",
+   "processed": true,
+   "raw": "warpriest_of_zamorak_cape.png",
+   "title": "File:Warpriest of Zamorak cape detail.png"
   },
   "warpriest_of_zamorak_cuirass": {
    "file": "warpriest_of_zamorak_cuirass.png",
@@ -31295,6 +32009,13 @@
    "name": "Woman (Lumbridge Market)",
    "title": "File:Woman.png"
   },
+  "woodcutting_cape": {
+   "file": "woodcutting_cape.png",
+   "name": "Woodcutting cape",
+   "processed": true,
+   "raw": "woodcutting_cape.png",
+   "title": "File:Woodcutting cape detail.png"
+  },
   "woodcutting_flask": {
    "file": "woodcutting_flask.png",
    "name": "Woodcutting flask",
@@ -31556,6 +32277,13 @@
    "processed": true,
    "raw": "zamorak_brew_flask.png",
    "title": "File:Zamorak brew flask (6) detail.png"
+  },
+  "zamorak_cape": {
+   "file": "zamorak_cape.png",
+   "name": "Zamorak cape",
+   "processed": true,
+   "raw": "zamorak_cape.png",
+   "title": "File:Zamorak cape detail.png"
   },
   "zamorak_godsword": {
    "file": "zamorak_godsword.png",
