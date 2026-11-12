@@ -5566,13 +5566,6 @@
    "raw": "blue_jewel.png",
    "title": "File:Blue jewel detail.png"
   },
-  "blue_logs": {
-   "file": "blue_logs.png",
-   "name": "Blue logs",
-   "processed": true,
-   "raw": "blue_logs.png",
-   "title": "File:Blue logs detail.png"
-  },
   "blue_soporith_moth": {
    "chosen": "File:Blue soporith moth detail.png",
    "file": "blue_soporith_moth.png",
@@ -12951,34 +12944,6 @@
    "raw": "elite_dracolich_vambraces.png",
    "title": "File:Elite Dracolich vambraces detail.png"
   },
-  "elite_ranger_boots": {
-   "file": "elite_ranger_boots.png",
-   "name": "Elite ranger boots",
-   "processed": true,
-   "raw": "elite_ranger_boots.png",
-   "title": "File:Elite ranger boots detail.png"
-  },
-  "elite_robin_hood_hat": {
-   "file": "elite_robin_hood_hat.png",
-   "name": "Elite Robin Hood hat",
-   "processed": true,
-   "raw": "elite_robin_hood_hat.png",
-   "title": "File:Elite Robin Hood hat detail.png"
-  },
-  "elite_robin_hood_tights": {
-   "file": "elite_robin_hood_tights.png",
-   "name": "Elite Robin Hood tights",
-   "processed": true,
-   "raw": "elite_robin_hood_tights.png",
-   "title": "File:Elite Robin Hood tights detail.png"
-  },
-  "elite_robin_hood_tunic": {
-   "file": "elite_robin_hood_tunic.png",
-   "name": "Elite Robin Hood tunic",
-   "processed": true,
-   "raw": "elite_robin_hood_tunic.png",
-   "title": "File:Elite Robin Hood tunic detail.png"
-  },
   "elite_sakadagami": {
    "chosen": "File:Elite Sakadagami.png",
    "file": "elite_sakadagami.png",
@@ -16914,13 +16879,6 @@
    "processed": true,
    "raw": "green_jewel.png",
    "title": "File:Green jewel detail.png"
-  },
-  "green_logs": {
-   "file": "green_logs.png",
-   "name": "Green logs",
-   "processed": true,
-   "raw": "green_logs.png",
-   "title": "File:Green logs detail.png"
   },
   "green_salamander": {
    "file": "green_salamander.png",
@@ -26776,13 +26734,6 @@
    "raw": "purple_cat.png",
    "title": "File:Pet cat (purple) pet.png"
   },
-  "purple_logs": {
-   "file": "purple_logs.png",
-   "name": "Purple logs",
-   "processed": true,
-   "raw": "purple_logs.png",
-   "title": "File:Purple logs detail.png"
-  },
   "purple_pumpkin": {
    "file": "purple_pumpkin.png",
    "name": "Purple pumpkin",
@@ -27834,13 +27785,6 @@
    "processed": true,
    "raw": "red_jewel.png",
    "title": "File:Red jewel detail.png"
-  },
-  "red_logs": {
-   "file": "red_logs.png",
-   "name": "Red logs",
-   "processed": true,
-   "raw": "red_logs.png",
-   "title": "File:Red logs detail.png"
   },
   "red_mahogany_logs": {
    "file": "red_mahogany_logs.png",
@@ -37109,13 +37053,6 @@
    "processed": true,
    "raw": "white_lily_seed.png",
    "title": "File:White lily seed detail.png"
-  },
-  "white_logs": {
-   "file": "white_logs.png",
-   "name": "White logs",
-   "processed": true,
-   "raw": "white_logs.png",
-   "title": "File:White logs detail.png"
   },
   "white_longsword": {
    "file": "white_longsword.png",
